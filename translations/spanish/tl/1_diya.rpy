@@ -34,13 +34,13 @@ translate spanish beginning_517a7d67:
 translate spanish beginning_2f913f41:
 
     # "Still,{w=0.35} she was a lovely princess. {w=0.35}And tragically, {w=0.35}she was cursed to prick her finger on a spindle and die."
-    "Aun así,{w=0.35} ella era una adorable princesa. {w=0.35}Y trágicamente, {w=0.35} estaba destinada a pincharse el dedo en una aguja y morir."
+    "Aun así,{w=0.35} ella era una encantadora princesa. {w=0.35}Y trágicamente, {w=0.35} estaba destinada a pincharse el dedo en una aguja y morir."
 
 # game/1_diya.rpy:150
 translate spanish beginning_6789d7ab:
 
     # "Sure enough...One day, {w=0.2}like a total idiot,{w=0.2} she touched one."
-    "Y así...Un día, {w=0.2}como una idiota total,{w=0.2} tocó una."
+    "Y así...Un día, {w=0.2}como una completa idiota,{w=0.2} tocó una."
 
 # game/1_diya.rpy:154
 translate spanish beginning_3cbf3421:
@@ -172,7 +172,7 @@ translate spanish beginning_8061590d:
 translate spanish beginning_a538e04f:
 
     # Jun "Okay, you win... {w=0.35}Let's just start over... "
-    Jun "Bien, tú ganas... {w=0.35}Solo empecemos de nuevo..."
+    Jun "Okey, tú ganas... {w=0.35}Solo empecemos de nuevo..."
 
 # game/1_diya.rpy:209
 translate spanish beginning_6560113d:
@@ -190,823 +190,823 @@ translate spanish beginning_430c2ae3:
 translate spanish beginning_14f8456d:
 
     # Hayden "Fine. Diya does seem more like the princess type anyway."
-    Hayden ""
+    Hayden "Bien. Diya sí se parece más al tipo princesa de todas formas."
 
 # game/1_diya.rpy:216
 translate spanish beginning_7e87e266:
 
     # Diya "What's that supposed to mean."
-    Diya ""
+    Diya "Qué quieres decir."
 
 # game/1_diya.rpy:219
 translate spanish beginning_491ee1e2:
 
     # Min "You're really pretty."
-    Min ""
+    Min "Eres muy linda."
 
 # game/1_diya.rpy:220
 translate spanish beginning_f2fa3540:
 
     # Min "And it's cute how your hair curls like that. {w=0.35} It makes you look like a princess."
-    Min ""
+    Min "Y es adorable como tu cabello se enrolla. {w=0.35} Te hace ver como una princesa."
 
 # game/1_diya.rpy:225
 translate spanish beginning_7f4359c7:
 
     # Hayden "Uh, {w=0.35} I just meant that she's less violent."
-    Hayden ""
+    Hayden "Eh, {w=0.35} Solo quería decir que es menos violenta."
 
 # game/1_diya.rpy:226
 translate spanish beginning_5d8ebf2c:
 
     # Hayden "But whatever..."
-    Hayden ""
+    Hayden "Pero ya qué..."
 
 # game/1_diya.rpy:239
 translate spanish beginning_d0ed679d:
 
     # "— 2nd Try —"
-    ""
+    "— 2do Intento —"
 
 # game/1_diya.rpy:243
 translate spanish beginning_5949963c_1:
 
     # "Once upon a time... "
-    ""
+    "Había una vez... "
 
 # game/1_diya.rpy:255
 translate spanish beginning_cb347377:
 
     # "There lived a girl named Diya."
-    ""
+    "Una chica llamada Diya."
 
 # game/1_diya.rpy:257
 translate spanish beginning_44492aa3:
 
     # "She was really quiet. "
-    ""
+    "Era muy callada."
 
 # game/1_diya.rpy:258
 translate spanish beginning_89e3ac4c:
 
     # "It wasn't that she had nothing to say. {w=0.35}It was more like..."
-    ""
+    "No es que no tuviera nada que decir. {w=0.35}Era más bien..."
 
 # game/1_diya.rpy:259
 translate spanish beginning_5b7577e8:
 
     # "She was afraid if she opened her mouth,{w=0.35} something would come out that shouldn't."
-    ""
+    "Que estaba asustada de que si abría la boca,{w=0.35} diría algo que no debería."
 
 # game/1_diya.rpy:261
 translate spanish beginning_7ae92527:
 
     # "She once held onto an apple core for 45 minutes because she didn't want people to see her walk across the classroom to the trash can."
-    ""
+    "Una vez sostuvo un corazón de manzana por 45 minutos porque no quería que la vieran caminar por el salón hasta el bote de basura."
 
 # game/1_diya.rpy:262
 translate spanish beginning_66f36e95:
 
     # "It was that kind of quiet."
-    ""
+    "Era ese tipo de callada."
 
 # game/1_diya.rpy:263
 translate spanish beginning_d2759316:
 
     # "She was also insanely athletic.{w=0.35} There were rumors that under her shirt, she had a six-pack."
-    ""
+    "Ella era también brutalmente atlética.{w=0.35} Había muchos rumores de que, tenía los abdominales marcados."
 
 # game/1_diya.rpy:265
 translate spanish beginning_7413a035:
 
     # "Tragically,{w=0.35} despite how buff she was, {w=0.35} this princess was also cursed to touch a spindle and die."
-    ""
+    "Trágicamente,{w=0.35} a pesar de lo robusta que era, {w=0.35} esta princesa también estaba destinada a tocar una aguja y morir."
 
 # game/1_diya.rpy:266
 translate spanish beginning_ea852c60:
 
     # "And one day, {w=0.2}like a total idiot,{w=0.2} she touched one."
-    ""
+    "Y un día, {w=0.2}como una completa idiota,{w=0.2} tocó una."
 
 # game/1_diya.rpy:274
 translate spanish beginning_3cbf3421_1:
 
     # "And she fell into a deep, death-like slumber."
-    ""
+    "Y cayó en un profundo, sueño de muerte."
 
 # game/1_diya.rpy:276
 translate spanish beginning_915abf2e:
 
     # "Nothing could break the spell but her true love's kiss."
-    ""
+    "Nada podía romper el hechizo excepto un beso de amor verdadero."
 
 # game/1_diya.rpy:277
 translate spanish beginning_ad27fa01:
 
     # "For many years, she —"
-    ""
+    "Por muchos años, ella —"
 
 # game/1_diya.rpy:284
 translate spanish beginning_04936f5e:
 
     # Min "Diya,{w=0.2} get up! {w=0.35}I'm here to rescue you!" with sshake
-    Min "" with sshake
+    Min "Diya,{w=0.2} levantate! {w=0.35}Vine a salvarte!" with sshake
 
 # game/1_diya.rpy:287
 translate spanish beginning_c482f07c:
 
     # Hayden "Hahah!!{w=0.35} Only the hero can wake her!"
-    Hayden ""
+    Hayden "Jaja!!{w=0.35} Solo el héroe puede despertarla!"
 
 # game/1_diya.rpy:289
 translate spanish beginning_b537c59f:
 
     # Min "That's me! {w=0.35}I'm the hero!!"
-    Min ""
+    Min "Esa soy yo! {w=0.35}Yo soy el héroe!!"
 
 # game/1_diya.rpy:291
 translate spanish beginning_c8a3d327:
 
     # Hayden "{cps=30}Wait,{w=0.35} no...?{/cps}{w=0.35}\nIt's supposed to be Jun-seo!"
-    Hayden ""
+    Hayden "{cps=30}Espera,{w=0.35} no...?{/cps}{w=0.35}\nSe supone que es Jun-seo!"
 
 # game/1_diya.rpy:294
 translate spanish beginning_684c71c8:
 
     # Min "{big=+20}NO!{w=0.35} IT'S ME!!{/big}" with sshake
-    Min "" with sshake
+    Min "{big=+20}NO!{w=0.35} SOY YO!!{/big}" with sshake
 
 # game/1_diya.rpy:296
 translate spanish beginning_5f04203c:
 
     # Jun "Huh?{w=0.35} But if you're the hero, {w=0.35}then what am I?"
-    Jun ""
+    Jun "Ah?{w=0.35} Pero si tú eres el héroe, {w=0.35}qué soy yo?"
 
 # game/1_diya.rpy:299
 translate spanish beginning_02900275:
 
     # Min "A{cps=20}... {/cps}{w=0.35}{big=+20}GUN!{/big}" with sshake
-    Min "" with sshake
+    Min "UNA{cps=20}... {/cps}{w=0.35}{big=+20}PISTOLA!{/big}" with sshake
 
 # game/1_diya.rpy:302
 translate spanish beginning_8a88d73d:
 
     # Jun "What?!"
-    Jun ""
+    Jun "Qué?!"
 
 # game/1_diya.rpy:304
 translate spanish beginning_1cb3da10:
 
     # "Min grabs Jun's arm and aims it at the dragon!"
-    ""
+    "Min agarra el brazo de Jun y lo apunta al dragón!"
 
 # game/1_diya.rpy:306
 translate spanish beginning_10de3e75:
 
     # Min "BANG!{w=0.35} You're dead!"
-    Min ""
+    Min "BANG!{w=0.35} Estás muerto!"
 
 # game/1_diya.rpy:308
 translate spanish beginning_7d88a4e2:
 
     # Hayden "Nice try! {w=0.35} But I deflected the bullet with my {i}own{/i} bullet!"
-    Hayden ""
+    Hayden "Buen intento! {w=0.35} Pero desvié la bala con mi {i}propia{/i} bala"
 
 # game/1_diya.rpy:309
 translate spanish beginning_f2308086:
 
     # Hayden "I have a gun too!"
-    Hayden ""
+    Hayden "Tengo una pistola también!"
 
 # game/1_diya.rpy:312
 translate spanish beginning_85c4a272:
 
     # Jun "{i}Why?!{/i}{w=0.35} You're a dragon!"
-    Jun ""
+    Jun "{i}Por qué?!{/i}{w=0.35} Eres un dragón!"
 
 # game/1_diya.rpy:314
 translate spanish beginning_b67ef62d:
 
     # Min "This is America! {w=0.35}Everyone has a gun!" with sshake
-    Min "" with sshake
+    Min "Esto es Estados Unidos! {w=0.35}Todos tienen una pistola!" with sshake
 
 # game/1_diya.rpy:316
 translate spanish beginning_bd0bfb66:
 
     # "Diya rises to her feet."
-    ""
+    "Diya se pone de pie."
 
 # game/1_diya.rpy:319
 translate spanish beginning_fb444ba3:
 
     # Diya "I also have a gun."
-    Diya ""
+    Diya "Yo también tengo una."
 
 # game/1_diya.rpy:325
 translate spanish beginning_0debc5b4:
 
     # Diya "Bang."
-    Diya ""
+    Diya "Bang."
 
 # game/1_diya.rpy:327
 translate spanish beginning_19746dea:
 
     # Diya "Dead."
-    Diya ""
+    Diya "Muerto."
 
 # game/1_diya.rpy:331
 translate spanish beginning_0debc5b4_1:
 
     # Diya "Bang."
-    Diya ""
+    Diya "Bang."
 
 # game/1_diya.rpy:333
 translate spanish beginning_2983a181:
 
     # Diya "Min's dead."
-    Diya ""
+    Diya "Min se murió."
 
 # game/1_diya.rpy:335
 translate spanish beginning_8b06d184:
 
     # "Min looks very hurt..."
-    ""
+    "Min luce muy herida..."
 
 # game/1_diya.rpy:337
 translate spanish beginning_b6cd2915:
 
     # Min "Why? I'm here to rescue you."
-    Min ""
+    Min "Por qué? Vine a salvarte."
 
 # game/1_diya.rpy:339
 translate spanish beginning_91e406d4:
 
     # Diya "Don't want to be rescued."
-    Diya ""
+    Diya "No quiero ser salvada."
 
 # game/1_diya.rpy:340
 translate spanish beginning_de8401f8:
 
     # Diya "I can save myself."
-    Diya ""
+    Diya "Puedo salvarme sola."
 
 # game/1_diya.rpy:343
 translate spanish beginning_127ce563:
 
     # Min "But if we do it together, it'll be more fun."
-    Min ""
+    Min "Pero si lo hacemos juntas, será más divertido."
 
 # game/1_diya.rpy:345
 translate spanish beginning_63f17da3:
 
     # Min "We can ride off into the sunset on my horse."
-    Min ""
+    Min "Podemos cabalgar hacia el atardecer en mi caballo."
 
 # game/1_diya.rpy:347
 translate spanish beginning_e001f5cd:
 
     # Hayden "What sunset..."
-    Hayden ""
+    Hayden "Cuál atardecer..."
 
 # game/1_diya.rpy:349
 translate spanish beginning_5bcfe50c:
 
     # Jun "What horse?"
-    Jun ""
+    Jun "Cuál caballo?"
 
 # game/1_diya.rpy:351
 translate spanish beginning_6889f963:
 
     # Min "You."
-    Min ""
+    Min "Tú."
 
 # game/1_diya.rpy:354
 translate spanish beginning_8f5239f8:
 
     # Jun "Me?!" with sshake
-    Jun "" with sshake
+    Jun "Yo?!" with sshake
 
 # game/1_diya.rpy:356
 translate spanish beginning_7fa4ad30:
 
     # DiyaT "That does sound pretty cool..."
-    DiyaT ""
+    DiyaT "Eso sí suena muy cool..."
 
 # game/1_diya.rpy:358
 translate spanish beginning_fba116f5:
 
     # Diya "Changed my mind."
-    Diya ""
+    Diya "Cambié de opinión."
 
 # game/1_diya.rpy:359
 translate spanish beginning_4f44ceb8:
 
     # Diya "Bang. Shot the dragon instead."
-    Diya ""
+    Diya "Bang. Disparé al dragón en realidad."
 
 # game/1_diya.rpy:364
 translate spanish beginning_0debc5b4_2:
 
     # Diya "Bang."
-    Diya ""
+    Diya "Bang"
 
 # game/1_diya.rpy:366
 translate spanish beginning_9e555b72:
 
     # Diya "Jun's dead."
-    Diya ""
+    Diya "Jun se murió."
 
 # game/1_diya.rpy:369
 translate spanish beginning_8a823a80:
 
     # Jun "But I'm a gun..."
-    Jun ""
+    Jun "Pero soy una pistola..."
 
 # game/1_diya.rpy:371
 translate spanish beginning_b24e279e:
 
     # Min "Then you broke in half."
-    Min ""
+    Min "Entonces te partiste a la mitad."
 
 # game/1_diya.rpy:373
 translate spanish beginning_3ddb86bb:
 
     # Jun "In half?!"
-    Jun ""
+    Jun "A la mitad?!"
 
 # game/1_diya.rpy:375
 translate spanish beginning_df84e419:
 
     # Hayden "That's harsh, dude."
-    Hayden ""
+    Hayden "Eso es cruel, viejo."
 
 # game/1_diya.rpy:377
 translate spanish beginning_902fc4ea:
 
     # Min "I used the last of Jun's energy to shoot you again!"
-    Min ""
+    Min "Utilicé la última energía de Jun para dispararte otra vez!"
 
 # game/1_diya.rpy:378
 translate spanish beginning_c7d56ceb:
 
     # Min "DEAD."
-    Min ""
+    Min "MUERTO."
 
 # game/1_diya.rpy:384
 translate spanish beginning_93ced5da:
 
     # Diya "Deflected the deflected bullet with my own bullet."
-    Diya ""
+    Diya "Desvié la bala desviada con mi propia bala."
 
 # game/1_diya.rpy:386
 translate spanish beginning_43aa3aff:
 
     # Diya "So Min's original bullet is going toward him again."
-    Diya ""
+    Diya "Asi que la bala original de Min va hacia él otra vez."
 
 # game/1_diya.rpy:389
 translate spanish beginning_db0aeafc:
 
     # Jun "That's...{w=0.35} unnecessarily complicated."
-    Jun ""
+    Jun "Eso es...{w=0.35} innecesariamente complicado."
 
 # game/1_diya.rpy:390
 translate spanish beginning_79e910cb:
 
     # Jun "Why didn't you just shoot him directly...?"
-    Jun ""
+    Jun "Por qué no le disparaste a él directamente...?"
 
 # game/1_diya.rpy:392
 translate spanish beginning_4e8516ac:
 
     # Min "This way is cooler!!!" with sshake
-    Min "" with sshake
+    Min "Así es más cool!!!" with sshake
 
 # game/1_diya.rpy:394
 translate spanish beginning_912b5935:
 
     # DiyaT "Yeah."
-    DiyaT ""
+    DiyaT "Sí."
 
 # game/1_diya.rpy:399
 translate spanish niceTry_659e7536:
 
     # Hayden "{cps=20}Nice try... {/cps}{w=0.35}{i}but too bad!{/i} {w=0.35}The bullet bounces off me!"
-    Hayden ""
+    Hayden "{cps=20}Buen intento... {/cps}{w=0.35}{i}pero que mal!{/i} {w=0.35}La bala rebota de mi cuerpo!"
 
 # game/1_diya.rpy:401
 translate spanish niceTry_9ef02b9c:
 
     # Diya "How is that possible."
-    Diya ""
+    Diya "Cómo es eso posible."
 
 # game/1_diya.rpy:404
 translate spanish niceTry_70331b2c:
 
     # Hayden "My dragon scales are stronger than tank armor!"
-    Hayden ""
+    Hayden "Mis escamas de dragón son más resistentes que un tanque!"
 
 # game/1_diya.rpy:405
 translate spanish niceTry_0eb0e947:
 
     # Hayden "Take that!"
-    Hayden ""
+    Hayden "Toma eso!"
 
 # game/1_diya.rpy:409
 translate spanish niceTry_6f75507b:
 
     # Jun "Maybe we can resolve this without fighting, then... "
-    Jun ""
+    Jun "Tal vez podemos resolver esto sin pelear, en ese caso..."
 
 # game/1_diya.rpy:410
 translate spanish niceTry_ac9f51dd:
 
     # Jun "Let's talk it ov—"
-    Jun ""
+    Jun "Vamos a discutirl-"
 
 # game/1_diya.rpy:413
 translate spanish niceTry_b4edd7df:
 
     # Min "{big=+20}VIOLENCE SOLVES EVERYTHING!{/big}" with sshake
-    Min "" with sshake
+    Min "{big=+20}LA VIOLENCIA LO RESUELVE TODO!{/big}" with sshake
 
 # game/1_diya.rpy:414
 translate spanish niceTry_87e85c49:
 
     # Min "{big=+20}I'M MAKING A NEW GUN WITH ROCKS!{/big}" with sshake
-    Min "" with sshake
+    Min "{big=+20}ESTOY HACIENDO UNA NUEVA PISTOLA CON ROCAS!{/big}" with sshake
 
 # game/1_diya.rpy:416
 translate spanish niceTry_a8e61fe1:
 
     # Jun "Are you replacing me...?"
-    Jun ""
+    Jun "Me estás reemplazando...?"
 
 # game/1_diya.rpy:418
 translate spanish niceTry_f82cafa1:
 
     # Min "Yeah! {w=0.35}Sorry!"
-    Min ""
+    Min "Sí! {w=0.35}Perdón!"
 
 # game/1_diya.rpy:420
 translate spanish niceTry_7984f326:
 
     # Min "BANG!{w=0.35} Dragon's dead!" with sshake
-    Min "" with sshake
+    Min "BANG!{w=0.35} El dragón se murió!" with sshake
 
 # game/1_diya.rpy:422
 translate spanish niceTry_e76ce7b7:
 
     # Hayden "Uh, did you forget?{w=0.35} I'm bulletproof."
-    Hayden ""
+    Hayden "Um, te olvidas?{w=0.35} Soy a prueba de balas."
 
 # game/1_diya.rpy:424
 translate spanish niceTry_d67a3dcd:
 
     # Min "But my gun didn't shoot a bullet!" with sshake
-    Min "" with sshake
+    Min "Pero mi pistola no disparó una bala!" with sshake
 
 # game/1_diya.rpy:429
 translate spanish niceTry_e36bb257:
 
     # Min "My gun shot{cps=20}... {/cps}"
-    Min ""
+    Min "Mi pistola disparó{cps=20}... {/cps}"
 
 # game/1_diya.rpy:432
 translate spanish niceTry_bd6af510:
 
     # Min "A SMALLER GUN!" with sshake
-    Min "" with sshake
+    Min "UNA PISTOLA MÁS PEQUEÑA!" with sshake
 
 # game/1_diya.rpy:434
 translate spanish niceTry_799130c8:
 
     # Min "{big=+14}...WHICH SHOT A KNIFE!!{/big}" with sshake
-    Min "" with sshake
+    Min "{big=+14}...QUE DISPARÓ UN CUCHILLO!!{/big}" with sshake
 
 # game/1_diya.rpy:435
 translate spanish niceTry_c86f6571:
 
     # Min "{big=+20}...WHICH EXPLODED!!!{/big}" with sshake
-    Min "" with sshake
+    Min "{big=+20}...QUE EXPLOTÓ!!!{/big}" with sshake
 
 # game/1_diya.rpy:436
 translate spanish niceTry_78aff33f:
 
     # Hayden "{cps=25}...... {/cps}"
-    Hayden ""
+    Hayden "{cps=25}...... {/cps}"
 
 # game/1_diya.rpy:437
 translate spanish niceTry_e088a0fe:
 
     # Jun "{cps=25}...... {/cps}"
-    Jun ""
+    Jun "{cps=25}...... {/cps}"
 
 # game/1_diya.rpy:438
 translate spanish niceTry_ab20ef84:
 
     # Diya "{cps=25}...... {/cps}"
-    Diya ""
+    Diya "{cps=25}...... {/cps}"
 
 # game/1_diya.rpy:439
 translate spanish niceTry_8c44bf45:
 
     # Hayden "What was the point of the smaller gun in the middle?"
-    Hayden ""
+    Hayden "Cuál era el punto de la pistola pequeña en la mitad?"
 
 # game/1_diya.rpy:440
 translate spanish niceTry_f5e23e83:
 
     # Min "It's there to shoot the knife!"
-    Min ""
+    Min "Está ahí para disparar el cuchillo!"
 
 # game/1_diya.rpy:441
 translate spanish niceTry_5d1783a4:
 
     # Jun "No, {w=0.2}but why couldn't the original gun shoot the knife?"
-    Jun ""
+    Jun "No, {w=0.2}pero por qué no podía la pistola original disparar el cuchillo?"
 
 # game/1_diya.rpy:442
 translate spanish niceTry_469239cd:
 
     # "Min gives Jun an incredulous look."
-    ""
+    "Min mira incrédula a Jun."
 
 # game/1_diya.rpy:443
 translate spanish niceTry_f6d0fdff:
 
     # Min "Because it was shooting out the smaller gun."
-    Min ""
+    Min "Porque estaba disparando la pistola pequeña."
 
 # game/1_diya.rpy:444
 translate spanish niceTry_4f831f3f:
 
     # Jun "{cps=25}...never mind... {/cps}"
-    Jun ""
+    Jun "{cps=25}...olvídalo... {/cps}"
 
 # game/1_diya.rpy:450
 translate spanish niceTry_54a0615d:
 
     # Hayden "Okay, so let's say my elbow is injured now."
-    Hayden ""
+    Hayden "Okey, digamos que mi codo está herido ahora."
 
 # game/1_diya.rpy:451
 translate spanish niceTry_b8d1f40d:
 
     # Hayden "So if you touch that, I lose."
-    Hayden ""
+    Hayden "Asi que si lo tocas, yo pierdo."
 
 # game/1_diya.rpy:454
 translate spanish niceTry_40074594:
 
     # Min "RRRAUUGH!!!!" with sshake
-    Min "" with sshake
+    Min "RRRAARGH!!!!" with sshake
 
 # game/1_diya.rpy:457
 translate spanish niceTry_bb1b21a2:
 
     # "Min lunges at him!"
-    ""
+    "Min se lanza sobre él!"
 
 # game/1_diya.rpy:458
 translate spanish niceTry_caa0e29a:
 
     # "He sidesteps and darts up the steps to the slide!"
-    ""
+    "Él la esquiva y corre hacia los escalones del tobogán"
 
 # game/1_diya.rpy:459
 translate spanish niceTry_4671eb81:
 
     # "When Min catches up, he spins so his back is to the wall."
-    ""
+    "Cuando Min le alcanza, se da la vuelta para que su espalda de contra la pared."
 
 # game/1_diya.rpy:461
 translate spanish niceTry_13d5ecaa:
 
     # DiyaT "She looks like she's having trouble..."
-    DiyaT ""
+    DiyaT "Parece que tiene problemas..."
 
 # game/1_diya.rpy:462
 translate spanish niceTry_e081c29c:
 
     # Diya "Do you need help?"
-    Diya ""
+    Diya "Necesitas ayuda?"
 
 # game/1_diya.rpy:465
 translate spanish niceTry_ae5264e6:
 
     # Min "What?!{w=0.2} No!"
-    Min ""
+    Min "Qué?!{w=0.2} No!"
 
 # game/1_diya.rpy:468
 translate spanish niceTry_077cd6c1:
 
     # "The evil dragon feints to the right.{w=0.2} Min falls for it and he rushes past her,{w=0.2} back the way he came."
-    ""
+    "El dragón malvado finta hacia la derecha.{w=0.2} Min cae en la trampa y corre al lado de Diya,{w=0.2} por donde él vino."
 
 # game/1_diya.rpy:470
 translate spanish niceTry_fb72c537:
 
     # Min "!"
-    Min ""
+    Min "!"
 
 # game/1_diya.rpy:473
 translate spanish niceTry_d6778ee5:
 
     # "Min trips and face plants on the bridge!" with sshake
-    "" with sshake
+    "Min tropieza y estampa su cara contra el puente!" with sshake
 
 # game/1_diya.rpy:475
 translate spanish niceTry_1f1108b4:
 
     # Diya "...!!!!!!!!" with sshake
-    Diya "" with sshake
+    Diya "...!!!!!!!!" with sshake
 
 # game/1_diya.rpy:477
 translate spanish niceTry_960a544c:
 
     # "Before Min can see, Diya quickly picks the evil dragon up and hurls him off the playground structure like a sack of potatoes."
-    ""
+    "Antes de que Min lo vea, Diya rápidamente recoge al dragón malvado y lo arroja fuera de la estructura de juegos como un saco de papas."
 
 # game/1_diya.rpy:479
 translate spanish niceTry_7dcb2d16:
 
     # Hayden "Waugh?!!" with sshake
-    Hayden "" with sshake
+    Hayden "Wowgh?!!" with sshake
 
 # game/1_diya.rpy:485
 translate spanish niceTry_1ca877ae:
 
     # Jun "Wait, you're the princess! You can't just do that."
-    Jun ""
+    Jun "Espera, tú eres la princesa! No puedes hacer eso."
 
 # game/1_diya.rpy:487
 translate spanish niceTry_6276c5a5:
 
     # Diya "................"
-    Diya ""
+    Diya "................"
 
 # game/1_diya.rpy:493
 translate spanish niceTry_13196a68:
 
     # "Diya throws him off the playground structure, too."
-    ""
+    "Diya lo tira de la estructura de juegos, también."
 
 # game/1_diya.rpy:494
 translate spanish niceTry_6c90069f:
 
     # "As he disappears over the edge, Min pulls herself back to her feet."
-    ""
+    "Mientras desaparece de la vista, Min se incorpora otra vez."
 
 # game/1_diya.rpy:496
 translate spanish niceTry_5304c5f6:
 
     # Min "Where is everyone?"
-    Min ""
+    Min "Dónde están todos?"
 
 # game/1_diya.rpy:498
 translate spanish niceTry_28c39c52:
 
     # Diya "They.......balcony collapsed."
-    Diya ""
+    Diya "Ellos.......balcón colapsó."
 
 # game/1_diya.rpy:500
 translate spanish niceTry_8e738b98:
 
     # Diya "Castle is under construction."
-    Diya ""
+    Diya "Castillo en construcción."
 
 # game/1_diya.rpy:503
 translate spanish niceTry_37aaa74a:
 
     # Min "Yeah!!!"
-    Min ""
+    Min "Sí!!!"
 
 # game/1_diya.rpy:505
 translate spanish niceTry_92efbd26:
 
     # Min "Heheheh!!!{w=0.35} I rescued you!"
-    Min ""
+    Min "Jejeje!!!{w=0.35} Te salvé!"
 
 # game/1_diya.rpy:507
 translate spanish niceTry_985b08b1:
 
     # Diya "My hero."
-    Diya ""
+    Diya "Mi héroe."
 
 # game/1_diya.rpy:510
 translate spanish niceTry_2c1d44e8:
 
     # Min "Yeah!{w=0.35} I'm your hero!!" with sshake
-    Min "" with sshake
+    Min "Sí!{w=0.35} Soy tu héroe!!" with sshake
 
 # game/1_diya.rpy:520
 translate spanish niceTry_9ea70234:
 
     # "Min is struggling to princess carry Diya down the slide with her."
-    ""
+    "Min le cuesta cargar como princesa a Diya bajo el tobogán con ella."
 
 # game/1_diya.rpy:521
 translate spanish niceTry_2f9c9f93:
 
     # "Diya could destroy her in a single punch if she wanted to, but she's patiently going along with it."
-    ""
+    "Diya podría destruirla en un solo golpe si quisiera, pero le sigue pacientemente el juego."
 
 # game/1_diya.rpy:524
 translate spanish niceTry_22b0814c:
 
     # Diya "I owe you my life. How can I repay you."
-    Diya ""
+    Diya "Te debo mi vida. Cómo podría recompensarte."
 
 # game/1_diya.rpy:527
 translate spanish niceTry_b662d6fa:
 
     # Min "You can... {w=0.35}r-repay me with a ki—"
-    Min ""
+    Min "Puedes... {w=0.35}r-recompensarme con un be—"
 
 # game/1_diya.rpy:531
 translate spanish niceTry_654e65c7:
 
     # "*THUD*" with sshake
-    "" with sshake
+    "*PUM*" with sshake
 
 # game/1_diya.rpy:540
 translate spanish niceTry_f8a1f174:
 
     # Min "................"
-    Min ""
+    Min "................"
 
 # game/1_diya.rpy:541
 translate spanish niceTry_6276c5a5_1:
 
     # Diya "................"
-    Diya ""
+    Diya "................"
 
 # game/1_diya.rpy:542
 translate spanish niceTry_cef274c7:
 
     # DiyaT "My name is Diya."
-    DiyaT ""
+    DiyaT "Mi nombre es Diya."
 
 # game/1_diya.rpy:544
 translate spanish niceTry_cd596c70:
 
     # DiyaT "...I don't really know what else to say about myself. I'm pretty boring."
-    DiyaT ""
+    DiyaT "...En realidad no sé qué más decir sobre mí. Soy bastante aburrida."
 
 # game/1_diya.rpy:547
 translate spanish niceTry_a05e2cb4:
 
     # DiyaT "The other girl is Min-seo. Everyone calls her Min."
-    DiyaT ""
+    DiyaT "La otra chica es Min-seo. Todos la llaman Min."
 
 # game/1_diya.rpy:548
 translate spanish niceTry_86b65723:
 
     # DiyaT "She's so cool."
-    DiyaT ""
+    DiyaT "Es tan cool."
 
 # game/1_diya.rpy:549
 translate spanish niceTry_c9adc14c:
 
     # DiyaT "Do you see that thing on her arm? {w=0.35} She drew a giant dagger on it with Sharpie,{w=0.35} like a tattoo."
-    DiyaT ""
+    DiyaT "Ves esa cosa en su brazo? {w=0.35} Se dibujo una daga gigante con marcador Sharpie,{w=0.35} como un tatuaje."
 
 # game/1_diya.rpy:559
 translate spanish niceTry_4f702073:
 
     # DiyaT "And in class, she makes ninja stars out of binder paper and throws them at people."
-    DiyaT ""
+    DiyaT "Y en clase, hace estrellas ninja con papel de carpeta y se los arroja a la gente."
 
 # game/1_diya.rpy:561
 translate spanish niceTry_9cb9cae2:
 
     # DiyaT "She stamps them with staples so they hurt more."
-    DiyaT ""
+    DiyaT "Los borda con grapas así duelen más."
 
 # game/1_diya.rpy:562
 translate spanish niceTry_55bec2ad:
 
     # DiyaT "But she never throws them at me."
-    DiyaT ""
+    DiyaT "Pero nunca los lanza hacia mí."
 
 # game/1_diya.rpy:565
 translate spanish niceTry_c1e6ee38:
 
     # DiyaT "I think it's mainly because I'm the only other girl she knows who likes baseball."
-    DiyaT ""
+    DiyaT "Probablemente sea porque soy la única otra chica que conoce que le gusta el béisbol."
 
 # game/1_diya.rpy:566
 translate spanish niceTry_a81853a6:
 
     # DiyaT "We both used to think we were the only one in the world. So we were both really excited to meet each other."
-    DiyaT ""
+    DiyaT "Las dos solíamos pensar que eramos las únicas en el mundo. Asi que estabamos muy emocionadas cuando nos conocimos."
 
 # game/1_diya.rpy:567
 translate spanish niceTry_a78ea675:
 
     # DiyaT "I really like her."
-    DiyaT ""
+    DiyaT "Me gusta mucho."
 
 # game/1_diya.rpy:589
 translate spanish niceTry_9fb01397:
