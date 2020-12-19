@@ -131,7 +131,7 @@ translate general strings:
     new ""
 
     # game/screens.rpy:892
-    old "\n\General locilization by:"
+    old "\n\nGeneral locilization by:"
     new ""
 
     # game/screens.rpy:893
