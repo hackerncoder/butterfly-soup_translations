@@ -36,7 +36,7 @@ translate general strings:
 
     # game/screens.rpy:742
     old "End Replay"
-    new "Finalizar Replay"
+    new "Finalizar Repetición"
 
     # game/screens.rpy:748
     old "Main Menu"
