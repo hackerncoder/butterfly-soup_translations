@@ -4,107 +4,107 @@ translate general strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new ""
+    new "Auto-lectura desactivada."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new ""
+    new "Lectura del portapapeles activada. "
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new ""
+    new "Auto-lectura activada. "
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new ""
+    new "barra"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new ""
+    new "seleccionado"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new ""
+    new "ventana gráfica"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new ""
+    new "desplazamiento horizontal"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new ""
+    new "desplazamiento vertical"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new ""
+    new "activar"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new ""
+    new "desactivar"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new ""
+    new "incrementar"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new ""
+    new "disminuir"
 
     # renpy/common/00accessibility.rpy:128
     old "Font Override"
-    new ""
+    new "Sobreescribir Fuente"
 
     # renpy/common/00accessibility.rpy:132
     old "Default"
-    new ""
+    new "Por defecto"
 
     # renpy/common/00accessibility.rpy:136
     old "DejaVu Sans"
-    new ""
+    new "DejaVu Sans"
 
     # renpy/common/00accessibility.rpy:140
     old "Opendyslexic"
-    new ""
+    new "Opendyslexic"
 
     # renpy/common/00accessibility.rpy:146
     old "Text Size Scaling"
-    new ""
+    new "Escalado del Texto"
 
     # renpy/common/00accessibility.rpy:152
     old "Reset"
-    new ""
+    new "Reiniciar"
 
     # renpy/common/00accessibility.rpy:158
     old "Line Spacing Scaling"
-    new ""
+    new "Escalado del Espaciado de Líneas"
 
     # renpy/common/00accessibility.rpy:171
     old "Self-Voicing"
-    new ""
+    new "Auto-Lectura"
 
     # renpy/common/00accessibility.rpy:175
     old "Off"
-    new ""
+    new "Apagado"
 
     # renpy/common/00accessibility.rpy:179
     old "Text-to-speech"
-    new ""
+    new "Texto-a-voz"
 
     # renpy/common/00accessibility.rpy:183
     old "Clipboard"
-    new ""
+    new "Portapapeles"
 
     # renpy/common/00accessibility.rpy:187
     old "Debug"
-    new ""
+    new "Depurar"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing Volume Drop"
-    new ""
+    new "Atenuado del Volúmen de la Auto-Lectura"
 
     # renpy/common/00accessibility.rpy:202
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new ""
+    new "Las opciones en este menú tienen la intención de mejorar la accesibilidad. Podría no funcionar con todos los juegos, y algunas combinaciones podrían dejar al juego inusable. Esto no es un probema con el juego o el programa. Para los mejores resiltados al cambiar fuentes, trata de mantener el tamaño del texto como estaba originalmente."
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
