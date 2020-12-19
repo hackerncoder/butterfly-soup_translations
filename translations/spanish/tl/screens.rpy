@@ -409,7 +409,3 @@ translate spanish strings:
     # game/screens.rpy:860
     old "(Not all pages are available in all languages!)\n"
     new "(¡No todas las páginas están disponibles en todos los idiomas!)\n"
-
-    # game/screens.rpy:1173
-    old "{font=arial.ttf}{size=30}Español{/size}{/font}"
-    new "{font=arial.ttf}{size=20}Español{/size}{/font}"
