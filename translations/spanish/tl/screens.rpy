@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2020-12-19 14:20
 
-translate general strings:
+translate spanish strings:
 
     # game/screens.rpy:454
     old "Save"
@@ -152,7 +152,7 @@ translate general strings:
 
     # game/screens.rpy:991
     old "%B %d %Y, %H:%M"
-    new "%B %d %A, %H:%M"
+    new "%B %d %Y, %H:%M"
 
     # game/screens.rpy:991
     old "empty slot"
@@ -188,23 +188,23 @@ translate general strings:
 
     # game/screens.rpy:1107
     old "Unseen Text"
-    new "Texto sin Ver"
+    new "Texto sin ver"
 
     # game/screens.rpy:1108
     old "After Choices"
-    new "Después de Decisiones"
+    new "Decisiones"
 
     # game/screens.rpy:1113
     old "Screen Motion"
-    new "Movimiento de la Pantalla"
+    new "Pantalla"
 
     # game/screens.rpy:1114
     old "Background Pan"
-    new "Movimiento del Fondo"
+    new "Mover Fondo"
 
     # game/screens.rpy:1115
     old "Screenshake"
-    new "Sacudido de la Pantalla"
+    new "Agitado"
 
     # game/screens.rpy:1127
     old "Music Volume"
