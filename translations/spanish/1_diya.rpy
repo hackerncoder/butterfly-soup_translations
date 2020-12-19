@@ -4,187 +4,187 @@
 translate general beginning_5949963c:
 
     # "Once upon a time... "
-    ""
+    "Había una vez... "
 
 # game/1_diya.rpy:136
 translate general beginning_a814f8e6:
 
     # "There lived a princess called Min-seo. "
-    ""
+    "Una princesa llamada Min-seo. "
 
 # game/1_diya.rpy:141
 translate general beginning_22f8ba04:
 
     # "She liked weapons. Everyone was terrified of her."
-    ""
+    "A ella le gustaban las armas. Todos le tenían miedo."
 
 # game/1_diya.rpy:143
 translate general beginning_6ca4d3ed:
 
     # "She'd threaten you with knives and steal and break your things."
-    ""
+    "Ella te amenazaba con cuchillos y te robaba y rompía tus cosas."
 
 # game/1_diya.rpy:144
 translate general beginning_517a7d67:
 
     # "She always got sent to the principal's office because she was bad."
-    ""
+    "Ella siempre era enviada a la oficina del director porque era mala."
 
 # game/1_diya.rpy:149
 translate general beginning_2f913f41:
 
     # "Still,{w=0.35} she was a lovely princess. {w=0.35}And tragically, {w=0.35}she was cursed to prick her finger on a spindle and die."
-    ""
+    "Aun así,{w=0.35} ella era una adorable princesa. {w=0.35}Y trágicamente, {w=0.35} estaba destinada a pincharse el dedo en una aguja y morir."
 
 # game/1_diya.rpy:150
 translate general beginning_6789d7ab:
 
     # "Sure enough...One day, {w=0.2}like a total idiot,{w=0.2} she touched one."
-    ""
+    "Y así...Un día, {w=0.2}como una idiota total,{w=0.2} tocó una."
 
 # game/1_diya.rpy:154
 translate general beginning_3cbf3421:
 
     # "And she fell into a deep, death-like slumber."
-    ""
+    "Y cayó en un profundo, sueño de muerte."
 
 # game/1_diya.rpy:155
 translate general beginning_03d264c2:
 
     # "Or at least, she was supposed to.{w=0.35} \nInstead, the princess sat up abruptly and said:"
-    ""
+    "O al menos, eso debía hacer.w=0.35} \nEn cambio, la princesa se levantó abruptamente y dijo:"
 
 # game/1_diya.rpy:160
 translate general beginning_a092d999:
 
     # Min "{big=16}THIS IS THE WORST STORY IN HISTORY!{/big}" with sshake
-    Min "" with sshake
+    Min "{big=16}ESTA ES LA PEOR HISTORIA EN LA HISTORIA!{/big}" with sshake
 
 # game/1_diya.rpy:162
 translate general beginning_c83ea856:
 
     # Min "{big=20}I'M ESCAPING!{/big}" with sshake
-    Min "" with sshake
+    Min "big=20}VOY A ESCAPAR!{/big}" with sshake
 
 # game/1_diya.rpy:166
 translate general beginning_5842a42d:
 
     # Hayden "Wait!"
-    Hayden ""
+    Hayden "Espera!"
 
 # game/1_diya.rpy:167
 translate general beginning_b2ce56b8:
 
     # Hayden "Min, that's not how it goes!"
-    Hayden ""
+    Hayden "Min, así no es la historia!"
 
 # game/1_diya.rpy:169
 translate general beginning_532d85bd:
 
     # Hayden "I'm right here!{w=0.35} The evil dragon!"
-    Hayden ""
+    Hayden "Estoy justo aquí!{w=0.35} El dragón malvado!"
 
 # game/1_diya.rpy:171
 translate general beginning_f1b21321:
 
     # Min "I killed you already!"
-    Min ""
+    Min "Ya te maté!"
 
 # game/1_diya.rpy:173
 translate general beginning_f84117e7:
 
     # Hayden "Haaaah?{w=0.35} With what?"
-    Hayden ""
+    Hayden "Haaaah?{w=0.35} Con qué?"
 
 # game/1_diya.rpy:176
 translate general beginning_f442bc2e:
 
     # Min "{big=+20}A GUN!{/big}" with sshake
-    Min "" with sshake
+    Min "{big=+20}UNA PISTOLA!{/big}" with sshake
 
 # game/1_diya.rpy:178
 translate general beginning_f5025877:
 
     # Hayden "You don't have a gun!" with sshake
-    Hayden "" with sshake
+    Hayden "No tienes una pistola!" with sshake
 
 # game/1_diya.rpy:181
 translate general beginning_05a83592:
 
     # Min "{big=+20}I MADE ONE OUT OF ROCKS!{/big}" with sshake
-    Min "" with sshake
+    Min "{big=+20}HICE UNA CON ROCAS!{/big}" with sshake
 
 # game/1_diya.rpy:183
 translate general beginning_78aff33f:
 
     # Hayden "{cps=25}...... {/cps}"
-    Hayden ""
+    Hayden "{cps=25}...... {/cps}"
 
 # game/1_diya.rpy:190
 translate general beginning_df665e81:
 
     # "The hero has arrived!{w=0.35}\nAs Min-seo's twin, he's trying to reason with her!"
-    ""
+    "El héroe ha llegado!{w=0.35}\nComo el gemelo de Min-seo, trata de razonar con ella!"
 
 # game/1_diya.rpy:192
 translate general beginning_2a185af2:
 
     # Jun "{cps=35}Min... {w=0.35}that's impossible... {/cps}"
-    Jun ""
+    Jun "{cps=35}Min... {w=0.35}eso es imposible... {/cps}"
 
 # game/1_diya.rpy:194
 translate general beginning_8bac71d0:
 
     # Min "Who cares!"
-    Min ""
+    Min "A quién le importa!"
 
 # game/1_diya.rpy:196
 translate general beginning_3044a76b:
 
     # Min "If I have a gun,{w=0.35} I win!"
-    Min ""
+    Min "Si tengo una pistola,{w=0.35} yo gano!"
 
 # game/1_diya.rpy:198
 translate general beginning_9989372a:
 
     # Hayden "{slower}...... {/slower}"
-    Hayden ""
+    Hayden "{slower}...... {/slower}"
 
 # game/1_diya.rpy:200
 translate general beginning_fdb10e6c:
 
     # Jun "{slower}...... {/slower}"
-    Jun ""
+    Jun "{slower}...... {/slower}"
 
 # game/1_diya.rpy:202
 translate general beginning_7bf1d8e9:
 
     # Diya "{slower}...... {/slower}"
-    Diya ""
+    Diya "{slower}...... {/slower}"
 
 # game/1_diya.rpy:204
 translate general beginning_8061590d:
 
     # DiyaT "It's difficult to argue against Min's brand of logic."
-    DiyaT ""
+    DiyaT "Es difícil encontrar fallas en la lógica de Min."
 
 # game/1_diya.rpy:207
 translate general beginning_a538e04f:
 
     # Jun "Okay, you win... {w=0.35}Let's just start over... "
-    Jun ""
+    Jun "Bien, tú ganas... {w=0.35}Solo empecemos de nuevo..."
 
 # game/1_diya.rpy:209
 translate general beginning_6560113d:
 
     # Min "This time someone else be the princess!{w=0.35} Not me!" with sshake
-    Min "" with sshake
+    Min "Que esta vez alguien más sea la princesa!{w=0.35} No yo!" with sshake
 
 # game/1_diya.rpy:211
 translate general beginning_430c2ae3:
 
     # DiyaT "I'm the only girl left, so I guess that's me..."
-    DiyaT ""
+    DiyaT "Soy la única chica que queda, así que supongo que soy yo..."
 
 # game/1_diya.rpy:214
 translate general beginning_14f8456d:
