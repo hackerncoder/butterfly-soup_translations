@@ -52,7 +52,7 @@ translate spanish beginning_3cbf3421:
 translate spanish beginning_03d264c2:
 
     # "Or at least, she was supposed to.{w=0.35} \nInstead, the princess sat up abruptly and said:"
-    "O al menos, eso debía hacer.w=0.35} \nEn cambio, la princesa se levantó abruptamente y dijo:"
+    "O al menos, eso debía hacer.{w=0.35} \nEn cambio, la princesa se levantó abruptamente y dijo:"
 
 # game/1_diya.rpy:160
 translate spanish beginning_a092d999:
@@ -64,7 +64,7 @@ translate spanish beginning_a092d999:
 translate spanish beginning_c83ea856:
 
     # Min "{big=20}I'M ESCAPING!{/big}" with sshake
-    Min "big=20}VOY A ESCAPAR!{/big}" with sshake
+    Min "{big=20}VOY A ESCAPAR!{/big}" with sshake
 
 # game/1_diya.rpy:166
 translate spanish beginning_5842a42d:
