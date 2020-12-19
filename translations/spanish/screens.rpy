@@ -889,8 +889,8 @@ screen about():
             text _("\n\nAdditional scripting help:")
             text _("{a=https://twitter.com/ArazatiTea}Arazati{/a}")
 
-            text _("\n\nSpanish locilization by:")
-            text _("KD4bra")
+            text _("\n\nspanish locilization by:")
+            text _("YOUR NAME")
             #Insert soemthing like this to link to a page: {a=YOURLINK}{font=arial.ttf}CLICKABLE_TEXT{/font}{/a}
 
 
