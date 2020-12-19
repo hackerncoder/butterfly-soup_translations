@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2020-12-18 13:04
 
-translate general strings:
+translate spanish strings:
 
     # game/screens.rpy:645
     old "Save"
@@ -477,4 +477,3 @@ translate general strings:
     # game/screens.rpy:2399
     old "Menu"
     new "Menú"
-

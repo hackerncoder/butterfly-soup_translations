@@ -1,13152 +1,13152 @@
 ﻿# TODO: Translation updated at 2020-12-18 13:04
 
 # game/1_diya.rpy:128
-translate general beginning_5949963c:
+translate spanish beginning_5949963c:
 
     # "Once upon a time... "
     "Había una vez... "
 
 # game/1_diya.rpy:136
-translate general beginning_a814f8e6:
+translate spanish beginning_a814f8e6:
 
     # "There lived a princess called Min-seo. "
     "Una princesa llamada Min-seo. "
 
 # game/1_diya.rpy:141
-translate general beginning_22f8ba04:
+translate spanish beginning_22f8ba04:
 
     # "She liked weapons. Everyone was terrified of her."
     "A ella le gustaban las armas. Todos le tenían miedo."
 
 # game/1_diya.rpy:143
-translate general beginning_6ca4d3ed:
+translate spanish beginning_6ca4d3ed:
 
     # "She'd threaten you with knives and steal and break your things."
     "Ella te amenazaba con cuchillos y te robaba y rompía tus cosas."
 
 # game/1_diya.rpy:144
-translate general beginning_517a7d67:
+translate spanish beginning_517a7d67:
 
     # "She always got sent to the principal's office because she was bad."
     "Ella siempre era enviada a la oficina del director porque era mala."
 
 # game/1_diya.rpy:149
-translate general beginning_2f913f41:
+translate spanish beginning_2f913f41:
 
     # "Still,{w=0.35} she was a lovely princess. {w=0.35}And tragically, {w=0.35}she was cursed to prick her finger on a spindle and die."
     "Aun así,{w=0.35} ella era una adorable princesa. {w=0.35}Y trágicamente, {w=0.35} estaba destinada a pincharse el dedo en una aguja y morir."
 
 # game/1_diya.rpy:150
-translate general beginning_6789d7ab:
+translate spanish beginning_6789d7ab:
 
     # "Sure enough...One day, {w=0.2}like a total idiot,{w=0.2} she touched one."
     "Y así...Un día, {w=0.2}como una idiota total,{w=0.2} tocó una."
 
 # game/1_diya.rpy:154
-translate general beginning_3cbf3421:
+translate spanish beginning_3cbf3421:
 
     # "And she fell into a deep, death-like slumber."
     "Y cayó en un profundo, sueño de muerte."
 
 # game/1_diya.rpy:155
-translate general beginning_03d264c2:
+translate spanish beginning_03d264c2:
 
     # "Or at least, she was supposed to.{w=0.35} \nInstead, the princess sat up abruptly and said:"
     "O al menos, eso debía hacer.w=0.35} \nEn cambio, la princesa se levantó abruptamente y dijo:"
 
 # game/1_diya.rpy:160
-translate general beginning_a092d999:
+translate spanish beginning_a092d999:
 
     # Min "{big=16}THIS IS THE WORST STORY IN HISTORY!{/big}" with sshake
     Min "{big=16}ESTA ES LA PEOR HISTORIA EN LA HISTORIA!{/big}" with sshake
 
 # game/1_diya.rpy:162
-translate general beginning_c83ea856:
+translate spanish beginning_c83ea856:
 
     # Min "{big=20}I'M ESCAPING!{/big}" with sshake
     Min "big=20}VOY A ESCAPAR!{/big}" with sshake
 
 # game/1_diya.rpy:166
-translate general beginning_5842a42d:
+translate spanish beginning_5842a42d:
 
     # Hayden "Wait!"
     Hayden "Espera!"
 
 # game/1_diya.rpy:167
-translate general beginning_b2ce56b8:
+translate spanish beginning_b2ce56b8:
 
     # Hayden "Min, that's not how it goes!"
     Hayden "Min, así no es la historia!"
 
 # game/1_diya.rpy:169
-translate general beginning_532d85bd:
+translate spanish beginning_532d85bd:
 
     # Hayden "I'm right here!{w=0.35} The evil dragon!"
     Hayden "Estoy justo aquí!{w=0.35} El dragón malvado!"
 
 # game/1_diya.rpy:171
-translate general beginning_f1b21321:
+translate spanish beginning_f1b21321:
 
     # Min "I killed you already!"
     Min "Ya te maté!"
 
 # game/1_diya.rpy:173
-translate general beginning_f84117e7:
+translate spanish beginning_f84117e7:
 
     # Hayden "Haaaah?{w=0.35} With what?"
     Hayden "Haaaah?{w=0.35} Con qué?"
 
 # game/1_diya.rpy:176
-translate general beginning_f442bc2e:
+translate spanish beginning_f442bc2e:
 
     # Min "{big=+20}A GUN!{/big}" with sshake
     Min "{big=+20}UNA PISTOLA!{/big}" with sshake
 
 # game/1_diya.rpy:178
-translate general beginning_f5025877:
+translate spanish beginning_f5025877:
 
     # Hayden "You don't have a gun!" with sshake
     Hayden "No tienes una pistola!" with sshake
 
 # game/1_diya.rpy:181
-translate general beginning_05a83592:
+translate spanish beginning_05a83592:
 
     # Min "{big=+20}I MADE ONE OUT OF ROCKS!{/big}" with sshake
     Min "{big=+20}HICE UNA CON ROCAS!{/big}" with sshake
 
 # game/1_diya.rpy:183
-translate general beginning_78aff33f:
+translate spanish beginning_78aff33f:
 
     # Hayden "{cps=25}...... {/cps}"
     Hayden "{cps=25}...... {/cps}"
 
 # game/1_diya.rpy:190
-translate general beginning_df665e81:
+translate spanish beginning_df665e81:
 
     # "The hero has arrived!{w=0.35}\nAs Min-seo's twin, he's trying to reason with her!"
     "El héroe ha llegado!{w=0.35}\nComo el gemelo de Min-seo, trata de razonar con ella!"
 
 # game/1_diya.rpy:192
-translate general beginning_2a185af2:
+translate spanish beginning_2a185af2:
 
     # Jun "{cps=35}Min... {w=0.35}that's impossible... {/cps}"
     Jun "{cps=35}Min... {w=0.35}eso es imposible... {/cps}"
 
 # game/1_diya.rpy:194
-translate general beginning_8bac71d0:
+translate spanish beginning_8bac71d0:
 
     # Min "Who cares!"
     Min "A quién le importa!"
 
 # game/1_diya.rpy:196
-translate general beginning_3044a76b:
+translate spanish beginning_3044a76b:
 
     # Min "If I have a gun,{w=0.35} I win!"
     Min "Si tengo una pistola,{w=0.35} yo gano!"
 
 # game/1_diya.rpy:198
-translate general beginning_9989372a:
+translate spanish beginning_9989372a:
 
     # Hayden "{slower}...... {/slower}"
     Hayden "{slower}...... {/slower}"
 
 # game/1_diya.rpy:200
-translate general beginning_fdb10e6c:
+translate spanish beginning_fdb10e6c:
 
     # Jun "{slower}...... {/slower}"
     Jun "{slower}...... {/slower}"
 
 # game/1_diya.rpy:202
-translate general beginning_7bf1d8e9:
+translate spanish beginning_7bf1d8e9:
 
     # Diya "{slower}...... {/slower}"
     Diya "{slower}...... {/slower}"
 
 # game/1_diya.rpy:204
-translate general beginning_8061590d:
+translate spanish beginning_8061590d:
 
     # DiyaT "It's difficult to argue against Min's brand of logic."
     DiyaT "Es difícil encontrar fallas en la lógica de Min."
 
 # game/1_diya.rpy:207
-translate general beginning_a538e04f:
+translate spanish beginning_a538e04f:
 
     # Jun "Okay, you win... {w=0.35}Let's just start over... "
     Jun "Bien, tú ganas... {w=0.35}Solo empecemos de nuevo..."
 
 # game/1_diya.rpy:209
-translate general beginning_6560113d:
+translate spanish beginning_6560113d:
 
     # Min "This time someone else be the princess!{w=0.35} Not me!" with sshake
     Min "Que esta vez alguien más sea la princesa!{w=0.35} No yo!" with sshake
 
 # game/1_diya.rpy:211
-translate general beginning_430c2ae3:
+translate spanish beginning_430c2ae3:
 
     # DiyaT "I'm the only girl left, so I guess that's me..."
     DiyaT "Soy la única chica que queda, así que supongo que soy yo..."
 
 # game/1_diya.rpy:214
-translate general beginning_14f8456d:
+translate spanish beginning_14f8456d:
 
     # Hayden "Fine. Diya does seem more like the princess type anyway."
     Hayden ""
 
 # game/1_diya.rpy:216
-translate general beginning_7e87e266:
+translate spanish beginning_7e87e266:
 
     # Diya "What's that supposed to mean."
     Diya ""
 
 # game/1_diya.rpy:219
-translate general beginning_491ee1e2:
+translate spanish beginning_491ee1e2:
 
     # Min "You're really pretty."
     Min ""
 
 # game/1_diya.rpy:220
-translate general beginning_f2fa3540:
+translate spanish beginning_f2fa3540:
 
     # Min "And it's cute how your hair curls like that. {w=0.35} It makes you look like a princess."
     Min ""
 
 # game/1_diya.rpy:225
-translate general beginning_7f4359c7:
+translate spanish beginning_7f4359c7:
 
     # Hayden "Uh, {w=0.35} I just meant that she's less violent."
     Hayden ""
 
 # game/1_diya.rpy:226
-translate general beginning_5d8ebf2c:
+translate spanish beginning_5d8ebf2c:
 
     # Hayden "But whatever..."
     Hayden ""
 
 # game/1_diya.rpy:239
-translate general beginning_d0ed679d:
+translate spanish beginning_d0ed679d:
 
     # "— 2nd Try —"
     ""
 
 # game/1_diya.rpy:243
-translate general beginning_5949963c_1:
+translate spanish beginning_5949963c_1:
 
     # "Once upon a time... "
     ""
 
 # game/1_diya.rpy:255
-translate general beginning_cb347377:
+translate spanish beginning_cb347377:
 
     # "There lived a girl named Diya."
     ""
 
 # game/1_diya.rpy:257
-translate general beginning_44492aa3:
+translate spanish beginning_44492aa3:
 
     # "She was really quiet. "
     ""
 
 # game/1_diya.rpy:258
-translate general beginning_89e3ac4c:
+translate spanish beginning_89e3ac4c:
 
     # "It wasn't that she had nothing to say. {w=0.35}It was more like..."
     ""
 
 # game/1_diya.rpy:259
-translate general beginning_5b7577e8:
+translate spanish beginning_5b7577e8:
 
     # "She was afraid if she opened her mouth,{w=0.35} something would come out that shouldn't."
     ""
 
 # game/1_diya.rpy:261
-translate general beginning_7ae92527:
+translate spanish beginning_7ae92527:
 
     # "She once held onto an apple core for 45 minutes because she didn't want people to see her walk across the classroom to the trash can."
     ""
 
 # game/1_diya.rpy:262
-translate general beginning_66f36e95:
+translate spanish beginning_66f36e95:
 
     # "It was that kind of quiet."
     ""
 
 # game/1_diya.rpy:263
-translate general beginning_d2759316:
+translate spanish beginning_d2759316:
 
     # "She was also insanely athletic.{w=0.35} There were rumors that under her shirt, she had a six-pack."
     ""
 
 # game/1_diya.rpy:265
-translate general beginning_7413a035:
+translate spanish beginning_7413a035:
 
     # "Tragically,{w=0.35} despite how buff she was, {w=0.35} this princess was also cursed to touch a spindle and die."
     ""
 
 # game/1_diya.rpy:266
-translate general beginning_ea852c60:
+translate spanish beginning_ea852c60:
 
     # "And one day, {w=0.2}like a total idiot,{w=0.2} she touched one."
     ""
 
 # game/1_diya.rpy:274
-translate general beginning_3cbf3421_1:
+translate spanish beginning_3cbf3421_1:
 
     # "And she fell into a deep, death-like slumber."
     ""
 
 # game/1_diya.rpy:276
-translate general beginning_915abf2e:
+translate spanish beginning_915abf2e:
 
     # "Nothing could break the spell but her true love's kiss."
     ""
 
 # game/1_diya.rpy:277
-translate general beginning_ad27fa01:
+translate spanish beginning_ad27fa01:
 
     # "For many years, she —"
     ""
 
 # game/1_diya.rpy:284
-translate general beginning_04936f5e:
+translate spanish beginning_04936f5e:
 
     # Min "Diya,{w=0.2} get up! {w=0.35}I'm here to rescue you!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:287
-translate general beginning_c482f07c:
+translate spanish beginning_c482f07c:
 
     # Hayden "Hahah!!{w=0.35} Only the hero can wake her!"
     Hayden ""
 
 # game/1_diya.rpy:289
-translate general beginning_b537c59f:
+translate spanish beginning_b537c59f:
 
     # Min "That's me! {w=0.35}I'm the hero!!"
     Min ""
 
 # game/1_diya.rpy:291
-translate general beginning_c8a3d327:
+translate spanish beginning_c8a3d327:
 
     # Hayden "{cps=30}Wait,{w=0.35} no...?{/cps}{w=0.35}\nIt's supposed to be Jun-seo!"
     Hayden ""
 
 # game/1_diya.rpy:294
-translate general beginning_684c71c8:
+translate spanish beginning_684c71c8:
 
     # Min "{big=+20}NO!{w=0.35} IT'S ME!!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:296
-translate general beginning_5f04203c:
+translate spanish beginning_5f04203c:
 
     # Jun "Huh?{w=0.35} But if you're the hero, {w=0.35}then what am I?"
     Jun ""
 
 # game/1_diya.rpy:299
-translate general beginning_02900275:
+translate spanish beginning_02900275:
 
     # Min "A{cps=20}... {/cps}{w=0.35}{big=+20}GUN!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:302
-translate general beginning_8a88d73d:
+translate spanish beginning_8a88d73d:
 
     # Jun "What?!"
     Jun ""
 
 # game/1_diya.rpy:304
-translate general beginning_1cb3da10:
+translate spanish beginning_1cb3da10:
 
     # "Min grabs Jun's arm and aims it at the dragon!"
     ""
 
 # game/1_diya.rpy:306
-translate general beginning_10de3e75:
+translate spanish beginning_10de3e75:
 
     # Min "BANG!{w=0.35} You're dead!"
     Min ""
 
 # game/1_diya.rpy:308
-translate general beginning_7d88a4e2:
+translate spanish beginning_7d88a4e2:
 
     # Hayden "Nice try! {w=0.35} But I deflected the bullet with my {i}own{/i} bullet!"
     Hayden ""
 
 # game/1_diya.rpy:309
-translate general beginning_f2308086:
+translate spanish beginning_f2308086:
 
     # Hayden "I have a gun too!"
     Hayden ""
 
 # game/1_diya.rpy:312
-translate general beginning_85c4a272:
+translate spanish beginning_85c4a272:
 
     # Jun "{i}Why?!{/i}{w=0.35} You're a dragon!"
     Jun ""
 
 # game/1_diya.rpy:314
-translate general beginning_b67ef62d:
+translate spanish beginning_b67ef62d:
 
     # Min "This is America! {w=0.35}Everyone has a gun!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:316
-translate general beginning_bd0bfb66:
+translate spanish beginning_bd0bfb66:
 
     # "Diya rises to her feet."
     ""
 
 # game/1_diya.rpy:319
-translate general beginning_fb444ba3:
+translate spanish beginning_fb444ba3:
 
     # Diya "I also have a gun."
     Diya ""
 
 # game/1_diya.rpy:325
-translate general beginning_0debc5b4:
+translate spanish beginning_0debc5b4:
 
     # Diya "Bang."
     Diya ""
 
 # game/1_diya.rpy:327
-translate general beginning_19746dea:
+translate spanish beginning_19746dea:
 
     # Diya "Dead."
     Diya ""
 
 # game/1_diya.rpy:331
-translate general beginning_0debc5b4_1:
+translate spanish beginning_0debc5b4_1:
 
     # Diya "Bang."
     Diya ""
 
 # game/1_diya.rpy:333
-translate general beginning_2983a181:
+translate spanish beginning_2983a181:
 
     # Diya "Min's dead."
     Diya ""
 
 # game/1_diya.rpy:335
-translate general beginning_8b06d184:
+translate spanish beginning_8b06d184:
 
     # "Min looks very hurt..."
     ""
 
 # game/1_diya.rpy:337
-translate general beginning_b6cd2915:
+translate spanish beginning_b6cd2915:
 
     # Min "Why? I'm here to rescue you."
     Min ""
 
 # game/1_diya.rpy:339
-translate general beginning_91e406d4:
+translate spanish beginning_91e406d4:
 
     # Diya "Don't want to be rescued."
     Diya ""
 
 # game/1_diya.rpy:340
-translate general beginning_de8401f8:
+translate spanish beginning_de8401f8:
 
     # Diya "I can save myself."
     Diya ""
 
 # game/1_diya.rpy:343
-translate general beginning_127ce563:
+translate spanish beginning_127ce563:
 
     # Min "But if we do it together, it'll be more fun."
     Min ""
 
 # game/1_diya.rpy:345
-translate general beginning_63f17da3:
+translate spanish beginning_63f17da3:
 
     # Min "We can ride off into the sunset on my horse."
     Min ""
 
 # game/1_diya.rpy:347
-translate general beginning_e001f5cd:
+translate spanish beginning_e001f5cd:
 
     # Hayden "What sunset..."
     Hayden ""
 
 # game/1_diya.rpy:349
-translate general beginning_5bcfe50c:
+translate spanish beginning_5bcfe50c:
 
     # Jun "What horse?"
     Jun ""
 
 # game/1_diya.rpy:351
-translate general beginning_6889f963:
+translate spanish beginning_6889f963:
 
     # Min "You."
     Min ""
 
 # game/1_diya.rpy:354
-translate general beginning_8f5239f8:
+translate spanish beginning_8f5239f8:
 
     # Jun "Me?!" with sshake
     Jun "" with sshake
 
 # game/1_diya.rpy:356
-translate general beginning_7fa4ad30:
+translate spanish beginning_7fa4ad30:
 
     # DiyaT "That does sound pretty cool..."
     DiyaT ""
 
 # game/1_diya.rpy:358
-translate general beginning_fba116f5:
+translate spanish beginning_fba116f5:
 
     # Diya "Changed my mind."
     Diya ""
 
 # game/1_diya.rpy:359
-translate general beginning_4f44ceb8:
+translate spanish beginning_4f44ceb8:
 
     # Diya "Bang. Shot the dragon instead."
     Diya ""
 
 # game/1_diya.rpy:364
-translate general beginning_0debc5b4_2:
+translate spanish beginning_0debc5b4_2:
 
     # Diya "Bang."
     Diya ""
 
 # game/1_diya.rpy:366
-translate general beginning_9e555b72:
+translate spanish beginning_9e555b72:
 
     # Diya "Jun's dead."
     Diya ""
 
 # game/1_diya.rpy:369
-translate general beginning_8a823a80:
+translate spanish beginning_8a823a80:
 
     # Jun "But I'm a gun..."
     Jun ""
 
 # game/1_diya.rpy:371
-translate general beginning_b24e279e:
+translate spanish beginning_b24e279e:
 
     # Min "Then you broke in half."
     Min ""
 
 # game/1_diya.rpy:373
-translate general beginning_3ddb86bb:
+translate spanish beginning_3ddb86bb:
 
     # Jun "In half?!"
     Jun ""
 
 # game/1_diya.rpy:375
-translate general beginning_df84e419:
+translate spanish beginning_df84e419:
 
     # Hayden "That's harsh, dude."
     Hayden ""
 
 # game/1_diya.rpy:377
-translate general beginning_902fc4ea:
+translate spanish beginning_902fc4ea:
 
     # Min "I used the last of Jun's energy to shoot you again!"
     Min ""
 
 # game/1_diya.rpy:378
-translate general beginning_c7d56ceb:
+translate spanish beginning_c7d56ceb:
 
     # Min "DEAD."
     Min ""
 
 # game/1_diya.rpy:384
-translate general beginning_93ced5da:
+translate spanish beginning_93ced5da:
 
     # Diya "Deflected the deflected bullet with my own bullet."
     Diya ""
 
 # game/1_diya.rpy:386
-translate general beginning_43aa3aff:
+translate spanish beginning_43aa3aff:
 
     # Diya "So Min's original bullet is going toward him again."
     Diya ""
 
 # game/1_diya.rpy:389
-translate general beginning_db0aeafc:
+translate spanish beginning_db0aeafc:
 
     # Jun "That's...{w=0.35} unnecessarily complicated."
     Jun ""
 
 # game/1_diya.rpy:390
-translate general beginning_79e910cb:
+translate spanish beginning_79e910cb:
 
     # Jun "Why didn't you just shoot him directly...?"
     Jun ""
 
 # game/1_diya.rpy:392
-translate general beginning_4e8516ac:
+translate spanish beginning_4e8516ac:
 
     # Min "This way is cooler!!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:394
-translate general beginning_912b5935:
+translate spanish beginning_912b5935:
 
     # DiyaT "Yeah."
     DiyaT ""
 
 # game/1_diya.rpy:399
-translate general niceTry_659e7536:
+translate spanish niceTry_659e7536:
 
     # Hayden "{cps=20}Nice try... {/cps}{w=0.35}{i}but too bad!{/i} {w=0.35}The bullet bounces off me!"
     Hayden ""
 
 # game/1_diya.rpy:401
-translate general niceTry_9ef02b9c:
+translate spanish niceTry_9ef02b9c:
 
     # Diya "How is that possible."
     Diya ""
 
 # game/1_diya.rpy:404
-translate general niceTry_70331b2c:
+translate spanish niceTry_70331b2c:
 
     # Hayden "My dragon scales are stronger than tank armor!"
     Hayden ""
 
 # game/1_diya.rpy:405
-translate general niceTry_0eb0e947:
+translate spanish niceTry_0eb0e947:
 
     # Hayden "Take that!"
     Hayden ""
 
 # game/1_diya.rpy:409
-translate general niceTry_6f75507b:
+translate spanish niceTry_6f75507b:
 
     # Jun "Maybe we can resolve this without fighting, then... "
     Jun ""
 
 # game/1_diya.rpy:410
-translate general niceTry_ac9f51dd:
+translate spanish niceTry_ac9f51dd:
 
     # Jun "Let's talk it ov—"
     Jun ""
 
 # game/1_diya.rpy:413
-translate general niceTry_b4edd7df:
+translate spanish niceTry_b4edd7df:
 
     # Min "{big=+20}VIOLENCE SOLVES EVERYTHING!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:414
-translate general niceTry_87e85c49:
+translate spanish niceTry_87e85c49:
 
     # Min "{big=+20}I'M MAKING A NEW GUN WITH ROCKS!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:416
-translate general niceTry_a8e61fe1:
+translate spanish niceTry_a8e61fe1:
 
     # Jun "Are you replacing me...?"
     Jun ""
 
 # game/1_diya.rpy:418
-translate general niceTry_f82cafa1:
+translate spanish niceTry_f82cafa1:
 
     # Min "Yeah! {w=0.35}Sorry!"
     Min ""
 
 # game/1_diya.rpy:420
-translate general niceTry_7984f326:
+translate spanish niceTry_7984f326:
 
     # Min "BANG!{w=0.35} Dragon's dead!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:422
-translate general niceTry_e76ce7b7:
+translate spanish niceTry_e76ce7b7:
 
     # Hayden "Uh, did you forget?{w=0.35} I'm bulletproof."
     Hayden ""
 
 # game/1_diya.rpy:424
-translate general niceTry_d67a3dcd:
+translate spanish niceTry_d67a3dcd:
 
     # Min "But my gun didn't shoot a bullet!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:429
-translate general niceTry_e36bb257:
+translate spanish niceTry_e36bb257:
 
     # Min "My gun shot{cps=20}... {/cps}"
     Min ""
 
 # game/1_diya.rpy:432
-translate general niceTry_bd6af510:
+translate spanish niceTry_bd6af510:
 
     # Min "A SMALLER GUN!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:434
-translate general niceTry_799130c8:
+translate spanish niceTry_799130c8:
 
     # Min "{big=+14}...WHICH SHOT A KNIFE!!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:435
-translate general niceTry_c86f6571:
+translate spanish niceTry_c86f6571:
 
     # Min "{big=+20}...WHICH EXPLODED!!!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:436
-translate general niceTry_78aff33f:
+translate spanish niceTry_78aff33f:
 
     # Hayden "{cps=25}...... {/cps}"
     Hayden ""
 
 # game/1_diya.rpy:437
-translate general niceTry_e088a0fe:
+translate spanish niceTry_e088a0fe:
 
     # Jun "{cps=25}...... {/cps}"
     Jun ""
 
 # game/1_diya.rpy:438
-translate general niceTry_ab20ef84:
+translate spanish niceTry_ab20ef84:
 
     # Diya "{cps=25}...... {/cps}"
     Diya ""
 
 # game/1_diya.rpy:439
-translate general niceTry_8c44bf45:
+translate spanish niceTry_8c44bf45:
 
     # Hayden "What was the point of the smaller gun in the middle?"
     Hayden ""
 
 # game/1_diya.rpy:440
-translate general niceTry_f5e23e83:
+translate spanish niceTry_f5e23e83:
 
     # Min "It's there to shoot the knife!"
     Min ""
 
 # game/1_diya.rpy:441
-translate general niceTry_5d1783a4:
+translate spanish niceTry_5d1783a4:
 
     # Jun "No, {w=0.2}but why couldn't the original gun shoot the knife?"
     Jun ""
 
 # game/1_diya.rpy:442
-translate general niceTry_469239cd:
+translate spanish niceTry_469239cd:
 
     # "Min gives Jun an incredulous look."
     ""
 
 # game/1_diya.rpy:443
-translate general niceTry_f6d0fdff:
+translate spanish niceTry_f6d0fdff:
 
     # Min "Because it was shooting out the smaller gun."
     Min ""
 
 # game/1_diya.rpy:444
-translate general niceTry_4f831f3f:
+translate spanish niceTry_4f831f3f:
 
     # Jun "{cps=25}...never mind... {/cps}"
     Jun ""
 
 # game/1_diya.rpy:450
-translate general niceTry_54a0615d:
+translate spanish niceTry_54a0615d:
 
     # Hayden "Okay, so let's say my elbow is injured now."
     Hayden ""
 
 # game/1_diya.rpy:451
-translate general niceTry_b8d1f40d:
+translate spanish niceTry_b8d1f40d:
 
     # Hayden "So if you touch that, I lose."
     Hayden ""
 
 # game/1_diya.rpy:454
-translate general niceTry_40074594:
+translate spanish niceTry_40074594:
 
     # Min "RRRAUUGH!!!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:457
-translate general niceTry_bb1b21a2:
+translate spanish niceTry_bb1b21a2:
 
     # "Min lunges at him!"
     ""
 
 # game/1_diya.rpy:458
-translate general niceTry_caa0e29a:
+translate spanish niceTry_caa0e29a:
 
     # "He sidesteps and darts up the steps to the slide!"
     ""
 
 # game/1_diya.rpy:459
-translate general niceTry_4671eb81:
+translate spanish niceTry_4671eb81:
 
     # "When Min catches up, he spins so his back is to the wall."
     ""
 
 # game/1_diya.rpy:461
-translate general niceTry_13d5ecaa:
+translate spanish niceTry_13d5ecaa:
 
     # DiyaT "She looks like she's having trouble..."
     DiyaT ""
 
 # game/1_diya.rpy:462
-translate general niceTry_e081c29c:
+translate spanish niceTry_e081c29c:
 
     # Diya "Do you need help?"
     Diya ""
 
 # game/1_diya.rpy:465
-translate general niceTry_ae5264e6:
+translate spanish niceTry_ae5264e6:
 
     # Min "What?!{w=0.2} No!"
     Min ""
 
 # game/1_diya.rpy:468
-translate general niceTry_077cd6c1:
+translate spanish niceTry_077cd6c1:
 
     # "The evil dragon feints to the right.{w=0.2} Min falls for it and he rushes past her,{w=0.2} back the way he came."
     ""
 
 # game/1_diya.rpy:470
-translate general niceTry_fb72c537:
+translate spanish niceTry_fb72c537:
 
     # Min "!"
     Min ""
 
 # game/1_diya.rpy:473
-translate general niceTry_d6778ee5:
+translate spanish niceTry_d6778ee5:
 
     # "Min trips and face plants on the bridge!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:475
-translate general niceTry_1f1108b4:
+translate spanish niceTry_1f1108b4:
 
     # Diya "...!!!!!!!!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:477
-translate general niceTry_960a544c:
+translate spanish niceTry_960a544c:
 
     # "Before Min can see, Diya quickly picks the evil dragon up and hurls him off the playground structure like a sack of potatoes."
     ""
 
 # game/1_diya.rpy:479
-translate general niceTry_7dcb2d16:
+translate spanish niceTry_7dcb2d16:
 
     # Hayden "Waugh?!!" with sshake
     Hayden "" with sshake
 
 # game/1_diya.rpy:485
-translate general niceTry_1ca877ae:
+translate spanish niceTry_1ca877ae:
 
     # Jun "Wait, you're the princess! You can't just do that."
     Jun ""
 
 # game/1_diya.rpy:487
-translate general niceTry_6276c5a5:
+translate spanish niceTry_6276c5a5:
 
     # Diya "................"
     Diya ""
 
 # game/1_diya.rpy:493
-translate general niceTry_13196a68:
+translate spanish niceTry_13196a68:
 
     # "Diya throws him off the playground structure, too."
     ""
 
 # game/1_diya.rpy:494
-translate general niceTry_6c90069f:
+translate spanish niceTry_6c90069f:
 
     # "As he disappears over the edge, Min pulls herself back to her feet."
     ""
 
 # game/1_diya.rpy:496
-translate general niceTry_5304c5f6:
+translate spanish niceTry_5304c5f6:
 
     # Min "Where is everyone?"
     Min ""
 
 # game/1_diya.rpy:498
-translate general niceTry_28c39c52:
+translate spanish niceTry_28c39c52:
 
     # Diya "They.......balcony collapsed."
     Diya ""
 
 # game/1_diya.rpy:500
-translate general niceTry_8e738b98:
+translate spanish niceTry_8e738b98:
 
     # Diya "Castle is under construction."
     Diya ""
 
 # game/1_diya.rpy:503
-translate general niceTry_37aaa74a:
+translate spanish niceTry_37aaa74a:
 
     # Min "Yeah!!!"
     Min ""
 
 # game/1_diya.rpy:505
-translate general niceTry_92efbd26:
+translate spanish niceTry_92efbd26:
 
     # Min "Heheheh!!!{w=0.35} I rescued you!"
     Min ""
 
 # game/1_diya.rpy:507
-translate general niceTry_985b08b1:
+translate spanish niceTry_985b08b1:
 
     # Diya "My hero."
     Diya ""
 
 # game/1_diya.rpy:510
-translate general niceTry_2c1d44e8:
+translate spanish niceTry_2c1d44e8:
 
     # Min "Yeah!{w=0.35} I'm your hero!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:520
-translate general niceTry_9ea70234:
+translate spanish niceTry_9ea70234:
 
     # "Min is struggling to princess carry Diya down the slide with her."
     ""
 
 # game/1_diya.rpy:521
-translate general niceTry_2f9c9f93:
+translate spanish niceTry_2f9c9f93:
 
     # "Diya could destroy her in a single punch if she wanted to, but she's patiently going along with it."
     ""
 
 # game/1_diya.rpy:524
-translate general niceTry_22b0814c:
+translate spanish niceTry_22b0814c:
 
     # Diya "I owe you my life. How can I repay you."
     Diya ""
 
 # game/1_diya.rpy:527
-translate general niceTry_b662d6fa:
+translate spanish niceTry_b662d6fa:
 
     # Min "You can... {w=0.35}r-repay me with a ki—"
     Min ""
 
 # game/1_diya.rpy:531
-translate general niceTry_654e65c7:
+translate spanish niceTry_654e65c7:
 
     # "*THUD*" with sshake
     "" with sshake
 
 # game/1_diya.rpy:540
-translate general niceTry_f8a1f174:
+translate spanish niceTry_f8a1f174:
 
     # Min "................"
     Min ""
 
 # game/1_diya.rpy:541
-translate general niceTry_6276c5a5_1:
+translate spanish niceTry_6276c5a5_1:
 
     # Diya "................"
     Diya ""
 
 # game/1_diya.rpy:542
-translate general niceTry_cef274c7:
+translate spanish niceTry_cef274c7:
 
     # DiyaT "My name is Diya."
     DiyaT ""
 
 # game/1_diya.rpy:544
-translate general niceTry_cd596c70:
+translate spanish niceTry_cd596c70:
 
     # DiyaT "...I don't really know what else to say about myself. I'm pretty boring."
     DiyaT ""
 
 # game/1_diya.rpy:547
-translate general niceTry_a05e2cb4:
+translate spanish niceTry_a05e2cb4:
 
     # DiyaT "The other girl is Min-seo. Everyone calls her Min."
     DiyaT ""
 
 # game/1_diya.rpy:548
-translate general niceTry_86b65723:
+translate spanish niceTry_86b65723:
 
     # DiyaT "She's so cool."
     DiyaT ""
 
 # game/1_diya.rpy:549
-translate general niceTry_c9adc14c:
+translate spanish niceTry_c9adc14c:
 
     # DiyaT "Do you see that thing on her arm? {w=0.35} She drew a giant dagger on it with Sharpie,{w=0.35} like a tattoo."
     DiyaT ""
 
 # game/1_diya.rpy:559
-translate general niceTry_4f702073:
+translate spanish niceTry_4f702073:
 
     # DiyaT "And in class, she makes ninja stars out of binder paper and throws them at people."
     DiyaT ""
 
 # game/1_diya.rpy:561
-translate general niceTry_9cb9cae2:
+translate spanish niceTry_9cb9cae2:
 
     # DiyaT "She stamps them with staples so they hurt more."
     DiyaT ""
 
 # game/1_diya.rpy:562
-translate general niceTry_55bec2ad:
+translate spanish niceTry_55bec2ad:
 
     # DiyaT "But she never throws them at me."
     DiyaT ""
 
 # game/1_diya.rpy:565
-translate general niceTry_c1e6ee38:
+translate spanish niceTry_c1e6ee38:
 
     # DiyaT "I think it's mainly because I'm the only other girl she knows who likes baseball."
     DiyaT ""
 
 # game/1_diya.rpy:566
-translate general niceTry_a81853a6:
+translate spanish niceTry_a81853a6:
 
     # DiyaT "We both used to think we were the only one in the world. So we were both really excited to meet each other."
     DiyaT ""
 
 # game/1_diya.rpy:567
-translate general niceTry_a78ea675:
+translate spanish niceTry_a78ea675:
 
     # DiyaT "I really like her."
     DiyaT ""
 
 # game/1_diya.rpy:589
-translate general niceTry_9fb01397:
+translate spanish niceTry_9fb01397:
 
     # DiyaT "Watching the pros play baseball always makes me so jealous."
     DiyaT ""
 
 # game/1_diya.rpy:591
-translate general niceTry_32fc9e1b:
+translate spanish niceTry_32fc9e1b:
 
     # DiyaT "It must be so fun, being on a real team like that."
     DiyaT ""
 
 # game/1_diya.rpy:594
-translate general niceTry_0674be9c:
+translate spanish niceTry_0674be9c:
 
     # "The catcher's gone up to the mound for a conference with his pitcher."
     ""
 
 # game/1_diya.rpy:596
-translate general niceTry_e113acce:
+translate spanish niceTry_e113acce:
 
     # DiyaT "For secrecy's sake,{w=0.10} they're talking with their gloves over their mouths."
     DiyaT ""
 
 # game/1_diya.rpy:599
-translate general niceTry_e7fcf2e9:
+translate spanish niceTry_e7fcf2e9:
 
     # Min "Someday,{w=0.10} that's gonna be us."
     Min ""
 
 # game/1_diya.rpy:602
-translate general niceTry_9fa2cfca:
+translate spanish niceTry_9fa2cfca:
 
     # Diya "...?"
     Diya ""
 
 # game/1_diya.rpy:603
-translate general niceTry_5c469137:
+translate spanish niceTry_5c469137:
 
     # Diya "Wait,{w=0.10} what?{w=0.26} But how."
     Diya ""
 
 # game/1_diya.rpy:604
-translate general niceTry_2aebaf95:
+translate spanish niceTry_2aebaf95:
 
     # Diya "Your parents won't even let you join my team 'cause you're a girl."
     Diya ""
 
 # game/1_diya.rpy:605
-translate general niceTry_30f45e41:
+translate spanish niceTry_30f45e41:
 
     # Diya "Besides,{w=0.10} when I grow up I'll be a doctor or engineer."
     Diya ""
 
 # game/1_diya.rpy:608
-translate general niceTry_f4a37c56:
+translate spanish niceTry_f4a37c56:
 
     # Min "Huh? {w=0.26}How come?"
     Min ""
 
 # game/1_diya.rpy:610
-translate general niceTry_8eaa0ce5:
+translate spanish niceTry_8eaa0ce5:
 
     # Diya "My parents said so."
     Diya ""
 
 # game/1_diya.rpy:613
-translate general niceTry_55da0b37:
+translate spanish niceTry_55da0b37:
 
     # Min "So? {w=0.26}My parents said to pass my math test,{w=0.10} and I failed!"
     Min ""
 
 # game/1_diya.rpy:615
-translate general niceTry_89d23c36:
+translate spanish niceTry_89d23c36:
 
     # Diya "That's...{w=0.26}not something to be proud of."
     Diya ""
 
 # game/1_diya.rpy:616
-translate general niceTry_56244b05:
+translate spanish niceTry_56244b05:
 
     # Diya "I don't know how you do it. I wouldn't be able to handle disappointing my parents like that."
     Diya ""
 
 # game/1_diya.rpy:617
-translate general niceTry_bc2df119:
+translate spanish niceTry_bc2df119:
 
     # Diya "It's like, my worst fear."
     Diya ""
 
 # game/1_diya.rpy:620
-translate general niceTry_2301065d:
+translate spanish niceTry_2301065d:
 
     # Min "If your worst fear is disappointing your parents, that means your parents effed up."
     Min ""
 
 # game/1_diya.rpy:621
-translate general niceTry_f186c722:
+translate spanish niceTry_f186c722:
 
     # Min "You should be able to do what you want without worrying about what they think."
     Min ""
 
 # game/1_diya.rpy:623
-translate general niceTry_463590c1:
+translate spanish niceTry_463590c1:
 
     # Diya "I don't know. That seems selfish."
     Diya ""
 
 # game/1_diya.rpy:626
-translate general niceTry_8818ca30:
+translate spanish niceTry_8818ca30:
 
     # Min "It's not selfish to choose your own destiny."
     Min ""
 
 # game/1_diya.rpy:639
-translate general niceTry_4642d1b5:
+translate spanish niceTry_4642d1b5:
 
     # DiyaT "Right now, we're at the Oakland Coliseum with Min's dad and Jun."
     DiyaT ""
 
 # game/1_diya.rpy:641
-translate general niceTry_5c6aeb4b:
+translate spanish niceTry_5c6aeb4b:
 
     # DiyaT "I guess I should explain where Oakland is, to people who don't live in California."
     DiyaT ""
 
 # game/1_diya.rpy:642
-translate general niceTry_922bb071:
+translate spanish niceTry_922bb071:
 
     # DiyaT "Do you know where San Francisco is?"
     DiyaT ""
 
 # game/1_diya.rpy:643
-translate general niceTry_0995370d:
+translate spanish niceTry_0995370d:
 
     # DiyaT "Well, we're not there. We're like 30 minutes from there."
     DiyaT ""
 
 # game/1_diya.rpy:646
-translate general niceTry_927dfe32:
+translate spanish niceTry_927dfe32:
 
     # Min "...Hey, Diya."
     Min ""
 
 # game/1_diya.rpy:649
-translate general niceTry_9fa2cfca_1:
+translate spanish niceTry_9fa2cfca_1:
 
     # Diya "...?"
     Diya ""
 
 # game/1_diya.rpy:660
-translate general niceTry_763c395e:
+translate spanish niceTry_763c395e:
 
     # Min "I have something I need to tell you. Something important."
     Min ""
 
 # game/1_diya.rpy:665
-translate general niceTry_cd8fa362:
+translate spanish niceTry_cd8fa362:
 
     # Min "I........uh............"
     Min ""
 
 # game/1_diya.rpy:666
-translate general niceTry_9ddc7c94:
+translate spanish niceTry_9ddc7c94:
 
     # Min "{slow}................. {/slow}"
     Min ""
 
 # game/1_diya.rpy:668
-translate general niceTry_dff771f2:
+translate spanish niceTry_dff771f2:
 
     # Min "....Never mind.{w=0.26} Forget it."
     Min ""
 
 # game/1_diya.rpy:670
-translate general niceTry_b224c1f9:
+translate spanish niceTry_b224c1f9:
 
     # Diya "{slow}???????{/slow}" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:674
-translate general niceTry_abe36bfc:
+translate spanish niceTry_abe36bfc:
 
     # Min "I SAID FORGET IT!{w=0.26} DON'T WORRY ABOUT IT!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:676
-translate general niceTry_5a6605f3:
+translate spanish niceTry_5a6605f3:
 
     # Min "Aren't you having fun right now?!{w=0.26} Are you hungry or anything?"
     Min ""
 
 # game/1_diya.rpy:679
-translate general niceTry_0d4e0c30:
+translate spanish niceTry_0d4e0c30:
 
     # Diya "Why are you changing the subject."
     Diya ""
 
 # game/1_diya.rpy:680
-translate general niceTry_55c4ba8f:
+translate spanish niceTry_55c4ba8f:
 
     # Diya "If you're trying to distract me,{w=0.10} it's not gonna work."
     Diya ""
 
 # game/1_diya.rpy:683
-translate general niceTry_b01797bd:
+translate spanish niceTry_b01797bd:
 
     # Min "Let's go get popcorn and share!"
     Min ""
 
 # game/1_diya.rpy:685
-translate general niceTry_dc04f720:
+translate spanish niceTry_dc04f720:
 
     # Diya "!!!!!!!!!!!!!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:687
-translate general niceTry_a147e5b5:
+translate spanish niceTry_a147e5b5:
 
     # DiyaT "Popcorn is great!{w=0.26} I like popcorn!"
     DiyaT ""
 
 # game/1_diya.rpy:688
-translate general niceTry_22cf5538:
+translate spanish niceTry_22cf5538:
 
     # DiyaT "Min is so nice to me!"
     DiyaT ""
 
 # game/1_diya.rpy:691
-translate general niceTry_80f7e495:
+translate spanish niceTry_80f7e495:
 
     # Min "Just tell me when you're ready to go!{w=0.26}\nThe popcorn guy is a few rows behind us."
     Min ""
 
 # game/1_diya.rpy:700
-translate general niceTry_623a92a3:
+translate spanish niceTry_623a92a3:
 
     # "(Use the mouse to interact!)"
     ""
 
 # game/1_diya.rpy:810
-translate general lookBaby_1726df38:
+translate spanish lookBaby_1726df38:
 
     # DiyaT "She's cradling something in her arms."
     DiyaT ""
 
 # game/1_diya.rpy:812
-translate general lookBaby_c5737a51:
+translate spanish lookBaby_c5737a51:
 
     # DiyaT "Dog???"
     DiyaT ""
 
 # game/1_diya.rpy:814
-translate general lookBaby_7069bea3:
+translate spanish lookBaby_7069bea3:
 
     # "Diya quickly jogs over to take a look."
     ""
 
 # game/1_diya.rpy:815
-translate general lookBaby_73f9c404:
+translate spanish lookBaby_73f9c404:
 
     # "To her severe disappointment, it's a baby."
     ""
 
 # game/1_diya.rpy:817
-translate general lookBaby_6276c5a5:
+translate spanish lookBaby_6276c5a5:
 
     # Diya "................"
     Diya ""
 
 # game/1_diya.rpy:820
-translate general lookBaby_60244f8f:
+translate spanish lookBaby_60244f8f:
 
     # DiyaT "I was tricked!!!"
     DiyaT ""
 
 # game/1_diya.rpy:830
-translate general eatPopcorn_1891a631:
+translate spanish eatPopcorn_1891a631:
 
     # "Diya eats some popcorn."
     ""
 
 # game/1_diya.rpy:833
-translate general eatPopcorn_1bc95092:
+translate spanish eatPopcorn_1bc95092:
 
     # DiyaT "10/10.{w=0.26} Would eat again."
     DiyaT ""
 
 # game/1_diya.rpy:836
-translate general eatPopcorn_4af3ac70:
+translate spanish eatPopcorn_4af3ac70:
 
     # DiyaT "There's barely any left."
     DiyaT ""
 
 # game/1_diya.rpy:838
-translate general eatPopcorn_20bae85c:
+translate spanish eatPopcorn_20bae85c:
 
     # DiyaT "Most of it exploded out when the ball landed in the tub."
     DiyaT ""
 
 # game/1_diya.rpy:848
-translate general lookDiamondNothing_c2de4589:
+translate spanish lookDiamondNothing_c2de4589:
 
     # DiyaT "Nothing really interesting is happening right now."
     DiyaT ""
 
 # game/1_diya.rpy:851
-translate general lookDiamondNothing_39a02ecc:
+translate spanish lookDiamondNothing_39a02ecc:
 
     # DiyaT "I guess I'll check back later."
     DiyaT ""
 
 # game/1_diya.rpy:862
-translate general lookDiamond1_22a83fbd:
+translate spanish lookDiamond1_22a83fbd:
 
     # DiyaT "I think Min is going for the \"Loudest Sound In History\" World Record."
     DiyaT ""
 
 # game/1_diya.rpy:867
-translate general lookDiamond1_d2200a15:
+translate spanish lookDiamond1_d2200a15:
 
     # Min "{big=+20}WHADDYA MEAN \"SAFE\"!!{w=0.26}\nYOU NEED TO GET SOME GODDAMN LASER EYE SURGERY!!!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:869
-translate general lookDiamond1_4fb69844:
+translate spanish lookDiamond1_4fb69844:
 
     # Min "{big=+20}I HOPE THE PERSON YOU LIKE LIKES SOMEONE ELSE!!!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:870
-translate general lookDiamond1_6541c21a:
+translate spanish lookDiamond1_6541c21a:
 
     # Min "{big=+20}GIVE ME A BR{i}EA— {/i}{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:872
-translate general lookDiamond1_ad56e609:
+translate spanish lookDiamond1_ad56e609:
 
     # Min "*cough!!!*{w=0.26} *hack!!!*{w=0.26} *wheeze!!!*" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:876
-translate general lookDiamond1_2819dc88:
+translate spanish lookDiamond1_2819dc88:
 
     # Diya "{slow}...?{/slow}"
     Diya ""
 
 # game/1_diya.rpy:880
-translate general lookDiamond1_d036a6d9:
+translate spanish lookDiamond1_d036a6d9:
 
     # Min "...I choked on my own spit..."
     Min ""
 
 # game/1_diya.rpy:882
-translate general lookDiamond1_46fde728:
+translate spanish lookDiamond1_46fde728:
 
     # "She looks absolutely mortified, {w=0.10}so Diya turns back to the diamond and pretends she didn't see anything..."
     ""
 
 # game/1_diya.rpy:902
-translate general lookDiamond2_08a8b3a8:
+translate spanish lookDiamond2_08a8b3a8:
 
     # DiyaT "The visiting team is pitching now."
     DiyaT ""
 
 # game/1_diya.rpy:904
-translate general lookDiamond2_2819dc88:
+translate spanish lookDiamond2_2819dc88:
 
     # Diya "{slow}...?{/slow}"
     Diya ""
 
 # game/1_diya.rpy:906
-translate general lookDiamond2_edc1e66c:
+translate spanish lookDiamond2_edc1e66c:
 
     # DiyaT "Whoa.{w=0.26} Some kid behind us is talking to his dad."
     DiyaT ""
 
 # game/1_diya.rpy:908
-translate general lookDiamond2_7701c4bc:
+translate spanish lookDiamond2_7701c4bc:
 
     # NPC2 "Dad,{w=0.10} who's that?"
     NPC2 ""
 
 # game/1_diya.rpy:909
-translate general lookDiamond2_73fa86dd:
+translate spanish lookDiamond2_73fa86dd:
 
     # NPC "It's Tim Wakefield!{w=0.26} He's a knuckleball pitcher."
     NPC ""
 
 # game/1_diya.rpy:910
-translate general lookDiamond2_a87ac58b:
+translate spanish lookDiamond2_a87ac58b:
 
     # NPC "It's always fun watching these guys.{w=0.26} Knuckleballers are pretty rare."
     NPC ""
 
 # game/1_diya.rpy:911
-translate general lookDiamond2_623eeffd:
+translate spanish lookDiamond2_623eeffd:
 
     # NPC "The movement on that pitch is nuts.{w=0.26} Like a butterfly with hiccups."
     NPC ""
 
 # game/1_diya.rpy:913
-translate general lookDiamond2_1bd16b44:
+translate spanish lookDiamond2_1bd16b44:
 
     # DiyaT "Wow...{w=0.26}Some people actually talk to their parents on purpose...{w=0.26}Like,{w=0.10} for fun..."
     DiyaT ""
 
 # game/1_diya.rpy:917
-translate general lookDiamond2_fb828b3b:
+translate spanish lookDiamond2_fb828b3b:
 
     # DiyaT "I can't even imagine it. {w=0.26}Every time I talk to my parents,{w=0.10} it somehow turns into a lecture about something I did wrong."
     DiyaT ""
 
 # game/1_diya.rpy:918
-translate general lookDiamond2_2a6f060c:
+translate spanish lookDiamond2_2a6f060c:
 
     # DiyaT "So I only talk to them now when I absolutely have to."
     DiyaT ""
 
 # game/1_diya.rpy:921
-translate general lookDiamond2_3adb67d8:
+translate spanish lookDiamond2_3adb67d8:
 
     # NPC2 "How come they switched catchers,{w=0.10} too?"
     NPC2 ""
 
 # game/1_diya.rpy:922
-translate general lookDiamond2_ea8080e9:
+translate spanish lookDiamond2_ea8080e9:
 
     # NPC "Because catching a knuckleball is really unpleasant and difficult."
     NPC ""
 
 # game/1_diya.rpy:923
-translate general lookDiamond2_14af075f:
+translate spanish lookDiamond2_14af075f:
 
     # NPC "If you can do it reasonably well —{w=0.26} no one does it REALLY well — {w=0.26}that one skill can keep you on the team. "
     NPC ""
 
 # game/1_diya.rpy:924
-translate general lookDiamond2_9be5ee51:
+translate spanish lookDiamond2_9be5ee51:
 
     # NPC "A lot of knuckleball pitchers end up having one catcher who specializes in catching that pitch just for them."
     NPC ""
 
 # game/1_diya.rpy:925
-translate general lookDiamond2_7837c201:
+translate spanish lookDiamond2_7837c201:
 
     # NPC "They're called \"personal catchers.\""
     NPC ""
 
 # game/1_diya.rpy:926
-translate general lookDiamond2_64a25d06:
+translate spanish lookDiamond2_64a25d06:
 
     # NPC "For instance,{w=0.10} J.C. Martin always caught Hoyt Wilhelm's knuckleball."
     NPC ""
 
 # game/1_diya.rpy:927
-translate general lookDiamond2_43ea5cfa:
+translate spanish lookDiamond2_43ea5cfa:
 
     # NPC "And Doug Mirabelli always catches Tim Wakefield and his knuckleball for the Red Sox."
     NPC ""
 
 # game/1_diya.rpy:928
-translate general lookDiamond2_eec5dc35:
+translate spanish lookDiamond2_eec5dc35:
 
     # NPC "The two of them even get traded together,{w=0.10} as a set."
     NPC ""
 
 # game/1_diya.rpy:929
-translate general lookDiamond2_8ce9d51a:
+translate spanish lookDiamond2_8ce9d51a:
 
     # NPC "It's like a weird baseball marriage."
     NPC ""
 
 # game/1_diya.rpy:931
-translate general lookDiamond2_5d8d9189:
+translate spanish lookDiamond2_5d8d9189:
 
     # Min "{slow}..............{/slow}"
     Min ""
 
 # game/1_diya.rpy:934
-translate general lookDiamond2_76136d66:
+translate spanish lookDiamond2_76136d66:
 
     # Diya "{slow}..............{/slow}"
     Diya ""
 
 # game/1_diya.rpy:937
-translate general lookDiamond2_575df21a:
+translate spanish lookDiamond2_575df21a:
 
     # Min "DIYA!!!! I HAVE A GREAT IDEA!!!!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:939
-translate general lookDiamond2_8d05013a:
+translate spanish lookDiamond2_8d05013a:
 
     # Min "I should learn to throw knuckleball, {w=0.26} and you can catch it for me."
     Min ""
 
 # game/1_diya.rpy:942
-translate general lookDiamond2_a1e4fa77:
+translate spanish lookDiamond2_a1e4fa77:
 
     # Diya "Wait. {w=0.26}But didn't they just say it's really hard to catch."
     Diya ""
 
 # game/1_diya.rpy:945
-translate general lookDiamond2_e0fac137:
+translate spanish lookDiamond2_e0fac137:
 
     # Min "So what? {w=0.26}You're like a baseball goddess!"
     Min ""
 
 # game/1_diya.rpy:948
-translate general lookDiamond2_4f64991e:
+translate spanish lookDiamond2_4f64991e:
 
     # Diya "You're overestimating me."
     Diya ""
 
 # game/1_diya.rpy:949
-translate general lookDiamond2_1486ee63:
+translate spanish lookDiamond2_1486ee63:
 
     # Diya "I'm not that great."
     Diya ""
 
 # game/1_diya.rpy:950
-translate general lookDiamond2_28449c5c:
+translate spanish lookDiamond2_28449c5c:
 
     # Diya "I just got lucky that one time."
     Diya ""
 
 # game/1_diya.rpy:953
-translate general lookDiamond2_0b0c3b3b:
+translate spanish lookDiamond2_0b0c3b3b:
 
     # Min "You've \"gotten lucky\" so many times I don't even know which one you're talking about."
     Min ""
 
 # game/1_diya.rpy:956
-translate general lookDiamond2_bf6fc17c:
+translate spanish lookDiamond2_bf6fc17c:
 
     # Diya "No, you don't understand. All those were flukes."
     Diya ""
 
 # game/1_diya.rpy:957
-translate general lookDiamond2_ccba4605:
+translate spanish lookDiamond2_ccba4605:
 
     # Diya "They just happened by chance. I don't have a special technique or anything."
     Diya ""
 
 # game/1_diya.rpy:960
-translate general lookDiamond2_5ef5200e:
+translate spanish lookDiamond2_5ef5200e:
 
     # Min "Your special technique is being you."
     Min ""
 
 # game/1_diya.rpy:961
-translate general lookDiamond2_0c069f88:
+translate spanish lookDiamond2_0c069f88:
 
     # Min "You're the best."
     Min ""
 
 # game/1_diya.rpy:964
-translate general lookDiamond2_68278656:
+translate spanish lookDiamond2_68278656:
 
     # Diya "You're putting too much faith in me."
     Diya ""
 
 # game/1_diya.rpy:965
-translate general lookDiamond2_c615a879:
+translate spanish lookDiamond2_c615a879:
 
     # Diya "I'm not that good."
     Diya ""
 
 # game/1_diya.rpy:966
-translate general lookDiamond2_dcd538a0:
+translate spanish lookDiamond2_dcd538a0:
 
     # Diya "When you see what I'm really like, you'll be like, \"That's it?\""
     Diya ""
 
 # game/1_diya.rpy:969
-translate general lookDiamond2_ee9e8168:
+translate spanish lookDiamond2_ee9e8168:
 
     # Min "I'll never think that!"
     Min ""
 
 # game/1_diya.rpy:979
-translate general lookDiamond2_bb9a7e61:
+translate spanish lookDiamond2_bb9a7e61:
 
     # Diya "Even if I could catch it, are you really willing to be a pitcher?"
     Diya ""
 
 # game/1_diya.rpy:982
-translate general lookDiamond2_971b4462:
+translate spanish lookDiamond2_971b4462:
 
     # Min "Why not? {w=0.26}The pitcher is the coolest."
     Min ""
 
 # game/1_diya.rpy:985
-translate general lookDiamond2_3cc4f4d8:
+translate spanish lookDiamond2_3cc4f4d8:
 
     # Diya "You're so brave. {w=0.26}I hate pitching."
     Diya ""
 
 # game/1_diya.rpy:988
-translate general lookDiamond2_33d062e4:
+translate spanish lookDiamond2_33d062e4:
 
     # Min "Why? {w=0.26}You get to stand on the mound and kick ass in front of everyone."
     Min ""
 
 # game/1_diya.rpy:991
-translate general lookDiamond2_79599726:
+translate spanish lookDiamond2_79599726:
 
     # Diya "But that's exactly why."
     Diya ""
 
 # game/1_diya.rpy:992
-translate general lookDiamond2_2b46e446:
+translate spanish lookDiamond2_2b46e446:
 
     # Diya "I don't want people watching every move I make."
     Diya ""
 
 # game/1_diya.rpy:993
-translate general lookDiamond2_dce90ce8:
+translate spanish lookDiamond2_dce90ce8:
 
     # Diya "Especially if I'm the only girl. {w=0.26}If I mess up, {w=0.26}it'll look like all girls suck at baseball."
     Diya ""
 
 # game/1_diya.rpy:997
-translate general lookDiamond2_b2a9a2a9:
+translate spanish lookDiamond2_b2a9a2a9:
 
     # Min "Then don't mess up."
     Min ""
 
 # game/1_diya.rpy:1000
-translate general lookDiamond2_c0eac85f:
+translate spanish lookDiamond2_c0eac85f:
 
     # DiyaT "That's hard."
     DiyaT ""
 
 # game/1_diya.rpy:1001
-translate general lookDiamond2_afbe4132:
+translate spanish lookDiamond2_afbe4132:
 
     # DiyaT "It's a situation where you can't help but be scared."
     DiyaT ""
 
 # game/1_diya.rpy:1004
-translate general lookDiamond2_713a990d:
+translate spanish lookDiamond2_713a990d:
 
     # Min "Anyway, {w=0.26}I'll be there with you."
     Min ""
 
 # game/1_diya.rpy:1005
-translate general lookDiamond2_2ba8ad3c:
+translate spanish lookDiamond2_2ba8ad3c:
 
     # Min "If there's two of us,{w=0.26} we {i}both{/i} have to mess up for them to think that."
     Min ""
 
 # game/1_diya.rpy:1008
-translate general lookDiamond2_56bfc018:
+translate spanish lookDiamond2_56bfc018:
 
     # Diya "...!"
     Diya ""
 
 # game/1_diya.rpy:1011
-translate general lookDiamond2_3ae0dff5:
+translate spanish lookDiamond2_3ae0dff5:
 
     # Min "So don't give up."
     Min ""
 
 # game/1_diya.rpy:1012
-translate general lookDiamond2_7b63ab9f:
+translate spanish lookDiamond2_7b63ab9f:
 
     # Min "I won't give up if you don't give up."
     Min ""
 
 # game/1_diya.rpy:1015
-translate general lookDiamond2_93212e9d:
+translate spanish lookDiamond2_93212e9d:
 
     # Diya "............."
     Diya ""
 
 # game/1_diya.rpy:1016
-translate general lookDiamond2_9bad59fc:
+translate spanish lookDiamond2_9bad59fc:
 
     # DiyaT "That's kind of comforting."
     DiyaT ""
 
 # game/1_diya.rpy:1017
-translate general lookDiamond2_56b0e5cd:
+translate spanish lookDiamond2_56b0e5cd:
 
     # DiyaT "I've always been alone out there."
     DiyaT ""
 
 # game/1_diya.rpy:1020
-translate general lookDiamond2_7ba18817:
+translate spanish lookDiamond2_7ba18817:
 
     # Min "It'll be you and me against the world!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1023
-translate general lookDiamond2_91bd24c3:
+translate spanish lookDiamond2_91bd24c3:
 
     # Diya "Okay.{w=0.26} Let's do it."
     Diya ""
 
 # game/1_diya.rpy:1030
-translate general lookDiamond3_b66d0b41:
+translate spanish lookDiamond3_b66d0b41:
 
     # "The batter hit the ball!{nw}"
     ""
 
 # game/1_diya.rpy:1032
-translate general lookDiamond3_f933755a:
+translate spanish lookDiamond3_f933755a:
 
     # extend "{w=0.26} It pops up foul!"
     extend ""
 
 # game/1_diya.rpy:1040
-translate general lookDiamond3_48d94a03:
+translate spanish lookDiamond3_48d94a03:
 
     # DiyaT "It's coming toward us!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:1051
-translate general lookDiamond3_73d58fa5:
+translate spanish lookDiamond3_73d58fa5:
 
     # "Diya catches the ball in the popcorn bucket!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:1053
-translate general lookDiamond3_a176ee38:
+translate spanish lookDiamond3_a176ee38:
 
     # DiyaT "Whoa!!!!!!!!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:1054
-translate general lookDiamond3_c837e0c8:
+translate spanish lookDiamond3_c837e0c8:
 
     # DiyaT "I got so lucky!"
     DiyaT ""
 
 # game/1_diya.rpy:1057
-translate general lookDiamond3_40e6881f:
+translate spanish lookDiamond3_40e6881f:
 
     # Min "{big=+20}YEEEEAAAAAHHHHHHHHHH!!!!!!!!!!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1059
-translate general lookDiamond3_3d48bad3:
+translate spanish lookDiamond3_3d48bad3:
 
     # Jun "Wow!{w=0.26} Diya,{w=0.10} that was— "
     Jun ""
 
 # game/1_diya.rpy:1061
-translate general lookDiamond3_90df30f0:
+translate spanish lookDiamond3_90df30f0:
 
     # Min "{big=+20}SO COOL!!{w=0.26} YOU'RE SO COOL!!!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1067
-translate general lookDiamond3_7971ba1f:
+translate spanish lookDiamond3_7971ba1f:
 
     # "Diya fishes the ball out of the half-emptied tub."
     ""
 
 # game/1_diya.rpy:1069
-translate general lookDiamond3_d1c41d76:
+translate spanish lookDiamond3_d1c41d76:
 
     # DiyaT "I better give this to Jun or Min. "
     DiyaT ""
 
 # game/1_diya.rpy:1070
-translate general lookDiamond3_e1630739:
+translate spanish lookDiamond3_e1630739:
 
     # DiyaT "My parents think I went to study at Noelle's house. {w=0.26}It'd be too suspicious to bring a baseball back."
     DiyaT ""
 
 # game/1_diya.rpy:1072
-translate general lookDiamond3_fb56b73e:
+translate spanish lookDiamond3_fb56b73e:
 
     # "Min sits back down. {w=0.26}Apparently she had gotten up at some point to jump around and scream."
     ""
 
 # game/1_diya.rpy:1073
-translate general lookDiamond3_ac0160c5:
+translate spanish lookDiamond3_ac0160c5:
 
     # "She still looks really awed."
     ""
 
 # game/1_diya.rpy:1076
-translate general lookDiamond3_bf452795:
+translate spanish lookDiamond3_bf452795:
 
     # Min "Thanks."
     Min ""
 
 # game/1_diya.rpy:1078
-translate general lookDiamond3_9fa2cfca:
+translate spanish lookDiamond3_9fa2cfca:
 
     # Diya "...?"
     Diya ""
 
 # game/1_diya.rpy:1079
-translate general lookDiamond3_84effb61:
+translate spanish lookDiamond3_84effb61:
 
     # Diya "For what?"
     Diya ""
 
 # game/1_diya.rpy:1082
-translate general lookDiamond3_43d9b1de:
+translate spanish lookDiamond3_43d9b1de:
 
     # Min "Existing."
     Min ""
 
 # game/1_diya.rpy:1091
-translate general giveJunseo_c8cddfd5:
+translate spanish giveJunseo_c8cddfd5:
 
     # "Diya holds the ball out to Jun-seo."
     ""
 
 # game/1_diya.rpy:1094
-translate general giveJunseo_9d3caf55:
+translate spanish giveJunseo_9d3caf55:
 
     # Jun "Wow,{w=0.10} thanks!"
     Jun ""
 
 # game/1_diya.rpy:1095
-translate general giveJunseo_1d0f37ea:
+translate spanish giveJunseo_1d0f37ea:
 
     # Jun "I don't like baseball that much,{w=0.10} but now I'll always have something to remember you by."
     Jun ""
 
 # game/1_diya.rpy:1103
-translate general giveMin_b654fa26:
+translate spanish giveMin_b654fa26:
 
     # "Diya holds the baseball out to Min."
     ""
 
 # game/1_diya.rpy:1108
-translate general giveMin_a5f1ea07:
+translate spanish giveMin_a5f1ea07:
 
     # Min "Can I really have it?!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1110
-translate general giveMin_b2c9970d:
+translate spanish giveMin_b2c9970d:
 
     # Min "I'll treasure it forever.{w=0.26} If anyone else touches it, I'll kill them."
     Min ""
 
 # game/1_diya.rpy:1113
-translate general giveMin_49a023a2:
+translate spanish giveMin_49a023a2:
 
     # Diya "That's way too extreme." with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:1116
-translate general giveMin_02d4afe9:
+translate spanish giveMin_02d4afe9:
 
     # Jun "It's a big deal,{w=0.10} though!{w=0.26} Now we'll always have something to remember you by."
     Jun ""
 
 # game/1_diya.rpy:1120
-translate general rememberBy_9fa2cfca:
+translate spanish rememberBy_9fa2cfca:
 
     # Diya "...?"
     Diya ""
 
 # game/1_diya.rpy:1121
-translate general rememberBy_63a38157:
+translate spanish rememberBy_63a38157:
 
     # Diya "What do you mean,{w=0.10} remember me by."
     Diya ""
 
 # game/1_diya.rpy:1122
-translate general rememberBy_1d49759b:
+translate spanish rememberBy_1d49759b:
 
     # Diya "That makes it sound like I'm going to die or something. "
     Diya ""
 
 # game/1_diya.rpy:1127
-translate general rememberBy_23d010ae:
+translate spanish rememberBy_23d010ae:
 
     # "Jun-seo looks alarmed by Diya's response!"
     ""
 
 # game/1_diya.rpy:1128
-translate general rememberBy_bd9974fd:
+translate spanish rememberBy_bd9974fd:
 
     # Jun "Did... {w=0.26}did Min not tell you!?" with sshake
     Jun "" with sshake
 
 # game/1_diya.rpy:1133
-translate general rememberBy_de0769e3:
+translate spanish rememberBy_de0769e3:
 
     # Diya "???? ?? ??????????????" with bigShake
     Diya "" with bigShake
 
 # game/1_diya.rpy:1134
-translate general rememberBy_d45df5f3:
+translate spanish rememberBy_d45df5f3:
 
     # Diya "Tell me what?"
     Diya ""
 
 # game/1_diya.rpy:1136
-translate general rememberBy_a01b29b7:
+translate spanish rememberBy_a01b29b7:
 
     # Jun "We're—{w=0.26}{nw}"
     Jun ""
 
 # game/1_diya.rpy:1140
-translate general rememberBy_254ba8e3:
+translate spanish rememberBy_254ba8e3:
 
     # Min "{cps=+60}{big=+20}SHUT THE HELL YOUR MOUTH!{/big}{/cps}" with bigShake
     Min "" with bigShake
 
 # game/1_diya.rpy:1142
-translate general rememberBy_ec8a6057:
+translate spanish rememberBy_ec8a6057:
 
     # DiyaT "What............. {w=0.26}what the heck........"
     DiyaT ""
 
 # game/1_diya.rpy:1150
-translate general rememberBy_8ce6c2bb:
+translate spanish rememberBy_8ce6c2bb:
 
     # Min "{cps=+60}{big=+20}IT'S NOTHING!!!{w=0.07} FUCK THE SHUT UP!!!{/big}{/cps}" with bigShake
     Min "" with bigShake
 
 # game/1_diya.rpy:1154
-translate general rememberBy_f4249266:
+translate spanish rememberBy_f4249266:
 
     # "Min gets up and runs for it!"
     ""
 
 # game/1_diya.rpy:1156
-translate general rememberBy_11d2098a:
+translate spanish rememberBy_11d2098a:
 
     # Jun "Min!" with sshake
     Jun "" with sshake
 
 # game/1_diya.rpy:1158
-translate general rememberBy_f76d4c84:
+translate spanish rememberBy_f76d4c84:
 
     # DiyaT "I've got to go after her!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:1174
-translate general confession_99b65570:
+translate spanish confession_99b65570:
 
     # "Diya chases Min up the steps and down the concourse they arrived through!"
     ""
 
 # game/1_diya.rpy:1187
-translate general confession_0bc34ca6:
+translate spanish confession_0bc34ca6:
 
     # Diya "Min!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:1199
-translate general confession_900cd61c:
+translate spanish confession_900cd61c:
 
     # "Diya grabs the back of Min's hoodie!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:1206
-translate general confession_92ceb6ae:
+translate spanish confession_92ceb6ae:
 
     # "Min loses her balance and face plants onto the carpet!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:1211
-translate general confession_136db9e2:
+translate spanish confession_136db9e2:
 
     # Diya "..........."
     Diya ""
 
 # game/1_diya.rpy:1213
-translate general confession_5791ef83:
+translate spanish confession_5791ef83:
 
     # Diya "Are you oka—"
     Diya ""
 
 # game/1_diya.rpy:1218
-translate general confession_a645302e:
+translate spanish confession_a645302e:
 
     # Min "We're moving away." with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1221
-translate general confession_22ec391a:
+translate spanish confession_22ec391a:
 
     # Diya "{slow}????!?!?!{/slow}" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:1222
-translate general confession_1b5cafe6:
+translate spanish confession_1b5cafe6:
 
     # Diya "Where?"
     Diya ""
 
 # game/1_diya.rpy:1225
-translate general confession_42113559:
+translate spanish confession_42113559:
 
     # Min "To Florida. Tomorrow."
     Min ""
 
 # game/1_diya.rpy:1227
-translate general confession_964956c8:
+translate spanish confession_964956c8:
 
     # Diya "Tomorrow?!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:1228
-translate general confession_48d8630f:
+translate spanish confession_48d8630f:
 
     # Diya "So sudden." with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:1231
-translate general confession_df13d28b:
+translate spanish confession_df13d28b:
 
     # Min "It wasn't sudden. I've known for a long time."
     Min ""
 
 # game/1_diya.rpy:1232
-translate general confession_3ad45c68:
+translate spanish confession_3ad45c68:
 
     # Min "I tried everything to stop it. {w=0.26}I even threatened Dad with a knife."
     Min ""
 
 # game/1_diya.rpy:1235
-translate general confession_35401b85:
+translate spanish confession_35401b85:
 
     # Min "I can't believe it failed!{w=0.26} Violence is always the answer!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1237
-translate general confession_21652c05:
+translate spanish confession_21652c05:
 
     # Diya "{slow}.......{/slow}"
     Diya ""
 
 # game/1_diya.rpy:1238
-translate general confession_f96398ef:
+translate spanish confession_f96398ef:
 
     # Diya "Florida...That's all the way across the country."
     Diya ""
 
 # game/1_diya.rpy:1241
-translate general confession_16f6705f:
+translate spanish confession_16f6705f:
 
     # Min "There's nothing there except old people."
     Min ""
 
 # game/1_diya.rpy:1243
-translate general confession_ecb9355c:
+translate spanish confession_ecb9355c:
 
     # Diya "No, alligators live there, too. I saw on Animal Planet."
     Diya ""
 
 # game/1_diya.rpy:1245
-translate general confession_b12b817e:
+translate spanish confession_b12b817e:
 
     # Diya "So this is it?"
     Diya ""
 
 # game/1_diya.rpy:1248
-translate general confession_a53c1cf7:
+translate spanish confession_a53c1cf7:
 
     # Min "This is it. Sorry."
     Min ""
 
 # game/1_diya.rpy:1250
-translate general confession_4ad543ca:
+translate spanish confession_4ad543ca:
 
     # Diya "But that's not fair."
     Diya ""
 
 # game/1_diya.rpy:1251
-translate general confession_6b166787:
+translate spanish confession_6b166787:
 
     # Diya "We can't even send letters because my parents hate you so much."
     Diya ""
 
 # game/1_diya.rpy:1252
-translate general confession_c3a740c9:
+translate spanish confession_c3a740c9:
 
     # Diya "I won't see you the rest of my life."
     Diya ""
 
 # game/1_diya.rpy:1256
-translate general confession_58d34360:
+translate spanish confession_58d34360:
 
     # Min "Hey, just because I'm moving doesn't mean we'll never meet again."
     Min ""
 
 # game/1_diya.rpy:1257
-translate general confession_1102bb06:
+translate spanish confession_1102bb06:
 
     # Min "If I want to see you and you want to see me, eventually it'll end up happening again, right?"
     Min ""
 
 # game/1_diya.rpy:1260
-translate general confession_a67cb64b:
+translate spanish confession_a67cb64b:
 
     # Diya "How do you know?"
     Diya ""
 
 # game/1_diya.rpy:1263
-translate general confession_229406b2:
+translate spanish confession_229406b2:
 
     # Min "I just know!"
     Min ""
 
 # game/1_diya.rpy:1265
-translate general confession_c348a683:
+translate spanish confession_c348a683:
 
     # Diya "That's not a reason."
     Diya ""
 
 # game/1_diya.rpy:1268
-translate general confession_77895885:
+translate spanish confession_77895885:
 
     # Min "Then... {w=0.26}because..."
     Min ""
 
 # game/1_diya.rpy:1270
-translate general confession_ddb3a117:
+translate spanish confession_ddb3a117:
 
     # Min "{slow}.......... {/slow}"
     Min ""
 
 # game/1_diya.rpy:1273
-translate general confession_082b31ec:
+translate spanish confession_082b31ec:
 
     # "Suddenly,{w=0.10} Min seizes Diya's arm!{w=0.26} She looks like she's had an epiphany!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:1274
-translate general confession_bccabff1:
+translate spanish confession_bccabff1:
 
     # Min "If you say our names together,{w=0.10} it sounds like \"diamond\"!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1276
-translate general confession_30c11479:
+translate spanish confession_30c11479:
 
     # DiyaT "What..."
     DiyaT ""
 
 # game/1_diya.rpy:1278
-translate general confession_7287c910:
+translate spanish confession_7287c910:
 
     # Min "Like Diya-Min!"
     Min ""
 
 # game/1_diya.rpy:1279
-translate general confession_c8b393bd:
+translate spanish confession_c8b393bd:
 
     # Min "Diya-Min... {w=0.26}diamond... {w=0.26}see?"
     Min ""
 
 # game/1_diya.rpy:1280
-translate general confession_f34c83d9:
+translate spanish confession_f34c83d9:
 
     # Min "It's even more like it if you say your name wrong,{w=0.2} like DIE-ya instead of Dee-ya."
     Min ""
 
 # game/1_diya.rpy:1282
-translate general confession_a4d617aa:
+translate spanish confession_a4d617aa:
 
     # Diya "I'm not saying my name wrong just to make it sound like diamond."
     Diya ""
 
 # game/1_diya.rpy:1285
-translate general confession_3174171e:
+translate spanish confession_3174171e:
 
     # Min "But it's more equal like that! {w=0.26}My name got cut in half to make it work,{w=0.2} so I had to sacrifice something, too."
     Min ""
 
 # game/1_diya.rpy:1287
-translate general confession_5307c4ae:
+translate spanish confession_5307c4ae:
 
     # Diya "I already call you Min.{w=0.26} No one says DIE-ya."
     Diya ""
 
 # game/1_diya.rpy:1290
-translate general confession_c45d7d50:
+translate spanish confession_c45d7d50:
 
     # Min "The substitute teacher does."
     Min ""
 
 # game/1_diya.rpy:1292
-translate general confession_2879c9e6:
+translate spanish confession_2879c9e6:
 
     # Diya "The substitute teacher sucks."
     Diya ""
 
 # game/1_diya.rpy:1293
-translate general confession_1b62f8b4:
+translate spanish confession_1b62f8b4:
 
     # Diya "How did you even think of this?"
     Diya ""
 
 # game/1_diya.rpy:1296
-translate general confession_231bc7a1:
+translate spanish confession_231bc7a1:
 
     # Min "I was checking if our names sounded like anything good together,{w=0.10} like \"baseball.\""
     Min ""
 
 # game/1_diya.rpy:1298
-translate general confession_efa7c7e8:
+translate spanish confession_efa7c7e8:
 
     # Diya "How could it possibly sound like baseball?{w=0.26}\nOur parents would've had to name us \"Base\" and \"Ball\". "
     Diya ""
 
 # game/1_diya.rpy:1301
-translate general confession_ff4a9a1d:
+translate spanish confession_ff4a9a1d:
 
     # Min "I know,{w=0.10} I know!"
     Min ""
 
 # game/1_diya.rpy:1303
-translate general confession_5f9e76dc:
+translate spanish confession_5f9e76dc:
 
     # Min "But still,{w=0.10} it's pretty cool that we match at all,{w=0.10} right?!"
     Min ""
 
 # game/1_diya.rpy:1304
-translate general confession_0ef0394e:
+translate spanish confession_0ef0394e:
 
     # Min "And it's even baseball related!"
     Min ""
 
 # game/1_diya.rpy:1306
-translate general confession_48949483:
+translate spanish confession_48949483:
 
     # Min "{big=+20}THE UNIVERSE IS SAYING WE'RE MEANT TO BE TOGETHER!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1308
-translate general confession_69312404:
+translate spanish confession_69312404:
 
     # DiyaT "Whoa!! {w=0.26}I guess she's right!!!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:1312
-translate general confession_0794d298:
+translate spanish confession_0794d298:
 
     # Min "We'll meet again no matter what!"
     Min ""
 
 # game/1_diya.rpy:1314
-translate general confession_8c433bb0:
+translate spanish confession_8c433bb0:
 
     # Min "I'll bet you $100!!"
     Min ""
 
 # game/1_diya.rpy:1316
-translate general confession_8d246999:
+translate spanish confession_8d246999:
 
     # Diya "Wait. But how are you going to give me the $100 if you lose?"
     Diya ""
 
 # game/1_diya.rpy:1319
-translate general confession_5579f030:
+translate spanish confession_5579f030:
 
     # Min "Huh? I just will."
     Min ""
 
 # game/1_diya.rpy:1321
-translate general confession_9d6e6b4d:
+translate spanish confession_9d6e6b4d:
 
     # Diya "No, but if you're able to meet me, that means you won the bet."
     Diya ""
 
 # game/1_diya.rpy:1324
-translate general confession_8b49c2b5:
+translate spanish confession_8b49c2b5:
 
     # Min "..........What...?"
     Min ""
 
 # game/1_diya.rpy:1325
-translate general confession_8425f177:
+translate spanish confession_8425f177:
 
     # Min "..............."
     Min ""
 
 # game/1_diya.rpy:1328
-translate general confession_0a1f3f0c:
+translate spanish confession_0a1f3f0c:
 
     # Min "Technically, I guess?"
     Min ""
 
 # game/1_diya.rpy:1330
-translate general confession_d6240548:
+translate spanish confession_d6240548:
 
     # Diya "There's nothing technical about it. You just straight up wouldn't pay me."
     Diya ""
 
 # game/1_diya.rpy:1333
-translate general confession_8425f177_1:
+translate spanish confession_8425f177_1:
 
     # Min "..............."
     Min ""
 
 # game/1_diya.rpy:1334
-translate general confession_ccb911e5:
+translate spanish confession_ccb911e5:
 
     # "There's a long silence..."
     ""
 
 # game/1_diya.rpy:1336
-translate general confession_0859ad32:
+translate spanish confession_0859ad32:
 
     # DiyaT "She still doesn't get it..."
     DiyaT ""
 
 # game/1_diya.rpy:1339
-translate general confession_e6dce072:
+translate spanish confession_e6dce072:
 
     # Diya "Never mind. It's okay."
     Diya ""
 
 # game/1_diya.rpy:1344
-translate general confession_3c21c3bc:
+translate spanish confession_3c21c3bc:
 
     # Min "{big=+20}YEAH, WHATEVER!{w=0.26} YOU KNOW WHAT I MEAN!!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1346
-translate general confession_4387b76d:
+translate spanish confession_4387b76d:
 
     # Min "The point is,{w=0.10} this isn't the end!"
     Min ""
 
 # game/1_diya.rpy:1348
-translate general confession_7b63ab9f:
+translate spanish confession_7b63ab9f:
 
     # Min "I won't give up if you don't give up."
     Min ""
 
 # game/1_diya.rpy:1349
-translate general confession_27590a2a:
+translate spanish confession_27590a2a:
 
     # Min "Okay?"
     Min ""
 
 # game/1_diya.rpy:1351
-translate general confession_fd841d5d:
+translate spanish confession_fd841d5d:
 
     # Diya "Okay."
     Diya ""
 
 # game/1_diya.rpy:1352
-translate general confession_aa02bf34:
+translate spanish confession_aa02bf34:
 
     # Diya "I won't give up if you don't give up."
     Diya ""
 
 # game/1_diya.rpy:1354
-translate general confession_354c6f47:
+translate spanish confession_354c6f47:
 
     # Diya "And if an alligator attacks you, go for the eyes."
     Diya ""
 
 # game/1_diya.rpy:1357
-translate general confession_9abc2e50:
+translate spanish confession_9abc2e50:
 
     # Min "Okay!"
     Min ""
 
 # game/1_diya.rpy:1375
-translate general lookEmptySeat_859f680f:
+translate spanish lookEmptySeat_859f680f:
 
     # DiyaT "This is Jun-seo's seat."
     DiyaT ""
 
 # game/1_diya.rpy:1379
-translate general lookEmptySeat_85230584:
+translate spanish lookEmptySeat_85230584:
 
     # Min "He went to the bathroom with Dad."
     Min ""
 
 # game/1_diya.rpy:1384
-translate general lookEmptySeat_5715f571:
+translate spanish lookEmptySeat_5715f571:
 
     # Min "He's been gone for a while now."
     Min ""
 
 # game/1_diya.rpy:1388
-translate general lookEmptySeat_5ff5b51f:
+translate spanish lookEmptySeat_5ff5b51f:
 
     # DiyaT "I hope he didn't get lost."
     DiyaT ""
 
 # game/1_diya.rpy:1391
-translate general lookEmptySeat_95609e89:
+translate spanish lookEmptySeat_95609e89:
 
     # Min "Maybe he's taking a dump."
     Min ""
 
 # game/1_diya.rpy:1402
-translate general saySomething_ce237f07:
+translate spanish saySomething_ce237f07:
 
     # Diya "Min."
     Diya ""
 
 # game/1_diya.rpy:1406
-translate general saySomething_38faad9d:
+translate spanish saySomething_38faad9d:
 
     # Min "Yeah?"
     Min ""
 
 # game/1_diya.rpy:1435
-translate general softball_0db1259d:
+translate spanish softball_0db1259d:
 
     # Diya "You know, I've been wondering for a while..."
     Diya ""
 
 # game/1_diya.rpy:1437
-translate general softball_dbbea7b6:
+translate spanish softball_dbbea7b6:
 
     # Diya "If your parents won't let you play baseball, why don't you just play softball instead?"
     Diya ""
 
 # game/1_diya.rpy:1440
-translate general softball_63dc970e:
+translate spanish softball_63dc970e:
 
     # Min "Give me your hand. I'll show you."
     Min ""
 
 # game/1_diya.rpy:1442
-translate general softball_9fa2cfca:
+translate spanish softball_9fa2cfca:
 
     # Diya "...?"
     Diya ""
 
 # game/1_diya.rpy:1444
-translate general softball_cefbd898:
+translate spanish softball_cefbd898:
 
     # "Diya offers Min her hand."
     ""
 
 # game/1_diya.rpy:1445
-translate general softball_4ba940ec:
+translate spanish softball_4ba940ec:
 
     # "Min presses their palms together, so their hands line up."
     ""
 
 # game/1_diya.rpy:1446
-translate general softball_e23a34de:
+translate spanish softball_e23a34de:
 
     # "Her fingertips end a whole inch below Diya's."
     ""
 
 # game/1_diya.rpy:1448
-translate general softball_659b4061:
+translate spanish softball_659b4061:
 
     # DiyaT "Her hands are tiny!"
     DiyaT ""
 
 # game/1_diya.rpy:1450
-translate general softball_d03acdb9:
+translate spanish softball_d03acdb9:
 
     # DiyaT "I guess that makes sense, since her name's Min."
     DiyaT ""
 
 # game/1_diya.rpy:1451
-translate general softball_21001510:
+translate spanish softball_21001510:
 
     # DiyaT "The rest of her is mini, too."
     DiyaT ""
 
 # game/1_diya.rpy:1454
-translate general softball_4f7a8980:
+translate spanish softball_4f7a8980:
 
     # Min "My hand is too small to grip a softball correctly."
     Min ""
 
 # game/1_diya.rpy:1455
-translate general softball_22db8932:
+translate spanish softball_22db8932:
 
     # Min "I can't even pitch them. They always slip out halfway through the wind-up."
     Min ""
 
 # game/1_diya.rpy:1457
-translate general softball_9fa2cfca_1:
+translate spanish softball_9fa2cfca_1:
 
     # Diya "...?"
     Diya ""
 
 # game/1_diya.rpy:1458
-translate general softball_fb07044a:
+translate spanish softball_fb07044a:
 
     # Diya "Are softballs that much bigger than baseballs?"
     Diya ""
 
 # game/1_diya.rpy:1461
-translate general softball_1fb00b78:
+translate spanish softball_1fb00b78:
 
     # Min "Yeah."
     Min ""
 
 # game/1_diya.rpy:1463
-translate general softball_afe8ad7a:
+translate spanish softball_afe8ad7a:
 
     # Diya "But that makes no sense. Shouldn't guys play softball and girls play baseball then?"
     Diya ""
 
 # game/1_diya.rpy:1464
-translate general softball_9fb3444e:
+translate spanish softball_9fb3444e:
 
     # Diya "Since guys usually have bigger hands."
     Diya ""
 
 # game/1_diya.rpy:1465
-translate general softball_df3583a3:
+translate spanish softball_df3583a3:
 
     # Diya "It's backwards. Why is it designed like that?"
     Diya ""
 
 # game/1_diya.rpy:1469
-translate general softball_bac6a63f:
+translate spanish softball_bac6a63f:
 
     # Min "Beats me."
     Min ""
 
 # game/1_diya.rpy:1478
-translate general iWannaPlay_605fd2e4:
+translate spanish iWannaPlay_605fd2e4:
 
     # Diya "I hope we're in the same class next year."
     Diya ""
 
 # game/1_diya.rpy:1484
-translate general iWannaPlay_85fe1dbd:
+translate spanish iWannaPlay_85fe1dbd:
 
     # Min ".......... {w=0.26}Ye... {w=0.26}yeah..."
     Min ""
 
 # game/1_diya.rpy:1485
-translate general iWannaPlay_cf733a54:
+translate spanish iWannaPlay_cf733a54:
 
     # Min "Actually,{w=0.10} about that........ {w=0.26}uh..."
     Min ""
 
 # game/1_diya.rpy:1488
-translate general iWannaPlay_9fa2cfca:
+translate spanish iWannaPlay_9fa2cfca:
 
     # Diya "...?"
     Diya ""
 
 # game/1_diya.rpy:1492
-translate general iWannaPlay_38f04223:
+translate spanish iWannaPlay_38f04223:
 
     # Min "Never mind! Everything is fine!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1494
-translate general iWannaPlay_2f9561e7:
+translate spanish iWannaPlay_2f9561e7:
 
     # DiyaT "This is really suspicious?){w=0.26}\n(She's acting weird again,{w=0.10} like earlier..."
     DiyaT ""
 
 # game/1_diya.rpy:1496
-translate general iWannaPlay_9cc5e630:
+translate spanish iWannaPlay_9cc5e630:
 
     # Diya "What is it?{w=0.26} Do you not want to be in the same class as me?"
     Diya ""
 
 # game/1_diya.rpy:1500
-translate general iWannaPlay_d2e56cab:
+translate spanish iWannaPlay_d2e56cab:
 
     # Min "No! {w=0.26}That's not it!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1501
-translate general iWannaPlay_508375ed:
+translate spanish iWannaPlay_508375ed:
 
     # Min "It's just that I won't be....... {w=0.26}Uh........"
     Min ""
 
 # game/1_diya.rpy:1503
-translate general iWannaPlay_92487e8a:
+translate spanish iWannaPlay_92487e8a:
 
     # Min "Um......."
     Min ""
 
 # game/1_diya.rpy:1505
-translate general iWannaPlay_861fae1b:
+translate spanish iWannaPlay_861fae1b:
 
     # Min "Forget it......."
     Min ""
 
 # game/1_diya.rpy:1507
-translate general iWannaPlay_57337fa3:
+translate spanish iWannaPlay_57337fa3:
 
     # DiyaT "Is this related to what she couldn't tell me before?"
     DiyaT ""
 
 # game/1_diya.rpy:1509
-translate general iWannaPlay_a1f8b9a1:
+translate spanish iWannaPlay_a1f8b9a1:
 
     # DiyaT "I bet Jun-seo will know what this is about..."
     DiyaT ""
 
 # game/1_diya.rpy:1518
-translate general iWannaPlay_4ce59591:
+translate spanish iWannaPlay_4ce59591:
 
     # Diya "Are you sure everything is okay?"
     Diya ""
 
 # game/1_diya.rpy:1523
-translate general iWannaPlay_869e15b2:
+translate spanish iWannaPlay_869e15b2:
 
     # Min "Y-yeah! {w=0.26}Stop worrying!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1525
-translate general iWannaPlay_5708fffb:
+translate spanish iWannaPlay_5708fffb:
 
     # DiyaT "I don't think I'm getting anywhere questioning her like this."
     DiyaT ""
 
 # game/1_diya.rpy:1535
-translate general offerPopcorn_866f89c7:
+translate spanish offerPopcorn_866f89c7:
 
     # "Diya holds out the popcorn bucket."
     ""
 
 # game/1_diya.rpy:1538
-translate general offerPopcorn_d3954095:
+translate spanish offerPopcorn_d3954095:
 
     # Min "Thanks!"
     Min ""
 
 # game/1_diya.rpy:1539
-translate general offerPopcorn_ad967d57:
+translate spanish offerPopcorn_ad967d57:
 
     # "Min happily grabs a fistful of popcorn and stuffs it into her mouth."
     ""
 
 # game/1_diya.rpy:1546
-translate general walk1_969e5b10:
+translate spanish walk1_969e5b10:
 
     # Diya "Let's go."
     Diya ""
 
 # game/1_diya.rpy:1550
-translate general walk1_9abc2e50:
+translate spanish walk1_9abc2e50:
 
     # Min "Okay!"
     Min ""
 
 # game/1_diya.rpy:1553
-translate general walk1_e7dbfc18:
+translate spanish walk1_e7dbfc18:
 
     # "Diya and Min got up!"
     ""
 
 # game/1_diya.rpy:1561
-translate general walk1_993e5049:
+translate spanish walk1_993e5049:
 
     # DiyaT "I saw the popcorn guy past these people."
     DiyaT ""
 
 # game/1_diya.rpy:1564
-translate general walk1_00425d8a:
+translate spanish walk1_00425d8a:
 
     # "Min is gawking excitedly at all the baseball fans milling about..."
     ""
 
 # game/1_diya.rpy:1566
-translate general walk1_1b070f46:
+translate spanish walk1_1b070f46:
 
     # Min "Look!!{w=0.26} There's so many white people here!!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1567
-translate general walk1_9388d082:
+translate spanish walk1_9388d082:
 
     # Min "It's just like on TV!"
     Min ""
 
 # game/1_diya.rpy:1570
-translate general walk1_552ffd49:
+translate spanish walk1_552ffd49:
 
     # DiyaT "It really is..."
     DiyaT ""
 
 # game/1_diya.rpy:1571
-translate general walk1_c23b2dae:
+translate spanish walk1_c23b2dae:
 
     # DiyaT "The neighborhood we live in is so Asian that I used to think white people were really rare."
     DiyaT ""
 
 # game/1_diya.rpy:1574
-translate general walk1_6b9fea36:
+translate spanish walk1_6b9fea36:
 
     # DiyaT "Too bad all these people are in our way right now,{w=0.10} though."
     DiyaT ""
 
 # game/1_diya.rpy:1575
-translate general walk1_9672ba0d:
+translate spanish walk1_9672ba0d:
 
     # DiyaT "We can't get through."
     DiyaT ""
 
 # game/1_diya.rpy:1576
-translate general walk1_d8acfb26:
+translate spanish walk1_d8acfb26:
 
     # DiyaT "I'm going to ask them to move."
     DiyaT ""
 
 # game/1_diya.rpy:1578
-translate general walk1_e52d68ff:
+translate spanish walk1_e52d68ff:
 
     # Diya "Excuse me."
     Diya ""
 
 # game/1_diya.rpy:1581
-translate general walk1_d3b123da:
+translate spanish walk1_d3b123da:
 
     # "No one seems to hear her..."
     ""
 
 # game/1_diya.rpy:1583
-translate general walk1_a9db357b:
+translate spanish walk1_a9db357b:
 
     # Diya ".........."
     Diya ""
 
 # game/1_diya.rpy:1584
-translate general walk1_898d4aaf:
+translate spanish walk1_898d4aaf:
 
     # DiyaT "That was the worst."
     DiyaT ""
 
 # game/1_diya.rpy:1585
-translate general walk1_8f44eed8:
+translate spanish walk1_8f44eed8:
 
     # DiyaT "I'm never speaking again. Time to become a mime."
     DiyaT ""
 
 # game/1_diya.rpy:1589
-translate general walk1_157e801c:
+translate spanish walk1_157e801c:
 
     # Min "Don't worry, Diya! I'll take care of it."
     Min ""
 
 # game/1_diya.rpy:1592
-translate general walk1_fd841d5d:
+translate spanish walk1_fd841d5d:
 
     # Diya "Okay."
     Diya ""
 
 # game/1_diya.rpy:1594
-translate general walk1_af41d50f:
+translate spanish walk1_af41d50f:
 
     # "Min grabs someone's baseball bat off the ground and starts hitting people with it!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:1612
-translate general walk1_d6f0f2de:
+translate spanish walk1_d6f0f2de:
 
     # Min "{big=+20}HEY,{w=0.10} YOU DUMMIES!!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1613
-translate general walk1_b7c36e8c:
+translate spanish walk1_b7c36e8c:
 
     # Min "{big=+20}MOVE OR I'LL KILL YOU!!!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1618
-translate general walk1_d4acf1af:
+translate spanish walk1_d4acf1af:
 
     # "Startled, people are moving aside..."
     ""
 
 # game/1_diya.rpy:1622
-translate general walk1_58f85320:
+translate spanish walk1_58f85320:
 
     # Diya "......"
     Diya ""
 
 # game/1_diya.rpy:1659
-translate general lookStrangers_14b19042:
+translate spanish lookStrangers_14b19042:
 
     # "The strangers glance over in Diya's direction as she walks by."
     ""
 
 # game/1_diya.rpy:1661
-translate general lookStrangers_2ba74e8b:
+translate spanish lookStrangers_2ba74e8b:
 
     # "One whispers something to the other. They both burst out laughing."
     ""
 
 # game/1_diya.rpy:1663
-translate general lookStrangers_3a571cd9:
+translate spanish lookStrangers_3a571cd9:
 
     # DiyaT "Are they laughing at me?"
     DiyaT ""
 
 # game/1_diya.rpy:1664
-translate general lookStrangers_3067246a:
+translate spanish lookStrangers_3067246a:
 
     # DiyaT "I hope not..."
     DiyaT ""
 
 # game/1_diya.rpy:1667
-translate general lookStrangers_7fff4e87:
+translate spanish lookStrangers_7fff4e87:
 
     # DiyaT "I can't make out what they're saying."
     DiyaT ""
 
 # game/1_diya.rpy:1669
-translate general lookStrangers_5c6fade0:
+translate spanish lookStrangers_5c6fade0:
 
     # DiyaT "I hope they're not saying bad stuff about me."
     DiyaT ""
 
 # game/1_diya.rpy:1682
-translate general walk2_914dd5e7:
+translate spanish walk2_914dd5e7:
 
     # "Min continues to forge a path, leaving a trail of destruction behind her..."
     ""
 
 # game/1_diya.rpy:1699
-translate general walk2_42aa1863:
+translate spanish walk2_42aa1863:
 
     # Min "{big=+15}MOVE OR I'LL KILL YOUR ENTIRE FAMILY!!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1701
-translate general walk2_c4689abf:
+translate spanish walk2_c4689abf:
 
     # Min "{big=+15}EVEN YOUR DANG {i}FISH{/i} WON'T SURVIVE!!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1704
-translate general walk2_d2dc7930:
+translate spanish walk2_d2dc7930:
 
     # Min "{big=+15}I'LL THROW ALL YOUR FISH OUT INTO THE MIDDLE OF THE STREET SO CARS WILL RUN OVER THEM!!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1709
-translate general walk2_136db9e2:
+translate spanish walk2_136db9e2:
 
     # Diya "..........."
     Diya ""
 
 # game/1_diya.rpy:1711
-translate general walk2_f8ddb87b:
+translate spanish walk2_f8ddb87b:
 
     # DiyaT "I know this looks bad, but Min really isn't a bad person."
     DiyaT ""
 
 # game/1_diya.rpy:1712
-translate general walk2_7d76a0ce:
+translate spanish walk2_7d76a0ce:
 
     # DiyaT "She always lets me be Luigi in Mario Kart."
     DiyaT ""
 
 # game/1_diya.rpy:1713
-translate general walk2_f83d6d69:
+translate spanish walk2_f83d6d69:
 
     # DiyaT "And whenever I land on her space in Monopoly, she says I don't need to pay her."
     DiyaT ""
 
 # game/1_diya.rpy:1716
-translate general walk2_b3b7dcf2:
+translate spanish walk2_b3b7dcf2:
 
     # Min "{big=+15}DIEEEEEEEE!!!{/big}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1724
-translate general walk2_136db9e2_1:
+translate spanish walk2_136db9e2_1:
 
     # Diya "..........."
     Diya ""
 
 # game/1_diya.rpy:1725
-translate general walk2_66d8d443:
+translate spanish walk2_66d8d443:
 
     # DiyaT "We're almost there now."
     DiyaT ""
 
 # game/1_diya.rpy:1768
-translate general approach_71a11b56:
+translate spanish approach_71a11b56:
 
     # NPC "Popcorn,{w=0.10} popcoooooorn!"
     NPC ""
 
 # game/1_diya.rpy:1770
-translate general approach_17cf63b0:
+translate spanish approach_17cf63b0:
 
     # Diya "..."
     Diya ""
 
 # game/1_diya.rpy:1771
-translate general approach_ff560021:
+translate spanish approach_ff560021:
 
     # DiyaT "He looks busy."
     DiyaT ""
 
 # game/1_diya.rpy:1772
-translate general approach_2c4ef634:
+translate spanish approach_2c4ef634:
 
     # DiyaT "I give up.{w=0.26} Time to walk away."
     DiyaT ""
 
 # game/1_diya.rpy:1776
-translate general approach_5e63cddd:
+translate spanish approach_5e63cddd:
 
     # Min "HEY GRANDPA!! {w=0.26}GIVE US POPCORN OR ELSE!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1779
-translate general approach_9fa12acd:
+translate spanish approach_9fa12acd:
 
     # DiyaT "...! {w=0.26}Min is so brave."
     DiyaT ""
 
 # game/1_diya.rpy:1781
-translate general approach_34d619c1:
+translate spanish approach_34d619c1:
 
     # NPC "Then you better pay up! {w=0.26}These are $10 a bucket!"
     NPC ""
 
 # game/1_diya.rpy:1785
-translate general approach_84abafd6:
+translate spanish approach_84abafd6:
 
     # DiyaT "$10?!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:1789
-translate general approach_b9fe72a1:
+translate spanish approach_b9fe72a1:
 
     # Min "What a rip-off!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1796
-translate general approach_969651b9:
+translate spanish approach_969651b9:
 
     # "Min hit the man in the groin with her bat!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:1798
-translate general approach_41ae48dc:
+translate spanish approach_41ae48dc:
 
     # NPC "Oof!" with sshake
     NPC "" with sshake
 
 # game/1_diya.rpy:1803
-translate general approach_03db8a35:
+translate spanish approach_03db8a35:
 
     # "The man sinks to the ground as if he's been shot!"
     ""
 
 # game/1_diya.rpy:1807
-translate general approach_d36b8805:
+translate spanish approach_d36b8805:
 
     # "Min grabs a popcorn bucket out of his tray!"
     ""
 
 # game/1_diya.rpy:1809
-translate general approach_17cf63b0_1:
+translate spanish approach_17cf63b0_1:
 
     # Diya "..."
     Diya ""
 
 # game/1_diya.rpy:1812
-translate general approach_7d308d8c:
+translate spanish approach_7d308d8c:
 
     # Min "I got it!{w=0.26} Let's go!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1865
-translate general lookPopcornGuy_bdf3cf70:
+translate spanish lookPopcornGuy_bdf3cf70:
 
     # DiyaT "He's still curled up in pain."
     DiyaT ""
 
 # game/1_diya.rpy:1867
-translate general lookPopcornGuy_8629e93f:
+translate spanish lookPopcornGuy_8629e93f:
 
     # DiyaT "We better go before he recovers and comes after us."
     DiyaT ""
 
 # game/1_diya.rpy:1876
-translate general lookDog_56ffa532:
+translate spanish lookDog_56ffa532:
 
     # DiyaT "What a cute dog."
     DiyaT ""
 
 # game/1_diya.rpy:1878
-translate general lookDog_74972eba:
+translate spanish lookDog_74972eba:
 
     # DiyaT "I want 5 dogs when I grow up.{w=0.26} It'll be like having 5 friends."
     DiyaT ""
 
 # game/1_diya.rpy:1880
-translate general lookDog_6e0da1c7:
+translate spanish lookDog_6e0da1c7:
 
     # DiyaT "Min will probably train them all into attack dogs,{w=0.10} though."
     DiyaT ""
 
 # game/1_diya.rpy:1888
-translate general lookDog_70d5a326:
+translate spanish lookDog_70d5a326:
 
     # DiyaT "Whenever I see a \"Dog missing\" flyer somewhere I worry so much."
     DiyaT ""
 
 # game/1_diya.rpy:1889
-translate general lookDog_675a8ff6:
+translate spanish lookDog_675a8ff6:
 
     # DiyaT "Is the dog okay?? I hope it's just digging a hole somewhere."
     DiyaT ""
 
 # game/1_diya.rpy:1897
-translate general lookDog_1ffdc7ed:
+translate spanish lookDog_1ffdc7ed:
 
     # Diya "!!!!!!!!"
     Diya ""
 
 # game/1_diya.rpy:1898
-translate general lookDog_5003b4bd:
+translate spanish lookDog_5003b4bd:
 
     # DiyaT "It's a dog! Cute dog!"
     DiyaT ""
 
 # game/1_diya.rpy:1903
-translate general lookDog_13c8e8e1:
+translate spanish lookDog_13c8e8e1:
 
     # Min "It doesn't look very strong.{w=0.26} I bet I could kill it in one hit."
     Min ""
 
 # game/1_diya.rpy:1906
-translate general lookDog_60e74259:
+translate spanish lookDog_60e74259:
 
     # Diya "Don't do that.{w=0.26} I'm going to pet it."
     Diya ""
 
 # game/1_diya.rpy:1919
-translate general lookDog_7d7b582b:
+translate spanish lookDog_7d7b582b:
 
     # DiyaT "Okay."
     DiyaT ""
 
 # game/1_diya.rpy:1921
-translate general lookDog_e93ea9a8:
+translate spanish lookDog_e93ea9a8:
 
     # DiyaT "All I have to do is ask,{w=0.10} \"Excuse me,{w=0.10} can we pet your dog?\""
     DiyaT ""
 
 # game/1_diya.rpy:1922
-translate general lookDog_0f6b42f3:
+translate spanish lookDog_0f6b42f3:
 
     # DiyaT "I better practice a few times so I don't mess up when I really say it."
     DiyaT ""
 
 # game/1_diya.rpy:1923
-translate general lookDog_eed00cc2:
+translate spanish lookDog_eed00cc2:
 
     # DiyaT "Excuse me,{w=0.10} can we pet your dog?)\n{w=0.26}(Excuse me,{w=0.10} can we pet your dog?)\n{w=0.26}(Excuse me,{w=0.10} can we pet your dog?"
     DiyaT ""
 
 # game/1_diya.rpy:1925
-translate general lookDog_a97eebe0:
+translate spanish lookDog_a97eebe0:
 
     # DiyaT "Alright.{w=0.26} I got this."
     DiyaT ""
 
 # game/1_diya.rpy:1929
-translate general lookDog_78544ef0:
+translate spanish lookDog_78544ef0:
 
     # Min "Let us pet your dog or else!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1932
-translate general lookDog_ba4446f1:
+translate spanish lookDog_ba4446f1:
 
     # DiyaT "...That works too."
     DiyaT ""
 
 # game/1_diya.rpy:1937
-translate general lookDog_a00ea42b:
+translate spanish lookDog_a00ea42b:
 
     # "Diya does nothing..."
     ""
 
 # game/1_diya.rpy:1940
-translate general lookDog_189b1564:
+translate spanish lookDog_189b1564:
 
     # DiyaT "I don't wanna embarrass myself."
     DiyaT ""
 
 # game/1_diya.rpy:1942
-translate general lookDog_f89c98f2:
+translate spanish lookDog_f89c98f2:
 
     # "Min threateningly approaches the dog's owner!"
     ""
 
 # game/1_diya.rpy:1945
-translate general lookDog_78544ef0_1:
+translate spanish lookDog_78544ef0_1:
 
     # Min "Let us pet your dog or else!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1949
-translate general petDogChoice_f3defeff:
+translate spanish petDogChoice_f3defeff:
 
     # NPC "Go ahead!{w=0.26} She won't bite."
     NPC ""
 
 # game/1_diya.rpy:1952
-translate general petDogChoice_d3641016:
+translate spanish petDogChoice_d3641016:
 
     # Min "I'll fight y—" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1957
-translate general petDogChoice_d99fad0c:
+translate spanish petDogChoice_d99fad0c:
 
     # Diya "Wait,{w=0.10} Min.{w=0.26} He already agreed." with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:1960
-translate general petDogChoice_9c8856ef:
+translate spanish petDogChoice_9c8856ef:
 
     # Min "...Oh.{w=0.26} Right."
     Min ""
 
 # game/1_diya.rpy:1964
-translate general petDogChoice_3330edfb:
+translate spanish petDogChoice_3330edfb:
 
     # "Diya pets the dog."
     ""
 
 # game/1_diya.rpy:1965
-translate general petDogChoice_f9aceb93:
+translate spanish petDogChoice_f9aceb93:
 
     # "The dog closes its eyes and smiles!!!"
     ""
 
 # game/1_diya.rpy:1967
-translate general petDogChoice_0aef34d8:
+translate spanish petDogChoice_0aef34d8:
 
     # Diya "!!!!!!!!!!!!!!!!!!!!!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:1968
-translate general petDogChoice_d81d65fc:
+translate spanish petDogChoice_d81d65fc:
 
     # "Diya is almost in tears..."
     ""
 
 # game/1_diya.rpy:1969
-translate general petDogChoice_2ca1d1c3:
+translate spanish petDogChoice_2ca1d1c3:
 
     # DiyaT "She's like a living rug."
     DiyaT ""
 
 # game/1_diya.rpy:1977
-translate general dogNameChoice_7451e0ee:
+translate spanish dogNameChoice_7451e0ee:
 
     # Min "If you had a dog,{w=0.10} what would you name it?"
     Min ""
 
 # game/1_diya.rpy:1980
-translate general dogNameChoice_f7b7199b:
+translate spanish dogNameChoice_f7b7199b:
 
     # DiyaT "Good question."
     DiyaT ""
 
 # game/1_diya.rpy:1985
-translate general dogNameChoice_fae9db38:
+translate spanish dogNameChoice_fae9db38:
 
     # Diya "Pom."
     Diya ""
 
 # game/1_diya.rpy:1988
-translate general dogNameChoice_ad50214c:
+translate spanish dogNameChoice_ad50214c:
 
     # Min "What the heck kind of name is that?"
     Min ""
 
 # game/1_diya.rpy:1991
-translate general dogNameChoice_94bacba0:
+translate spanish dogNameChoice_94bacba0:
 
     # Diya "Cool name."
     Diya ""
 
 # game/1_diya.rpy:1992
-translate general dogNameChoice_a4fbcd64:
+translate spanish dogNameChoice_a4fbcd64:
 
     # Diya "It's short for \"Pomeranian\"."
     Diya ""
 
 # game/1_diya.rpy:1996
-translate general dogNameChoice_cc91b409:
+translate spanish dogNameChoice_cc91b409:
 
     # Min "That's way too simple!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:1999
-translate general dogNameChoice_9dce841a:
+translate spanish dogNameChoice_9dce841a:
 
     # Diya "Then what would you name your dog,{w=0.10} Min?"
     Diya ""
 
 # game/1_diya.rpy:2004
-translate general dogNameChoice_f41aaf8f:
+translate spanish dogNameChoice_f41aaf8f:
 
     # Diya "Shibe."
     Diya ""
 
 # game/1_diya.rpy:2007
-translate general dogNameChoice_ad50214c_1:
+translate spanish dogNameChoice_ad50214c_1:
 
     # Min "What the heck kind of name is that?"
     Min ""
 
 # game/1_diya.rpy:2010
-translate general dogNameChoice_94bacba0_1:
+translate spanish dogNameChoice_94bacba0_1:
 
     # Diya "Cool name."
     Diya ""
 
 # game/1_diya.rpy:2011
-translate general dogNameChoice_281e29a0:
+translate spanish dogNameChoice_281e29a0:
 
     # Diya "It's short for \"Shiba Inu.\""
     Diya ""
 
 # game/1_diya.rpy:2014
-translate general dogNameChoice_a781f4e0:
+translate spanish dogNameChoice_a781f4e0:
 
     # Min "Sounds dumb..."
     Min ""
 
 # game/1_diya.rpy:2017
-translate general dogNameChoice_9dce841a_1:
+translate spanish dogNameChoice_9dce841a_1:
 
     # Diya "Then what would you name your dog,{w=0.10} Min?"
     Diya ""
 
 # game/1_diya.rpy:2025
-translate general dogNameChoice_16bbf723:
+translate spanish dogNameChoice_16bbf723:
 
     # Min "Me?{w=0.26} Hm..."
     Min ""
 
 # game/1_diya.rpy:2027
-translate general dogNameChoice_ef23a415:
+translate spanish dogNameChoice_ef23a415:
 
     # "Min is thinking with an intense look on her face..."
     ""
 
 # game/1_diya.rpy:2029
-translate general dogNameChoice_3bf9cce0:
+translate spanish dogNameChoice_3bf9cce0:
 
     # Min "Skull Crusher."
     Min ""
 
 # game/1_diya.rpy:2033
-translate general dogNameChoice_1d74dd58:
+translate spanish dogNameChoice_1d74dd58:
 
     # Diya "!!!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:2035
-translate general dogNameChoice_54ca8bba:
+translate spanish dogNameChoice_54ca8bba:
 
     # "Diya is silently laughing at her!"
     ""
 
 # game/1_diya.rpy:2037
-translate general dogNameChoice_fc95877a:
+translate spanish dogNameChoice_fc95877a:
 
     # Diya "Of course you'd choose a name like that."
     Diya ""
 
 # game/1_diya.rpy:2040
-translate general dogNameChoice_5fa7bee2:
+translate spanish dogNameChoice_5fa7bee2:
 
     # Min "What!{w=0.26} It's better than [dogName!t]!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:2043
-translate general dogNameChoice_0d7a3016:
+translate spanish dogNameChoice_0d7a3016:
 
     # Diya "What's wrong with [dogName!t]?"
     Diya ""
 
 # game/1_diya.rpy:2052
-translate general dogNameChoice_91400afc:
+translate spanish dogNameChoice_91400afc:
 
     # DiyaT "Okay, I think we're good to go now."
     DiyaT ""
 
 # game/1_diya.rpy:2062
-translate general dogHere_c0533c1c:
+translate spanish dogHere_c0533c1c:
 
     # DiyaT "Wait. Why would I leave when there's a dog here."
     DiyaT ""
 
 # game/1_diya.rpy:2064
-translate general dogHere_b86fea60:
+translate spanish dogHere_b86fea60:
 
     # DiyaT "I have to pet it. "
     DiyaT ""
 
 # game/1_diya.rpy:2090
-translate general dogHere_ff409014:
+translate spanish dogHere_ff409014:
 
     # Min "Oh, it's my dad. Yuck."
     Min ""
 
 # game/1_diya.rpy:2094
-translate general dogHere_819a4e80:
+translate spanish dogHere_819a4e80:
 
     # DiyaT "Min's dad is really mad at her for cutting her hair like that."
     DiyaT ""
 
 # game/1_diya.rpy:2095
-translate general dogHere_1d2b1e60:
+translate spanish dogHere_1d2b1e60:
 
     # DiyaT "He's speaking Korean on the phone. I wonder what he's talking about."
     DiyaT ""
 
 # game/1_diya.rpy:2096
-translate general dogHere_5ae38731:
+translate spanish dogHere_5ae38731:
 
     # DiyaT "Min only taught me 1 through 4 so far."
     DiyaT ""
 
 # game/1_diya.rpy:2098
-translate general dogHere_86d0a0f7:
+translate spanish dogHere_86d0a0f7:
 
     # "Diya must've been frowning without knowing it, because Min speaks up."
     ""
 
 # game/1_diya.rpy:2100
-translate general dogHere_b1f25d4e:
+translate spanish dogHere_b1f25d4e:
 
     # Min "Do you wanna learn more?"
     Min ""
 
 # game/1_diya.rpy:2103
-translate general dogHere_9fa2cfca:
+translate spanish dogHere_9fa2cfca:
 
     # Diya "...?"
     Diya ""
 
 # game/1_diya.rpy:2104
-translate general dogHere_b6399d89:
+translate spanish dogHere_b6399d89:
 
     # Diya "Sure."
     Diya ""
 
 # game/1_diya.rpy:2105
-translate general dogHere_fe41070d:
+translate spanish dogHere_fe41070d:
 
     # Diya "How do you say \"Hi\" in Korean?"
     Diya ""
 
 # game/1_diya.rpy:2108
-translate general dogHere_85df2de3:
+translate spanish dogHere_85df2de3:
 
     # Min "\"Hi\"?{w=0.26} Easy,{w=0.10} it's..."
     Min ""
 
 # game/1_diya.rpy:2110
-translate general dogHere_2d034650:
+translate spanish dogHere_2d034650:
 
     # Min "Uh..............{w=0.26}hm."
     Min ""
 
 # game/1_diya.rpy:2113
-translate general dogHere_4bd2e872:
+translate spanish dogHere_4bd2e872:
 
     # Diya "....?"
     Diya ""
 
 # game/1_diya.rpy:2114
-translate general dogHere_1afd7502:
+translate spanish dogHere_1afd7502:
 
     # DiyaT "Does she not know how to say it?"
     DiyaT ""
 
 # game/1_diya.rpy:2117
-translate general dogHere_f68b73b3:
+translate spanish dogHere_f68b73b3:
 
     # Min "{font=korean.ttf}...사랑해!{/font}"
     Min ""
 
 # game/1_diya.rpy:2121
-translate general dogHere_af06d6ba:
+translate spanish dogHere_af06d6ba:
 
     # Diya "\"Sarang eh...?\""
     Diya ""
 
 # game/1_diya.rpy:2124
-translate general dogHere_d465fcc0:
+translate spanish dogHere_d465fcc0:
 
     # Min "{font=korean.ttf}사랑해.{/font}"
     Min ""
 
 # game/1_diya.rpy:2127
-translate general dogHere_8cb17c51:
+translate spanish dogHere_8cb17c51:
 
     # Diya "{font=korean.ttf}사랑해?{/font}"
     Diya ""
 
 # game/1_diya.rpy:2130
-translate general dogHere_d465fcc0_1:
+translate spanish dogHere_d465fcc0_1:
 
     # Min "{font=korean.ttf}사랑해.{/font}"
     Min ""
 
 # game/1_diya.rpy:2133
-translate general dogHere_3a2190bc:
+translate spanish dogHere_3a2190bc:
 
     # Diya "{font=korean.ttf}사랑해.{/font}"
     Diya ""
 
 # game/1_diya.rpy:2136
-translate general dogHere_43e131fa:
+translate spanish dogHere_43e131fa:
 
     # "Min is staring at Diya with a really complicated expression on her face..."
     ""
 
 # game/1_diya.rpy:2138
-translate general dogHere_6c958e15:
+translate spanish dogHere_6c958e15:
 
     # Diya "What.{w=0.26} Am I saying it right?"
     Diya ""
 
 # game/1_diya.rpy:2141
-translate general dogHere_3864cdb4:
+translate spanish dogHere_3864cdb4:
 
     # Min "Y-yeah!{w=0.26} That was good!"
     Min ""
 
 # game/1_diya.rpy:2144
-translate general dogHere_b94df18f:
+translate spanish dogHere_b94df18f:
 
     # Diya "Cool.{w=0.26} Now I can greet you and Jun-seo like this."
     Diya ""
 
 # game/1_diya.rpy:2147
-translate general dogHere_f7c48022:
+translate spanish dogHere_f7c48022:
 
     # Min "N-no,{w=0.10} wait!{w=0.26} You can't say that to Jun. "
     Min ""
 
 # game/1_diya.rpy:2150
-translate general dogHere_ede5c0f4:
+translate spanish dogHere_ede5c0f4:
 
     # Diya "Huh.{w=0.26} Why not?"
     Diya ""
 
 # game/1_diya.rpy:2153
-translate general dogHere_bf86ea2a:
+translate spanish dogHere_bf86ea2a:
 
     # Min "Because...{w=0.26}uh...{w=0.26}It's a special kind of hello."
     Min ""
 
 # game/1_diya.rpy:2155
-translate general dogHere_3df0a205:
+translate spanish dogHere_3df0a205:
 
     # Min "You can only say it to........{w=0.26}certain people.{w=0.26} Like me."
     Min ""
 
 # game/1_diya.rpy:2158
-translate general dogHere_64a3933b:
+translate spanish dogHere_64a3933b:
 
     # Diya "Oh.{w=0.26} Is it one of those things where if you use the wrong one,{w=0.10} it's really bad?"
     Diya ""
 
 # game/1_diya.rpy:2161
-translate general dogHere_243bd2ae:
+translate spanish dogHere_243bd2ae:
 
     # Min "Y-yeah!{w=0.26} Something like that.{w=0.26} It's tough to explain."
     Min ""
 
 # game/1_diya.rpy:2164
-translate general dogHere_90224df2:
+translate spanish dogHere_90224df2:
 
     # Diya "But it's correct when I say it to you."
     Diya ""
 
 # game/1_diya.rpy:2167
-translate general dogHere_b29651b9:
+translate spanish dogHere_b29651b9:
 
     # Min "Yeah!"
     Min ""
 
 # game/1_diya.rpy:2169
-translate general dogHere_0c1c4f51:
+translate spanish dogHere_0c1c4f51:
 
     # Min "So only say it to me.{w=0.26} Got it?"
     Min ""
 
 # game/1_diya.rpy:2172
-translate general dogHere_c45a45fc:
+translate spanish dogHere_c45a45fc:
 
     # Diya "Got it."
     Diya ""
 
 # game/1_diya.rpy:2174
-translate general dogHere_0f1b55a9:
+translate spanish dogHere_0f1b55a9:
 
     # DiyaT "Wow.{w=0.26} Korean is really complicated."
     DiyaT ""
 
 # game/1_diya.rpy:2177
-translate general dogHere_8ce35070:
+translate spanish dogHere_8ce35070:
 
     # Min "What about you?{w=0.26} How do you say \"Hi\"?"
     Min ""
 
 # game/1_diya.rpy:2179
-translate general dogHere_df62a743:
+translate spanish dogHere_df62a743:
 
     # Min "{cps=0}What about you? How do you say \"Hi\"?{/cps}" nointeract
     Min "" nointeract
 
 # game/1_diya.rpy:2187
-translate general dogHere_3bc51b0a:
+translate spanish dogHere_3bc51b0a:
 
     # Diya "{font=tamil.ttf}வணக்கம்.{/font}"
     Diya ""
 
 # game/1_diya.rpy:2192
-translate general dogHere_201ceb91:
+translate spanish dogHere_201ceb91:
 
     # Min "{font=tamil.ttf}வணக்கம்?{/font}"
     Min ""
 
 # game/1_diya.rpy:2196
-translate general dogHere_3bc51b0a_1:
+translate spanish dogHere_3bc51b0a_1:
 
     # Diya "{font=tamil.ttf}வணக்கம்.{/font}"
     Diya ""
 
 # game/1_diya.rpy:2200
-translate general dogHere_677f9015:
+translate spanish dogHere_677f9015:
 
     # Min "{font=tamil.ttf}வணக்கம்!{/font}"
     Min ""
 
 # game/1_diya.rpy:2209
-translate general dogHere_5195693e:
+translate spanish dogHere_5195693e:
 
     # Diya "{font=tamil.ttf}நான் குசு விரும்புகிறேன்.{/font}"
     Diya ""
 
 # game/1_diya.rpy:2215
-translate general dogHere_ab3a0f66:
+translate spanish dogHere_ab3a0f66:
 
     # Min "What the...? That's so long!"
     Min ""
 
 # game/1_diya.rpy:2218
-translate general dogHere_5aed3d83:
+translate spanish dogHere_5aed3d83:
 
     # Min "{font=tamil.ttf}நான் ...{/font}uh..."
     Min ""
 
 # game/1_diya.rpy:2223
-translate general dogHere_5195693e_1:
+translate spanish dogHere_5195693e_1:
 
     # Diya "{font=tamil.ttf}நான் குசு விரும்புகிறேன்.{/font}"
     Diya ""
 
 # game/1_diya.rpy:2227
-translate general dogHere_0f158bd8:
+translate spanish dogHere_0f158bd8:
 
     # Min "{font=tamil.ttf}நான் குசு விரும்புகிறேன்!{/font}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:2232
-translate general dogHere_1d74dd58:
+translate spanish dogHere_1d74dd58:
 
     # Diya "!!!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:2235
-translate general dogHere_44a9081e:
+translate spanish dogHere_44a9081e:
 
     # Min "What's so funny?"
     Min ""
 
 # game/1_diya.rpy:2238
-translate general dogHere_3d0ef1b5:
+translate spanish dogHere_3d0ef1b5:
 
     # Diya "Nothing. Your pronunciation is great."
     Diya ""
 
 # game/1_diya.rpy:2247
-translate general lookDad_de44f331:
+translate spanish lookDad_de44f331:
 
     # DiyaT "He's still talking on the phone."
     DiyaT ""
 
 # game/1_diya.rpy:2249
-translate general lookDad_d87621a2:
+translate spanish lookDad_d87621a2:
 
     # DiyaT "Doesn't sound like he's using the phrase Min just taught me."
     DiyaT ""
 
 # game/1_diya.rpy:2250
-translate general lookDad_ca40c670:
+translate spanish lookDad_ca40c670:
 
     # DiyaT "I guess there's not a lot of opportunities to say \"Hi\" in the middle of a conversation."
     DiyaT ""
 
 # game/1_diya.rpy:2253
-translate general lookDad_153a8bcd:
+translate spanish lookDad_153a8bcd:
 
     # Min "Hey, let's hurry up and sit down."
     Min ""
 
 # game/1_diya.rpy:2255
-translate general lookDad_ecff5e74:
+translate spanish lookDad_ecff5e74:
 
     # Min "Jun-seo is probably wondering where we are."
     Min ""
 
 # game/1_diya.rpy:2258
-translate general lookDad_2e7a6ecb:
+translate spanish lookDad_2e7a6ecb:
 
     # DiyaT "She's right. Poor Jun-seo."
     DiyaT ""
 
 # game/1_diya.rpy:2325
-translate general sitBackDown_de9a3a22:
+translate spanish sitBackDown_de9a3a22:
 
     # Jun "There you guys are!"
     Jun ""
 
 # game/1_diya.rpy:2326
-translate general sitBackDown_fdd432e0:
+translate spanish sitBackDown_fdd432e0:
 
     # Jun "Where'd you guys go?"
     Jun ""
 
 # game/1_diya.rpy:2329
-translate general sitBackDown_c35170df:
+translate spanish sitBackDown_c35170df:
 
     # Diya "The dog."
     Diya ""
 
 # game/1_diya.rpy:2332
-translate general sitBackDown_2b909633:
+translate spanish sitBackDown_2b909633:
 
     # Jun "Diya,{w=0.10} that's... {w=0.26}really cryptic."
     Jun ""
 
 # game/1_diya.rpy:2334
-translate general sitBackDown_50a53869:
+translate spanish sitBackDown_50a53869:
 
     # Diya "Is it?"
     Diya ""
 
 # game/1_diya.rpy:2338
-translate general sitBackDown_aff19c94:
+translate spanish sitBackDown_aff19c94:
 
     # Min "Here,{w=0.10} take this!"
     Min ""
 
 # game/1_diya.rpy:2339
-translate general sitBackDown_2a95f751:
+translate spanish sitBackDown_2a95f751:
 
     # "Min gives Diya the popcorn bucket!"
     ""
 
 # game/1_diya.rpy:2341
-translate general sitBackDown_5f87c877:
+translate spanish sitBackDown_5f87c877:
 
     # Diya "!!!!!!!!!!!!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:2344
-translate general sitBackDown_caca9fb6:
+translate spanish sitBackDown_caca9fb6:
 
     # Jun "Min, where'd you get that bat...?"
     Jun ""
 
 # game/1_diya.rpy:2345
-translate general sitBackDown_f586f286:
+translate spanish sitBackDown_f586f286:
 
     # Jun "Please don't tell me you did something bad..."
     Jun ""
 
 # game/1_diya.rpy:2347
-translate general sitBackDown_af12ffb8:
+translate spanish sitBackDown_af12ffb8:
 
     # Min "Yeah! It was fun!"
     Min ""
 
 # game/1_diya.rpy:2349
-translate general sitBackDown_7ee2d81e:
+translate spanish sitBackDown_7ee2d81e:
 
     # Jun "No! You have to stop stealing and threatening people!"
     Jun ""
 
 # game/1_diya.rpy:2350
-translate general sitBackDown_8c886d80:
+translate spanish sitBackDown_8c886d80:
 
     # Jun "It's dangerous! What if someone came after you?"
     Jun ""
 
 # game/1_diya.rpy:2352
-translate general sitBackDown_4919d1e4:
+translate spanish sitBackDown_4919d1e4:
 
     # Min "I'd beat them!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:2353
-translate general sitBackDown_25070432:
+translate spanish sitBackDown_25070432:
 
     # Min "Even if there was a bear, I'd kill it with my bare hands."
     Min ""
 
 # game/1_diya.rpy:2355
-translate general sitBackDown_9dbbf29d:
+translate spanish sitBackDown_9dbbf29d:
 
     # Jun "Min, that's impossible."
     Jun ""
 
 # game/1_diya.rpy:2357
-translate general sitBackDown_1583baca:
+translate spanish sitBackDown_1583baca:
 
     # Min "I'll punch it real hard in the head like {i}WHAM!!!{/i}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:2359
-translate general sitBackDown_79937b81:
+translate spanish sitBackDown_79937b81:
 
     # Min "Dead."
     Min ""
 
 # game/1_diya.rpy:2361
-translate general sitBackDown_26b1c8d9:
+translate spanish sitBackDown_26b1c8d9:
 
     # Jun "It's not that easy. You'll just get mauled."
     Jun ""
 
 # game/1_diya.rpy:2363
-translate general sitBackDown_c1b06be4:
+translate spanish sitBackDown_c1b06be4:
 
     # Min "Yeah, right. I'll dodge."
     Min ""
 
 # game/1_diya.rpy:2364
-translate general sitBackDown_c42079f8:
+translate spanish sitBackDown_c42079f8:
 
     # Min "I bet I can kill two different bears at once."
     Min ""
 
 # game/1_diya.rpy:2366
-translate general sitBackDown_6b298942:
+translate spanish sitBackDown_6b298942:
 
     # Jun "Min, no..."
     Jun ""
 
 # game/1_diya.rpy:2368
-translate general sitBackDown_73aef251:
+translate spanish sitBackDown_73aef251:
 
     # DiyaT "It's useless. I don't think Min's brain even knows what fear is."
     DiyaT ""
 
 # game/1_diya.rpy:2371
-translate general sitBackDown_88dfdc84:
+translate spanish sitBackDown_88dfdc84:
 
     # Min "Geez,{w=0.10} Jun. You really sound like Noelle sometimes."
     Min ""
 
 # game/1_diya.rpy:2373
-translate general sitBackDown_3bcf31f3:
+translate spanish sitBackDown_3bcf31f3:
 
     # DiyaT "Noelle is my best friend."
     DiyaT ""
 
 # game/1_diya.rpy:2374
-translate general sitBackDown_caaa45ab:
+translate spanish sitBackDown_caaa45ab:
 
     # DiyaT "She's the kid in class who goes,{w=0.10} \"But wait,{w=0.10} you forgot to collect our homework!\""
     DiyaT ""
 
 # game/1_diya.rpy:2375
-translate general sitBackDown_2fc247ae:
+translate spanish sitBackDown_2fc247ae:
 
     # DiyaT "I introduced Min to her a while back, but it was like hate at first sight."
     DiyaT ""
 
 # game/1_diya.rpy:2376
-translate general sitBackDown_a138bff2:
+translate spanish sitBackDown_a138bff2:
 
     # DiyaT "I think Min wants to kill her."
     DiyaT ""
 
 # game/1_diya.rpy:2380
-translate general sitBackDown_547c0e03:
+translate spanish sitBackDown_547c0e03:
 
     # Min "Someday when Diya decides she doesn't like Noelle anymore, I'll kill her."
     Min ""
 
 # game/1_diya.rpy:2382
-translate general sitBackDown_3f4c7d3b:
+translate spanish sitBackDown_3f4c7d3b:
 
     # Min "I'll kill her to death."
     Min ""
 
 # game/1_diya.rpy:2385
-translate general sitBackDown_da9cf075:
+translate spanish sitBackDown_da9cf075:
 
     # Diya "Don't do that."
     Diya ""
 
 # game/1_diya.rpy:2388
-translate general sitBackDown_a05a0c65:
+translate spanish sitBackDown_a05a0c65:
 
     # Min "Even though Noelle is taller than you,{w=0.10} someday I'll be the tallest!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:2389
-translate general sitBackDown_1af9ad32:
+translate spanish sitBackDown_1af9ad32:
 
     # Min "I won't lose to her!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:2391
-translate general sitBackDown_a712a412:
+translate spanish sitBackDown_a712a412:
 
     # Diya "What does that have to do with anything?"
     Diya ""
 
 # game/1_diya.rpy:2394
-translate general sitBackDown_c0edffa9:
+translate spanish sitBackDown_c0edffa9:
 
     # Min "Also,{w=0.10} if I was peeling an orange for you,{w=0.10} I'd make sure to get all the white stringy stuff off,{w=0.10} too."
     Min ""
 
 # game/1_diya.rpy:2395
-translate general sitBackDown_a5442306:
+translate spanish sitBackDown_a5442306:
 
     # Min "I bet Noelle wouldn't do that."
     Min ""
 
 # game/1_diya.rpy:2399
-translate general sitBackDown_dd693dda:
+translate spanish sitBackDown_dd693dda:
 
     # Diya "What the heck kind of scenario is this?"
     Diya ""
 
 # game/1_diya.rpy:2400
-translate general sitBackDown_bedf9afb:
+translate spanish sitBackDown_bedf9afb:
 
     # Diya "Why would you guys even be peeling oranges for me."
     Diya ""
 
 # game/1_diya.rpy:2403
-translate general sitBackDown_14b92556:
+translate spanish sitBackDown_14b92556:
 
     # Min "Just because.{w=0.26} Forget it."
     Min ""
 
 # game/1_diya.rpy:2420
-translate general talkJun_84a17ce2:
+translate spanish talkJun_84a17ce2:
 
     # Diya "Jun-seo."
     Diya ""
 
 # game/1_diya.rpy:2439
-translate general offerJPopcorn_866f89c7:
+translate spanish offerJPopcorn_866f89c7:
 
     # "Diya holds out the popcorn bucket."
     ""
 
 # game/1_diya.rpy:2442
-translate general offerJPopcorn_f09ff667:
+translate spanish offerJPopcorn_f09ff667:
 
     # Jun "Thanks!"
     Jun ""
 
 # game/1_diya.rpy:2443
-translate general offerJPopcorn_ab6cd5d3:
+translate spanish offerJPopcorn_ab6cd5d3:
 
     # "Jun-seo took a single piece of popcorn!"
     ""
 
 # game/1_diya.rpy:2445
-translate general offerJPopcorn_f1e68ad0:
+translate spanish offerJPopcorn_f1e68ad0:
 
     # Diya "You can take more than that."
     Diya ""
 
 # game/1_diya.rpy:2447
-translate general offerJPopcorn_0222107f:
+translate spanish offerJPopcorn_0222107f:
 
     # Jun "Really?{w=0.26} You're so nice!"
     Jun ""
 
 # game/1_diya.rpy:2448
-translate general offerJPopcorn_976b87f2:
+translate spanish offerJPopcorn_976b87f2:
 
     # "Jun-seo took another single piece of popcorn!"
     ""
 
 # game/1_diya.rpy:2455
-translate general havingFun_5043e3e2:
+translate spanish havingFun_5043e3e2:
 
     # Diya "Is there something going on with Min?"
     Diya ""
 
 # game/1_diya.rpy:2457
-translate general havingFun_25d711a7:
+translate spanish havingFun_25d711a7:
 
     # Diya "Like,{w=0.10} did she do a felony?{w=0.26} Are the police after her?"
     Diya ""
 
 # game/1_diya.rpy:2460
-translate general havingFun_454edf16:
+translate spanish havingFun_454edf16:
 
     # Jun "Uh... {w=0.26}not that I know of?{w=0.26} Why?"
     Jun ""
 
 # game/1_diya.rpy:2462
-translate general havingFun_ea4cbb0c:
+translate spanish havingFun_ea4cbb0c:
 
     # Diya "She's been acting kinda weird all day. {w=0.26}It's like she's hiding something."
     Diya ""
 
 # game/1_diya.rpy:2465
-translate general havingFun_6ebcf8d5:
+translate spanish havingFun_6ebcf8d5:
 
     # Jun "Really?{w=0.26} I haven't noticed anything odd..."
     Jun ""
 
 # game/1_diya.rpy:2467
-translate general havingFun_ac8d13b0:
+translate spanish havingFun_ac8d13b0:
 
     # DiyaT "Huh.{w=0.26} I guess if even Jun-seo isn't concerned,{w=0.10} everything is fine."
     DiyaT ""
 
 # game/1_diya.rpy:2468
-translate general havingFun_e4297f17:
+translate spanish havingFun_e4297f17:
 
     # DiyaT "Phew. I can just enjoy the game without worrying now."
     DiyaT ""
 
 # game/1_diya.rpy:2572
-translate general ch2_f92feb9b:
+translate spanish ch2_f92feb9b:
 
     # Diya "!!!!!!!!!!!!!!!!!!!!!!!!!!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:2574
-translate general ch2_bcabdc9f:
+translate spanish ch2_bcabdc9f:
 
     # DiyaT "I have to get ready for school!"
     DiyaT ""
 
 # game/1_diya.rpy:2581
-translate general ch2_aaf68681:
+translate spanish ch2_aaf68681:
 
     # "Diya hits her alarms and flops face-first into bed."
     ""
 
 # game/1_diya.rpy:2585
-translate general ch2_7c831b81:
+translate spanish ch2_7c831b81:
 
     # "Diya's morning routine includes lying in bed for 10 minutes thinking about how tired she is. "
     ""
 
 # game/1_diya.rpy:2590
-translate general ch2_d02b883e:
+translate spanish ch2_d02b883e:
 
     # DiyaT "Ghhhhgghghhhh...kkkgghhhhhh..."
     DiyaT ""
 
 # game/1_diya.rpy:2591
-translate general ch2_47fbadfa:
+translate spanish ch2_47fbadfa:
 
     # DiyaT "I only got 2 hours of sleep..."
     DiyaT ""
 
 # game/1_diya.rpy:2592
-translate general ch2_b55d62d2:
+translate spanish ch2_b55d62d2:
 
     # DiyaT "Nnnnooooooooooooo......I don't wanna get up..."
     DiyaT ""
 
 # game/1_diya.rpy:2593
-translate general ch2_f28d8787:
+translate spanish ch2_f28d8787:
 
     # DiyaT "Ugghhhhhghghhhghhh...Ggggggh..."
     DiyaT ""
 
 # game/1_diya.rpy:2594
-translate general ch2_b21481ba:
+translate spanish ch2_b21481ba:
 
     # "10 minutes pass like this."
     ""
 
 # game/1_diya.rpy:2595
-translate general ch2_2f422b95:
+translate spanish ch2_2f422b95:
 
     # "Once the allotted time is up, Diya unenthusiastically peels herself off the mattress and stands."
     ""
 
 # game/1_diya.rpy:2599
-translate general ch2_22edb1ea:
+translate spanish ch2_22edb1ea:
 
     # "After stretching for a few moments, she starts getting ready for school."
     ""
 
 # game/1_diya.rpy:2606
-translate general ch2_9fa2cfca:
+translate spanish ch2_9fa2cfca:
 
     # Diya "...?"
     Diya ""
 
 # game/1_diya.rpy:2607
-translate general ch2_c66f35de:
+translate spanish ch2_c66f35de:
 
     # DiyaT "My classmate Akarsha messaged me."
     DiyaT ""
 
 # game/1_diya.rpy:2632
-translate general ay_8e0ddc15:
+translate spanish ay_8e0ddc15:
 
     # cFirstLine "{nw}"
     cFirstLine ""
 
 # game/1_diya.rpy:2634
-translate general ay_5de121ba:
+translate spanish ay_5de121ba:
 
     # cAkarsha "ay"
     cAkarsha ""
 
 # game/1_diya.rpy:2635
-translate general ay_9266357c:
+translate spanish ay_9266357c:
 
     # cSame "ay diya"
     cSame ""
 
 # game/1_diya.rpy:2636
-translate general ay_076b730f:
+translate spanish ay_076b730f:
 
     # cSame "ay"
     cSame ""
 
 # game/1_diya.rpy:2638
-translate general ay_b771df90:
+translate spanish ay_b771df90:
 
     # cSame "ayy"
     cSame ""
 
 # game/1_diya.rpy:2639
-translate general ay_15cc5fa6:
+translate spanish ay_15cc5fa6:
 
     # cSame ":)))))))))))))))))"
     cSame ""
 
 # game/1_diya.rpy:2640
-translate general ay_1acbd9bd:
+translate spanish ay_1acbd9bd:
 
     # cDiya "What"
     cDiya ""
 
 # game/1_diya.rpy:2641
-translate general ay_b874ec39:
+translate spanish ay_b874ec39:
 
     # cAkarsha "diya u like pringles, right?"
     cAkarsha ""
 
 # game/1_diya.rpy:2642
-translate general ay_306af6ad:
+translate spanish ay_306af6ad:
 
     # cSame ":o"
     cSame ""
 
 # game/1_diya.rpy:2650
-translate general ay_9387573b:
+translate spanish ay_9387573b:
 
     # cDiya "Yeah, why"
     cDiya ""
 
 # game/1_diya.rpy:2651
-translate general ay_c07c5669:
+translate spanish ay_c07c5669:
 
     # cSame "?"
     cSame ""
 
 # game/1_diya.rpy:2653
-translate general ay_44d60161:
+translate spanish ay_44d60161:
 
     # cAkarsha "go outside"
     cAkarsha ""
 
 # game/1_diya.rpy:2654
-translate general ay_a2bbef2c:
+translate spanish ay_a2bbef2c:
 
     # cSame "xD"
     cSame ""
 
 # game/1_diya.rpy:2655
-translate general ay_8642d046:
+translate spanish ay_8642d046:
 
     # cNarrator "YAOI SEME has gone offline."
     cNarrator ""
 
 # game/1_diya.rpy:2658
-translate general ay_76b2fe88:
+translate spanish ay_76b2fe88:
 
     # nvl clear
     nvl clear
 
 # game/1_diya.rpy:2660
-translate general ay_cf977472:
+translate spanish ay_cf977472:
 
     # Diya "???"
     Diya ""
 
 # game/1_diya.rpy:2665
-translate general ay_f124b3f1:
+translate spanish ay_f124b3f1:
 
     # cDiya "No, why"
     cDiya ""
 
 # game/1_diya.rpy:2667
-translate general ay_c07c5669_1:
+translate spanish ay_c07c5669_1:
 
     # cSame "?"
     cSame ""
 
 # game/1_diya.rpy:2669
-translate general ay_e2a1e065:
+translate spanish ay_e2a1e065:
 
     # cAkarsha "darn"
     cAkarsha ""
 
 # game/1_diya.rpy:2670
-translate general ay_a7eee47e:
+translate spanish ay_a7eee47e:
 
     # cSame "nvm then"
     cSame ""
 
 # game/1_diya.rpy:2671
-translate general ay_ba00fe5f:
+translate spanish ay_ba00fe5f:
 
     # cSame "just being random"
     cSame ""
 
 # game/1_diya.rpy:2672
-translate general ay_a2bbef2c_1:
+translate spanish ay_a2bbef2c_1:
 
     # cSame "xD"
     cSame ""
 
 # game/1_diya.rpy:2674
-translate general ay_8642d046_1:
+translate spanish ay_8642d046_1:
 
     # cNarrator "YAOI SEME has gone offline."
     cNarrator ""
 
 # game/1_diya.rpy:2676
-translate general ay_76b2fe88_1:
+translate spanish ay_76b2fe88_1:
 
     # nvl clear
     nvl clear
 
 # game/1_diya.rpy:2683
-translate general ay_cf977472_1:
+translate spanish ay_cf977472_1:
 
     # Diya "???"
     Diya ""
 
 # game/1_diya.rpy:2685
-translate general ay_9ff1c71a:
+translate spanish ay_9ff1c71a:
 
     # DiyaT "I wonder what that was about."
     DiyaT ""
 
 # game/1_diya.rpy:2697
-translate general ay_fdd5289a:
+translate spanish ay_fdd5289a:
 
     # "Diya goes outside."
     ""
 
 # game/1_diya.rpy:2700
-translate general ay_6d137593:
+translate spanish ay_6d137593:
 
     # "There's a lone Pringle sitting on the ground."
     ""
 
 # game/1_diya.rpy:2703
-translate general ay_aba95152:
+translate spanish ay_aba95152:
 
     # Diya "......................"
     Diya ""
 
 # game/1_diya.rpy:2710
-translate general ay_fdd5289a_1:
+translate spanish ay_fdd5289a_1:
 
     # "Diya goes outside."
     ""
 
 # game/1_diya.rpy:2713
-translate general ay_107bdd12:
+translate spanish ay_107bdd12:
 
     # Akarsha "Ayyy!" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:2722
-translate general ay_8ed976a6:
+translate spanish ay_8ed976a6:
 
     # Akarsha "Sup, homie."
     Akarsha ""
 
 # game/1_diya.rpy:2724
-translate general ay_fa8659d5:
+translate spanish ay_fa8659d5:
 
     # DiyaT "This is Akarsha."
     DiyaT ""
 
 # game/1_diya.rpy:2726
-translate general ay_ff486fb9:
+translate spanish ay_ff486fb9:
 
     # DiyaT "She's the kind of person who doesn't give pencils back."
     DiyaT ""
 
 # game/1_diya.rpy:2727
-translate general ay_5042c731:
+translate spanish ay_5042c731:
 
     # DiyaT "You know when you become friends with someone just because you have to see them so much?"
     DiyaT ""
 
 # game/1_diya.rpy:2728
-translate general ay_36cd7066:
+translate spanish ay_36cd7066:
 
     # DiyaT "Yeah.{w=0.26} That's us."
     DiyaT ""
 
 # game/1_diya.rpy:2729
-translate general ay_85e7dd78:
+translate spanish ay_85e7dd78:
 
     # DiyaT "My parents are always saying I should be more outgoing like her, like that's something I can just change."
     DiyaT ""
 
 # game/1_diya.rpy:2732
-translate general ay_286c673e:
+translate spanish ay_286c673e:
 
     # Akarsha "Hey Diya,{w=0.10} you know what's the best weed?"
     Akarsha ""
 
 # game/1_diya.rpy:2734
-translate general ay_ecc5034c:
+translate spanish ay_ecc5034c:
 
     # Akarsha "It's when.... {w=0.26}I'm WEED you........"
     Akarsha ""
 
 # game/1_diya.rpy:2736
-translate general ay_73c5644b:
+translate spanish ay_73c5644b:
 
     # Diya "....................."
     Diya ""
 
 # game/1_diya.rpy:2740
-translate general ay_6734d1a1:
+translate spanish ay_6734d1a1:
 
     # "Diya briskly begins walking away without her..."
     ""
 
 # game/1_diya.rpy:2742
-translate general ay_e0300cc7:
+translate spanish ay_e0300cc7:
 
     # Akarsha "Aw,{w=0.10} you're no fun."
     Akarsha ""
 
 # game/1_diya.rpy:2744
-translate general ay_014ca1e5:
+translate spanish ay_014ca1e5:
 
     # Akarsha "Have it your way. {w=0.26}Burger King."
     Akarsha ""
 
 # game/1_diya.rpy:2754
-translate general ay_7a79b8e2:
+translate spanish ay_7a79b8e2:
 
     # "Akarsha is half-jogging to keep up with Diya."
     ""
 
 # game/1_diya.rpy:2756
-translate general ay_5b8cfe81:
+translate spanish ay_5b8cfe81:
 
     # Akarsha "Hey Diya..."
     Akarsha ""
 
 # game/1_diya.rpy:2758
-translate general ay_6421002c:
+translate spanish ay_6421002c:
 
     # Akarsha "Did you know that your eye has something called \"immune privilege\"?"
     Akarsha ""
 
 # game/1_diya.rpy:2759
-translate general ay_8b3ca541:
+translate spanish ay_8b3ca541:
 
     # Akarsha "This basically means that the outside of your eye prevents your immune system from knowing about the inside of your eye."
     Akarsha ""
 
 # game/1_diya.rpy:2760
-translate general ay_2fcdd9ac:
+translate spanish ay_2fcdd9ac:
 
     # Akarsha "If it didn't, your immune system would destroy your eyes."
     Akarsha ""
 
 # game/1_diya.rpy:2763
-translate general ay_4fb5b405:
+translate spanish ay_4fb5b405:
 
     # DiyaT "That doesn't sound right."
     DiyaT ""
 
 # game/1_diya.rpy:2764
-translate general ay_78ba3367:
+translate spanish ay_78ba3367:
 
     # Diya "I don't believe you."
     Diya ""
 
 # game/1_diya.rpy:2767
-translate general ay_f35afa93:
+translate spanish ay_f35afa93:
 
     # Akarsha "Why not?"
     Akarsha ""
 
 # game/1_diya.rpy:2770
-translate general ay_de05c49d:
+translate spanish ay_de05c49d:
 
     # Diya "Because you lie to me all the time."
     Diya ""
 
 # game/1_diya.rpy:2771
-translate general ay_34d329f8:
+translate spanish ay_34d329f8:
 
     # Diya "Noelle said not to trust you no matter what."
     Diya ""
 
 # game/1_diya.rpy:2775
-translate general ay_8c9e7003:
+translate spanish ay_8c9e7003:
 
     # Akarsha "Wait,{w=0.10} what?!{w=0.26} When?" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:2778
-translate general ay_106e80c5:
+translate spanish ay_106e80c5:
 
     # Diya "When we first met you this year.{w=0.26} After you accused her of being a robot with artificially implanted human emotions."
     Diya ""
 
 # game/1_diya.rpy:2781
-translate general ay_d25a81db:
+translate spanish ay_d25a81db:
 
     # Akarsha "Hey,{w=0.10} she got annoyed when I pressed a magnet to her head."
     Akarsha ""
 
 # game/1_diya.rpy:2782
-translate general ay_247b3d80:
+translate spanish ay_247b3d80:
 
     # Akarsha "That means she's a Replicant and it was messing with her circuits."
     Akarsha ""
 
 # game/1_diya.rpy:2783
-translate general ay_3c8822a2:
+translate spanish ay_3c8822a2:
 
     # Akarsha "Checkmate."
     Akarsha ""
 
 # game/1_diya.rpy:2786
-translate general ay_dbab3b7d:
+translate spanish ay_dbab3b7d:
 
     # Diya "No.{w=0.26} She was annoyed because you pressed a magnet to her head."
     Diya ""
 
 # game/1_diya.rpy:2789
-translate general ay_085126b7:
+translate spanish ay_085126b7:
 
     # Akarsha "Aw,{w=0.10} come ooonnnnnn!{w=0.26} I was just trying to make a good first impression!" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:2791
-translate general ay_a9a32185:
+translate spanish ay_a9a32185:
 
     # Akarsha "What's a girl to do?"
     Akarsha ""
 
 # game/1_diya.rpy:2794
-translate general ay_6386b438:
+translate spanish ay_6386b438:
 
     # Diya "Not that."
     Diya ""
 
 # game/1_diya.rpy:2797
-translate general ay_9d2c4eb3:
+translate spanish ay_9d2c4eb3:
 
     # Akarsha "Poor me..."
     Akarsha ""
 
 # game/1_diya.rpy:2800
-translate general ay_f79054b3:
+translate spanish ay_f79054b3:
 
     # DiyaT "No one feels sorry for you!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:2810
-translate general ay_0c26a40c:
+translate spanish ay_0c26a40c:
 
     # "There's a bunch of adults dressed in yellow at the intersection, waving signs."
     ""
 
 # game/1_diya.rpy:2812
-translate general ay_57783b8b:
+translate spanish ay_57783b8b:
 
     # Diya "...What is that?"
     Diya ""
 
 # game/1_diya.rpy:2815
-translate general ay_e8747723:
+translate spanish ay_e8747723:
 
     # Akarsha "They're trying to take away gay marriage."
     Akarsha ""
 
 # game/1_diya.rpy:2818
-translate general ay_e5938483:
+translate spanish ay_e5938483:
 
     # Diya "Gay marriage is allowed?"
     Diya ""
 
 # game/1_diya.rpy:2821
-translate general ay_3d701a78:
+translate spanish ay_3d701a78:
 
     # Akarsha "Dude, it's been legal for a few years now."
     Akarsha ""
 
 # game/1_diya.rpy:2824
-translate general ay_f4feb3a7:
+translate spanish ay_f4feb3a7:
 
     # Diya "Oh. Wasn't paying attention."
     Diya ""
 
 # game/1_diya.rpy:2829
-translate general ay_6943ec15:
+translate spanish ay_6943ec15:
 
     # NPC "Protect marriage! Yes on Prop 8!"
     NPC ""
 
 # game/1_diya.rpy:2830
-translate general ay_836c2e0d:
+translate spanish ay_836c2e0d:
 
     # NPC "Marriage equals 1 man and 1 woman!"
     NPC ""
 
 # game/1_diya.rpy:2831
-translate general ay_f5982c63:
+translate spanish ay_f5982c63:
 
     # "A smiling woman with a baby strapped to her back brandishes her sign as Diya and Akarsha walk past. "
     ""
 
 # game/1_diya.rpy:2832
-translate general ay_c280b0ad:
+translate spanish ay_c280b0ad:
 
     # "It says:\nI <3 my Gay brother\nStill YES on 8!"
     ""
 
 # game/1_diya.rpy:2834
-translate general ay_6b0ad574:
+translate spanish ay_6b0ad574:
 
     # Akarsha "What kind of cognitive dissonance..."
     Akarsha ""
 
 # game/1_diya.rpy:2847
-translate general ay_df3f6405:
+translate spanish ay_df3f6405:
 
     # Akarsha "Hey, Diya..."
     Akarsha ""
 
 # game/1_diya.rpy:2849
-translate general ay_fde2f5e1:
+translate spanish ay_fde2f5e1:
 
     # Akarsha "Would you eat a tiny 2 inch person alive for 100 million dollars?"
     Akarsha ""
 
 # game/1_diya.rpy:2851
-translate general ay_3bc8dd9f:
+translate spanish ay_3bc8dd9f:
 
     # Akarsha "{cps=0}Would you eat a tiny 2 inch person alive for 100 million dollars?{/cps}" nointeract
     Akarsha "" nointeract
 
 # game/1_diya.rpy:2863
-translate general eatHim_2bd7d207:
+translate spanish eatHim_2bd7d207:
 
     # "Diya nods!"
     ""
 
 # game/1_diya.rpy:2867
-translate general eatHim_fe447c43:
+translate spanish eatHim_fe447c43:
 
     # Akarsha "Dang. {w=0.26}You wouldn't feel bad at all?"
     Akarsha ""
 
 # game/1_diya.rpy:2868
-translate general eatHim_6f6dba11:
+translate spanish eatHim_6f6dba11:
 
     # Akarsha "You realize he dies?"
     Akarsha ""
 
 # game/1_diya.rpy:2872
-translate general eatHim_6756638e:
+translate spanish eatHim_6756638e:
 
     # Diya "But he tastes like Cheetos."
     Diya ""
 
 # game/1_diya.rpy:2875
-translate general eatHim_109edaa3:
+translate spanish eatHim_109edaa3:
 
     # Akarsha "So? He's still a real dude,{w=0.10} man!" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:2878
-translate general eatHim_5b60ef83:
+translate spanish eatHim_5b60ef83:
 
     # Diya "Why would they make him taste like Cheetos if you're not supposed to eat him?"
     Diya ""
 
 # game/1_diya.rpy:2881
-translate general eatHim_74b69117:
+translate spanish eatHim_74b69117:
 
     # Diya "But he's only 2 inches tall."
     Diya ""
 
 # game/1_diya.rpy:2884
-translate general eatHim_2c02da21:
+translate spanish eatHim_2c02da21:
 
     # Akarsha "He's still a real dude,{w=0.10} man!{w=0.26} What are you,{w=0.10} some kinda short people hater?!" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:2887
-translate general eatHim_4b9ee2d9:
+translate spanish eatHim_4b9ee2d9:
 
     # DiyaT "This is on a whole other level from \"short\"!){w=0.26}\n(His brain must be the size of a pea!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:2890
-translate general eatHim_501e7487:
+translate spanish eatHim_501e7487:
 
     # Akarsha "Dude, imagine... {w=0.26}What if you were the tiny guy?"
     Akarsha ""
 
 # game/1_diya.rpy:2891
-translate general eatHim_98fe6971:
+translate spanish eatHim_98fe6971:
 
     # Akarsha "If I were him,{w=0.10} I'd go into a total panic."
     Akarsha ""
 
 # game/1_diya.rpy:2893
-translate general eatHim_9113abc9:
+translate spanish eatHim_9113abc9:
 
     # Akarsha "I would scream and squirm. {w=0.26}I wouldn't wanna get eaten."
     Akarsha ""
 
 # game/1_diya.rpy:2901
-translate general wouldntEat_a2dbca39:
+translate spanish wouldntEat_a2dbca39:
 
     # Diya "No."
     Diya ""
 
 # game/1_diya.rpy:2903
-translate general wouldntEat_a7da58b9:
+translate spanish wouldntEat_a7da58b9:
 
     # Diya "He'd probably taste horrible."
     Diya ""
 
 # game/1_diya.rpy:2905
-translate general wouldntEat_d129c49a:
+translate spanish wouldntEat_d129c49a:
 
     # Diya "People have so many bones. {w=0.26}It'd be like eating a fish."
     Diya ""
 
 # game/1_diya.rpy:2908
-translate general wouldntEat_c1ec2fb4:
+translate spanish wouldntEat_c1ec2fb4:
 
     # Akarsha "That's the only reason you wouldn't do it?"
     Akarsha ""
 
 # game/1_diya.rpy:2909
-translate general wouldntEat_35ee3896:
+translate spanish wouldntEat_35ee3896:
 
     # Akarsha "Are you sayin' you'd eat him if he was,{w=0.10} like,{w=0.10} a Cheeto?"
     Akarsha ""
 
 # game/1_diya.rpy:2912
-translate general wouldntEat_b378766f:
+translate spanish wouldntEat_b378766f:
 
     # Diya "What do you mean. {w=0.26}Like a talking Cheeto with human intelligence."
     Diya ""
 
 # game/1_diya.rpy:2915
-translate general wouldntEat_94e371c0:
+translate spanish wouldntEat_94e371c0:
 
     # Akarsha "No,{w=0.10} like,{w=0.10} he's still a human dude but he somehow has the taste and texture of a Cheeto."
     Akarsha ""
 
 # game/1_diya.rpy:2918
-translate general wouldntEat_13a1e7bf:
+translate spanish wouldntEat_13a1e7bf:
 
     # DiyaT "What the heck... {w=0.26}This is getting pretty abstract."
     DiyaT ""
 
 # game/1_diya.rpy:2927
-translate general wouldntEat2_57e599f4:
+translate spanish wouldntEat2_57e599f4:
 
     # "Diya shakes her head."
     ""
 
 # game/1_diya.rpy:2930
-translate general wouldntEat2_159207a3:
+translate spanish wouldntEat2_159207a3:
 
     # Akarsha "Wow!{w=0.26} Now I know you're a true homie."
     Akarsha ""
 
 # game/1_diya.rpy:2934
-translate general wouldntEat2_b1883481:
+translate spanish wouldntEat2_b1883481:
 
     # DiyaT "Great..."
     DiyaT ""
 
 # game/1_diya.rpy:2939
-translate general schoolIntro_752571b8:
+translate spanish schoolIntro_752571b8:
 
     # DiyaT "Why are we even talking about this..."
     DiyaT ""
 
 # game/1_diya.rpy:2957
-translate general chapter3_c6091e4a:
+translate spanish chapter3_c6091e4a:
 
     # DiyaT "We made it to school."
     DiyaT ""
 
 # game/1_diya.rpy:2959
-translate general chapter3_4f90db5a:
+translate spanish chapter3_4f90db5a:
 
     # DiyaT "I should go to my locker first before going to class."
     DiyaT ""
 
 # game/1_diya.rpy:2962
-translate general chapter3_fe346ced:
+translate spanish chapter3_fe346ced:
 
     # "Suddenly, Akarsha takes off running."
     ""
 
 # game/1_diya.rpy:2965
-translate general chapter3_d6b9f21f:
+translate spanish chapter3_d6b9f21f:
 
     # Diya "...?!"
     Diya ""
 
 # game/1_diya.rpy:2966
-translate general chapter3_bd15b687:
+translate spanish chapter3_bd15b687:
 
     # Diya "Where are you going?"
     Diya ""
 
 # game/1_diya.rpy:2971
-translate general chapter3_c870b29a:
+translate spanish chapter3_c870b29a:
 
     # Akarsha "Huh? It's pee-pee time."
     Akarsha ""
 
 # game/1_diya.rpy:2973
-translate general chapter3_44c4a486:
+translate spanish chapter3_44c4a486:
 
     # Diya "Can you...not say things like that?"
     Diya ""
 
 # game/1_diya.rpy:2979
-translate general chapter3_2ed201c8:
+translate spanish chapter3_2ed201c8:
 
     # "Akarsha left..."
     ""
 
 # game/1_diya.rpy:2984
-translate general chapter3_c47e75c1:
+translate spanish chapter3_c47e75c1:
 
     # Diya ".............."
     Diya ""
 
 # game/1_diya.rpy:2985
-translate general chapter3_913a1dff:
+translate spanish chapter3_913a1dff:
 
     # DiyaT "She never takes a day off from being weird."
     DiyaT ""
 
 # game/1_diya.rpy:3045
-translate general lookBush_bbb27231:
+translate spanish lookBush_bbb27231:
 
     # Akarsha "OH MY GOD!!!! I DONT BELIEVE IT!!!!" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:3048
-translate general lookBush_f2fff244:
+translate spanish lookBush_f2fff244:
 
     # Diya "What?"
     Diya ""
 
 # game/1_diya.rpy:3051
-translate general lookBush_2a42d072:
+translate spanish lookBush_2a42d072:
 
     # Akarsha "THIS IS...THIS IS A BUSH!!!!!!!!"
     Akarsha ""
 
 # game/1_diya.rpy:3052
-translate general lookBush_588540e7:
+translate spanish lookBush_588540e7:
 
     # Akarsha "I never would've guessed!"
     Akarsha ""
 
 # game/1_diya.rpy:3055
-translate general lookBush_1612cdcc:
+translate spanish lookBush_1612cdcc:
 
     # Diya "..............."
     Diya ""
 
 # game/1_diya.rpy:3059
-translate general lookBush_f5a3cd1f:
+translate spanish lookBush_f5a3cd1f:
 
     # Akarsha "FASCINATING!!!"
     Akarsha ""
 
 # game/1_diya.rpy:3060
-translate general lookBush_beb8360c:
+translate spanish lookBush_beb8360c:
 
     # Akarsha "Let's keep staring at this instead of doing something more useful!"
     Akarsha ""
 
 # game/1_diya.rpy:3069
-translate general lookAlarm_a72d0f74:
+translate spanish lookAlarm_a72d0f74:
 
     # Akarsha "Did you know these things are connected to the school's computer network?"
     Akarsha ""
 
 # game/1_diya.rpy:3071
-translate general lookAlarm_232c2cf4:
+translate spanish lookAlarm_232c2cf4:
 
     # Akarsha "There's a cat 5 coming out of it."
     Akarsha ""
 
 # game/1_diya.rpy:3078
-translate general talkToStranger2_6ee1e34f:
+translate spanish talkToStranger2_6ee1e34f:
 
     # DiyaT "Yeah, right."
     DiyaT ""
 
 # game/1_diya.rpy:3080
-translate general talkToStranger2_228634c1:
+translate spanish talkToStranger2_228634c1:
 
     # DiyaT "Too scary."
     DiyaT ""
 
 # game/1_diya.rpy:3088
-translate general lookPoster_656a56ba:
+translate spanish lookPoster_656a56ba:
 
     # "The poster says \"Reduce stress!\""
     ""
 
 # game/1_diya.rpy:3092
-translate general lookPoster_1eeb501c:
+translate spanish lookPoster_1eeb501c:
 
     # Akarsha "HahaHAH!!" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:3093
-translate general lookPoster_af616955:
+translate spanish lookPoster_af616955:
 
     # Akarsha "How exactly do they expect us to do that?"
     Akarsha ""
 
 # game/1_diya.rpy:3095
-translate general lookPoster_b73af55a:
+translate spanish lookPoster_b73af55a:
 
     # Akarsha "Not go to school?{w=0.26} Get rid of our parents?"
     Akarsha ""
 
 # game/1_diya.rpy:3109
-translate general locker_0a2cc7a4:
+translate spanish locker_0a2cc7a4:
 
     # "Diya opens her locker."
     ""
 
 # game/1_diya.rpy:3113
-translate general locker_5903542b:
+translate spanish locker_5903542b:
 
     # DiyaT "This is technically both me and Noelle's locker."
     DiyaT ""
 
 # game/1_diya.rpy:3114
-translate general locker_829b772d:
+translate spanish locker_829b772d:
 
     # DiyaT "The school doesn't have enough lockers for everyone,{w=0.10} so freshmen share."
     DiyaT ""
 
 # game/1_diya.rpy:3115
-translate general locker_ce90170b:
+translate spanish locker_ce90170b:
 
     # DiyaT "And they're tiny.{w=0.10} I'm always surprised when high schoolers in movies have lockers big enough to fit people inside."
     DiyaT ""
 
 # game/1_diya.rpy:3175
-translate general getStuff_7ede1dce:
+translate spanish getStuff_7ede1dce:
 
     # "Diya hefts her books and binders into her backpack."
     ""
 
 # game/1_diya.rpy:3178
-translate general getStuff_78ed7ffd:
+translate spanish getStuff_78ed7ffd:
 
     # DiyaT "Alright. {w=0.26}I can go to class now."
     DiyaT ""
 
 # game/1_diya.rpy:3185
-translate general lunchbox_458f5d4c:
+translate spanish lunchbox_458f5d4c:
 
     # "Diya opens the lunchbox and peers inside."
     ""
 
 # game/1_diya.rpy:3186
-translate general lunchbox_39565c4c:
+translate spanish lunchbox_39565c4c:
 
     # "There's a steel thermos and a plastic baggy of grapes."
     ""
 
 # game/1_diya.rpy:3188
-translate general lunchbox_ee4493f5:
+translate spanish lunchbox_ee4493f5:
 
     # DiyaT "Grapes...!"
     DiyaT ""
 
 # game/1_diya.rpy:3190
-translate general lunchbox_5a7fce13:
+translate spanish lunchbox_5a7fce13:
 
     # "Diya shovels half the grapes into her mouth before putting the lunchbox back."
     ""
 
 # game/1_diya.rpy:3192
-translate general lunchbox_458f5d4c_1:
+translate spanish lunchbox_458f5d4c_1:
 
     # "Diya opens the lunchbox and peers inside."
     ""
 
 # game/1_diya.rpy:3193
-translate general lunchbox_e330c1ab:
+translate spanish lunchbox_e330c1ab:
 
     # "There's bittermelon in Noelle's stir-fry today."
     ""
 
 # game/1_diya.rpy:3194
-translate general lunchbox_dc4f8ac1:
+translate spanish lunchbox_dc4f8ac1:
 
     # "Diya and Noelle both hate bittermelon. "
     ""
 
 # game/1_diya.rpy:3196
-translate general lunchbox_6276c5a5:
+translate spanish lunchbox_6276c5a5:
 
     # Diya "................"
     Diya ""
 
 # game/1_diya.rpy:3203
-translate general rosin_d147eb49:
+translate spanish rosin_d147eb49:
 
     # DiyaT "This is rosin for string instruments."
     DiyaT ""
 
 # game/1_diya.rpy:3205
-translate general rosin_8212b0ee:
+translate spanish rosin_8212b0ee:
 
     # DiyaT "The first time Noelle showed it to me,{w=0.10} I tried to eat it."
     DiyaT ""
 
 # game/1_diya.rpy:3209
-translate general rosin_81ef55da:
+translate spanish rosin_81ef55da:
 
     # DiyaT "The rosin's a nice amber color."
     DiyaT ""
 
 # game/1_diya.rpy:3211
-translate general rosin_3b5af64f:
+translate spanish rosin_3b5af64f:
 
     # DiyaT "It looks like you can eat it,{w=0.10} but you can't."
     DiyaT ""
 
 # game/1_diya.rpy:3222
-translate general cantGo_2bbfb986:
+translate spanish cantGo_2bbfb986:
 
     # DiyaT "I don't have all the stuff I need for class."
     DiyaT ""
 
 # game/1_diya.rpy:3224
-translate general cantGo_39d58b8a:
+translate spanish cantGo_39d58b8a:
 
     # DiyaT "I need to visit me and Noelle's locker first."
     DiyaT ""
 
 # game/1_diya.rpy:3240
-translate general p1_32d61905:
+translate spanish p1_32d61905:
 
     # Noelle "Diya! Help me!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:3245
-translate general p1_56bfc018:
+translate spanish p1_56bfc018:
 
     # Diya "...!"
     Diya ""
 
 # game/1_diya.rpy:3246
-translate general p1_ad76977a:
+translate spanish p1_ad76977a:
 
     # DiyaT "It's Noelle."
     DiyaT ""
 
 # game/1_diya.rpy:3247
-translate general p1_b62568a2:
+translate spanish p1_b62568a2:
 
     # Diya "What is it?"
     Diya ""
 
 # game/1_diya.rpy:3250
-translate general p1_57996bb4:
+translate spanish p1_57996bb4:
 
     # Noelle "I can't open this water bottle."
     Noelle ""
 
 # game/1_diya.rpy:3252
-translate general p1_b8a544cd:
+translate spanish p1_b8a544cd:
 
     # DiyaT "Noelle basically has noodles for arms."
     DiyaT ""
 
 # game/1_diya.rpy:3256
-translate general p1_fdb56a01:
+translate spanish p1_fdb56a01:
 
     # "Diya takes the bottle out of Noelle's hands and twists the plastic sealed cap open."
     ""
 
 # game/1_diya.rpy:3258
-translate general p1_c728b2c9:
+translate spanish p1_c728b2c9:
 
     # Noelle "Thank you."
     Noelle ""
 
 # game/1_diya.rpy:3260
-translate general p1_85c1f592:
+translate spanish p1_85c1f592:
 
     # Diya "How are you so weak? It's scary."
     Diya ""
 
 # game/1_diya.rpy:3263
-translate general p1_71c747b7:
+translate spanish p1_71c747b7:
 
     # Noelle "It's the manufacturer's fault for making these seals so strong."
     Noelle ""
 
 # game/1_diya.rpy:3265
-translate general p1_a226b7b7:
+translate spanish p1_a226b7b7:
 
     # Diya "What if you get lost in a desert and find a bottle of water?"
     Diya ""
 
 # game/1_diya.rpy:3266
-translate general p1_0fb5d6c7:
+translate spanish p1_0fb5d6c7:
 
     # Diya "You'll die because you can't open it."
     Diya ""
 
 # game/1_diya.rpy:3269
-translate general p1_b0e0c0fc:
+translate spanish p1_b0e0c0fc:
 
     # Noelle "No, I won't. You can open it for me."
     Noelle ""
 
 # game/1_diya.rpy:3271
-translate general p1_4c3b7564:
+translate spanish p1_4c3b7564:
 
     # Diya "That's assuming I'm there in the desert with you." with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:3273
-translate general p1_9dbda49f:
+translate spanish p1_9dbda49f:
 
     # Diya "I should start charging you a service fee. 25 cents."
     Diya ""
 
 # game/1_diya.rpy:3276
-translate general p1_328530d8:
+translate spanish p1_328530d8:
 
     # Noelle "You wouldn't do that."
     Noelle ""
 
 # game/1_diya.rpy:3278
-translate general p1_e73fc293:
+translate spanish p1_e73fc293:
 
     # Diya "I'd make $1.25 per week. Can buy Cup Noodles from the student store."
     Diya ""
 
 # game/1_diya.rpy:3283
-translate general p1_5782dd0c:
+translate spanish p1_5782dd0c:
 
     # "Noelle sneezes violently!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:3288
-translate general p1_bb1c2082:
+translate spanish p1_bb1c2082:
 
     # Noelle "Don't get too close to me. {w=0.26}I probably have the flu."
     Noelle ""
 
 # game/1_diya.rpy:3290
-translate general p1_d6b9f21f:
+translate spanish p1_d6b9f21f:
 
     # Diya "...?!"
     Diya ""
 
 # game/1_diya.rpy:3291
-translate general p1_2e012ac8:
+translate spanish p1_2e012ac8:
 
     # Diya "Did you catch what I had last week?"
     Diya ""
 
 # game/1_diya.rpy:3294
-translate general p1_bb4f48dc:
+translate spanish p1_bb4f48dc:
 
     # Noelle "Probably."
     Noelle ""
 
 # game/1_diya.rpy:3296
-translate general p1_6ce568f5:
+translate spanish p1_6ce568f5:
 
     # Diya "Sorry."
     Diya ""
 
 # game/1_diya.rpy:3297
-translate general p1_d022e1af:
+translate spanish p1_d022e1af:
 
     # DiyaT "This happens a lot because we spend so much time together. And I eat her food."
     DiyaT ""
 
 # game/1_diya.rpy:3298
-translate general p1_aeec3d46:
+translate spanish p1_aeec3d46:
 
     # DiyaT "It doesn't help that our immune systems are perpetually weakened from sleep deprivation, either."
     DiyaT ""
 
 # game/1_diya.rpy:3300
-translate general p1_46c2f2cc:
+translate spanish p1_46c2f2cc:
 
     # Noelle "At least you don't have to worry about me being contagious."
     Noelle ""
 
 # game/1_diya.rpy:3302
-translate general p1_2e00fa89:
+translate spanish p1_2e00fa89:
 
     # Diya "Are you okay though?{w=0.26} Shouldn't you go home?"
     Diya ""
 
 # game/1_diya.rpy:3305
-translate general p1_5bfb029f:
+translate spanish p1_5bfb029f:
 
     # Noelle "And what,{w=0.10} miss school?!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:3307
-translate general p1_00f43a48:
+translate spanish p1_00f43a48:
 
     # DiyaT "I guess that's out of the question..."
     DiyaT ""
 
 # game/1_diya.rpy:3309
-translate general p1_4e84fa75:
+translate spanish p1_4e84fa75:
 
     # DiyaT "Even when Noelle had the stomach flu in middle school,{w=0.10} her parents made her come just for her math and science classes."
     DiyaT ""
 
 # game/1_diya.rpy:3310
-translate general p1_529e46d5:
+translate spanish p1_529e46d5:
 
     # DiyaT "She was,{w=0.10} like,{w=0.10} barely conscious. {w=0.26}I had to carry her around because she couldn't get up from her desk."
     DiyaT ""
 
 # game/1_diya.rpy:3311
-translate general p1_87868647:
+translate spanish p1_87868647:
 
     # DiyaT "I think she ended up infecting half the school."
     DiyaT ""
 
 # game/1_diya.rpy:3314
-translate general p1_fc4d49b2:
+translate spanish p1_fc4d49b2:
 
     # Noelle "Where's Akarsha?"
     Noelle ""
 
 # game/1_diya.rpy:3318
-translate general p1_68c66fb7:
+translate spanish p1_68c66fb7:
 
     # Diya "She..."
     Diya ""
 
 # game/1_diya.rpy:3325
-translate general p1_a1d626bb:
+translate spanish p1_a1d626bb:
 
     # Akarsha "It's pee-pee time."
     Akarsha ""
 
 # game/1_diya.rpy:3330
-translate general p1_adac9e5d:
+translate spanish p1_adac9e5d:
 
     # DiyaT "I am NOT saying that."
     DiyaT ""
 
 # game/1_diya.rpy:3331
-translate general p1_93212e9d:
+translate spanish p1_93212e9d:
 
     # Diya "............."
     Diya ""
 
 # game/1_diya.rpy:3335
-translate general p1_a5a151e8:
+translate spanish p1_a5a151e8:
 
     # Noelle "............."
     Noelle ""
 
 # game/1_diya.rpy:3338
-translate general p1_e723956f:
+translate spanish p1_e723956f:
 
     # Noelle "...Okay, never mind."
     Noelle ""
 
 # game/1_diya.rpy:3340
-translate general p1_1f71e1c1:
+translate spanish p1_1f71e1c1:
 
     # Diya "Why do you ask?"
     Diya ""
 
 # game/1_diya.rpy:3343
-translate general p1_3c610cb8:
+translate spanish p1_3c610cb8:
 
     # Noelle "I secretly sewed a library book security tag into the inside of Akarsha's backpack."
     Noelle ""
 
 # game/1_diya.rpy:3344
-translate general p1_d8c7ced4:
+translate spanish p1_d8c7ced4:
 
     # Noelle "So from now on, every time she leaves the library, she'll set off the alarm and have her backpack searched."
     Noelle ""
 
 # game/1_diya.rpy:3346
-translate general p1_19a8f544:
+translate spanish p1_19a8f544:
 
     # Diya "That's...wow."
     Diya ""
 
 # game/1_diya.rpy:3349
-translate general p1_5ca99b9c:
+translate spanish p1_5ca99b9c:
 
     # Noelle "Well, whatever. We'll have plenty of chances to see."
     Noelle ""
 
 # game/1_diya.rpy:3351
-translate general p1_68920cd7:
+translate spanish p1_68920cd7:
 
     # Noelle "Let's go."
     Noelle ""
 
 # game/1_diya.rpy:3358
-translate general p1_1cfd8e7d:
+translate spanish p1_1cfd8e7d:
 
     # "A huge mob of kids is packed outside the classroom. They're all looking at a grid of test scores posted on the wall."
     ""
 
 # game/1_diya.rpy:3359
-translate general p1_df3a30ae:
+translate spanish p1_df3a30ae:
 
     # "It's complete chaos. People are pushing and angling their way to the list with the fervor of Beliebers trying to touch Justin's hand."
     ""
 
 # game/1_diya.rpy:3362
-translate general p1_f70e351c:
+translate spanish p1_f70e351c:
 
     # NPC2 "If I get a B, my parents are throwing away my GameCube."
     NPC2 ""
 
 # game/1_diya.rpy:3363
-translate general p1_9e92b29f:
+translate spanish p1_9e92b29f:
 
     # NPC "Yikes...That's gotta be an empty threat, right?"
     NPC ""
 
 # game/1_diya.rpy:3364
-translate general p1_5c98e267:
+translate spanish p1_5c98e267:
 
     # NPC2 "I {i}wish{/i}. They already threw away my cellphone."
     NPC2 ""
 
 # game/1_diya.rpy:3366
-translate general p1_136db9e2:
+translate spanish p1_136db9e2:
 
     # Diya "..........."
     Diya ""
 
 # game/1_diya.rpy:3367
-translate general p1_a33f411c:
+translate spanish p1_a33f411c:
 
     # Diya "...I'm scared to see what I got on this."
     Diya ""
 
 # game/1_diya.rpy:3368
-translate general p1_b7aed4ff:
+translate spanish p1_b7aed4ff:
 
     # Diya "Think I failed."
     Diya ""
 
 # game/1_diya.rpy:3371
-translate general p1_7ab32c7a:
+translate spanish p1_7ab32c7a:
 
     # Noelle "Asian failed? Or actually failed?"
     Noelle ""
 
 # game/1_diya.rpy:3374
-translate general p1_6da6d2d5:
+translate spanish p1_6da6d2d5:
 
     # Diya "Asian failed. C'mon, I'm not {i}that{/i} dumb."
     Diya ""
 
 # game/1_diya.rpy:3422
-translate general topScores_4c3c16b4:
+translate spanish topScores_4c3c16b4:
 
     # DiyaT "This is a list of the top 10 scores across all periods."
     DiyaT ""
 
 # game/1_diya.rpy:3423
-translate general topScores_882bd560:
+translate spanish topScores_882bd560:
 
     # DiyaT "Noelle aced it. Classic."
     DiyaT ""
 
 # game/1_diya.rpy:3424
-translate general topScores_45934ce3:
+translate spanish topScores_45934ce3:
 
     # DiyaT "She used to call me on the phone crying every Christmas because her parents got her math workbooks instead of what she really wanted."
     DiyaT ""
 
 # game/1_diya.rpy:3425
-translate general topScores_b46fe40a:
+translate spanish topScores_b46fe40a:
 
     # DiyaT "By now, she's unbeatable. It's like her tragic superhero origin story."
     DiyaT ""
 
 # game/1_diya.rpy:3426
-translate general topScores_f4e37149:
+translate spanish topScores_f4e37149:
 
     # DiyaT "Except instead of a superhero, she's every Asian parent's dream child."
     DiyaT ""
 
 # game/1_diya.rpy:3427
-translate general topScores_73bbda00:
+translate spanish topScores_73bbda00:
 
     # DiyaT "No clue how Akarsha managed to get the second highest score, though."
     DiyaT ""
 
 # game/1_diya.rpy:3428
-translate general topScores_b084ebeb:
+translate spanish topScores_b084ebeb:
 
     # DiyaT "General consensus is that she's cheating, but the teachers have never been able to catch her doing anything."
     DiyaT ""
 
 # game/1_diya.rpy:3429
-translate general topScores_d5b5c795:
+translate spanish topScores_d5b5c795:
 
     # DiyaT "So I'll give her the benefit of the doubt."
     DiyaT ""
 
 # game/1_diya.rpy:3433
-translate general topScores_96e3e9e9:
+translate spanish topScores_96e3e9e9:
 
     # Noelle "Diya, I've located your ID number. Here."
     Noelle ""
 
 # game/1_diya.rpy:3435
-translate general topScores_c54b5455:
+translate spanish topScores_c54b5455:
 
     # Noelle "You got a 91.22%%."
     Noelle ""
 
 # game/1_diya.rpy:3438
-translate general topScores_f1d24349:
+translate spanish topScores_f1d24349:
 
     # Diya "Phew. Almost failed."
     Diya ""
 
 # game/1_diya.rpy:3441
-translate general topScores_b2f666bc:
+translate spanish topScores_b2f666bc:
 
     # Noelle "Actually, you could've missed one more and still scraped an A-."
     Noelle ""
 
 # game/1_diya.rpy:3444
-translate general topScores_c01e4cf1:
+translate spanish topScores_c01e4cf1:
 
     # DiyaT "Considering how many I guessed on, that's still cutting it pretty close."
     DiyaT ""
 
 # game/1_diya.rpy:3445
-translate general topScores_e7fbee5f:
+translate spanish topScores_e7fbee5f:
 
     # DiyaT "That's scary. I really studied as hard as I could, but even my best almost wasn't good enough."
     DiyaT ""
 
 # game/1_diya.rpy:3446
-translate general topScores_9ca35e1d:
+translate spanish topScores_9ca35e1d:
 
     # DiyaT "I wonder if I can really get into Stanford or Berkeley like this..."
     DiyaT ""
 
 # game/1_diya.rpy:3455
-translate general enterClass_6b0d3919:
+translate spanish enterClass_6b0d3919:
 
     # DiyaT "Wait. I should look at the test results, first."
     DiyaT ""
 
 # game/1_diya.rpy:3471
-translate general enterClass_58cb6ad5:
+translate spanish enterClass_58cb6ad5:
 
     # "As Diya and Noelle enter the classroom, something bursts out of the cabinet!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:3472
-translate general enterClass_194bc507:
+translate spanish enterClass_194bc507:
 
     # Akarsha "HOO!!!!!" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:3474
-translate general enterClass_7476dfa1:
+translate spanish enterClass_7476dfa1:
 
     # Noelle "AAAUUGH!!!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:3478
-translate general enterClass_59b2f1de:
+translate spanish enterClass_59b2f1de:
 
     # "Noelle staggers backwards onto an X marked on the floor with duct tape..."
     ""
 
 # game/1_diya.rpy:3481
-translate general enterClass_b1236f8a:
+translate spanish enterClass_b1236f8a:
 
     # "A garbage can drops from the ceiling!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:3483
-translate general enterClass_45c21280:
+translate spanish enterClass_45c21280:
 
     # Noelle "NO!!!!!!!!!"
     Noelle ""
 
 # game/1_diya.rpy:3486
-translate general enterClass_d32aef0b:
+translate spanish enterClass_d32aef0b:
 
     # Akarsha "HAHA {i}HAH!!!{/i}" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:3490
-translate general enterClass_88293899:
+translate spanish enterClass_88293899:
 
     # DiyaT "Noelle and Akarsha go through some variation of this every single day."
     DiyaT ""
 
 # game/1_diya.rpy:3491
-translate general enterClass_ada9334e:
+translate spanish enterClass_ada9334e:
 
     # DiyaT "It's their roundabout way of being friends."
     DiyaT ""
 
 # game/1_diya.rpy:3497
-translate general enterClass_d95836eb:
+translate spanish enterClass_d95836eb:
 
     # Akarsha "Well, well, well."
     Akarsha ""
 
 # game/1_diya.rpy:3498
-translate general enterClass_0eee25f0:
+translate spanish enterClass_0eee25f0:
 
     # Akarsha "If it isn't my favorite Frenchman, Noelle."
     Akarsha ""
 
 # game/1_diya.rpy:3500
-translate general enterClass_52d9f166:
+translate spanish enterClass_52d9f166:
 
     # Noelle "Please stop calling me that."
     Noelle ""
 
 # game/1_diya.rpy:3503
-translate general enterClass_cc47203f:
+translate spanish enterClass_cc47203f:
 
     # Akarsha "Why're you speaking English, Noelle??"
     Akarsha ""
 
 # game/1_diya.rpy:3504
-translate general enterClass_90f650e7:
+translate spanish enterClass_90f650e7:
 
     # Akarsha "What kind of Frenchman are you??"
     Akarsha ""
 
 # game/1_diya.rpy:3506
-translate general enterClass_db10f87f:
+translate spanish enterClass_db10f87f:
 
     # Noelle "JUST BECAUSE MY NAME IS FRENCH DOESN'T MEAN I'M FRENCH."
     Noelle ""
 
 # game/1_diya.rpy:3510
-translate general enterClass_5d859fef:
+translate spanish enterClass_5d859fef:
 
     # Akarsha "Honhonhon."
     Akarsha ""
 
 # game/1_diya.rpy:3511
-translate general enterClass_41bd742f:
+translate spanish enterClass_41bd742f:
 
     # Akarsha "Baguette."
     Akarsha ""
 
 # game/1_diya.rpy:3514
-translate general enterClass_f61e2f2d:
+translate spanish enterClass_f61e2f2d:
 
     # DiyaT "See, this is the problem."
     DiyaT ""
 
 # game/1_diya.rpy:3515
-translate general enterClass_0da31e85:
+translate spanish enterClass_0da31e85:
 
     # DiyaT "Whenever Noelle hears something stupid, she can't just let it slide."
     DiyaT ""
 
 # game/1_diya.rpy:3516
-translate general enterClass_45dc4300:
+translate spanish enterClass_45dc4300:
 
     # DiyaT "She always has to correct it."
     DiyaT ""
 
 # game/1_diya.rpy:3517
-translate general enterClass_a6159566:
+translate spanish enterClass_a6159566:
 
     # DiyaT "So Akarsha just keeps acting dumber and dumber on purpose into infinity."
     DiyaT ""
 
 # game/1_diya.rpy:3521
-translate general enterClass_d1aae370:
+translate spanish enterClass_d1aae370:
 
     # "Noelle does an impressive worm-like dance to wriggle out of the garbage bin."
     ""
 
 # game/1_diya.rpy:3523
-translate general enterClass_3e5ddfc0:
+translate spanish enterClass_3e5ddfc0:
 
     # Noelle "I can't believe you've done this. What happened to our truce?"
     Noelle ""
 
 # game/1_diya.rpy:3525
-translate general enterClass_3104c5e2:
+translate spanish enterClass_3104c5e2:
 
     # Akarsha "Truce?"
     Akarsha ""
 
 # game/1_diya.rpy:3527
-translate general enterClass_eb0bb6c1:
+translate spanish enterClass_eb0bb6c1:
 
     # Noelle "From yesterday! You agreed to this!"
     Noelle ""
 
 # game/1_diya.rpy:3529
-translate general enterClass_6ca3dd51:
+translate spanish enterClass_6ca3dd51:
 
     # "Noelle pulls a sheet of binder paper from her book bag and brandishes it in front of Akarsha's face."
     ""
 
 # game/1_diya.rpy:3532
-translate general enterClass_0380b5de:
+translate spanish enterClass_0380b5de:
 
     # Noelle "Look! This is your own signature at the bottom."
     Noelle ""
 
 # game/1_diya.rpy:3534
-translate general enterClass_2df16a64:
+translate spanish enterClass_2df16a64:
 
     # Akarsha ".............."
     Akarsha ""
 
 # game/1_diya.rpy:3536
-translate general enterClass_9127f483:
+translate spanish enterClass_9127f483:
 
     # Akarsha "...Suddenly, I can't read."
     Akarsha ""
 
 # game/1_diya.rpy:3539
-translate general enterClass_3d4ff50f:
+translate spanish enterClass_3d4ff50f:
 
     # Noelle "AKARSHAAaaAAAAA!!!!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:3540
-translate general enterClass_25486c79:
+translate spanish enterClass_25486c79:
 
     # "Noelle's scream sounds very weird and hoarse from her cold."
     ""
 
 # game/1_diya.rpy:3542
-translate general enterClass_c668c0c2:
+translate spanish enterClass_c668c0c2:
 
     # Akarsha "...What's wrong with your voice today?"
     Akarsha ""
 
 # game/1_diya.rpy:3543
-translate general enterClass_acab0404:
+translate spanish enterClass_acab0404:
 
     # Akarsha "That was a weaker yell than normal."
     Akarsha ""
 
 # game/1_diya.rpy:3545
-translate general enterClass_17856c96:
+translate spanish enterClass_17856c96:
 
     # Noelle "I'm ill. I am losing my voice."
     Noelle ""
 
 # game/1_diya.rpy:3547
-translate general enterClass_b9555eeb:
+translate spanish enterClass_b9555eeb:
 
     # Akarsha "How about I punch you in the throat? It'll displace the mucus."
     Akarsha ""
 
 # game/1_diya.rpy:3549
-translate general enterClass_7322b437:
+translate spanish enterClass_7322b437:
 
     # Noelle "NO, IT WON'T." with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:3551
-translate general enterClass_ff36057d:
+translate spanish enterClass_ff36057d:
 
     # Akarsha "How do you know? Anything is possible."
     Akarsha ""
 
 # game/1_diya.rpy:3552
-translate general enterClass_57dd6d8a:
+translate spanish enterClass_57dd6d8a:
 
     # Akarsha "Trust me."
     Akarsha ""
 
 # game/1_diya.rpy:3553
-translate general enterClass_de54cdd8:
+translate spanish enterClass_de54cdd8:
 
     # Akarsha "{i}{font=arial.ttf}♫{/font} I'm here! {w=0.26}Soba ni iru kara... {i}{font=arial.ttf}♫{/font}"
     Akarsha ""
 
 # game/1_diya.rpy:3555
-translate general enterClass_7e74b2c4:
+translate spanish enterClass_7e74b2c4:
 
     # Noelle "YOU ARE THE ABSOLUTE LAST PERSON I WOULD TRUST." with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:3556
-translate general enterClass_67b9be96:
+translate spanish enterClass_67b9be96:
 
     # Noelle "You worthless scammer."
     Noelle ""
 
 # game/1_diya.rpy:3558
-translate general enterClass_6a01c615:
+translate spanish enterClass_6a01c615:
 
     # Akarsha "Leave all your problems to me. {w=0.26}I'll solve them in a heartbeat."
     Akarsha ""
 
 # game/1_diya.rpy:3560
-translate general enterClass_9784ad65:
+translate spanish enterClass_9784ad65:
 
     # Noelle "That is unrealistic and accelerating that fast would destroy you even past your bone structure."
     Noelle ""
 
 # game/1_diya.rpy:3562
-translate general enterClass_99c7e8f5:
+translate spanish enterClass_99c7e8f5:
 
     # Akarsha "Why're you being so mean? {w=0.26}I'm just trying to help you!"
     Akarsha ""
 
 # game/1_diya.rpy:3564
-translate general enterClass_20755470:
+translate spanish enterClass_20755470:
 
     # Noelle "HITTING ME ISN'T HELPING ME!!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:3567
-translate general enterClass_73a9b39a:
+translate spanish enterClass_73a9b39a:
 
     # Akarsha "Wooooooooooow,{w=0.10} someone has anger management problems!"
     Akarsha ""
 
 # game/1_diya.rpy:3569
-translate general enterClass_37ac40ce:
+translate spanish enterClass_37ac40ce:
 
     # Akarsha "You gotta slow down and smell the flowers... {w=0.26}\nAppreciate life's miracles."
     Akarsha ""
 
 # game/1_diya.rpy:3572
-translate general enterClass_1cfceab6:
+translate spanish enterClass_1cfceab6:
 
     # Akarsha "Like me. {w=0.26}I'm life's greatest miracle."
     Akarsha ""
 
 # game/1_diya.rpy:3576
-translate general enterClass_385abd51:
+translate spanish enterClass_385abd51:
 
     # Noelle "ABSOLUTELY DISGUSTING. I FEEL NAUSEATED JUST LOOKING AT YOU."
     Noelle ""
 
 # game/1_diya.rpy:3579
-translate general enterClass_5f1f382b:
+translate spanish enterClass_5f1f382b:
 
     # Akarsha "I just don't understand...\nWhy is there so much hate in the world...?"
     Akarsha ""
 
 # game/1_diya.rpy:3581
-translate general enterClass_581a17cd:
+translate spanish enterClass_581a17cd:
 
     # Akarsha "If only we could open our hearts to love, there would be no wars..."
     Akarsha ""
 
 # game/1_diya.rpy:3583
-translate general enterClass_16c74243:
+translate spanish enterClass_16c74243:
 
     # Akarsha "\"Peace begins with a smile.\" -Mother Theresa."
     Akarsha ""
 
 # game/1_diya.rpy:3585
-translate general enterClass_b063fa03:
+translate spanish enterClass_b063fa03:
 
     # "Noelle is struggling not to break character by laughing!"
     ""
 
 # game/1_diya.rpy:3590
-translate general enterClass_07037f16:
+translate spanish enterClass_07037f16:
 
     # "The bell rings!{w=0.26} This concludes Noelle and Akarsha's daily morning scream fest."
     ""
 
 # game/1_diya.rpy:3595
-translate general enterClass_5fe63c4b:
+translate spanish enterClass_5fe63c4b:
 
     # "The rest of the morning is relatively uneventful..."
     ""
 
 # game/1_diya.rpy:3607
-translate general enterClass_973c044c:
+translate spanish enterClass_973c044c:
 
     # Akarsha "Guess what?"
     Akarsha ""
 
 # game/1_diya.rpy:3609
-translate general enterClass_9d73f57c:
+translate spanish enterClass_9d73f57c:
 
     # Noelle "What?"
     Noelle ""
 
 # game/1_diya.rpy:3611
-translate general enterClass_5f09ff92:
+translate spanish enterClass_5f09ff92:
 
     # Akarsha "No, no. You gotta guess."
     Akarsha ""
 
 # game/1_diya.rpy:3613
-translate general enterClass_0133f6ff:
+translate spanish enterClass_0133f6ff:
 
     # Noelle "You were arrested."
     Noelle ""
 
 # game/1_diya.rpy:3615
-translate general enterClass_851313c7:
+translate spanish enterClass_851313c7:
 
     # Akarsha "What! No! "
     Akarsha ""
 
 # game/1_diya.rpy:3617
-translate general enterClass_ddae83e5:
+translate spanish enterClass_ddae83e5:
 
     # Noelle "You have a year left to live."
     Noelle ""
 
 # game/1_diya.rpy:3619
-translate general enterClass_c22064b7:
+translate spanish enterClass_c22064b7:
 
     # Akarsha "What the?? Dude, why'd you always gotta jump to the worst possible conclusion? "
     Akarsha ""
 
 # game/1_diya.rpy:3621
-translate general enterClass_afae0fbd:
+translate spanish enterClass_afae0fbd:
 
     # Noelle "It guarantees that I'm either right or pleasantly surprised. "
     Noelle ""
 
 # game/1_diya.rpy:3623
-translate general enterClass_fe8259d6:
+translate spanish enterClass_fe8259d6:
 
     # Akarsha "You're a real piece of work, you know that? "
     Akarsha ""
 
 # game/1_diya.rpy:3624
-translate general enterClass_341ecb8a:
+translate spanish enterClass_341ecb8a:
 
     # Akarsha "Whatever, I'll just tell you."
     Akarsha ""
 
 # game/1_diya.rpy:3626
-translate general enterClass_f6b6366d:
+translate spanish enterClass_f6b6366d:
 
     # Akarsha "Did you guys hear about the new girl who transferred here?"
     Akarsha ""
 
 # game/1_diya.rpy:3628
-translate general enterClass_2e09a2dd:
+translate spanish enterClass_2e09a2dd:
 
     # Akarsha "Apparently she's like,{w=0.10} a delinquent!{w=0.26} I heard she knifed someone."
     Akarsha ""
 
 # game/1_diya.rpy:3630
-translate general enterClass_8b43f123:
+translate spanish enterClass_8b43f123:
 
     # Noelle "She must not be very intelligent."
     Noelle ""
 
 # game/1_diya.rpy:3632
-translate general enterClass_645417f1:
+translate spanish enterClass_645417f1:
 
     # Akarsha "Isn't that exciting?{w=0.26} We never get that type around here."
     Akarsha ""
 
 # game/1_diya.rpy:3635
-translate general enterClass_39e89731:
+translate spanish enterClass_39e89731:
 
     # Diya "That's true. Everyone here's kinda forced to become a nerd by default."
     Diya ""
 
 # game/1_diya.rpy:3638
-translate general enterClass_e4a82990:
+translate spanish enterClass_e4a82990:
 
     # Akarsha "I can't wait to meet her."
     Akarsha ""
 
 # game/1_diya.rpy:3640
-translate general enterClass_e732b6f3:
+translate spanish enterClass_e732b6f3:
 
     # Noelle "What for?{w=0.26} Do you want to get stabbed too?"
     Noelle ""
 
 # game/1_diya.rpy:3642
-translate general enterClass_c01be755:
+translate spanish enterClass_c01be755:
 
     # Akarsha "Sure, why not? Saves me the trouble of doing it myself."
     Akarsha ""
 
 # game/1_diya.rpy:3644
-translate general enterClass_02fcffee:
+translate spanish enterClass_02fcffee:
 
     # "Noelle rolls her eyes and goes back to organizing her fried rice. She's picking all the sausage bits out so Diya can eat her leftovers."
     ""
 
 # game/1_diya.rpy:3646
-translate general enterClass_6873d887:
+translate spanish enterClass_6873d887:
 
     # Noelle "Don't do that. I like being alive the same time as you."
     Noelle ""
 
 # game/1_diya.rpy:3648
-translate general enterClass_ffaac62e:
+translate spanish enterClass_ffaac62e:
 
     # Akarsha "That's the sweetest thing you've ever said to me!"
     Akarsha ""
 
 # game/1_diya.rpy:3650
-translate general enterClass_586bff2d:
+translate spanish enterClass_586bff2d:
 
     # Noelle "Really? Then I take it back."
     Noelle ""
 
 # game/1_diya.rpy:3652
-translate general enterClass_5092c8c6:
+translate spanish enterClass_5092c8c6:
 
     # Akarsha "WOW."
     Akarsha ""
 
 # game/1_diya.rpy:3654
-translate general enterClass_068b6832:
+translate spanish enterClass_068b6832:
 
     # "Noelle slides her thermos across the table at Diya."
     ""
 
 # game/1_diya.rpy:3656
-translate general enterClass_255916a2:
+translate spanish enterClass_255916a2:
 
     # DiyaT "Fried rice!!!!!!!"
     DiyaT ""
 
 # game/1_diya.rpy:3659
-translate general enterClass_d5c5af2c:
+translate spanish enterClass_d5c5af2c:
 
     # Akarsha "Hey, Diya."
     Akarsha ""
 
 # game/1_diya.rpy:3661
-translate general enterClass_202d6c38:
+translate spanish enterClass_202d6c38:
 
     # Akarsha "How many 2nd graders do you think you could beat up if they came at you in waves of 10, with a 5th grader boss coming every 5 waves?"
     Akarsha ""
 
 # game/1_diya.rpy:3664
-translate general enterClass_9618f280:
+translate spanish enterClass_9618f280:
 
     # Akarsha "{cps=0}How many 2nd graders you think you could beat up if they came at you in waves of 10, with a 5th grader boss coming every 5 waves?{/cps}" nointeract
     Akarsha "" nointeract
 
 # game/1_diya.rpy:3669
-translate general enterClass_6ccd5ff9:
+translate spanish enterClass_6ccd5ff9:
 
     # Diya "Zero."
     Diya ""
 
 # game/1_diya.rpy:3670
-translate general enterClass_7eb9f352:
+translate spanish enterClass_7eb9f352:
 
     # Diya "Don't want to punch kids."
     Diya ""
 
 # game/1_diya.rpy:3673
-translate general enterClass_ad5c1c6a:
+translate spanish enterClass_ad5c1c6a:
 
     # Akarsha "But it's kill or be killed, man!"
     Akarsha ""
 
 # game/1_diya.rpy:3675
-translate general enterClass_99efceb6:
+translate spanish enterClass_99efceb6:
 
     # Akarsha "You'd just let them beat you??"
     Akarsha ""
 
 # game/1_diya.rpy:3676
-translate general enterClass_d383b991:
+translate spanish enterClass_d383b991:
 
     # Akarsha "Your gravestone's gonna be like, \"Here lies Diya. Killed by 2nd graders.\""
     Akarsha ""
 
 # game/1_diya.rpy:3679
-translate general enterClass_372c766a:
+translate spanish enterClass_372c766a:
 
     # Diya "I'm not going to put that on my gravestone." with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:3685
-translate general enterClass_f519fc81:
+translate spanish enterClass_f519fc81:
 
     # Diya "Maybe like 15."
     Diya ""
 
 # game/1_diya.rpy:3688
-translate general enterClass_a5e32000:
+translate spanish enterClass_a5e32000:
 
     # Akarsha "What! You're underestimating yourself, man."
     Akarsha ""
 
 # game/1_diya.rpy:3690
-translate general enterClass_1e24f8e3:
+translate spanish enterClass_1e24f8e3:
 
     # Diya "I'm not invincible. This isn't a kung-fu movie."
     Diya ""
 
 # game/1_diya.rpy:3693
-translate general enterClass_64a0c71a:
+translate spanish enterClass_64a0c71a:
 
     # Akarsha "But they're little. It's so easy to mess them up."
     Akarsha ""
 
 # game/1_diya.rpy:3694
-translate general enterClass_6eb12ee4:
+translate spanish enterClass_6eb12ee4:
 
     # Akarsha "You could just tell them they laugh weird and they'll be self conscious about it for the rest of their lives."
     Akarsha ""
 
 # game/1_diya.rpy:3700
-translate general enterClass_cc45fd2d:
+translate spanish enterClass_cc45fd2d:
 
     # Diya "At least a few dozen."
     Diya ""
 
 # game/1_diya.rpy:3703
-translate general enterClass_eb1f87b4:
+translate spanish enterClass_eb1f87b4:
 
     # Akarsha "SAVAGE..."
     Akarsha ""
 
 # game/1_diya.rpy:3705
-translate general enterClass_efc4552c:
+translate spanish enterClass_efc4552c:
 
     # Akarsha "You don't feel bad hitting little kids?"
     Akarsha ""
 
 # game/1_diya.rpy:3708
-translate general enterClass_ea7da79f:
+translate spanish enterClass_ea7da79f:
 
     # Diya "Well, they started it."
     Diya ""
 
 # game/1_diya.rpy:3709
-translate general enterClass_ac882d4f:
+translate spanish enterClass_ac882d4f:
 
     # Diya "If they don't want to get hit, they shouldn't attack me."
     Diya ""
 
 # game/1_diya.rpy:3712
-translate general enterClass_7ac58759:
+translate spanish enterClass_7ac58759:
 
     # "Noelle looks a bit left out by this conversation."
     ""
 
 # game/1_diya.rpy:3714
-translate general enterClass_e39b280c:
+translate spanish enterClass_e39b280c:
 
     # Noelle "Why just Diya? How come you're not asking me?"
     Noelle ""
 
 # game/1_diya.rpy:3716
-translate general enterClass_6800bd00:
+translate spanish enterClass_6800bd00:
 
     # Akarsha "Because I already know the answer for you."
     Akarsha ""
 
 # game/1_diya.rpy:3718
-translate general enterClass_36a1ed13:
+translate spanish enterClass_36a1ed13:
 
     # Akarsha "Zero."
     Akarsha ""
 
 # game/1_diya.rpy:3721
-translate general enterClass_627fc5dd:
+translate spanish enterClass_627fc5dd:
 
     # Diya "...It's true. You're a weakling."
     Diya ""
 
 # game/1_diya.rpy:3724
-translate general enterClass_73452d18:
+translate spanish enterClass_73452d18:
 
     # Noelle "How rude!"
     Noelle ""
 
 # game/1_diya.rpy:3729
-translate general enterClass_3ad2465a:
+translate spanish enterClass_3ad2465a:
 
     # Diya "Noelle, let's arm wrestle."
     Diya ""
 
 # game/1_diya.rpy:3730
-translate general enterClass_f923501e:
+translate spanish enterClass_f923501e:
 
     # Diya "I want to show Akarsha. She hasn't seen this."
     Diya ""
 
 # game/1_diya.rpy:3733
-translate general enterClass_2df34b09:
+translate spanish enterClass_2df34b09:
 
     # Noelle "I don't want to."
     Noelle ""
 
 # game/1_diya.rpy:3734
-translate general enterClass_0244c33f:
+translate spanish enterClass_0244c33f:
 
     # Noelle "I always lose."
     Noelle ""
 
 # game/1_diya.rpy:3737
-translate general enterClass_23b3cae5:
+translate spanish enterClass_23b3cae5:
 
     # Diya "I'll let you use both hands this time."
     Diya ""
 
 # game/1_diya.rpy:3739
-translate general enterClass_f0604e5a:
+translate spanish enterClass_f0604e5a:
 
     # "Noelle makes a face."
     ""
 
 # game/1_diya.rpy:3740
-translate general enterClass_dfe556d3:
+translate spanish enterClass_dfe556d3:
 
     # "Reluctantly, she clasps both her hands on Diya's, so it's sandwiched in between hers."
     ""
 
 # game/1_diya.rpy:3742
-translate general enterClass_41c2d9d8:
+translate spanish enterClass_41c2d9d8:
 
     # Diya "3. 2. 1."
     Diya ""
 
 # game/1_diya.rpy:3744
-translate general enterClass_28122339:
+translate spanish enterClass_28122339:
 
     # "Noelle strains against Diya's grip with all her might!"
     ""
 
 # game/1_diya.rpy:3746
-translate general enterClass_a89c4b1d:
+translate spanish enterClass_a89c4b1d:
 
     # Noelle "Nrgh..."
     Noelle ""
 
 # game/1_diya.rpy:3748
-translate general enterClass_5e1bd23b:
+translate spanish enterClass_5e1bd23b:
 
     # Noelle "Ha...Rrrrggghhh!!!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:3750
-translate general enterClass_483c0b48:
+translate spanish enterClass_483c0b48:
 
     # "Diya's arm still hasn't budged an inch."
     ""
 
 # game/1_diya.rpy:3751
-translate general enterClass_0fc249a4:
+translate spanish enterClass_0fc249a4:
 
     # "With her free hand, Diya casually continues to eat fried rice."
     ""
 
 # game/1_diya.rpy:3753
-translate general enterClass_7f50cd2c:
+translate spanish enterClass_7f50cd2c:
 
     # Noelle "You...Stop that!"
     Noelle ""
 
 # game/1_diya.rpy:3756
-translate general enterClass_be8a1b22:
+translate spanish enterClass_be8a1b22:
 
     # Diya "Akarsha. What do you think of the weather today?"
     Diya ""
 
 # game/1_diya.rpy:3759
-translate general enterClass_8f466f06:
+translate spanish enterClass_8f466f06:
 
     # Noelle "Stop toying with me!"
     Noelle ""
 
 # game/1_diya.rpy:3762
-translate general enterClass_e70dc065:
+translate spanish enterClass_e70dc065:
 
     # Diya "If I did that, I'd break your wrist."
     Diya ""
 
 # game/1_diya.rpy:3765
-translate general enterClass_6431890b:
+translate spanish enterClass_6431890b:
 
     # Noelle "You know what I mean."
     Noelle ""
 
 # game/1_diya.rpy:3767
-translate general enterClass_72641bfe:
+translate spanish enterClass_72641bfe:
 
     # "Diya pins Noelle's arm to the table as gently as possible."
     ""
 
 # game/1_diya.rpy:3769
-translate general enterClass_d0412528:
+translate spanish enterClass_d0412528:
 
     # Akarsha "Dang...This is like, some Fox and the Hound shit."
     Akarsha ""
 
 # game/1_diya.rpy:3771
-translate general enterClass_1742f83a:
+translate spanish enterClass_1742f83a:
 
     # Akarsha "Normally the scrawny nerds herd together so jocks like Diya don't stuff them into trashcans."
     Akarsha ""
 
 # game/1_diya.rpy:3772
-translate general enterClass_2315886f:
+translate spanish enterClass_2315886f:
 
     # Akarsha "How did you two even end up friends?"
     Akarsha ""
 
 # game/1_diya.rpy:3775
-translate general enterClass_70d10510:
+translate spanish enterClass_70d10510:
 
     # Diya "...Don't remember."
     Diya ""
 
 # game/1_diya.rpy:3778
-translate general enterClass_d87e75b0:
+translate spanish enterClass_d87e75b0:
 
     # Noelle "You don't remember?!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:3781
-translate general enterClass_7d5d29d3:
+translate spanish enterClass_7d5d29d3:
 
     # Diya "You were always just there by default."
     Diya ""
 
 # game/1_diya.rpy:3784
-translate general enterClass_b2c314f4:
+translate spanish enterClass_b2c314f4:
 
     # Noelle "That is NOT what happened."
     Noelle ""
 
 # game/1_diya.rpy:3785
-translate general enterClass_8232b1ac:
+translate spanish enterClass_8232b1ac:
 
     # Noelle "You had one bad ear, so you had a lot of trouble making sense of what anyone was saying."
     Noelle ""
 
 # game/1_diya.rpy:3786
-translate general enterClass_09f6395c:
+translate spanish enterClass_09f6395c:
 
     # Noelle "You'd just play wall ball against yourself or run laps on the track. "
     Noelle ""
 
 # game/1_diya.rpy:3789
-translate general enterClass_39ab426a:
+translate spanish enterClass_39ab426a:
 
     # DiyaT "That sounds about right. "
     DiyaT ""
 
 # game/1_diya.rpy:3792
-translate general enterClass_74b6ebe0:
+translate spanish enterClass_74b6ebe0:
 
     # Noelle "One day, someone brought in Krispy Kreme donuts for their birthday. "
     Noelle ""
 
 # game/1_diya.rpy:3793
-translate general enterClass_845beb03:
+translate spanish enterClass_845beb03:
 
     # Noelle "I didn't like donuts, so I—"
     Noelle ""
 
 # game/1_diya.rpy:3795
-translate general enterClass_4a37e623:
+translate spanish enterClass_4a37e623:
 
     # Akarsha "You don't like donuts??"
     Akarsha ""
 
 # game/1_diya.rpy:3797
-translate general enterClass_69776640:
+translate spanish enterClass_69776640:
 
     # Noelle "I don't like donuts. They're disgusting."
     Noelle ""
 
 # game/1_diya.rpy:3800
-translate general enterClass_600cbe8e:
+translate spanish enterClass_600cbe8e:
 
     # DiyaT "Disagree. Her tastebuds are broken. "
     DiyaT ""
 
 # game/1_diya.rpy:3803
-translate general enterClass_eca63992:
+translate spanish enterClass_eca63992:
 
     # Noelle "Anyway, I gave mine to you, and in exchange, I received your undying and completly unwanted loyalty."
     Noelle ""
 
 # game/1_diya.rpy:3804
-translate general enterClass_8c8713f8:
+translate spanish enterClass_8c8713f8:
 
     # Noelle "You followed me around everywhere."
     Noelle ""
 
 # game/1_diya.rpy:3805
-translate general enterClass_76d41a03:
+translate spanish enterClass_76d41a03:
 
     # Noelle "You were a major inconvenience."
     Noelle ""
 
 # game/1_diya.rpy:3808
-translate general enterClass_51295b37:
+translate spanish enterClass_51295b37:
 
     # Diya "I don't remember any of this."
     Diya ""
 
 # game/1_diya.rpy:3811
-translate general enterClass_5e77bcc0:
+translate spanish enterClass_5e77bcc0:
 
     # Noelle "How do you not remember? You were so extreme. Whenever the teachers tried to separate us, you'd start crying."
     Noelle ""
 
 # game/1_diya.rpy:3814
-translate general enterClass_30a7f95d:
+translate spanish enterClass_30a7f95d:
 
     # Diya "I seriously don't remember any of this."
     Diya ""
 
 # game/1_diya.rpy:3817
-translate general enterClass_974bbfef:
+translate spanish enterClass_974bbfef:
 
     # Noelle "It's probably because your birthday's in November. You were almost a full year younger than me."
     Noelle ""
 
 # game/1_diya.rpy:3818
-translate general enterClass_3067a5dd:
+translate spanish enterClass_3067a5dd:
 
     # Noelle "A year is a big gap when you're 5."
     Noelle ""
 
 # game/1_diya.rpy:3821
-translate general enterClass_f50ab6fd:
+translate spanish enterClass_f50ab6fd:
 
     # DiyaT "True. I was probably like a toddler."
     DiyaT ""
 
 # game/1_diya.rpy:3823
-translate general enterClass_6ce568f5:
+translate spanish enterClass_6ce568f5:
 
     # Diya "Sorry."
     Diya ""
 
 # game/1_diya.rpy:3826
-translate general enterClass_d803d6d3:
+translate spanish enterClass_d803d6d3:
 
     # Noelle "I forgive you."
     Noelle ""
 
 # game/1_diya.rpy:3828
-translate general enterClass_307f4e4e:
+translate spanish enterClass_307f4e4e:
 
     # Akarsha "That's hella kawaii."
     Akarsha ""
 
 # game/1_diya.rpy:3830
-translate general enterClass_2a932ba1:
+translate spanish enterClass_2a932ba1:
 
     # Noelle "Never use that phrase ever again. "
     Noelle ""
 
 # game/1_diya.rpy:3832
-translate general enterClass_be65239f:
+translate spanish enterClass_be65239f:
 
     # Akarsha "What phrase?"
     Akarsha ""
 
 # game/1_diya.rpy:3834
-translate general enterClass_bb5be160:
+translate spanish enterClass_bb5be160:
 
     # Noelle "You know what phrase."
     Noelle ""
 
 # game/1_diya.rpy:3854
-translate general p5_dbafdbf0:
+translate spanish p5_dbafdbf0:
 
     # Liz "Excuse me!" with sshake
     Liz "" with sshake
 
 # game/1_diya.rpy:3858
-translate general p5_d7c41c04:
+translate spanish p5_d7c41c04:
 
     # DiyaT "????!!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:3859
-translate general p5_b0d13dda:
+translate spanish p5_b0d13dda:
 
     # DiyaT "She's talking to me!!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:3860
-translate general p5_2a85eaa2:
+translate spanish p5_2a85eaa2:
 
     # DiyaT "No!! Go away!!"
     DiyaT ""
 
 # game/1_diya.rpy:3862
-translate general p5_c11fe99a:
+translate spanish p5_c11fe99a:
 
     # "Diya looks wildly around for Noelle or Akarsha to help her, but they've both already gone ahead into the classroom."
     ""
 
 # game/1_diya.rpy:3864
-translate general p5_38c9544b:
+translate spanish p5_38c9544b:
 
     # Liz "I remember you! You were {incoherent}( ? ? ? ){/incoherent}"
     Liz ""
 
 # game/1_diya.rpy:3866
-translate general p5_d8b04afd:
+translate spanish p5_d8b04afd:
 
     # DiyaT "What is she saying?? I've never met her in my life!"
     DiyaT ""
 
 # game/1_diya.rpy:3868
-translate general p5_4d88e3bc:
+translate spanish p5_4d88e3bc:
 
     # Liz " — new clubs are {incoherent}( ? ? ? ){/incoherent} interest {incoherent}( ? ? ? ){/incoherent} —"
     Liz ""
 
 # game/1_diya.rpy:3870
-translate general p5_c9389735:
+translate spanish p5_c9389735:
 
     # DiyaT "Crap. {w=0.26}I can't really make out the words."
     DiyaT ""
 
 # game/1_diya.rpy:3871
-translate general p5_c82cbbba:
+translate spanish p5_c82cbbba:
 
     # DiyaT "I'll just nod at appropriate times."
     DiyaT ""
 
 # game/1_diya.rpy:3873
-translate general p5_5493b5a1:
+translate spanish p5_5493b5a1:
 
     # Liz "We're collecting signatures to {incoherent}( ? ? ? ){/incoherent} approved!"
     Liz ""
 
 # game/1_diya.rpy:3875
-translate general p5_5e04c7ac:
+translate spanish p5_5e04c7ac:
 
     # "The stranger hands Diya a clipboard with the signature sheet on it! "
     ""
 
 # game/1_diya.rpy:3877
-translate general p5_0dce2159:
+translate spanish p5_0dce2159:
 
     # DiyaT "Uh??{w=0.26} What is this??"
     DiyaT ""
 
 # game/1_diya.rpy:3883
-translate general p5_aeaa15bb:
+translate spanish p5_aeaa15bb:
 
     # "Diya signs the paper!"
     ""
 
 # game/1_diya.rpy:3886
-translate general p5_eae06f25:
+translate spanish p5_eae06f25:
 
     # Liz "Thank you very much!{w=0.26} Look forward {incoherent}( ? ? ? ){/incoherent}!"
     Liz ""
 
 # game/1_diya.rpy:3892
-translate general p5_cb549d56:
+translate spanish p5_cb549d56:
 
     # DiyaT "Bye!!!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:3898
-translate general p5_283087bd:
+translate spanish p5_283087bd:
 
     # "Diya walks away in the middle of the conversation!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:3899
-translate general p5_d0402b01:
+translate spanish p5_d0402b01:
 
     # "She quickly enters the classroom before the girl can stop her."
     ""
 
 # game/1_diya.rpy:3905
-translate general p5_e3a5d758:
+translate spanish p5_e3a5d758:
 
     # "The stranger left..."
     ""
 
 # game/1_diya.rpy:3907
-translate general p5_f075d1bd:
+translate spanish p5_f075d1bd:
 
     # DiyaT "Phew. {w=0.26}Glad that's over."
     DiyaT ""
 
 # game/1_diya.rpy:3915
-translate general p5_bdf30f21:
+translate spanish p5_bdf30f21:
 
     # "Diya quickly enters the classroom before anyone else can try to talk to her."
     ""
 
 # game/1_diya.rpy:3935
-translate general p6_7045a136:
+translate spanish p6_7045a136:
 
     # "Inside, Akarsha and Noelle are playing cards."
     ""
 
 # game/1_diya.rpy:3939
-translate general p6_f3232605:
+translate spanish p6_f3232605:
 
     # Akarsha "Time to reveal your hand in 3...2...1..."
     Akarsha ""
 
 # game/1_diya.rpy:3941
-translate general p6_166db472:
+translate spanish p6_166db472:
 
     # "Noelle and Akarsha flip their cards over!"
     ""
 
 # game/1_diya.rpy:3943
-translate general p6_5923dc26:
+translate spanish p6_5923dc26:
 
     # Noelle "Why is there a Yu-Gi-Oh card?!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:3945
-translate general p6_863033ef:
+translate spanish p6_863033ef:
 
     # "Akarsha taps it with her index finger."
     ""
 
 # game/1_diya.rpy:3947
-translate general p6_858e87b4:
+translate spanish p6_858e87b4:
 
     # Akarsha "This is Exodia, the Forbidden One."
     Akarsha ""
 
 # game/1_diya.rpy:3949
-translate general p6_e9ab4af1:
+translate spanish p6_e9ab4af1:
 
     # Akarsha "Think outside the box. Taco Bell."
     Akarsha ""
 
 # game/1_diya.rpy:3951
-translate general p6_0d198c8a:
+translate spanish p6_0d198c8a:
 
     # Noelle "YOU CAN'T DO THIS!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:3953
-translate general p6_798e18e3:
+translate spanish p6_798e18e3:
 
     # "Akarsha reaches across the desk and takes one of Noelle's cards."
     ""
 
 # game/1_diya.rpy:3955
-translate general p6_b4f18a79:
+translate spanish p6_b4f18a79:
 
     # Noelle "What are you doing?"
     Noelle ""
 
 # game/1_diya.rpy:3957
-translate general p6_e1b40800:
+translate spanish p6_e1b40800:
 
     # Noelle "You said you were going to play this normally!"
     Noelle ""
 
 # game/1_diya.rpy:3959
-translate general p6_12f9eee2:
+translate spanish p6_12f9eee2:
 
     # Akarsha "There's no rule in Yu-Gi-Oh saying you can't eat the enemy's cards."
     Akarsha ""
 
 # game/1_diya.rpy:3961
-translate general p6_41b940e6:
+translate spanish p6_41b940e6:
 
     # Noelle "WE'RE PLAYING POKER." with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:3963
-translate general p6_f72fd8f5:
+translate spanish p6_f72fd8f5:
 
     # Akarsha "There's no rule in poker saying you can't eat the enemy's cards."
     Akarsha ""
 
 # game/1_diya.rpy:3969
-translate general p6_382d2244:
+translate spanish p6_382d2244:
 
     # "Class starts!{w=0.26} This concludes Noelle and Akarsha's daily afternoon struggle."
     ""
 
 # game/1_diya.rpy:3986
-translate general noelleSick_633784d7:
+translate spanish noelleSick_633784d7:
 
     # DiyaT "Alright. Just one more period before the day's over."
     DiyaT ""
 
 # game/1_diya.rpy:3988
-translate general noelleSick_758b74e8:
+translate spanish noelleSick_758b74e8:
 
     # "Looking flushed, Noelle wipes sweat off her brow."
     ""
 
 # game/1_diya.rpy:3990
-translate general noelleSick_a37732d9:
+translate spanish noelleSick_a37732d9:
 
     # Noelle "Why is it so hot?"
     Noelle ""
 
 # game/1_diya.rpy:3992
-translate general noelleSick_aa635999:
+translate spanish noelleSick_aa635999:
 
     # Akarsha "Because I'm he—"
     Akarsha ""
 
 # game/1_diya.rpy:3994
-translate general noelleSick_44bb63ae:
+translate spanish noelleSick_44bb63ae:
 
     # Noelle "You shut up!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:3997
-translate general noelleSick_be3221c5:
+translate spanish noelleSick_be3221c5:
 
     # Akarsha "*loud, hurt gasp*"
     Akarsha ""
 
 # game/1_diya.rpy:3998
-translate general noelleSick_c972954c:
+translate spanish noelleSick_c972954c:
 
     # Akarsha "My heart is exploding, my lungs are without air, my blood is boiling, my body is shaking, and tears are running down my face,"
     Akarsha ""
 
 # game/1_diya.rpy:4004
-translate general noelleSick_9fa2cfca:
+translate spanish noelleSick_9fa2cfca:
 
     # Diya "...?"
     Diya ""
 
 # game/1_diya.rpy:4006
-translate general noelleSick_15838a1d:
+translate spanish noelleSick_15838a1d:
 
     # "Noelle is unsteadily grasping the side of a bench for support."
     ""
 
 # game/1_diya.rpy:4008
-translate general noelleSick_7084459b:
+translate spanish noelleSick_7084459b:
 
     # Diya "What are you doing?"
     Diya ""
 
 # game/1_diya.rpy:4011
-translate general noelleSick_9b3021c6:
+translate spanish noelleSick_9b3021c6:
 
     # Noelle "I feel...extremely dizzy all of a sudden."
     Noelle ""
 
 # game/1_diya.rpy:4012
-translate general noelleSick_7dc9d58c:
+translate spanish noelleSick_7dc9d58c:
 
     # Noelle "As a precaution, I will remain stationary until the symptoms—"
     Noelle ""
 
 # game/1_diya.rpy:4016
-translate general noelleSick_65ec3525:
+translate spanish noelleSick_65ec3525:
 
     # "Diya grabs her as she collapses!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:4018
-translate general noelleSick_cd917d4f:
+translate spanish noelleSick_cd917d4f:
 
     # DiyaT "Her entire body is burning up!"
     DiyaT ""
 
 # game/1_diya.rpy:4019
-translate general noelleSick_a6fad549:
+translate spanish noelleSick_a6fad549:
 
     # DiyaT "She must have a fever."
     DiyaT ""
 
 # game/1_diya.rpy:4022
-translate general noelleSick_d7c4ea53:
+translate spanish noelleSick_d7c4ea53:
 
     # Akarsha "We'll take you to the nurse's office, dude."
     Akarsha ""
 
 # game/1_diya.rpy:4024
-translate general noelleSick_7ba6ad3c:
+translate spanish noelleSick_7ba6ad3c:
 
     # Noelle "NO!"
     Noelle ""
 
 # game/1_diya.rpy:4025
-translate general noelleSick_779bbd86:
+translate spanish noelleSick_779bbd86:
 
     # Noelle "Don't you dare. I need to go to next period!"
     Noelle ""
 
 # game/1_diya.rpy:4026
-translate general noelleSick_c587f3da:
+translate spanish noelleSick_c587f3da:
 
     # Noelle "Attendance is 20 percent of my grade in Gym class."
     Noelle ""
 
 # game/1_diya.rpy:4029
-translate general noelleSick_b98dedfa:
+translate spanish noelleSick_b98dedfa:
 
     # Akarsha "Missing one day can't hurt. Gym is like a freebie anyway."
     Akarsha ""
 
 # game/1_diya.rpy:4031
-translate general noelleSick_6ce6c928:
+translate spanish noelleSick_6ce6c928:
 
     # Noelle "No, you don't understand...It's my worst subject..."
     Noelle ""
 
 # game/1_diya.rpy:4032
-translate general noelleSick_53b7f221:
+translate spanish noelleSick_53b7f221:
 
     # Noelle "I can't afford to lose any more points when my mile time is 18 minutes every week..."
     Noelle ""
 
 # game/1_diya.rpy:4035
-translate general noelleSick_7e3a20de:
+translate spanish noelleSick_7e3a20de:
 
     # Diya "??????????????!!!!?!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:4036
-translate general noelleSick_7243d128:
+translate spanish noelleSick_7243d128:
 
     # DiyaT "So slow?!!!!! What the? ?? ? ? " with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:4039
-translate general noelleSick_43eaec2d:
+translate spanish noelleSick_43eaec2d:
 
     # Noelle "Don't make that face at me. I'm not you, Diy—"
     Noelle ""
 
 # game/1_diya.rpy:4044
-translate general noelleSick_900e895e:
+translate spanish noelleSick_900e895e:
 
     # "Noelle launches into a sneezing fit!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:4046
-translate general noelleSick_c87da20e:
+translate spanish noelleSick_c87da20e:
 
     # Akarsha "Gym's not even math or science. Is it that big of a deal?"
     Akarsha ""
 
 # game/1_diya.rpy:4048
-translate general noelleSick_986b80c9:
+translate spanish noelleSick_986b80c9:
 
     # Diya "It'll still ruin her GPA and valedictorian status. Her parents will yell at her and be really mean."
     Diya ""
 
 # game/1_diya.rpy:4050
-translate general noelleSick_00ae6db9:
+translate spanish noelleSick_00ae6db9:
 
     # DiyaT "What do we do?! If she gets a B because we took her to the nurse's office, it'll destroy her!"
     DiyaT ""
 
 # game/1_diya.rpy:4051
-translate general noelleSick_3afa1292:
+translate spanish noelleSick_3afa1292:
 
     # DiyaT "But she's in no condition be working out, either! She can't even stand without me holding her up!"
     DiyaT ""
 
 # game/1_diya.rpy:4054
-translate general noelleSick_6e5ef48e:
+translate spanish noelleSick_6e5ef48e:
 
     # Akarsha "Let's use our heads. There's gotta be way out of this."
     Akarsha ""
 
 # game/1_diya.rpy:4056
-translate general noelleSick_77fc4142:
+translate spanish noelleSick_77fc4142:
 
     # Diya "Like what?"
     Diya ""
 
 # game/1_diya.rpy:4058
-translate general noelleSick_174107bd:
+translate spanish noelleSick_174107bd:
 
     # Akarsha "Like..."
     Akarsha ""
 
 # game/1_diya.rpy:4059
-translate general noelleSick_ab3ab064:
+translate spanish noelleSick_ab3ab064:
 
     # Akarsha "If a meteor hits Earth right now, no one will mind if Noelle skips Gym class."
     Akarsha ""
 
 # game/1_diya.rpy:4061
-translate general noelleSick_7b08b783:
+translate spanish noelleSick_7b08b783:
 
     # Diya "Brilliant. If the world ends, we're saved."
     Diya ""
 
 # game/1_diya.rpy:4063
-translate general noelleSick_0f06d06f:
+translate spanish noelleSick_0f06d06f:
 
     # Diya "Even cancelling school would be easier."
     Diya ""
 
 # game/1_diya.rpy:4066
-translate general noelleSick_affe725d:
+translate spanish noelleSick_affe725d:
 
     # Akarsha "Hold that thought!" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:4068
-translate general noelleSick_444a8e1a:
+translate spanish noelleSick_444a8e1a:
 
     # Akarsha "If school is cancelled...If school is cancelled {i}right now{/i}..."
     Akarsha ""
 
 # game/1_diya.rpy:4070
-translate general noelleSick_981af952:
+translate spanish noelleSick_981af952:
 
     # Akarsha "Snow day? But there's no snow."
     Akarsha ""
 
 # game/1_diya.rpy:4071
-translate general noelleSick_350f07db:
+translate spanish noelleSick_350f07db:
 
     # Akarsha "Then how? As long as we make it so that no one goes to class, we win."
     Akarsha ""
 
 # game/1_diya.rpy:4074
-translate general noelleSick_93212e9d:
+translate spanish noelleSick_93212e9d:
 
     # Diya "............."
     Diya ""
 
 # game/1_diya.rpy:4076
-translate general noelleSick_81431e71:
+translate spanish noelleSick_81431e71:
 
     # "Akarsha is clearly going down some weird line of reasoning..."
     ""
 
 # game/1_diya.rpy:4078
-translate general noelleSick_7f21152d:
+translate spanish noelleSick_7f21152d:
 
     # Akarsha "...Dude!! I've got it!"
     Akarsha ""
 
 # game/1_diya.rpy:4083
-translate general noelleSick_bf280f11:
+translate spanish noelleSick_bf280f11:
 
     # Akarsha "[diyaHomieName], you stay with Noelle while I...uh..."
     Akarsha ""
 
 # game/1_diya.rpy:4085
-translate general noelleSick_dc65c973:
+translate spanish noelleSick_dc65c973:
 
     # Akarsha "...Do some stuff."
     Akarsha ""
 
 # game/1_diya.rpy:4087
-translate general noelleSick_0a7d4b19:
+translate spanish noelleSick_0a7d4b19:
 
     # Noelle "What stuff?"
     Noelle ""
 
 # game/1_diya.rpy:4090
-translate general noelleSick_f4b6bd6d:
+translate spanish noelleSick_f4b6bd6d:
 
     # Akarsha "Uh..."
     Akarsha ""
 
 # game/1_diya.rpy:4091
-translate general noelleSick_7c681d08:
+translate spanish noelleSick_7c681d08:
 
     # Akarsha "You're not gonna like it."
     Akarsha ""
 
 # game/1_diya.rpy:4093
-translate general noelleSick_628fdba7:
+translate spanish noelleSick_628fdba7:
 
     # Akarsha "Before I tell you, you gotta promise not to get mad."
     Akarsha ""
 
 # game/1_diya.rpy:4095
-translate general noelleSick_6084cb07:
+translate spanish noelleSick_6084cb07:
 
     # Noelle "What?!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:4098
-translate general noelleSick_6b3ace55:
+translate spanish noelleSick_6b3ace55:
 
     # Akarsha "Well? Promise?"
     Akarsha ""
 
 # game/1_diya.rpy:4102
-translate general noelleSick_fd841d5d:
+translate spanish noelleSick_fd841d5d:
 
     # Diya "Okay."
     Diya ""
 
 # game/1_diya.rpy:4105
-translate general noelleSick_e75a53eb:
+translate spanish noelleSick_e75a53eb:
 
     # Noelle "Diya?! But what if it's something insane?!"
     Noelle ""
 
 # game/1_diya.rpy:4108
-translate general noelleSick_51df96c1:
+translate spanish noelleSick_51df96c1:
 
     # Diya "Then I'll just be annoyed internally."
     Diya ""
 
 # game/1_diya.rpy:4111
-translate general noelleSick_8c074b60:
+translate spanish noelleSick_8c074b60:
 
     # Akarsha "I knew I could count on you! A true homie!!"
     Akarsha ""
 
 # game/1_diya.rpy:4113
-translate general noelleSick_d293b7d8:
+translate spanish noelleSick_d293b7d8:
 
     # Akarsha "What about you, Frenchman?"
     Akarsha ""
 
 # game/1_diya.rpy:4115
-translate general noelleSick_01b50ad0:
+translate spanish noelleSick_01b50ad0:
 
     # Noelle "I can't promise not to get mad! Just tell us already!"
     Noelle ""
 
 # game/1_diya.rpy:4118
-translate general noelleSick_9c8281f1:
+translate spanish noelleSick_9c8281f1:
 
     # Akarsha "Nope! I'm not telling you, then."
     Akarsha ""
 
 # game/1_diya.rpy:4120
-translate general noelleSick_f8241b60:
+translate spanish noelleSick_f8241b60:
 
     # Diya "But what about me? I agreed."
     Diya ""
 
 # game/1_diya.rpy:4123
-translate general noelleSick_b6a6fc6e:
+translate spanish noelleSick_b6a6fc6e:
 
     # Akarsha "Heck no. I know how it is with you two."
     Akarsha ""
 
 # game/1_diya.rpy:4124
-translate general noelleSick_bef8400e:
+translate spanish noelleSick_bef8400e:
 
     # Akarsha "If I tell you, you'll tell Noelle as soon as I'm gone."
     Akarsha ""
 
 # game/1_diya.rpy:4126
-translate general noelleSick_dc9e0215:
+translate spanish noelleSick_dc9e0215:
 
     # DiyaT "...Damn. That's true."
     DiyaT ""
 
 # game/1_diya.rpy:4132
-translate general noelleSick_a2dbca39:
+translate spanish noelleSick_a2dbca39:
 
     # Diya "No."
     Diya ""
 
 # game/1_diya.rpy:4135
-translate general noelleSick_46b10e85:
+translate spanish noelleSick_46b10e85:
 
     # Noelle "That's right! How can we promise when we don't even know what it is yet?!"
     Noelle ""
 
 # game/1_diya.rpy:4136
-translate general noelleSick_44eb1b79:
+translate spanish noelleSick_44eb1b79:
 
     # Noelle "Just tell us already!"
     Noelle ""
 
 # game/1_diya.rpy:4139
-translate general noelleSick_de459d1e:
+translate spanish noelleSick_de459d1e:
 
     # Akarsha "Too bad! I'm not telling you, then."
     Akarsha ""
 
 # game/1_diya.rpy:4143
-translate general noelleSick_4d41ac37:
+translate spanish noelleSick_4d41ac37:
 
     # Akarsha "Adios, amigos!"
     Akarsha ""
 
 # game/1_diya.rpy:4145
-translate general noelleSick_ef7e11b9:
+translate spanish noelleSick_ef7e11b9:
 
     # Noelle "Wait! Where are you going?"
     Noelle ""
 
 # game/1_diya.rpy:4148
-translate general noelleSick_77b10abc:
+translate spanish noelleSick_77b10abc:
 
     # Akarsha "Shrek's swamp."
     Akarsha ""
 
 # game/1_diya.rpy:4151
-translate general noelleSick_2ed201c8:
+translate spanish noelleSick_2ed201c8:
 
     # "Akarsha left..."
     ""
 
 # game/1_diya.rpy:4153
-translate general noelleSick_7146bd51:
+translate spanish noelleSick_7146bd51:
 
     # Noelle ".................."
     Noelle ""
 
 # game/1_diya.rpy:4156
-translate general noelleSick_6201b9b7:
+translate spanish noelleSick_6201b9b7:
 
     # Diya ".................."
     Diya ""
 
 # game/1_diya.rpy:4159
-translate general noelleSick_23fa5294:
+translate spanish noelleSick_23fa5294:
 
     # Noelle "I have a bad feeling about this."
     Noelle ""
 
 # game/1_diya.rpy:4162
-translate general noelleSick_7c44bd42:
+translate spanish noelleSick_7c44bd42:
 
     # DiyaT "Me too."
     DiyaT ""
 
 # game/1_diya.rpy:4165
-translate general noelleSick_1aa66de8:
+translate spanish noelleSick_1aa66de8:
 
     # Noelle "Why does everything have to be some kind of weird mind game with her? It's exhausting."
     Noelle ""
 
 # game/1_diya.rpy:4176
-translate general noelleSick_919dde2b:
+translate spanish noelleSick_919dde2b:
 
     # DiyaT "She sounds so weak. She should rest on the bench."
     DiyaT ""
 
 # game/1_diya.rpy:4178
-translate general noelleSick_840760bf:
+translate spanish noelleSick_840760bf:
 
     # "Diya sits, then lays Noelle down so her head is resting on her lap."
     ""
 
 # game/1_diya.rpy:4180
-translate general noelleSick_39ad4c63:
+translate spanish noelleSick_39ad4c63:
 
     # DiyaT "Nothing we can do now but wait..."
     DiyaT ""
 
 # game/1_diya.rpy:4183
-translate general noelleSick_e8ed866d:
+translate spanish noelleSick_e8ed866d:
 
     # Noelle "Do we really have to do this?"
     Noelle ""
 
 # game/1_diya.rpy:4184
-translate general noelleSick_3c3f564c:
+translate spanish noelleSick_3c3f564c:
 
     # Noelle "This is embarrassing."
     Noelle ""
 
 # game/1_diya.rpy:4187
-translate general noelleSick_f22e47a2:
+translate spanish noelleSick_f22e47a2:
 
     # Diya "Oh, come on."
     Diya ""
 
 # game/1_diya.rpy:4188
-translate general noelleSick_eec6dd04:
+translate spanish noelleSick_eec6dd04:
 
     # Diya "I've seen you throw up in a trash can at Happy Fish Swim School because you were so bad at swimming that you inhaled half a gallon of water."
     Diya ""
 
 # game/1_diya.rpy:4189
-translate general noelleSick_b61f5368:
+translate spanish noelleSick_b61f5368:
 
     # Diya "Compared to that, this is like a 3."
     Diya ""
 
 # game/1_diya.rpy:4192
-translate general noelleSick_36ab93c4:
+translate spanish noelleSick_36ab93c4:
 
     # Noelle "But this is different. This right now is unnecessary."
     Noelle ""
 
 # game/1_diya.rpy:4193
-translate general noelleSick_348caa12:
+translate spanish noelleSick_348caa12:
 
     # Noelle "Your thighs are so muscular that I feel like I'm resting my head on a rock."
     Noelle ""
 
 # game/1_diya.rpy:4196
-translate general noelleSick_2ea30a6f:
+translate spanish noelleSick_2ea30a6f:
 
     # Diya "Thanks for the compliment."
     Diya ""
 
 # game/1_diya.rpy:4199
-translate general noelleSick_55e236d8:
+translate spanish noelleSick_55e236d8:
 
     # Noelle "It wasn't a compliment."
     Noelle ""
 
 # game/1_diya.rpy:4202
-translate general noelleSick_8367fe8f:
+translate spanish noelleSick_8367fe8f:
 
     # Diya "How mean."
     Diya ""
 
 # game/1_diya.rpy:4203
-translate general noelleSick_ec6a0e3a:
+translate spanish noelleSick_ec6a0e3a:
 
     # Diya "Now we definitely have to do this."
     Diya ""
 
 # game/1_diya.rpy:4233
-translate general forehead_00d9a117:
+translate spanish forehead_00d9a117:
 
     # "Diya presses her hand to Noelle's forehead."
     ""
 
 # game/1_diya.rpy:4236
-translate general forehead_be6a3743:
+translate spanish forehead_be6a3743:
 
     # DiyaT "It's hot. Hotter than my own forehead?"
     DiyaT ""
 
 # game/1_diya.rpy:4239
-translate general forehead_f3e3e4f2:
+translate spanish forehead_f3e3e4f2:
 
     # Noelle "Studies show that people who try to diagnose fever by touch significantly overestimate the incidence of fever, sometimes by as much as 40%%."
     Noelle ""
 
 # game/1_diya.rpy:4242
-translate general forehead_49f7964f:
+translate spanish forehead_49f7964f:
 
     # DiyaT "Oh. Never mind, then."
     DiyaT ""
 
 # game/1_diya.rpy:4253
-translate general talkNoelleFever_8f5a68bb:
+translate spanish talkNoelleFever_8f5a68bb:
 
     # Diya "Get into shape."
     Diya ""
 
 # game/1_diya.rpy:4255
-translate general talkNoelleFever_55bce8ae:
+translate spanish talkNoelleFever_55bce8ae:
 
     # Diya "Even ignoring your Gym class grade, the way you are right now is just bad."
     Diya ""
 
 # game/1_diya.rpy:4257
-translate general talkNoelleFever_bd21cfec:
+translate spanish talkNoelleFever_bd21cfec:
 
     # Diya "You're like that Life Alert commercial. \nI've fallen and I can't get up."
     Diya ""
 
 # game/1_diya.rpy:4260
-translate general talkNoelleFever_ce4807be:
+translate spanish talkNoelleFever_ce4807be:
 
     # Noelle "I know, I know..."
     Noelle ""
 
 # game/1_diya.rpy:4263
-translate general talkNoelleFever_f243e5d7:
+translate spanish talkNoelleFever_f243e5d7:
 
     # Diya "Then why don't you do something?"
     Diya ""
 
 # game/1_diya.rpy:4265
-translate general talkNoelleFever_b87e85a9:
+translate spanish talkNoelleFever_b87e85a9:
 
     # Diya "What if there's a zombie apocalypse and I get bitten first. \nHow are you going to survive?"
     Diya ""
 
 # game/1_diya.rpy:4268
-translate general talkNoelleFever_a1b408fa:
+translate spanish talkNoelleFever_a1b408fa:
 
     # Noelle "I can't help it! I don't have any time to work out."
     Noelle ""
 
 # game/1_diya.rpy:4269
-translate general talkNoelleFever_4d282b94:
+translate spanish talkNoelleFever_4d282b94:
 
     # Noelle "I can barely even keep up with my schedule as is."
     Noelle ""
 
 # game/1_diya.rpy:4272
-translate general talkNoelleFever_da67aa01:
+translate spanish talkNoelleFever_da67aa01:
 
     # DiyaT "That's just an excuse."
     DiyaT ""
 
 # game/1_diya.rpy:4273
-translate general talkNoelleFever_850e18ec:
+translate spanish talkNoelleFever_850e18ec:
 
     # DiyaT "She'd be able to figure something out if her heart was in it."
     DiyaT ""
 
 # game/1_diya.rpy:4274
-translate general talkNoelleFever_962974bf:
+translate spanish talkNoelleFever_962974bf:
 
     # DiyaT "If only there was a way to get Noelle to enjoy exercising..."
     DiyaT ""
 
 # game/1_diya.rpy:4280
-translate general talkNoelleFever_15c7abf2:
+translate spanish talkNoelleFever_15c7abf2:
 
     # Diya "Did you know that in ancient China, they slept on rock pillows?"
     Diya ""
 
 # game/1_diya.rpy:4282
-translate general talkNoelleFever_7e104566:
+translate spanish talkNoelleFever_7e104566:
 
     # Diya "I saw on Discovery Channel."
     Diya ""
 
 # game/1_diya.rpy:4285
-translate general talkNoelleFever_f89095ff:
+translate spanish talkNoelleFever_f89095ff:
 
     # Noelle "This isn't making me feel any better!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:4288
-translate general talkNoelleFever_1fa314e9:
+translate spanish talkNoelleFever_1fa314e9:
 
     # Diya "You're going back to your ancient roots."
     Diya ""
 
 # game/1_diya.rpy:4291
-translate general talkNoelleFever_a500aba6:
+translate spanish talkNoelleFever_a500aba6:
 
     # Noelle "I don't want to go back to my ancient roots!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:4298
-translate general talkNoelleFever_be026db8:
+translate spanish talkNoelleFever_be026db8:
 
     # Diya "Would you eat a tiny 2-inch tall man for 100 million dollars?"
     Diya ""
 
 # game/1_diya.rpy:4300
-translate general talkNoelleFever_d95aeedd:
+translate spanish talkNoelleFever_d95aeedd:
 
     # DiyaT "I bet she's gonna say, \"Of course not. That's illegal.\""
     DiyaT ""
 
 # game/1_diya.rpy:4303
-translate general talkNoelleFever_e48a4842:
+translate spanish talkNoelleFever_e48a4842:
 
     # Noelle "Of course not. That's homicide, which is illegal."
     Noelle ""
 
 # game/1_diya.rpy:4306
-translate general talkNoelleFever_e629b0d2:
+translate spanish talkNoelleFever_e629b0d2:
 
     # Diya "........"
     Diya ""
 
 # game/1_diya.rpy:4309
-translate general talkNoelleFever_3a2b7982:
+translate spanish talkNoelleFever_3a2b7982:
 
     # Noelle "What is this? Some dumb Akarsha question?"
     Noelle ""
 
 # game/1_diya.rpy:4312
-translate general talkNoelleFever_9cbab985:
+translate spanish talkNoelleFever_9cbab985:
 
     # Diya "Yeah."
     Diya ""
 
 # game/1_diya.rpy:4319
-translate general talkNoelleFever_fba0b286:
+translate spanish talkNoelleFever_fba0b286:
 
     # Diya "How long do we have until class starts?"
     Diya ""
 
 # game/1_diya.rpy:4322
-translate general talkNoelleFever_54a85d35:
+translate spanish talkNoelleFever_54a85d35:
 
     # Noelle "About 2 minutes."
     Noelle ""
 
 # game/1_diya.rpy:4323
-translate general talkNoelleFever_e30f70b1:
+translate spanish talkNoelleFever_e30f70b1:
 
     # Noelle "Maybe you should head to class. You'll be tardy."
     Noelle ""
 
 # game/1_diya.rpy:4326
-translate general talkNoelleFever_842aa3da:
+translate spanish talkNoelleFever_842aa3da:
 
     # DiyaT "No, it's fine. I run fast."
     DiyaT ""
 
 # game/1_diya.rpy:4337
-translate general hackedAlarms_95f1ab2a:
+translate spanish hackedAlarms_95f1ab2a:
 
     # "Suddenly, Noelle tries to sit up!"
     ""
 
 # game/1_diya.rpy:4339
-translate general hackedAlarms_be4cd5c3:
+translate spanish hackedAlarms_be4cd5c3:
 
     # "Her abs are too weak, though, so she fails and flops back down."
     ""
 
 # game/1_diya.rpy:4341
-translate general hackedAlarms_5692934d:
+translate spanish hackedAlarms_5692934d:
 
     # Diya "What're you doing."
     Diya ""
 
 # game/1_diya.rpy:4342
-translate general hackedAlarms_20a8ae42:
+translate spanish hackedAlarms_20a8ae42:
 
     # Diya "Becoming a fish?"
     Diya ""
 
 # game/1_diya.rpy:4345
-translate general hackedAlarms_1256eabb:
+translate spanish hackedAlarms_1256eabb:
 
     # Noelle "I just had a great idea!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:4346
-translate general hackedAlarms_0a31b30f:
+translate spanish hackedAlarms_0a31b30f:
 
     # Noelle "You know how on Valentine's Day, you can pay the school to deliver roses to someone?"
     Noelle ""
 
 # game/1_diya.rpy:4349
-translate general hackedAlarms_9dffeaea:
+translate spanish hackedAlarms_9dffeaea:
 
     # Diya "Oh, like in middle school."
     Diya ""
 
 # game/1_diya.rpy:4350
-translate general hackedAlarms_4301e184:
+translate spanish hackedAlarms_4301e184:
 
     # Diya "You could have them secretly send your crush candy grams for $5."
     Diya ""
 
 # game/1_diya.rpy:4353
-translate general hackedAlarms_0a62fa3b:
+translate spanish hackedAlarms_0a62fa3b:
 
     # Noelle "Yes, like that."
     Noelle ""
 
 # game/1_diya.rpy:4354
-translate general hackedAlarms_12779d31:
+translate spanish hackedAlarms_12779d31:
 
     # Noelle "Except here, we're more mature, so it's flowers."
     Noelle ""
 
 # game/1_diya.rpy:4355
-translate general hackedAlarms_7fe139ee:
+translate spanish hackedAlarms_7fe139ee:
 
     # Noelle "We should send Akarsha one, with the message \"From your secret admirer.\""
     Noelle ""
 
 # game/1_diya.rpy:4357
-translate general hackedAlarms_2bfa6827:
+translate spanish hackedAlarms_2bfa6827:
 
     # Noelle "Imagine how confused she'll be!"
     Noelle ""
 
 # game/1_diya.rpy:4358
-translate general hackedAlarms_571db5fa:
+translate spanish hackedAlarms_571db5fa:
 
     # Noelle "And we can tease her relentlessly about it."
     Noelle ""
 
 # game/1_diya.rpy:4359
-translate general hackedAlarms_e49ab907:
+translate spanish hackedAlarms_e49ab907:
 
     # Noelle "It'll be hilarious!"
     Noelle ""
 
 # game/1_diya.rpy:4362
-translate general hackedAlarms_dd6e2bb1:
+translate spanish hackedAlarms_dd6e2bb1:
 
     # Diya "Okay, that IS pretty funny."
     Diya ""
 
 # game/1_diya.rpy:4363
-translate general hackedAlarms_d96653f4:
+translate spanish hackedAlarms_d96653f4:
 
     # Diya "It's not even that mean because she'll get free flowers out of it."
     Diya ""
 
 # game/1_diya.rpy:4364
-translate general hackedAlarms_eda28f8c:
+translate spanish hackedAlarms_eda28f8c:
 
     # Diya "The secret admirer part is the best."
     Diya ""
 
 # game/1_diya.rpy:4365
-translate general hackedAlarms_22813dbf:
+translate spanish hackedAlarms_22813dbf:
 
     # Diya "She'll drive herself nuts trying to figure out who it is."
     Diya ""
 
 # game/1_diya.rpy:4368
-translate general hackedAlarms_55fa51b5:
+translate spanish hackedAlarms_55fa51b5:
 
     # Noelle "Alternatively, we can sign it with really common initials, like K.C."
     Noelle ""
 
 # game/1_diya.rpy:4369
-translate general hackedAlarms_c528fba8:
+translate spanish hackedAlarms_c528fba8:
 
     # Noelle "She'll look up every guy with those initials at this school."
     Noelle ""
 
 # game/1_diya.rpy:4372
-translate general hackedAlarms_fac69226:
+translate spanish hackedAlarms_fac69226:
 
     # DiyaT "That's good too..."
     DiyaT ""
 
 # game/1_diya.rpy:4375
-translate general hackedAlarms_d8928d61:
+translate spanish hackedAlarms_d8928d61:
 
     # Noelle "I can't decide if it's funnier to have her conclude it's a random person, or for her to be constantly suspicious of everyone."
     Noelle ""
 
 # game/1_diya.rpy:4378
-translate general hackedAlarms_48379044:
+translate spanish hackedAlarms_48379044:
 
     # Diya "Maybe we can do this every year."
     Diya ""
 
 # game/1_diya.rpy:4379
-translate general hackedAlarms_219c068d:
+translate spanish hackedAlarms_219c068d:
 
     # Diya "Like a tradition."
     Diya ""
 
 # game/1_diya.rpy:4382
-translate general hackedAlarms_56e1610c:
+translate spanish hackedAlarms_56e1610c:
 
     # Noelle "Oh my god."
     Noelle ""
 
 # game/1_diya.rpy:4383
-translate general hackedAlarms_57f64609:
+translate spanish hackedAlarms_57f64609:
 
     # Noelle "You're a genius!"
     Noelle ""
 
 # game/1_diya.rpy:4385
-translate general hackedAlarms_438eb47a:
+translate spanish hackedAlarms_438eb47a:
 
     # Noelle "The first two years we don't give her any clues."
     Noelle ""
 
 # game/1_diya.rpy:4386
-translate general hackedAlarms_02c372b3:
+translate spanish hackedAlarms_02c372b3:
 
     # Noelle "And then junior year, add the initials and encourage her to jump to the wrong conclusions."
     Noelle ""
 
 # game/1_diya.rpy:4387
-translate general hackedAlarms_1f221862:
+translate spanish hackedAlarms_1f221862:
 
     # Noelle "That way we'll get to see both."
     Noelle ""
 
 # game/1_diya.rpy:4389
-translate general hackedAlarms_bd6ceccd:
+translate spanish hackedAlarms_bd6ceccd:
 
     # "Noelle is in such a good mood that she lets out a creepy, evil laugh."
     ""
 
 # game/1_diya.rpy:4391
-translate general hackedAlarms_b08b51e4:
+translate spanish hackedAlarms_b08b51e4:
 
     # Noelle "We can also make the message a cipher. So she has to solve it."
     Noelle ""
 
 # game/1_diya.rpy:4394
-translate general hackedAlarms_52e1c2fb:
+translate spanish hackedAlarms_52e1c2fb:
 
     # Diya "If you put too much math on it, she'll know it's you."
     Diya ""
 
 # game/1_diya.rpy:4397
-translate general hackedAlarms_f23ffb47:
+translate spanish hackedAlarms_f23ffb47:
 
     # Noelle "Ciphers aren't math."
     Noelle ""
 
 # game/1_diya.rpy:4400
-translate general hackedAlarms_18bdca62:
+translate spanish hackedAlarms_18bdca62:
 
     # Diya "If you have to explain to me what it is, she'll know it's you."
     Diya ""
 
 # game/1_diya.rpy:4403
-translate general hackedAlarms_446393a5:
+translate spanish hackedAlarms_446393a5:
 
     # Noelle "Fair enough."
     Noelle ""
 
 # game/1_diya.rpy:4406
-translate general hackedAlarms_2645a991:
+translate spanish hackedAlarms_2645a991:
 
     # Diya "How much do the roses cost?"
     Diya ""
 
 # game/1_diya.rpy:4409
-translate general hackedAlarms_238ec4b9:
+translate spanish hackedAlarms_238ec4b9:
 
     # Noelle "Probably around $12."
     Noelle ""
 
 # game/1_diya.rpy:4412
-translate general hackedAlarms_36073440:
+translate spanish hackedAlarms_36073440:
 
     # DiyaT "$12..."
     DiyaT ""
 
 # game/1_diya.rpy:4413
-translate general hackedAlarms_6152f458:
+translate spanish hackedAlarms_6152f458:
 
     # Diya "That's $6 per person."
     Diya ""
 
 # game/1_diya.rpy:4414
-translate general hackedAlarms_44bf87fe:
+translate spanish hackedAlarms_44bf87fe:
 
     # Diya "Don't really want to spend that much on a joke."
     Diya ""
 
 # game/1_diya.rpy:4415
-translate general hackedAlarms_0b544d02:
+translate spanish hackedAlarms_0b544d02:
 
     # Diya "Especially if it's annual. It'd be $48 in all."
     Diya ""
 
 # game/1_diya.rpy:4418
-translate general hackedAlarms_fbdbc7bc:
+translate spanish hackedAlarms_fbdbc7bc:
 
     # Noelle "We could split the cost between more people, so it's more reasonable."
     Noelle ""
 
 # game/1_diya.rpy:4421
-translate general hackedAlarms_535761e0:
+translate spanish hackedAlarms_535761e0:
 
     # Diya "But we don't have any other friends who would appreciate it."
     Diya ""
 
 # game/1_diya.rpy:4424
-translate general hackedAlarms_320efa19:
+translate spanish hackedAlarms_320efa19:
 
     # Noelle "........"
     Noelle ""
 
 # game/1_diya.rpy:4425
-translate general hackedAlarms_f8c04680:
+translate spanish hackedAlarms_f8c04680:
 
     # Noelle "You're right."
     Noelle ""
 
 # game/1_diya.rpy:4426
-translate general hackedAlarms_dc9d5754:
+translate spanish hackedAlarms_dc9d5754:
 
     # Noelle "Nevermind. Just forget it, then."
     Noelle ""
 
 # game/1_diya.rpy:4428
-translate general hackedAlarms_2ae001f0:
+translate spanish hackedAlarms_2ae001f0:
 
     # "Noelle looks immensely disappointed..."
     ""
 
 # game/1_diya.rpy:4444
-translate general hackedAlarms_6ff8f1fb:
+translate spanish hackedAlarms_6ff8f1fb:
 
     # Diya "?!??!!"
     Diya ""
 
 # game/1_diya.rpy:4446
-translate general hackedAlarms_3a65f31f:
+translate spanish hackedAlarms_3a65f31f:
 
     # "Someone hacked the fire alarms to play the Super Mario Bros. theme!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:4450
-translate general hackedAlarms_8d6d1afe:
+translate spanish hackedAlarms_8d6d1afe:
 
     # DiyaT "Almost gave me a heart attack..."
     DiyaT ""
 
 # game/1_diya.rpy:4453
-translate general hackedAlarms_9899a6c1:
+translate spanish hackedAlarms_9899a6c1:
 
     # Noelle ".........."
     Noelle ""
 
 # game/1_diya.rpy:4455
-translate general hackedAlarms_5b85d623:
+translate spanish hackedAlarms_5b85d623:
 
     # "Students come flooding out of the classrooms."
     ""
 
 # game/1_diya.rpy:4456
-translate general hackedAlarms_f7b4fc6a:
+translate spanish hackedAlarms_f7b4fc6a:
 
     # "They all look really glad for an excuse to leave."
     ""
 
 # game/1_diya.rpy:4458
-translate general hackedAlarms_6d9a5c6d:
+translate spanish hackedAlarms_6d9a5c6d:
 
     # DiyaT "Everyone is evacuating to the field, like we're supposed to."
     DiyaT ""
 
 # game/1_diya.rpy:4459
-translate general hackedAlarms_4b3814b5:
+translate spanish hackedAlarms_4b3814b5:
 
     # Diya "Can you walk?"
     Diya ""
 
 # game/1_diya.rpy:4462
-translate general hackedAlarms_62487c34:
+translate spanish hackedAlarms_62487c34:
 
     # Noelle "Ye—"
     Noelle ""
 
 # game/1_diya.rpy:4464
-translate general hackedAlarms_915354cc:
+translate spanish hackedAlarms_915354cc:
 
     # "Diya catches Noelle as she pitches forward again."
     ""
 
 # game/1_diya.rpy:4466
-translate general hackedAlarms_aabfbe34:
+translate spanish hackedAlarms_aabfbe34:
 
     # DiyaT "Nope."
     DiyaT ""
 
 # game/1_diya.rpy:4483
-translate general ch3_454c17bf:
+translate spanish ch3_454c17bf:
 
     # "Diya gives Noelle a piggyback ride to the field."
     ""
 
 # game/1_diya.rpy:4485
-translate general ch3_62afa106:
+translate spanish ch3_62afa106:
 
     # DiyaT "The entire school is out here now."
     DiyaT ""
 
 # game/1_diya.rpy:4491
-translate general ch3_6013ca4b:
+translate spanish ch3_6013ca4b:
 
     # Akarsha "Sup, homies."
     Akarsha ""
 
 # game/1_diya.rpy:4495
-translate general ch3_68aa6aa2:
+translate spanish ch3_68aa6aa2:
 
     # Noelle "You!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:4496
-translate general ch3_4cd7df76:
+translate spanish ch3_4cd7df76:
 
     # Noelle "I can't believe you've done this!"
     Noelle ""
 
 # game/1_diya.rpy:4498
-translate general ch3_5208348b:
+translate spanish ch3_5208348b:
 
     # Noelle "I ought to report you to the authorities."
     Noelle ""
 
 # game/1_diya.rpy:4500
-translate general ch3_8dd73787:
+translate spanish ch3_8dd73787:
 
     # Akarsha "But you won't."
     Akarsha ""
 
 # game/1_diya.rpy:4507
-translate general ch3_bade8864:
+translate spanish ch3_bade8864:
 
     # Noelle "What, you think I won't just because we're fr...f...fellow acquaintances?"
     Noelle ""
 
 # game/1_diya.rpy:4510
-translate general ch3_dc7ba415:
+translate spanish ch3_dc7ba415:
 
     # Akarsha "FELLOW ACQUAINTANCES??"
     Akarsha ""
 
 # game/1_diya.rpy:4512
-translate general ch3_63003399:
+translate spanish ch3_63003399:
 
     # Diya "She was totally about to say \"friends\"."
     Diya ""
 
 # game/1_diya.rpy:4515
-translate general ch3_71cb4458:
+translate spanish ch3_71cb4458:
 
     # Noelle "I was not!"
     Noelle ""
 
 # game/1_diya.rpy:4518
-translate general ch3_2bfedc9c:
+translate spanish ch3_2bfedc9c:
 
     # Akarsha "Admit it! Friends! Friends! Friends!"
     Akarsha ""
 
 # game/1_diya.rpy:4521
-translate general ch3_2bc17f91:
+translate spanish ch3_2bc17f91:
 
     # Noelle "I hate you more than is physically possible right now!"
     Noelle ""
 
 # game/1_diya.rpy:4525
-translate general ch3_7c0b103d:
+translate spanish ch3_7c0b103d:
 
     # Akarsha "Oh, come on. What did you want me to do?"
     Akarsha ""
 
 # game/1_diya.rpy:4526
-translate general ch3_957b1d20:
+translate spanish ch3_957b1d20:
 
     # Akarsha "Travel back in time and change Chinese culture to not see academic achievement as a moral virtue?"
     Akarsha ""
 
 # game/1_diya.rpy:4530
-translate general ch3_027b3d1d:
+translate spanish ch3_027b3d1d:
 
     # Akarsha "The one who's getting saved doesn't get to complain."
     Akarsha ""
 
 # game/1_diya.rpy:4532
-translate general ch3_a9ba1176:
+translate spanish ch3_a9ba1176:
 
     # Noelle "You broke the law! How can I not complain?!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:4535
-translate general ch3_5c545724:
+translate spanish ch3_5c545724:
 
     # Akarsha "Is anyone on this earth truly innocent?"
     Akarsha ""
 
 # game/1_diya.rpy:4537
-translate general ch3_660c2983:
+translate spanish ch3_660c2983:
 
     # Noelle "YOU CAN'T DISTRACT ME WITH FAKE DEEP STATEMENTS!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:4540
-translate general ch3_63357124:
+translate spanish ch3_63357124:
 
     # Akarsha "You don't appreciate anything I do!"
     Akarsha ""
 
 # game/1_diya.rpy:4541
-translate general ch3_cc3281e7:
+translate spanish ch3_cc3281e7:
 
     # Akarsha "Where's my Nobel Peace Prize? Where's my \"Thank you Akarsha, you're awesome\"?"
     Akarsha ""
 
 # game/1_diya.rpy:4545
-translate general ch3_675aca1c:
+translate spanish ch3_675aca1c:
 
     # Noelle "I'm not thanking you for this illicit \"help\" that I NEVER asked for."
     Noelle ""
 
 # game/1_diya.rpy:4546
-translate general ch3_84971510:
+translate spanish ch3_84971510:
 
     # Noelle "Were you seriously expecting to be praised? Never have I ever been more embarrased for my fellow man."
     Noelle ""
 
 # game/1_diya.rpy:4549
-translate general ch3_0de4435e:
+translate spanish ch3_0de4435e:
 
     # Akarsha "I'm a hero!"
     Akarsha ""
 
 # game/1_diya.rpy:4551
-translate general ch3_e55840f5:
+translate spanish ch3_e55840f5:
 
     # Noelle "YOU'RE NOT A HERO!!!"
     Noelle ""
 
 # game/1_diya.rpy:4552
-translate general ch3_4081558a:
+translate spanish ch3_4081558a:
 
     # Noelle "YOU SCUMBAG!!!!! DISGUSTING!!!!!!"
     Noelle ""
 
 # game/1_diya.rpy:4555
-translate general ch3_96ae7aec:
+translate spanish ch3_96ae7aec:
 
     # Akarsha "Fine! Be that way!"
     Akarsha ""
 
 # game/1_diya.rpy:4557
-translate general ch3_eaf459be:
+translate spanish ch3_eaf459be:
 
     # Akarsha "I'm sorry. Forgive me?"
     Akarsha ""
 
 # game/1_diya.rpy:4559
-translate general ch3_35f95480:
+translate spanish ch3_35f95480:
 
     # Noelle "You don't look even remotely sorry."
     Noelle ""
 
 # game/1_diya.rpy:4561
-translate general ch3_926c4bd1:
+translate spanish ch3_926c4bd1:
 
     # Akarsha "I can't help it if I think you're funny when you're mad."
     Akarsha ""
 
 # game/1_diya.rpy:4563
-translate general ch3_2c1fc11e:
+translate spanish ch3_2c1fc11e:
 
     # Akarsha "Just don't tell on me and we'll call it even. Deal?"
     Akarsha ""
 
 # game/1_diya.rpy:4565
-translate general ch3_750cb8f5:
+translate spanish ch3_750cb8f5:
 
     # "Akarsha offers her a handshake. Noelle regards it with obvious suspicion."
     ""
 
 # game/1_diya.rpy:4566
-translate general ch3_9388c5b2:
+translate spanish ch3_9388c5b2:
 
     # "She cautiously releases her grip on Diya's shoulder and reaches out to shake it."
     ""
 
 # game/1_diya.rpy:4574
-translate general ch3_69b1f848:
+translate spanish ch3_69b1f848:
 
     # "Instead of grasping her hand, Akarsha grabs Noelle's wrist. She starts hitting Noelle with her own hand!!"
     ""
 
 # game/1_diya.rpy:4576
-translate general ch3_2f25e229:
+translate spanish ch3_2f25e229:
 
     # Akarsha "Why're you hitting yourself? Why're you hitting yoursel— "
     Akarsha ""
 
 # game/1_diya.rpy:4578
-translate general ch3_986fa433:
+translate spanish ch3_986fa433:
 
     # Noelle "I HATE YOU!!!!!!!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:4579
-translate general ch3_09afd5e4:
+translate spanish ch3_09afd5e4:
 
     # Noelle "YOU...STUPID!!!!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:4582
-translate general ch3_1db5ea9d:
+translate spanish ch3_1db5ea9d:
 
     # Akarsha "You should've killed me when you had the chance."
     Akarsha ""
 
 # game/1_diya.rpy:4584
-translate general ch3_7819a248:
+translate spanish ch3_7819a248:
 
     # Noelle "Next time, I won't let you off so easy. This is your last warning."
     Noelle ""
 
 # game/1_diya.rpy:4587
-translate general ch3_8aa6cf5d:
+translate spanish ch3_8aa6cf5d:
 
     # DiyaT "She said that last time. And the time before that."
     DiyaT ""
 
 # game/1_diya.rpy:4590
-translate general ch3_dbae161f:
+translate spanish ch3_dbae161f:
 
     # Akarsha "Power of friendship!"
     Akarsha ""
 
 # game/1_diya.rpy:4591
-translate general ch3_1037f26f:
+translate spanish ch3_1037f26f:
 
     # "A stranger brushes past Akarsha in the crowd. Akarsha gawks after her, placing her hand on her heart."
     ""
 
 # game/1_diya.rpy:4593
-translate general ch3_fd540c50:
+translate spanish ch3_fd540c50:
 
     # Akarsha "What are we..."
     Akarsha ""
 
 # game/1_diya.rpy:4610
-translate general ch3_5dfe7035:
+translate spanish ch3_5dfe7035:
 
     # DiyaT "Wait, that looks like...?!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:4611
-translate general ch3_692a1620:
+translate spanish ch3_692a1620:
 
     # Diya "??!!!!!!!!!!!!!!!!!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:4614
-translate general ch3_33f6b55e:
+translate spanish ch3_33f6b55e:
 
     # "Diya chases after the person."
     ""
 
 # game/1_diya.rpy:4616
-translate general ch3_ab787e2d:
+translate spanish ch3_ab787e2d:
 
     # Noelle "Diya?!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:4617
-translate general ch3_08bff6d9:
+translate spanish ch3_08bff6d9:
 
     # Noelle "Where are we going?"
     Noelle ""
 
 # game/1_diya.rpy:4620
-translate general ch3_e46d1b9d:
+translate spanish ch3_e46d1b9d:
 
     # Diya "The person."
     Diya ""
 
 # game/1_diya.rpy:4622
-translate general ch3_6fe0cf59:
+translate spanish ch3_6fe0cf59:
 
     # "The person is so short that Diya loses sight of her in crowd."
     ""
 
 # game/1_diya.rpy:4624
-translate general ch3_becd532a:
+translate spanish ch3_becd532a:
 
     # Diya "????????? ???"
     Diya ""
 
 # game/1_diya.rpy:4626
-translate general ch3_478fd028:
+translate spanish ch3_478fd028:
 
     # DiyaT "I lost her!"
     DiyaT ""
 
 # game/1_diya.rpy:4628
-translate general ch3_17cf63b0:
+translate spanish ch3_17cf63b0:
 
     # Diya "..."
     Diya ""
 
 # game/1_diya.rpy:4630
-translate general ch3_2172055f:
+translate spanish ch3_2172055f:
 
     # DiyaT "Great. I'm so sleep-deprived that I'm literally hallucinating."
     DiyaT ""
 
 # game/1_diya.rpy:4646
-translate general ch4_1623c778:
+translate spanish ch4_1623c778:
 
     # "That night, Diya dreams of the past."
     ""
 
 # game/1_diya.rpy:4691
-translate general battingStart_52fcbda1:
+translate spanish battingStart_52fcbda1:
 
     # DiyaT "Whoa!! I'm up to bat!!"
     DiyaT ""
 
 # game/1_diya.rpy:4692
-translate general battingStart_61397965:
+translate spanish battingStart_61397965:
 
     # DiyaT "Yeah!!!!!"
     DiyaT ""
 
 # game/1_diya.rpy:4693
-translate general battingStart_c41b0284:
+translate spanish battingStart_c41b0284:
 
     # DiyaT "I get to hit the ball!! This is so fun!!!"
     DiyaT ""
 
 # game/1_diya.rpy:4697
-translate general battingStart_ce41ef83:
+translate spanish battingStart_ce41ef83:
 
     # NPC "Hey, look! It's a girl batting!"
     NPC ""
 
 # game/1_diya.rpy:4698
-translate general battingStart_e9b69ef9:
+translate spanish battingStart_e9b69ef9:
 
     # NPC2 "Phew! Our team got lucky!"
     NPC2 ""
 
 # game/1_diya.rpy:4700
-translate general battingStart_6e8840cd:
+translate spanish battingStart_6e8840cd:
 
     # Diya "............"
     Diya ""
 
 # game/1_diya.rpy:4704
-translate general battingStart_2e43f9c6:
+translate spanish battingStart_2e43f9c6:
 
     # Min "SHUT UP YOU DUMB...DUMB POO-POO HEAD!!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:4705
-translate general battingStart_46990ce9:
+translate spanish battingStart_46990ce9:
 
     # Min "SAY ONE MORE WORD AND I'LL KILL YOU!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:4707
-translate general battingStart_25e3c19d:
+translate spanish battingStart_25e3c19d:
 
     # NPC "What?!" with sshake
     NPC "" with sshake
 
 # game/1_diya.rpy:4708
-translate general battingStart_4c1fc8a2:
+translate spanish battingStart_4c1fc8a2:
 
     # "\"What?!\" is a word!"
     ""
 
 # game/1_diya.rpy:4710
-translate general battingStart_f91255ae:
+translate spanish battingStart_f91255ae:
 
     # Min "DIEEEEEEEEE!!!!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:4712
-translate general battingStart_40169ec6:
+translate spanish battingStart_40169ec6:
 
     # "A fight broke out in the stands!"
     ""
 
 # game/1_diya.rpy:4715
-translate general battingStart_2be0ad68:
+translate spanish battingStart_2be0ad68:
 
     # Diya "?????!!!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:4723
-translate general battingStart_38fcd6d7:
+translate spanish battingStart_38fcd6d7:
 
     # "Min is beating the crap out of an old grandpa!"
     ""
 
 # game/1_diya.rpy:4725
-translate general battingStart_79830cea:
+translate spanish battingStart_79830cea:
 
     # Min "YOU BETTER WATCH OUT! I'M A GREEN BELT!"
     Min ""
 
 # game/1_diya.rpy:4728
-translate general battingStart_3ae205e0:
+translate spanish battingStart_3ae205e0:
 
     # DiyaT "Green belt..."
     DiyaT ""
 
 # game/1_diya.rpy:4730
-translate general battingStart_e6835967:
+translate spanish battingStart_e6835967:
 
     # "The other adults are rushing to pull her off him."
     ""
 
 # game/1_diya.rpy:4732
-translate general battingStart_db030cf8:
+translate spanish battingStart_db030cf8:
 
     # Diya "Min!"
     Diya ""
 
 # game/1_diya.rpy:4738
-translate general battingStart_da888f9d:
+translate spanish battingStart_da888f9d:
 
     # "Min scrambles down the rafters with everyone chasing after her."
     ""
 
 # game/1_diya.rpy:4739
-translate general battingStart_87a98926:
+translate spanish battingStart_87a98926:
 
     # Min "I'm taking you with me!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:4741
-translate general battingStart_f39757e3:
+translate spanish battingStart_f39757e3:
 
     # "She grabs Diya's wrist and sprints off with her in tow."
     ""
 
 # game/1_diya.rpy:4743
-translate general battingStart_a768a9ea:
+translate spanish battingStart_a768a9ea:
 
     # Diya "...!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:4745
-translate general battingStart_bcb81aa8:
+translate spanish battingStart_bcb81aa8:
 
     # NPC "Wait! Stop!"
     NPC ""
 
 # game/1_diya.rpy:4758
-translate general battingStart_0ac7d398:
+translate spanish battingStart_0ac7d398:
 
     # DiyaT "We got away."
     DiyaT ""
 
 # game/1_diya.rpy:4761
-translate general battingStart_cbe93100:
+translate spanish battingStart_cbe93100:
 
     # Min "Heheheh!!! I kidnapped you!!"
     Min ""
 
 # game/1_diya.rpy:4763
-translate general battingStart_b6399d89:
+translate spanish battingStart_b6399d89:
 
     # Diya "Sure."
     Diya ""
 
 # game/1_diya.rpy:4766
-translate general battingStart_b310ae7f:
+translate spanish battingStart_b310ae7f:
 
     # Min "Now we can do whatever we want."
     Min ""
 
 # game/1_diya.rpy:4767
-translate general battingStart_835fe1a0:
+translate spanish battingStart_835fe1a0:
 
     # Min "Come on! I brought Jun's bike!"
     Min ""
 
 # game/1_diya.rpy:4769
-translate general battingStart_aa79c330:
+translate spanish battingStart_aa79c330:
 
     # "Min pulls Jun-seo's bike out from the bushes."
     ""
 
 # game/1_diya.rpy:4770
-translate general battingStart_cf72bea1:
+translate spanish battingStart_cf72bea1:
 
     # "She mounts the bike and looks at Diya expectantly."
     ""
 
 # game/1_diya.rpy:4772
-translate general battingStart_16869598:
+translate spanish battingStart_16869598:
 
     # Min "You sit on the rear rack."
     Min ""
 
 # game/1_diya.rpy:4774
-translate general battingStart_9ba16665:
+translate spanish battingStart_9ba16665:
 
     # Diya "Shouldn't I be the one pedaling? I'm bigger than you. "
     Diya ""
 
 # game/1_diya.rpy:4777
-translate general battingStart_4dca4472:
+translate spanish battingStart_4dca4472:
 
     # Min "I'm training for when I get taller than you!"
     Min ""
 
 # game/1_diya.rpy:4779
-translate general battingStart_44919ed3:
+translate spanish battingStart_44919ed3:
 
     # Diya "That's never gonna happen. You'll be short forever."
     Diya ""
 
 # game/1_diya.rpy:4782
-translate general battingStart_5cb767de:
+translate spanish battingStart_5cb767de:
 
     # Min "How do you know?! Just you watch!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:4783
-translate general battingStart_0902fb30:
+translate spanish battingStart_0902fb30:
 
     # Min "Are you getting on or not?"
     Min ""
 
 # game/1_diya.rpy:4785
-translate general battingStart_849812d8:
+translate spanish battingStart_849812d8:
 
     # "Diya tentatively lowers herself onto the bike rack."
     ""
 
 # game/1_diya.rpy:4788
-translate general battingStart_3ade87a0:
+translate spanish battingStart_3ade87a0:
 
     # Min "So where do you wanna go next?"
     Min ""
 
 # game/1_diya.rpy:4803
-translate general whereToGoChoice_6337a4c4:
+translate spanish whereToGoChoice_6337a4c4:
 
     # Diya "My house."
     Diya ""
 
 # game/1_diya.rpy:4806
-translate general whereToGoChoice_b7071fce:
+translate spanish whereToGoChoice_b7071fce:
 
     # Min "You wanna go home already?!"
     Min ""
 
 # game/1_diya.rpy:4808
-translate general whereToGoChoice_5a27786b:
+translate spanish whereToGoChoice_5a27786b:
 
     # Diya "No, that's not what I meant. You're invited too."
     Diya ""
 
 # game/1_diya.rpy:4809
-translate general whereToGoChoice_42421bd3:
+translate spanish whereToGoChoice_42421bd3:
 
     # Diya "We can play tag and eat ice cream."
     Diya ""
 
 # game/1_diya.rpy:4812
-translate general whereToGoChoice_186aca5e:
+translate spanish whereToGoChoice_186aca5e:
 
     # Min "But aren't your parents there? You'll get in trouble if they see me with you."
     Min ""
 
 # game/1_diya.rpy:4814
-translate general whereToGoChoice_1e24bca7:
+translate spanish whereToGoChoice_1e24bca7:
 
     # DiyaT "Oh, right...darn."
     DiyaT ""
 
 # game/1_diya.rpy:4815
-translate general whereToGoChoice_5664d455:
+translate spanish whereToGoChoice_5664d455:
 
     # DiyaT "My parents are really unreasonable about Min.)\n(I'm actually not even allowed to talk to her."
     DiyaT ""
 
 # game/1_diya.rpy:4817
-translate general whereToGoChoice_417f5d19:
+translate spanish whereToGoChoice_417f5d19:
 
     # DiyaT "It's so stupid. They don't know anything about her, but just because she has short hair and wears boy clothes they hate her."
     DiyaT ""
 
 # game/1_diya.rpy:4818
-translate general whereToGoChoice_d2054cc7:
+translate spanish whereToGoChoice_d2054cc7:
 
     # DiyaT "They always call her a freak."
     DiyaT ""
 
 # game/1_diya.rpy:4823
-translate general whereToGoChoice_2a4e1f7b:
+translate spanish whereToGoChoice_2a4e1f7b:
 
     # Diya "Your house."
     Diya ""
 
 # game/1_diya.rpy:4826
-translate general whereToGoChoice_501d6097:
+translate spanish whereToGoChoice_501d6097:
 
     # Min "We won't be able to get in. My parents came out with me, and I don't have the keys."
     Min ""
 
 # game/1_diya.rpy:4828
-translate general whereToGoChoice_70480523:
+translate spanish whereToGoChoice_70480523:
 
     # Diya "Oh, right. You're basically a fugitive right now."
     Diya ""
 
 # game/1_diya.rpy:4831
-translate general whereToGoChoice_dda41ece:
+translate spanish whereToGoChoice_dda41ece:
 
     # Min "Why do you wanna go to my house, anyway? You've already been there a bunch of times."
     Min ""
 
 # game/1_diya.rpy:4833
-translate general whereToGoChoice_f33fcf6d:
+translate spanish whereToGoChoice_f33fcf6d:
 
     # Diya "It's fun seeing where you live."
     Diya ""
 
 # game/1_diya.rpy:4834
-translate general whereToGoChoice_d8c61f41:
+translate spanish whereToGoChoice_d8c61f41:
 
     # Diya "I feel like I learn something new every time I go."
     Diya ""
 
 # game/1_diya.rpy:4837
-translate general whereToGoChoice_55299a8e:
+translate spanish whereToGoChoice_55299a8e:
 
     # Min "Really? Like what?"
     Min ""
 
 # game/1_diya.rpy:4839
-translate general whereToGoChoice_49282a9c:
+translate spanish whereToGoChoice_49282a9c:
 
     # Diya "Like, you have to sleep in a girly pink blanket while Jun gets the Hot Wheels one."
     Diya ""
 
 # game/1_diya.rpy:4840
-translate general whereToGoChoice_56d5fd6f:
+translate spanish whereToGoChoice_56d5fd6f:
 
     # Diya "And there's a treadmill in the living room."
     Diya ""
 
 # game/1_diya.rpy:4841
-translate general whereToGoChoice_927ab215:
+translate spanish whereToGoChoice_927ab215:
 
     # Diya "Remember the time you tried to run on it at 10 Speed to impress me, fell off, and broke your arm?"
     Diya ""
 
 # game/1_diya.rpy:4844
-translate general whereToGoChoice_f673b33c:
+translate spanish whereToGoChoice_f673b33c:
 
     # Min "I, I don't remember that! You must've remembered wrong."
     Min ""
 
 # game/1_diya.rpy:4847
-translate general whereToGoChoice_176dd91b:
+translate spanish whereToGoChoice_176dd91b:
 
     # Diya "And you brush your teeth too hard, so your toothbrush bristles look hilarious."
     Diya ""
 
 # game/1_diya.rpy:4848
-translate general whereToGoChoice_d96cc88a:
+translate spanish whereToGoChoice_d96cc88a:
 
     # Diya "They're all flattened." with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:4851
-translate general whereToGoChoice_8d529998:
+translate spanish whereToGoChoice_8d529998:
 
     # Min "What's so funny about that?"
     Min ""
 
 # game/1_diya.rpy:4852
-translate general whereToGoChoice_0835ecad:
+translate spanish whereToGoChoice_0835ecad:
 
     # Min "I have to make sure I kill the germs!"
     Min ""
 
 # game/1_diya.rpy:4854
-translate general whereToGoChoice_992a4f25:
+translate spanish whereToGoChoice_992a4f25:
 
     # DiyaT "Of course you do."
     DiyaT ""
 
 # game/1_diya.rpy:4860
-translate general whereToGoChoice_c59d57f5:
+translate spanish whereToGoChoice_c59d57f5:
 
     # Diya "Noelle's house. We can say hi to Noelle."
     Diya ""
 
 # game/1_diya.rpy:4863
-translate general whereToGoChoice_9187ad54:
+translate spanish whereToGoChoice_9187ad54:
 
     # Min "What?! Why?!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:4867
-translate general whereToGoChoice_eea08832:
+translate spanish whereToGoChoice_eea08832:
 
     # Diya "I miss her."
     Diya ""
 
 # game/1_diya.rpy:4870
-translate general whereToGoChoice_cd81a4f3:
+translate spanish whereToGoChoice_cd81a4f3:
 
     # Min "You just saw her yesterday."
     Min ""
 
 # game/1_diya.rpy:4872
-translate general whereToGoChoice_eea08832_1:
+translate spanish whereToGoChoice_eea08832_1:
 
     # Diya "I miss her."
     Diya ""
 
 # game/1_diya.rpy:4875
-translate general whereToGoChoice_41b50903:
+translate spanish whereToGoChoice_41b50903:
 
     # Min "Yuck."
     Min ""
 
 # game/1_diya.rpy:4877
-translate general whereToGoChoice_a625d248:
+translate spanish whereToGoChoice_a625d248:
 
     # Diya "Oh, come on. You should give her a chance."
     Diya ""
 
 # game/1_diya.rpy:4878
-translate general whereToGoChoice_73a76dbd:
+translate spanish whereToGoChoice_73a76dbd:
 
     # Diya "She's so funny. She looks at every individual grape before she eats it."
     Diya ""
 
 # game/1_diya.rpy:4879
-translate general whereToGoChoice_b2fa1897:
+translate spanish whereToGoChoice_b2fa1897:
 
     # Diya "I know she's kinda aloof, but it'd be so cool if you were friends."
     Diya ""
 
 # game/1_diya.rpy:4882
-translate general whereToGoChoice_92741c32:
+translate spanish whereToGoChoice_92741c32:
 
     # Min "What's \"aloof\" mean?"
     Min ""
 
 # game/1_diya.rpy:4884
-translate general whereToGoChoice_39c9edf9:
+translate spanish whereToGoChoice_39c9edf9:
 
     # Diya "It's like...cold. She always tries to hide how much she likes you. Like a cat."
     Diya ""
 
 # game/1_diya.rpy:4885
-translate general whereToGoChoice_0f8f0b60:
+translate spanish whereToGoChoice_0f8f0b60:
 
     # Diya "Once you get used to it, it's sorta cute."
     Diya ""
 
 # game/1_diya.rpy:4888
-translate general whereToGoChoice_33c349ce:
+translate spanish whereToGoChoice_33c349ce:
 
     # "At this, Min's expression dramatically sours."
     ""
 
 # game/1_diya.rpy:4890
-translate general whereToGoChoice_6e8840cd:
+translate spanish whereToGoChoice_6e8840cd:
 
     # Diya "............"
     Diya ""
 
 # game/1_diya.rpy:4892
-translate general whereToGoChoice_2d760f78:
+translate spanish whereToGoChoice_2d760f78:
 
     # Diya "If you hate it that much, we can go somewhere else."
     Diya ""
 
 # game/1_diya.rpy:4898
-translate general whereToGoChoice_7eadfd4c:
+translate spanish whereToGoChoice_7eadfd4c:
 
     # Diya "Home Depot lights section."
     Diya ""
 
 # game/1_diya.rpy:4901
-translate general whereToGoChoice_8ddd78d6:
+translate spanish whereToGoChoice_8ddd78d6:
 
     # Min "What's so great about that?"
     Min ""
 
 # game/1_diya.rpy:4903
-translate general whereToGoChoice_b7cad766:
+translate spanish whereToGoChoice_b7cad766:
 
     # Diya "There's so many different lamps in one place. The designs are cool, and it's really bright."
     Diya ""
 
 # game/1_diya.rpy:4904
-translate general whereToGoChoice_95c652fc:
+translate spanish whereToGoChoice_95c652fc:
 
     # Diya "The rest of the store is ordinary, but that one aisle feels like a special place in another world."
     Diya ""
 
 # game/1_diya.rpy:4905
-translate general whereToGoChoice_41a2c346:
+translate spanish whereToGoChoice_41a2c346:
 
     # Diya "I like to pretend I'm furnishing a house and pick my favorites."
     Diya ""
 
 # game/1_diya.rpy:4907
-translate general whereToGoChoice_52cf0f16:
+translate spanish whereToGoChoice_52cf0f16:
 
     # Min "Hm."
     Min ""
 
 # game/1_diya.rpy:4909
-translate general whereToGoChoice_290eebc5:
+translate spanish whereToGoChoice_290eebc5:
 
     # Diya "I know it sounds bland. You don't have to."
     Diya ""
 
 # game/1_diya.rpy:4912
-translate general whereToGoChoice_e55d6704:
+translate spanish whereToGoChoice_e55d6704:
 
     # Min "No, let's go. It sounds like a place that'd be boring if I went with my parents, but fun if I go with you."
     Min ""
 
 # game/1_diya.rpy:4914
-translate general whereToGoChoice_32f652e7:
+translate spanish whereToGoChoice_32f652e7:
 
     # Diya "I know what you mean. If you're with someone you like, everywhere is interesting."
     Diya ""
 
 # game/1_diya.rpy:4917
-translate general whereToGoChoice_4626db25:
+translate spanish whereToGoChoice_4626db25:
 
     # Min "Which way to Home Depot?"
     Min ""
 
 # game/1_diya.rpy:4919
-translate general whereToGoChoice_b1e85932:
+translate spanish whereToGoChoice_b1e85932:
 
     # Diya "...Not sure. I haven't been there in years."
     Diya ""
 
 # game/1_diya.rpy:4921
-translate general whereToGoChoice_5f5f318a:
+translate spanish whereToGoChoice_5f5f318a:
 
     # Min "Too bad..."
     Min ""
 
 # game/1_diya.rpy:4927
-translate general whereToGoChoice_39c849e0:
+translate spanish whereToGoChoice_39c849e0:
 
     # DiyaT "Where should we go instead, then?"
     DiyaT ""
 
 # game/1_diya.rpy:4933
-translate general dangerous_649d1989:
+translate spanish dangerous_649d1989:
 
     # Diya "Min, you decide."
     Diya ""
 
 # game/1_diya.rpy:4938
-translate general dangerous_9ba672e9:
+translate spanish dangerous_9ba672e9:
 
     # Min "Are you sure? The place I want to take you is pretty far."
     Min ""
 
 # game/1_diya.rpy:4939
-translate general dangerous_158ff6a8:
+translate spanish dangerous_158ff6a8:
 
     # Min "So if there's anywhere else you wanna go, we should probably knock that outta the way first."
     Min ""
 
 # game/1_diya.rpy:4940
-translate general dangerous_8b7272b6:
+translate spanish dangerous_8b7272b6:
 
     # Min "{cps=0}So if there's anywhere else you wanna go, we should probably knock that outta the way first.{/cps}" nointeract
     Min "" nointeract
 
 # game/1_diya.rpy:4944
-translate general dangerous_cfaaaebc:
+translate spanish dangerous_cfaaaebc:
 
     # DiyaT "On second thought, let's go somewhere else first."
     DiyaT ""
 
 # game/1_diya.rpy:4947
-translate general dangerous_10a9ce1a:
+translate spanish dangerous_10a9ce1a:
 
     # Min "Okay! Where?"
     Min ""
 
 # game/1_diya.rpy:4950
-translate general dangerous_57e599f4:
+translate spanish dangerous_57e599f4:
 
     # "Diya shakes her head."
     ""
 
 # game/1_diya.rpy:4952
-translate general dangerous_9abc2e50:
+translate spanish dangerous_9abc2e50:
 
     # Min "Okay!"
     Min ""
 
 # game/1_diya.rpy:4954
-translate general dangerous_e93001b5:
+translate spanish dangerous_e93001b5:
 
     # Min "Then hold on tight."
     Min ""
 
 # game/1_diya.rpy:4956
-translate general dangerous_2b0fa0b4:
+translate spanish dangerous_2b0fa0b4:
 
     # Diya "You're not telling me where we're going?"
     Diya ""
 
 # game/1_diya.rpy:4959
-translate general dangerous_79ace732:
+translate spanish dangerous_79ace732:
 
     # Min "It's a surprise."
     Min ""
 
 # game/1_diya.rpy:4979
-translate general dangerous_fed4c3e2:
+translate spanish dangerous_fed4c3e2:
 
     # "After an extreme amount of effort on Min's part, they arrive at a ravine."
     ""
 
 # game/1_diya.rpy:4981
-translate general dangerous_ecb3c90f:
+translate spanish dangerous_ecb3c90f:
 
     # Min "We....we...here!!!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:4985
-translate general dangerous_4e34c727:
+translate spanish dangerous_4e34c727:
 
     # DiyaT "That wasn't even a coherent sentence..."
     DiyaT ""
 
 # game/1_diya.rpy:4986
-translate general dangerous_230ab8af:
+translate spanish dangerous_230ab8af:
 
     # Diya "Are you okay."
     Diya ""
 
 # game/1_diya.rpy:4989
-translate general dangerous_dd71b5b6:
+translate spanish dangerous_dd71b5b6:
 
     # Min "Y-yeah! What kinda weakling do you think I am?!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:4992
-translate general dangerous_7fa42d68:
+translate spanish dangerous_7fa42d68:
 
     # DiyaT "Her legs must feel like jelly right now, but there's no way she'd ever admit it."
     DiyaT ""
 
 # game/1_diya.rpy:4994
-translate general dangerous_3412a031:
+translate spanish dangerous_3412a031:
 
     # Diya "Thanks for the ride."
     Diya ""
 
 # game/1_diya.rpy:4997
-translate general dangerous_039796d6:
+translate spanish dangerous_039796d6:
 
     # Min "You're welcome! Anytime!!"
     Min ""
 
 # game/1_diya.rpy:4999
-translate general dangerous_fe6ca9a7:
+translate spanish dangerous_fe6ca9a7:
 
     # Min "The place is down this hill and through the tunnel."
     Min ""
 
 # game/1_diya.rpy:5002
-translate general dangerous_97575474:
+translate spanish dangerous_97575474:
 
     # Diya "Should I get off? It's too steep to bike down."
     Diya ""
 
 # game/1_diya.rpy:5005
-translate general dangerous_c787ec33:
+translate spanish dangerous_c787ec33:
 
     # Min "Yeah!! Let's run down!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:5010
-translate general dangerous_21442946:
+translate spanish dangerous_21442946:
 
     # "Min enthusiastically leaps off the bike and sprints down the hill!"
     ""
 
 # game/1_diya.rpy:5012
-translate general dangerous_130b5e1b:
+translate spanish dangerous_130b5e1b:
 
     # "The bike is just lying there in the grass..."
     ""
 
 # game/1_diya.rpy:5015
-translate general dangerous_7d0af24d:
+translate spanish dangerous_7d0af24d:
 
     # Diya "Wait. We can't leave this."
     Diya ""
 
 # game/1_diya.rpy:5016
-translate general dangerous_6e8840cd:
+translate spanish dangerous_6e8840cd:
 
     # Diya "............"
     Diya ""
 
 # game/1_diya.rpy:5018
-translate general dangerous_540d1fbe:
+translate spanish dangerous_540d1fbe:
 
     # "Diya picks up the bike and runs after her. "
     ""
 
 # game/1_diya.rpy:5020
-translate general dangerous_e611ec41:
+translate spanish dangerous_e611ec41:
 
     # "Min is waiting at the mouth of the tunnel."
     ""
 
 # game/1_diya.rpy:5023
-translate general dangerous_e9a73955:
+translate spanish dangerous_e9a73955:
 
     # Min "I wanna show you something on the other side. Let's walk through."
     Min ""
 
 # game/1_diya.rpy:5024
-translate general dangerous_3aef2277:
+translate spanish dangerous_3aef2277:
 
     # "She peers into the darkness with a hopeful look on her face."
     ""
 
 # game/1_diya.rpy:5027
-translate general dangerous_1dec2a32:
+translate spanish dangerous_1dec2a32:
 
     # Diya "What're you looking for?"
     Diya ""
 
 # game/1_diya.rpy:5030
-translate general dangerous_5c6d5fad:
+translate spanish dangerous_5c6d5fad:
 
     # Min "Skeletons."
     Min ""
 
 # game/1_diya.rpy:5031
-translate general dangerous_6a3194ad:
+translate spanish dangerous_6a3194ad:
 
     # Min "Are you scared?"
     Min ""
 
 # game/1_diya.rpy:5033
-translate general dangerous_0d3b62fc:
+translate spanish dangerous_0d3b62fc:
 
     # Min "Don't worry. I'll protect you."
     Min ""
 
 # game/1_diya.rpy:5035
-translate general dangerous_d52b05c9:
+translate spanish dangerous_d52b05c9:
 
     # Diya "................."
     Diya ""
 
 # game/1_diya.rpy:5036
-translate general dangerous_fd841d5d:
+translate spanish dangerous_fd841d5d:
 
     # Diya "Okay."
     Diya ""
 
 # game/1_diya.rpy:5037
-translate general dangerous_276146dd:
+translate spanish dangerous_276146dd:
 
     # Diya "I'm counting on you, then."
     Diya ""
 
 # game/1_diya.rpy:5040
-translate general dangerous_cbdfc056:
+translate spanish dangerous_cbdfc056:
 
     # Min "Yeah!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:5041
-translate general dangerous_2eaf4fd0:
+translate spanish dangerous_2eaf4fd0:
 
     # Min "I'll protect you with my life!!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:5042
-translate general dangerous_71ed2303:
+translate spanish dangerous_71ed2303:
 
     # "Min grabs Diya's hand."
     ""
 
 # game/1_diya.rpy:5044
-translate general dangerous_888cdb38:
+translate spanish dangerous_888cdb38:
 
     # Min "There's water on the ground. Hold on to me so you don't slip."
     Min ""
 
 # game/1_diya.rpy:5046
-translate general dangerous_9b0bb340:
+translate spanish dangerous_9b0bb340:
 
     # Diya "...If I slip like this, you'll just get dragged down with me."
     Diya ""
 
 # game/1_diya.rpy:5049
-translate general dangerous_85529ff9:
+translate spanish dangerous_85529ff9:
 
     # Min "No, I won't! Trust me!"
     Min ""
 
 # game/1_diya.rpy:5089
-translate general lookSquirrel_bee164f5:
+translate spanish lookSquirrel_bee164f5:
 
     # "There's a squirrel scampering up the tree."
     ""
 
 # game/1_diya.rpy:5090
-translate general lookSquirrel_f81aceca:
+translate spanish lookSquirrel_f81aceca:
 
     # "When it sees Diya staring, it lifts one paw."
     ""
 
 # game/1_diya.rpy:5092
-translate general lookSquirrel_e4320e14:
+translate spanish lookSquirrel_e4320e14:
 
     # DiyaT "Whoa!! It waved at us!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:5094
-translate general lookSquirrel_369a2582:
+translate spanish lookSquirrel_369a2582:
 
     # Diya "Min. It's waving. Min, look." with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:5095
-translate general lookSquirrel_06f3e16d:
+translate spanish lookSquirrel_06f3e16d:
 
     # Diya "That squirrel just waved at us." with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:5098
-translate general lookSquirrel_3f388e6e:
+translate spanish lookSquirrel_3f388e6e:
 
     # Min "You're way too excited about this."
     Min ""
 
 # game/1_diya.rpy:5101
-translate general lookSquirrel_ee5a1c9e:
+translate spanish lookSquirrel_ee5a1c9e:
 
     # Diya "Then why are you smiling?"
     Diya ""
 
 # game/1_diya.rpy:5104
-translate general lookSquirrel_70f0ad1b:
+translate spanish lookSquirrel_70f0ad1b:
 
     # Min "Because it's cute."
     Min ""
 
 # game/1_diya.rpy:5106
-translate general lookSquirrel_9fa2cfca:
+translate spanish lookSquirrel_9fa2cfca:
 
     # Diya "...?"
     Diya ""
 
 # game/1_diya.rpy:5107
-translate general lookSquirrel_0bf7d659:
+translate spanish lookSquirrel_0bf7d659:
 
     # Diya "Really. I didn't know you liked squirrels."
     Diya ""
 
 # game/1_diya.rpy:5110
-translate general lookSquirrel_ac89bc82:
+translate spanish lookSquirrel_ac89bc82:
 
     # Min "I was talking about you."
     Min ""
 
 # game/1_diya.rpy:5113
-translate general lookSquirrel_6276c5a5:
+translate spanish lookSquirrel_6276c5a5:
 
     # Diya "................"
     Diya ""
 
 # game/1_diya.rpy:5115
-translate general lookSquirrel_85ffe16a:
+translate spanish lookSquirrel_85ffe16a:
 
     # "Diya's face feels strangely hot..."
     ""
 
 # game/1_diya.rpy:5127
-translate general enterTunnel_df796550:
+translate spanish enterTunnel_df796550:
 
     # "It's pitch black inside the tunnel."
     ""
 
 # game/1_diya.rpy:5129
-translate general enterTunnel_7d7aaff9:
+translate spanish enterTunnel_7d7aaff9:
 
     # "If it weren't for Min, Diya actually would be a bit scared now."
     ""
 
 # game/1_diya.rpy:5131
-translate general enterTunnel_f5ac07fb:
+translate spanish enterTunnel_f5ac07fb:
 
     # Min "Don't worry, Diya. I got this."
     Min ""
 
 # game/1_diya.rpy:5132
-translate general enterTunnel_67f303d9:
+translate spanish enterTunnel_67f303d9:
 
     # "She stomps her foot. Her Skechers light up."
     ""
 
 # game/1_diya.rpy:5133
-translate general enterTunnel_1856bd91:
+translate spanish enterTunnel_1856bd91:
 
     # DiyaT "Whoa!!!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:5135
-translate general enterTunnel_b71d92a0:
+translate spanish enterTunnel_b71d92a0:
 
     # "Diya is really impressed!"
     ""
 
 # game/1_diya.rpy:5137
-translate general enterTunnel_a50e8e21:
+translate spanish enterTunnel_a50e8e21:
 
     # Min "Teach me how to count to ten!"
     Min ""
 
 # game/1_diya.rpy:5139
-translate general enterTunnel_2ecfba9d:
+translate spanish enterTunnel_2ecfba9d:
 
     # Diya "Okay. {font=tamil.ttf}ஒன்று.{/font}"
     Diya ""
 
 # game/1_diya.rpy:5142
-translate general enterTunnel_e4315310:
+translate spanish enterTunnel_e4315310:
 
     # Min "{font=tamil.ttf}ஒன்று!{/font}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:5144
-translate general enterTunnel_6d8ed123:
+translate spanish enterTunnel_6d8ed123:
 
     # Diya "{font=tamil.ttf}இரண்டு.{/font}"
     Diya ""
 
 # game/1_diya.rpy:5147
-translate general enterTunnel_b2fde249:
+translate spanish enterTunnel_b2fde249:
 
     # Min "{font=tamil.ttf}இரண்டு!!!{/font}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:5149
-translate general enterTunnel_68d77832:
+translate spanish enterTunnel_68d77832:
 
     # "After a minute, Min has learned the numbers up to 10."
     ""
 
 # game/1_diya.rpy:5151
-translate general enterTunnel_26497e2d:
+translate spanish enterTunnel_26497e2d:
 
     # Min "{font=tamil.ttf}ஒன்று இரண்டு மூன்று நான்கு ஐந்து ஆறு ஏழு எட்டு ஒன்பது பத்து!!!{/font}"
     Min ""
 
 # game/1_diya.rpy:5153
-translate general enterTunnel_14928544:
+translate spanish enterTunnel_14928544:
 
     # Min "I'm probably gonna forget it all over again in a few days."
     Min ""
 
 # game/1_diya.rpy:5154
-translate general enterTunnel_ad3710be:
+translate spanish enterTunnel_ad3710be:
 
     # Diya "Then I'll teach it to you again, when it happens."
     Diya ""
 
 # game/1_diya.rpy:5155
-translate general enterTunnel_07ccc8e5:
+translate spanish enterTunnel_07ccc8e5:
 
     # Diya "I'll do it over and over forever if you want. I don't mind."
     Diya ""
 
 # game/1_diya.rpy:5157
-translate general enterTunnel_6d11ab51:
+translate spanish enterTunnel_6d11ab51:
 
     # Min "Okay. My turn to teach you."
     Min ""
 
 # game/1_diya.rpy:5158
-translate general enterTunnel_2a6f68bb:
+translate spanish enterTunnel_2a6f68bb:
 
     # Diya "I still remember some from last time."
     Diya ""
 
 # game/1_diya.rpy:5160
-translate general enterTunnel_8f055744:
+translate spanish enterTunnel_8f055744:
 
     # Diya "{font=korean.ttf}하나 둘 셋 넷............ {/font}"
     Diya ""
 
 # game/1_diya.rpy:5162
-translate general enterTunnel_17cf63b0:
+translate spanish enterTunnel_17cf63b0:
 
     # Diya "..."
     Diya ""
 
 # game/1_diya.rpy:5164
-translate general enterTunnel_5485c3ae:
+translate spanish enterTunnel_5485c3ae:
 
     # Min "{font=korean.ttf}다섯!{/font}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:5165
-translate general enterTunnel_7b2eebf2:
+translate spanish enterTunnel_7b2eebf2:
 
     # Diya "{font=korean.ttf}다섯?{/font}"
     Diya ""
 
 # game/1_diya.rpy:5167
-translate general enterTunnel_5485c3ae_1:
+translate spanish enterTunnel_5485c3ae_1:
 
     # Min "{font=korean.ttf}다섯!{/font}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:5168
-translate general enterTunnel_98d8f3c5:
+translate spanish enterTunnel_98d8f3c5:
 
     # Diya "{font=korean.ttf}다섯. 다섯. 다섯.{/font}"
     Diya ""
 
 # game/1_diya.rpy:5169
-translate general enterTunnel_8f055744_1:
+translate spanish enterTunnel_8f055744_1:
 
     # Diya "{font=korean.ttf}하나 둘 셋 넷............ {/font}"
     Diya ""
 
 # game/1_diya.rpy:5171
-translate general enterTunnel_17cf63b0_1:
+translate spanish enterTunnel_17cf63b0_1:
 
     # Diya "..."
     Diya ""
 
 # game/1_diya.rpy:5172
-translate general enterTunnel_20c6c501:
+translate spanish enterTunnel_20c6c501:
 
     # DiyaT "I forgot it again."
     DiyaT ""
 
 # game/1_diya.rpy:5175
-translate general enterTunnel_1601a9b5:
+translate spanish enterTunnel_1601a9b5:
 
     # Min "{font=korean.ttf}다섯!{/font} How come you can never remember five?"
     Min ""
 
 # game/1_diya.rpy:5177
-translate general enterTunnel_dfe6b004:
+translate spanish enterTunnel_dfe6b004:
 
     # Diya "It sounds off."
     Diya ""
 
 # game/1_diya.rpy:5179
-translate general enterTunnel_2ca42f16:
+translate spanish enterTunnel_2ca42f16:
 
     # Min "Off?! Does not."
     Min ""
 
 # game/1_diya.rpy:5180
-translate general enterTunnel_a8278703:
+translate spanish enterTunnel_a8278703:
 
     # Diya "Does too. It doesn't feel like a five."
     Diya ""
 
 # game/1_diya.rpy:5183
-translate general enterTunnel_832167b5:
+translate spanish enterTunnel_832167b5:
 
     # Min "{font=korean.ttf}다섯!{/font}"
     Min ""
 
 # game/1_diya.rpy:5185
-translate general enterTunnel_f25d5168:
+translate spanish enterTunnel_f25d5168:
 
     # Diya "{font=korean.ttf}다섯.{/font}"
     Diya ""
 
 # game/1_diya.rpy:5191
-translate general enterTunnel_c1021503:
+translate spanish enterTunnel_c1021503:
 
     # Diya "....????????????"
     Diya ""
 
 # game/1_diya.rpy:5192
-translate general enterTunnel_5c81dbb3:
+translate spanish enterTunnel_5c81dbb3:
 
     # DiyaT "Dogs?"
     DiyaT ""
 
 # game/1_diya.rpy:5198
-translate general enterTunnel_2bf3bf1c:
+translate spanish enterTunnel_2bf3bf1c:
 
     # "It takes a moment for Diya's eyes to adjust to the bright sunlight."
     ""
 
 # game/1_diya.rpy:5203
-translate general enterTunnel_d6566624:
+translate spanish enterTunnel_d6566624:
 
     # Min "Do you like it?"
     Min ""
 
 # game/1_diya.rpy:5207
-translate general enterTunnel_8e11af5f:
+translate spanish enterTunnel_8e11af5f:
 
     # Diya "!!???!! ??!!!!!!!!!!!!!!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:5208
-translate general enterTunnel_14398e10:
+translate spanish enterTunnel_14398e10:
 
     # DiyaT "It's a dog park!"
     DiyaT ""
 
 # game/1_diya.rpy:5209
-translate general enterTunnel_9069a39e:
+translate spanish enterTunnel_9069a39e:
 
     # Diya "Can we go in even though we don't have a dog?"
     Diya ""
 
 # game/1_diya.rpy:5212
-translate general enterTunnel_b29651b9:
+translate spanish enterTunnel_b29651b9:
 
     # Min "Yeah!"
     Min ""
 
 # game/1_diya.rpy:5213
-translate general enterTunnel_6b227baa:
+translate spanish enterTunnel_6b227baa:
 
     # Min "I found this place by accident back when I ran away from home."
     Min ""
 
 # game/1_diya.rpy:5215
-translate general enterTunnel_f5ffc9d8:
+translate spanish enterTunnel_f5ffc9d8:
 
     # DiyaT "A few weeks ago, Min ran away from home because she didn't want to eat a tomato."
     DiyaT ""
 
 # game/1_diya.rpy:5218
-translate general enterTunnel_5ecebc28:
+translate spanish enterTunnel_5ecebc28:
 
     # "The park is divided into two sides."
     ""
 
 # game/1_diya.rpy:5219
-translate general enterTunnel_be355686:
+translate spanish enterTunnel_be355686:
 
     # "There's a sign above one of the gates. It reads:"
     ""
 
 # game/1_diya.rpy:5220
-translate general enterTunnel_8edc1dbe:
+translate spanish enterTunnel_8edc1dbe:
 
     # "{u}Small dogs only{/u}\nUnder 30 pounds"
     ""
 
 # game/1_diya.rpy:5222
-translate general enterTunnel_63f6f348:
+translate spanish enterTunnel_63f6f348:
 
     # DiyaT "Oh my god!! They have it separated by weight!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:5223
-translate general enterTunnel_76e1911e:
+translate spanish enterTunnel_76e1911e:
 
     # DiyaT "Under 30 pounds! That's so cute!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:5226
-translate general enterTunnel_796346db:
+translate spanish enterTunnel_796346db:
 
     # Min "Which side do you wanna see?"
     Min ""
 
 # game/1_diya.rpy:5236
-translate general enclosure_553c0f46:
+translate spanish enclosure_553c0f46:
 
     # "Min swings the gate open and gestures for Diya to go ahead."
     ""
 
 # game/1_diya.rpy:5239
-translate general enclosure_41613816:
+translate spanish enclosure_41613816:
 
     # Min "Ladies first."
     Min ""
 
 # game/1_diya.rpy:5241
-translate general enclosure_6276c5a5:
+translate spanish enclosure_6276c5a5:
 
     # Diya "................"
     Diya ""
 
 # game/1_diya.rpy:5253
-translate general enclosure_02569039:
+translate spanish enclosure_02569039:
 
     # DiyaT "There's so many dogs!!"
     DiyaT ""
 
 # game/1_diya.rpy:5254
-translate general enclosure_71ca4a59:
+translate spanish enclosure_71ca4a59:
 
     # DiyaT "They're all friends with each other!!! Dog friends!!!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:5255
-translate general enclosure_6e44bd20:
+translate spanish enclosure_6e44bd20:
 
     # DiyaT "I've died and gone to heaven!!!"
     DiyaT ""
 
 # game/1_diya.rpy:5259
-translate general enclosure_731b0414:
+translate spanish enclosure_731b0414:
 
     # "A husky trots up to Diya with a frisbee in his mouth."
     ""
 
 # game/1_diya.rpy:5263
-translate general enclosure_436ef389:
+translate spanish enclosure_436ef389:
 
     # "A chihuahua trots up to Diya with a frisbee in his mouth."
     ""
 
 # game/1_diya.rpy:5265
-translate general enclosure_620fcdc7:
+translate spanish enclosure_620fcdc7:
 
     # "He drops it at Diya's feet and looks up at her expectantly."
     ""
 
 # game/1_diya.rpy:5267
-translate general enclosure_5f7012be:
+translate spanish enclosure_5f7012be:
 
     # DiyaT "He wants me to throw it!!!"
     DiyaT ""
 
 # game/1_diya.rpy:5269
-translate general enclosure_44e4976a:
+translate spanish enclosure_44e4976a:
 
     # "Diya sets down the bike and hurls the frisbee as hard as she can."
     ""
 
 # game/1_diya.rpy:5270
-translate general enclosure_82fb6561:
+translate spanish enclosure_82fb6561:
 
     # "The dog gallops after it!"
     ""
 
 # game/1_diya.rpy:5271
-translate general enclosure_e2714d14:
+translate spanish enclosure_e2714d14:
 
     # "He catches it with a running leap, zooms straight back to her, and drops it at Diya's feet again."
     ""
 
 # game/1_diya.rpy:5272
-translate general enclosure_0e660f0f:
+translate spanish enclosure_0e660f0f:
 
     # "He's wagging his tail so hard that his butt shakes."
     ""
 
 # game/1_diya.rpy:5274
-translate general enclosure_0cf0b793:
+translate spanish enclosure_0cf0b793:
 
     # DiyaT "What a good dog!!!!"
     DiyaT ""
 
 # game/1_diya.rpy:5275
-translate general enclosure_dce8104e:
+translate spanish enclosure_dce8104e:
 
     # DiyaT "He's so talented!!!"
     DiyaT ""
 
 # game/1_diya.rpy:5278
-translate general enclosure_c59b29fa:
+translate spanish enclosure_c59b29fa:
 
     # "Diya is almost crying..."
     ""
 
 # game/1_diya.rpy:5280
-translate general enclosure_ab00de1e:
+translate spanish enclosure_ab00de1e:
 
     # Min "Are you happy?"
     Min ""
 
 # game/1_diya.rpy:5283
-translate general enclosure_0da742d5:
+translate spanish enclosure_0da742d5:
 
     # Diya "This is the best day of my life."
     Diya ""
 
 # game/1_diya.rpy:5284
-translate general enclosure_faf4f019:
+translate spanish enclosure_faf4f019:
 
     # Diya "Thank you, Min."
     Diya ""
 
 # game/1_diya.rpy:5287
-translate general enclosure_071f4a17:
+translate spanish enclosure_071f4a17:
 
     # Min "You're welcome!"
     Min ""
 
 # game/1_diya.rpy:5290
-translate general enclosure_9a5d1f82:
+translate spanish enclosure_9a5d1f82:
 
     # Diya "Do you wanna try throwing the frisbee?"
     Diya ""
 
 # game/1_diya.rpy:5293
-translate general enclosure_861422e9:
+translate spanish enclosure_861422e9:
 
     # Min "No, it's fine. I like watching you do it."
     Min ""
 
 # game/1_diya.rpy:5296
-translate general enclosure_fd841d5d:
+translate spanish enclosure_fd841d5d:
 
     # Diya "Okay."
     Diya ""
 
 # game/1_diya.rpy:5299
-translate general enclosure_2aefd934:
+translate spanish enclosure_2aefd934:
 
     # "Diya throws the frisbee again. The dog tears off after it with such gusto that grass goes flying behind him."
     ""
 
 # game/1_diya.rpy:5301
-translate general enclosure_8683854e:
+translate spanish enclosure_8683854e:
 
     # Min "..........."
     Min ""
 
 # game/1_diya.rpy:5302
-translate general enclosure_e66a3853:
+translate spanish enclosure_e66a3853:
 
     # Min "Hey, Diya."
     Min ""
 
 # game/1_diya.rpy:5305
-translate general enclosure_9fa2cfca:
+translate spanish enclosure_9fa2cfca:
 
     # Diya "...?"
     Diya ""
 
 # game/1_diya.rpy:5308
-translate general enclosure_53ef06d7:
+translate spanish enclosure_53ef06d7:
 
     # Min "If you want, you can live in my house when we grow up. I'll buy you all the dogs you want."
     Min ""
 
 # game/1_diya.rpy:5311
-translate general enclosure_c799220c:
+translate spanish enclosure_c799220c:
 
     # DiyaT "All the dogs...!"
     DiyaT ""
 
 # game/1_diya.rpy:5314
-translate general enclosure_ea723cc9:
+translate spanish enclosure_ea723cc9:
 
     # Min "And I'll get to see you every day. I'll drive you around in my Corvette and make everyone jealous."
     Min ""
 
 # game/1_diya.rpy:5317
-translate general enclosure_c24b615c:
+translate spanish enclosure_c24b615c:
 
     # Diya "Drive the dogs around too. They can wear goggles so the wind doesn't sting their eyes." with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:5320
-translate general enclosure_88503a23:
+translate spanish enclosure_88503a23:
 
     # Min "Yeah, sure. Whatever you want."
     Min ""
 
 # game/1_diya.rpy:5322
-translate general enclosure_046005a5:
+translate spanish enclosure_046005a5:
 
     # Min "We'll be so far from our parents that we never have to see them again."
     Min ""
 
 # game/1_diya.rpy:5323
-translate general enclosure_943bb65b:
+translate spanish enclosure_943bb65b:
 
     # Min "And if we go somewhere with snow, you can throw snowballs towards me and I'll punch them all out of the air. It'll look pretty cool."
     Min ""
 
 # game/1_diya.rpy:5326
-translate general enclosure_c5cfc5e1:
+translate spanish enclosure_c5cfc5e1:
 
     # DiyaT "Wow!!! Great plan!!!"
     DiyaT ""
 
 # game/1_diya.rpy:5327
-translate general enclosure_2583bc9c:
+translate spanish enclosure_2583bc9c:
 
     # Diya "Okay. Let's do it."
     Diya ""
 
 # game/1_diya.rpy:5330
-translate general enclosure_db2eace5:
+translate spanish enclosure_db2eace5:
 
     # Min "Really?! Are you sure?" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:5333
-translate general enclosure_24c6ff92:
+translate spanish enclosure_24c6ff92:
 
     # "Min reaches out and gently cups Diya's face with her palms."
     ""
 
 # game/1_diya.rpy:5336
-translate general enclosure_c47212fc:
+translate spanish enclosure_c47212fc:
 
     # DiyaT "GGFFKKKKGKJ??!! FGFJHFJ!!!!!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:5337
-translate general enclosure_30dabc24:
+translate spanish enclosure_30dabc24:
 
     # DiyaT "What's happening?? This is great!! Wow!!!!!!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:5344
-translate general enclosure_06530a49:
+translate spanish enclosure_06530a49:
 
     # Diya "!!!!!!!!!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:5354
-translate general ch5_b15a9f05:
+translate spanish ch5_b15a9f05:
 
     # Diya "...................."
     Diya ""
 
 # game/1_diya.rpy:5358
-translate general ch5_aaf68681:
+translate spanish ch5_aaf68681:
 
     # "Diya hits her alarms and flops face-first into bed."
     ""
 
 # game/1_diya.rpy:5361
-translate general ch5_5b07bfc9:
+translate spanish ch5_5b07bfc9:
 
     # "Her morning routine includes lying in bed for 10 minutes thinking about how tired she is. "
     ""
 
 # game/1_diya.rpy:5366
-translate general ch5_b15a9f05_1:
+translate spanish ch5_b15a9f05_1:
 
     # Diya "...................."
     Diya ""
 
 # game/1_diya.rpy:5367
-translate general ch5_4040e457:
+translate spanish ch5_4040e457:
 
     # DiyaT "I didn't realize it back then, but now that I think about it, that was really..."
     DiyaT ""
 
 # game/1_diya.rpy:5368
-translate general ch5_b15a9f05_2:
+translate spanish ch5_b15a9f05_2:
 
     # Diya "...................."
     Diya ""
 
 # game/1_diya.rpy:5371
-translate general ch5_7e735ee7:
+translate spanish ch5_7e735ee7:
 
     # DiyaT "Could it be that I'm...I'm a..."
     DiyaT ""
 
 # game/1_diya.rpy:5372
-translate general ch5_1a6fe3b5:
+translate spanish ch5_1a6fe3b5:
 
     # DiyaT "Les....................lesb............."
     DiyaT ""
 
 # game/1_diya.rpy:5373
-translate general ch5_cc467418:
+translate spanish ch5_cc467418:
 
     # DiyaT "....biab...."
     DiyaT ""
 
 # game/1_diya.rpy:5374
-translate general ch5_e5c703b2:
+translate spanish ch5_e5c703b2:
 
     # DiyaT "Les...............biam......"
     DiyaT ""
 
 # game/1_diya.rpy:5375
-translate general ch5_d8c82beb:
+translate spanish ch5_d8c82beb:
 
     # DiyaT "........Girls........."
     DiyaT ""
 
 # game/1_diya.rpy:5376
-translate general ch5_c50f2165:
+translate spanish ch5_c50f2165:
 
     # DiyaT "...................."
     DiyaT ""
 
 # game/1_diya.rpy:5377
-translate general ch5_cddb7eff:
+translate spanish ch5_cddb7eff:
 
     # DiyaT "No, that's impossible. I don't feel that way about other girls at all."
     DiyaT ""
 
 # game/1_diya.rpy:5378
-translate general ch5_61903098:
+translate spanish ch5_61903098:
 
     # DiyaT "Because Min looked and acted like that, my heart must've confused her with a guy."
     DiyaT ""
 
 # game/1_diya.rpy:5379
-translate general ch5_1c989cb7:
+translate spanish ch5_1c989cb7:
 
     # DiyaT "Any girl would've felt something even if they were straight."
     DiyaT ""
 
 # game/1_diya.rpy:5380
-translate general ch5_11a44193:
+translate spanish ch5_11a44193:
 
     # DiyaT "And it was just her. Min was special, so she was an exception."
     DiyaT ""
 
 # game/1_diya.rpy:5381
-translate general ch5_800d3074:
+translate spanish ch5_800d3074:
 
     # DiyaT "Plus, nothing ever came out of it. It's in the past now."
     DiyaT ""
 
 # game/1_diya.rpy:5382
-translate general ch5_5bfd596e:
+translate spanish ch5_5bfd596e:
 
     # DiyaT "Something like that'll never happen again."
     DiyaT ""
 
 # game/1_diya.rpy:5383
-translate general ch5_7da37c46:
+translate spanish ch5_7da37c46:
 
     # DiyaT "So it doesn't count, right?"
     DiyaT ""
 
 # game/1_diya.rpy:5384
-translate general ch5_b15a9f05_3:
+translate spanish ch5_b15a9f05_3:
 
     # Diya "...................."
     Diya ""
 
 # game/1_diya.rpy:5385
-translate general ch5_d5a82cfe:
+translate spanish ch5_d5a82cfe:
 
     # DiyaT "If Min hadn't moved away, what would've happened?"
     DiyaT ""
 
 # game/1_diya.rpy:5388
-translate general ch5_dbf6e65c:
+translate spanish ch5_dbf6e65c:
 
     # "After 10 minutes, Diya unenthusiastically peels herself off the mattress and stands."
     ""
 
 # game/1_diya.rpy:5394
-translate general ch5_c66f35de:
+translate spanish ch5_c66f35de:
 
     # DiyaT "My classmate Akarsha messaged me."
     DiyaT ""
 
 # game/1_diya.rpy:5406
-translate general ay2_8e0ddc15:
+translate spanish ay2_8e0ddc15:
 
     # cFirstLine "{nw}"
     cFirstLine ""
 
 # game/1_diya.rpy:5409
-translate general ay2_6ffc76d4:
+translate spanish ay2_6ffc76d4:
 
     # cAkarsha "ay diya"
     cAkarsha ""
 
 # game/1_diya.rpy:5410
-translate general ay2_076b730f:
+translate spanish ay2_076b730f:
 
     # cSame "ay"
     cSame ""
 
 # game/1_diya.rpy:5411
-translate general ay2_b771df90:
+translate spanish ay2_b771df90:
 
     # cSame "ayy"
     cSame ""
 
 # game/1_diya.rpy:5412
-translate general ay2_1acbd9bd:
+translate spanish ay2_1acbd9bd:
 
     # cDiya "What"
     cDiya ""
 
 # game/1_diya.rpy:5413
-translate general ay2_6bf2c9ac:
+translate spanish ay2_6bf2c9ac:
 
     # cAkarsha "what do u call a lesbian w long nails??"
     cAkarsha ""
 
 # game/1_diya.rpy:5414
-translate general ay2_4087384d:
+translate spanish ay2_4087384d:
 
     # cSame "single xD"
     cSame ""
 
 # game/1_diya.rpy:5415
-translate general ay2_3a028725:
+translate spanish ay2_3a028725:
 
     # cNarrator "Diya has gone offline."
     cNarrator ""
 
 # game/1_diya.rpy:5417
-translate general ay2_76b2fe88:
+translate spanish ay2_76b2fe88:
 
     # nvl clear
     nvl clear
 
 # game/1_diya.rpy:5420
-translate general ay2_a9db357b:
+translate spanish ay2_a9db357b:
 
     # Diya ".........."
     Diya ""
 
 # game/1_diya.rpy:5430
-translate general ay2_fdd5289a:
+translate spanish ay2_fdd5289a:
 
     # "Diya goes outside."
     ""
 
 # game/1_diya.rpy:5433
-translate general ay2_5b1d8989:
+translate spanish ay2_5b1d8989:
 
     # Akarsha "Hey Diya!"
     Akarsha ""
 
 # game/1_diya.rpy:5436
-translate general ay2_ec9aeb0d:
+translate spanish ay2_ec9aeb0d:
 
     # Akarsha "If I were an enzyme, I'd be DNA helicase so I could unzip your genes."
     Akarsha ""
 
 # game/1_diya.rpy:5438
-translate general ay2_73c5644b:
+translate spanish ay2_73c5644b:
 
     # Diya "....................."
     Diya ""
 
 # game/1_diya.rpy:5441
-translate general ay2_a75a805c:
+translate spanish ay2_a75a805c:
 
     # "Diya briskly begins walking away without her."
     ""
 
 # game/1_diya.rpy:5443
-translate general ay2_81a3083d:
+translate spanish ay2_81a3083d:
 
     # Akarsha "Man, you're not even trying!"
     Akarsha ""
 
 # game/1_diya.rpy:5444
-translate general ay2_8fd72ef7:
+translate spanish ay2_8fd72ef7:
 
     # Akarsha "The optimal counterflirt would be, \"Then I’ll be your topoisomerase to help you relieve your tension.\""
     Akarsha ""
 
 # game/1_diya.rpy:5446
-translate general ay2_ff128adc:
+translate spanish ay2_ff128adc:
 
     # DiyaT "No one in the right mind would respond with that!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:5456
-translate general ay2_b07b46d5:
+translate spanish ay2_b07b46d5:
 
     # Akarsha "Hey, you know I'm just kidding, right?"
     Akarsha ""
 
 # game/1_diya.rpy:5458
-translate general ay2_53b136fe:
+translate spanish ay2_53b136fe:
 
     # Akarsha "When there's no one around to flirt with, I flirt with you just to practice."
     Akarsha ""
 
 # game/1_diya.rpy:5462
-translate general ay2_ee70c94f:
+translate spanish ay2_ee70c94f:
 
     # Diya "It's not funny."
     Diya ""
 
 # game/1_diya.rpy:5466
-translate general ay2_64452111:
+translate spanish ay2_64452111:
 
     # "In her haste to catch up with Diya, Akarsha trips over a crack in the sidewalk."
     ""
 
 # game/1_diya.rpy:5469
-translate general ay2_6e43a384:
+translate spanish ay2_6e43a384:
 
     # Akarsha "Parkour."
     Akarsha ""
 
 # game/1_diya.rpy:5472
-translate general ay2_73c5644b_1:
+translate spanish ay2_73c5644b_1:
 
     # Diya "....................."
     Diya ""
 
 # game/1_diya.rpy:5484
-translate general ay2_eb27c3a5:
+translate spanish ay2_eb27c3a5:
 
     # "The Prop 8 supporters are back at it again."
     ""
 
 # game/1_diya.rpy:5486
-translate general ay2_c4ff40b2:
+translate spanish ay2_c4ff40b2:
 
     # NPC "Defend marriage! Yes on Prop 8!"
     NPC ""
 
 # game/1_diya.rpy:5487
-translate general ay2_f7e4c37f:
+translate spanish ay2_f7e4c37f:
 
     # NPC "Protect the children! Gay sex is sin!"
     NPC ""
 
 # game/1_diya.rpy:5501
-translate general ay2_df3f6405:
+translate spanish ay2_df3f6405:
 
     # Akarsha "Hey, Diya..."
     Akarsha ""
 
 # game/1_diya.rpy:5502
-translate general ay2_3e12accd:
+translate spanish ay2_3e12accd:
 
     # Akarsha "Imagine biting into a Gusher the size of your hand."
     Akarsha ""
 
 # game/1_diya.rpy:5504
-translate general ay2_775fd611:
+translate spanish ay2_775fd611:
 
     # "Diya imagines it."
     ""
 
 # game/1_diya.rpy:5509
-translate general ay2_fce94912:
+translate spanish ay2_fce94912:
 
     # Diya "Cool."
     Diya ""
 
 # game/1_diya.rpy:5510
-translate general ay2_b91c643e:
+translate spanish ay2_b91c643e:
 
     # Diya "I want one."
     Diya ""
 
 # game/1_diya.rpy:5513
-translate general ay2_0ada1528:
+translate spanish ay2_0ada1528:
 
     # Akarsha "Right??"
     Akarsha ""
 
 # game/1_diya.rpy:5518
-translate general ay2_27ffda17:
+translate spanish ay2_27ffda17:
 
     # Diya "Yuck."
     Diya ""
 
 # game/1_diya.rpy:5521
-translate general ay2_b5d91975:
+translate spanish ay2_b5d91975:
 
     # Akarsha "Yuck?!"
     Akarsha ""
 
 # game/1_diya.rpy:5524
-translate general ay2_f2b2ffc4:
+translate spanish ay2_f2b2ffc4:
 
     # Diya "Too big."
     Diya ""
 
 # game/1_diya.rpy:5536
-translate general ay2_3e16dd84:
+translate spanish ay2_3e16dd84:
 
     # DiyaT "We're here."
     DiyaT ""
 
 # game/1_diya.rpy:5553
-translate general p12_32d61905:
+translate spanish p12_32d61905:
 
     # Noelle "Diya! Help me!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:5555
-translate general p12_47a5a39b:
+translate spanish p12_47a5a39b:
 
     # Akarsha "Bonjour,"
     Akarsha ""
 
 # game/1_diya.rpy:5562
-translate general p12_f06ff5a1:
+translate spanish p12_f06ff5a1:
 
     # "Noelle smacks Akarsha really hard!"
     ""
 
 # game/1_diya.rpy:5564
-translate general p12_57fca404:
+translate spanish p12_57fca404:
 
     # Akarsha "OW!! How mean!!!" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:5566
-translate general p12_e16b1573:
+translate spanish p12_e16b1573:
 
     # "Noelle hands Diya the water bottle as though nothing happened."
     ""
 
 # game/1_diya.rpy:5569
-translate general p12_701a62d4:
+translate spanish p12_701a62d4:
 
     # "Diya twists the plastic sealed cap open and returns the bottle to Noelle."
     ""
 
 # game/1_diya.rpy:5571
-translate general p12_c728b2c9:
+translate spanish p12_c728b2c9:
 
     # Noelle "Thank you."
     Noelle ""
 
 # game/1_diya.rpy:5572
-translate general p12_58ececcb:
+translate spanish p12_58ececcb:
 
     # Noelle "Are you alright? You seem off."
     Noelle ""
 
 # game/1_diya.rpy:5574
-translate general p12_de9e4f32:
+translate spanish p12_de9e4f32:
 
     # Akarsha "Think about that before you hit me??"
     Akarsha ""
 
 # game/1_diya.rpy:5576
-translate general p12_1e473c1f:
+translate spanish p12_1e473c1f:
 
     # Noelle "Not everything is about you. I was talking to Diya."
     Noelle ""
 
 # game/1_diya.rpy:5578
-translate general p12_d6b9f21f:
+translate spanish p12_d6b9f21f:
 
     # Diya "...?!"
     Diya ""
 
 # game/1_diya.rpy:5581
-translate general p12_7e42c97f:
+translate spanish p12_7e42c97f:
 
     # Akarsha "What? But there's nothing wrong with her."
     Akarsha ""
 
 # game/1_diya.rpy:5583
-translate general p12_c6006890:
+translate spanish p12_c6006890:
 
     # Noelle "Are you blind? She looks like a dog who just ate a Christmas ornament."
     Noelle ""
 
 # game/1_diya.rpy:5585
-translate general p12_bc0bbf0f:
+translate spanish p12_bc0bbf0f:
 
     # DiyaT "Crap! That obvious??"
     DiyaT ""
 
 # game/1_diya.rpy:5589
-translate general p12_c8983991:
+translate spanish p12_c8983991:
 
     # Akarsha "Are you devastated about tiger sharks again?"
     Akarsha ""
 
 # game/1_diya.rpy:5591
-translate general p12_9d73f57c:
+translate spanish p12_9d73f57c:
 
     # Noelle "What?"
     Noelle ""
 
 # game/1_diya.rpy:5593
-translate general p12_182fd7a4:
+translate spanish p12_182fd7a4:
 
     # Akarsha "Diya found a picture of what tiger sharks look like the other day and was so disappointed that she had to go lie down."
     Akarsha ""
 
 # game/1_diya.rpy:5594
-translate general p12_7516a31e:
+translate spanish p12_7516a31e:
 
     # Akarsha "I don't even know what she was expecting."
     Akarsha ""
 
 # game/1_diya.rpy:5596
-translate general p12_9035bd6e:
+translate spanish p12_9035bd6e:
 
     # Noelle "Okay, I seriously doubt that's the issue right now."
     Noelle ""
 
 # game/1_diya.rpy:5598
-translate general p12_a865308a:
+translate spanish p12_a865308a:
 
     # Noelle "Diya, let me rephrase."
     Noelle ""
 
 # game/1_diya.rpy:5599
-translate general p12_abcbba69:
+translate spanish p12_abcbba69:
 
     # Noelle "You are secretly worried about something and you can tell me what it is."
     Noelle ""
 
 # game/1_diya.rpy:5601
-translate general p12_aba95152:
+translate spanish p12_aba95152:
 
     # Diya "......................"
     Diya ""
 
 # game/1_diya.rpy:5602
-translate general p12_31b10db2:
+translate spanish p12_31b10db2:
 
     # DiyaT "I can't tell her. That I'm......"
     DiyaT ""
 
 # game/1_diya.rpy:5603
-translate general p12_c3a1ef6e:
+translate spanish p12_c3a1ef6e:
 
     # DiyaT "....................."
     DiyaT ""
 
 # game/1_diya.rpy:5606
-translate general p12_6867c953:
+translate spanish p12_6867c953:
 
     # Akarsha "I knew it. She's becoming emo."
     Akarsha ""
 
 # game/1_diya.rpy:5608
-translate general p12_6a01f633:
+translate spanish p12_6a01f633:
 
     # Akarsha "All the warning signs were there. The black hair, the—"
     Akarsha ""
 
 # game/1_diya.rpy:5610
-translate general p12_6b0f4484:
+translate spanish p12_6b0f4484:
 
     # Noelle "We {i}ALL{/i} have black hair." with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:5612
-translate general p12_ace3d796:
+translate spanish p12_ace3d796:
 
     # Noelle "Diya, you know you can tell me anything, right?"
     Noelle ""
 
 # game/1_diya.rpy:5613
-translate general p12_2fe04326:
+translate spanish p12_2fe04326:
 
     # Noelle "Let me know if you change your mind."
     Noelle ""
 
 # game/1_diya.rpy:5615
-translate general p12_7d7b582b:
+translate spanish p12_7d7b582b:
 
     # DiyaT "Okay."
     DiyaT ""
 
 # game/1_diya.rpy:5642
-translate general baseballPoster_5dd021c2:
+translate spanish baseballPoster_5dd021c2:
 
     # "The flier says:\nJoin the new Baseball Club!!\nBeginners welcome!"
     ""
 
 # game/1_diya.rpy:5644
-translate general baseballPoster_ee717027:
+translate spanish baseballPoster_ee717027:
 
     # Diya "!!!!!!!!!!!!!!!!!!!!!"
     Diya ""
 
 # game/1_diya.rpy:5645
-translate general baseballPoster_e52ddaee:
+translate spanish baseballPoster_e52ddaee:
 
     # DiyaT "It's a baseball club!!!"
     DiyaT ""
 
 # game/1_diya.rpy:5646
-translate general baseballPoster_76e43c11:
+translate spanish baseballPoster_76e43c11:
 
     # DiyaT "Baseball club!!!!!"
     DiyaT ""
 
 # game/1_diya.rpy:5649
-translate general baseballPoster_aaa74c73:
+translate spanish baseballPoster_aaa74c73:
 
     # Akarsha "It'll probably be all guys."
     Akarsha ""
 
 # game/1_diya.rpy:5651
-translate general baseballPoster_947626aa:
+translate spanish baseballPoster_947626aa:
 
     # Noelle "What? Don't girls play baseball, too?"
     Noelle ""
 
 # game/1_diya.rpy:5652
-translate general baseballPoster_87ffad62:
+translate spanish baseballPoster_87ffad62:
 
     # Noelle "I saw on TV before."
     Noelle ""
 
 # game/1_diya.rpy:5654
-translate general baseballPoster_1817137a:
+translate spanish baseballPoster_1817137a:
 
     # Diya "You're thinking of softball. Not baseball."
     Diya ""
 
 # game/1_diya.rpy:5657
-translate general baseballPoster_0a3fc702:
+translate spanish baseballPoster_0a3fc702:
 
     # Noelle "What's the difference?"
     Noelle ""
 
 # game/1_diya.rpy:5659
-translate general baseballPoster_3d74bdec:
+translate spanish baseballPoster_3d74bdec:
 
     # Diya "Softball is like baseball put through Google Translate and back."
     Diya ""
 
 # game/1_diya.rpy:5660
-translate general baseballPoster_21288965:
+translate spanish baseballPoster_21288965:
 
     # Diya "Everything's off by a few degrees."
     Diya ""
 
 # game/1_diya.rpy:5664
-translate general baseballPoster_be1213b3:
+translate spanish baseballPoster_be1213b3:
 
     # "Diya takes a closer look at the flyer. The first meeting is this Friday."
     ""
 
 # game/1_diya.rpy:5666
-translate general baseballPoster_037e9c62:
+translate spanish baseballPoster_037e9c62:
 
     # DiyaT "It'll be scary going all by myself. But I made a promise, back then."
     DiyaT ""
 
 # game/1_diya.rpy:5667
-translate general baseballPoster_068c10c1:
+translate spanish baseballPoster_068c10c1:
 
     # DiyaT "She would've been disappointed if I didn't go."
     DiyaT ""
 
 # game/1_diya.rpy:5704
-translate general meeting_a3332323:
+translate spanish meeting_a3332323:
 
     # Noelle "Are you going to be okay on your own with a bunch of strangers?"
     Noelle ""
 
 # game/1_diya.rpy:5707
-translate general meeting_1612cdcc:
+translate spanish meeting_1612cdcc:
 
     # Diya "..............."
     Diya ""
 
 # game/1_diya.rpy:5709
-translate general meeting_54dcbd8e:
+translate spanish meeting_54dcbd8e:
 
     # Noelle "I thought so."
     Noelle ""
 
 # game/1_diya.rpy:5710
-translate general meeting_ac6ea3f7:
+translate spanish meeting_ac6ea3f7:
 
     # Noelle "If you're going, I'm going with you."
     Noelle ""
 
 # game/1_diya.rpy:5712
-translate general meeting_1c63452a:
+translate spanish meeting_1c63452a:
 
     # Diya "!!!"
     Diya ""
 
 # game/1_diya.rpy:5713
-translate general meeting_60dd4d96:
+translate spanish meeting_60dd4d96:
 
     # Diya "But don't you hate sports?"
     Diya ""
 
 # game/1_diya.rpy:5716
-translate general meeting_9ea0e86e:
+translate spanish meeting_9ea0e86e:
 
     # Noelle "Of course I won't participate. I'll just utilize the time to do homework."
     Noelle ""
 
 # game/1_diya.rpy:5718
-translate general meeting_46384388:
+translate spanish meeting_46384388:
 
     # Diya "Thanks."
     Diya ""
 
 # game/1_diya.rpy:5719
-translate general meeting_a7248b5a:
+translate spanish meeting_a7248b5a:
 
     # DiyaT "Phew. I feel a bit better now."
     DiyaT ""
 
 # game/1_diya.rpy:5722
-translate general meeting_6593e0dd:
+translate spanish meeting_6593e0dd:
 
     # Akarsha "Back by unpopular demand: me."
     Akarsha ""
 
 # game/1_diya.rpy:5724
-translate general meeting_fb84412c:
+translate spanish meeting_fb84412c:
 
     # Noelle "Why are you here?"
     Noelle ""
 
 # game/1_diya.rpy:5726
-translate general meeting_8f23ac37:
+translate spanish meeting_8f23ac37:
 
     # Akarsha "I'm bored. There's not enough drama around here for my taste."
     Akarsha ""
 
 # game/1_diya.rpy:5727
-translate general meeting_a901441c:
+translate spanish meeting_a901441c:
 
     # Akarsha "I'll be the idea man."
     Akarsha ""
 
 # game/1_diya.rpy:5729
-translate general meeting_b132449c:
+translate spanish meeting_b132449c:
 
     # Noelle "We don't need an \"idea man\"!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:5731
-translate general meeting_7454f36f:
+translate spanish meeting_7454f36f:
 
     # Akarsha "New baseball rule: Everyone gets a brick. What you do with it is up to you."
     Akarsha ""
 
 # game/1_diya.rpy:5733
-translate general meeting_488addd5:
+translate spanish meeting_488addd5:
 
     # Akarsha "Baseball without limits."
     Akarsha ""
 
 # game/1_diya.rpy:5735
-translate general meeting_81ab28e3:
+translate spanish meeting_81ab28e3:
 
     # Noelle "JUST GO HOME ALREADY!!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:5742
-translate general meeting_0d62ea6e:
+translate spanish meeting_0d62ea6e:
 
     # DiyaT "There's a stranger over there."
     DiyaT ""
 
 # game/1_diya.rpy:5743
-translate general meeting_14555957:
+translate spanish meeting_14555957:
 
     # DiyaT "Wow, she's taller than me."
     DiyaT ""
 
 # game/1_diya.rpy:5746
-translate general meeting_501f1550:
+translate spanish meeting_501f1550:
 
     # Chryssa "........."
     Chryssa ""
 
 # game/1_diya.rpy:5750
-translate general meeting_71acbc51:
+translate spanish meeting_71acbc51:
 
     # "Diya accidentally makes eye contact with her!"
     ""
 
 # game/1_diya.rpy:5751
-translate general meeting_7578edbf:
+translate spanish meeting_7578edbf:
 
     # Chryssa "...Hey!"
     Chryssa ""
 
 # game/1_diya.rpy:5753
-translate general meeting_026ded97:
+translate spanish meeting_026ded97:
 
     # Diya ".......!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:5756
-translate general meeting_cf41dcf7:
+translate spanish meeting_cf41dcf7:
 
     # "The stranger starts walking over!"
     ""
 
 # game/1_diya.rpy:5758
-translate general meeting_db382d59:
+translate spanish meeting_db382d59:
 
     # DiyaT "Crap. She's coming this way."
     DiyaT ""
 
 # game/1_diya.rpy:5760
-translate general meeting_b0f8566e:
+translate spanish meeting_b0f8566e:
 
     # DiyaT "She looks intimidating! If I say the wrong thing she'll think I'm weird."
     DiyaT ""
 
 # game/1_diya.rpy:5761
-translate general meeting_ab44c295:
+translate spanish meeting_ab44c295:
 
     # DiyaT "Maybe if I lie motionless on the ground she'll think I'm asleep or dead."
     DiyaT ""
 
 # game/1_diya.rpy:5762
-translate general meeting_2baabaed:
+translate spanish meeting_2baabaed:
 
     # DiyaT "Yeah. Good plan."
     DiyaT ""
 
 # game/1_diya.rpy:5767
-translate general meeting_fd1b1dae:
+translate spanish meeting_fd1b1dae:
 
     # "Diya plays dead!"
     ""
 
 # game/1_diya.rpy:5768
-translate general meeting_33540582:
+translate spanish meeting_33540582:
 
     # Noelle "No! Diya, don't do this!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:5769
-translate general meeting_cd2bfa48:
+translate spanish meeting_cd2bfa48:
 
     # Chryssa "Hey! You guys are here to join the baseball club, right?"
     Chryssa ""
 
 # game/1_diya.rpy:5771
-translate general meeting_ee09d922:
+translate spanish meeting_ee09d922:
 
     # Chryssa "I'm Chryssa!"
     Chryssa ""
 
 # game/1_diya.rpy:5772
-translate general meeting_f85388e2:
+translate spanish meeting_f85388e2:
 
     # Akarsha "They call me...Ookoobshoob."
     Akarsha ""
 
 # game/1_diya.rpy:5773
-translate general meeting_a52dc39d:
+translate spanish meeting_a52dc39d:
 
     # Noelle "NO, THEY DON'T."
     Noelle ""
 
 # game/1_diya.rpy:5774
-translate general meeting_60efabb4:
+translate spanish meeting_60efabb4:
 
     # Akarsha "It's Welsh."
     Akarsha ""
 
 # game/1_diya.rpy:5775
-translate general meeting_67b71820:
+translate spanish meeting_67b71820:
 
     # Noelle "IT'S NOT Welsh."
     Noelle ""
 
 # game/1_diya.rpy:5776
-translate general meeting_2e0cad5e:
+translate spanish meeting_2e0cad5e:
 
     # Noelle "Her name is Akarsha."
     Noelle ""
 
 # game/1_diya.rpy:5777
-translate general meeting_c4044482:
+translate spanish meeting_c4044482:
 
     # Noelle "I'm so sorry. She's always like this."
     Noelle ""
 
 # game/1_diya.rpy:5778
-translate general meeting_8a9e6ff2:
+translate spanish meeting_8a9e6ff2:
 
     # Noelle "And this is Diya. Get up!"
     Noelle ""
 
 # game/1_diya.rpy:5779
-translate general meeting_6d2926c0:
+translate spanish meeting_6d2926c0:
 
     # "Noelle is trying to pull an unresponsive Diya back into upright position."
     ""
 
 # game/1_diya.rpy:5780
-translate general meeting_4c2c4af2:
+translate spanish meeting_4c2c4af2:
 
     # Noelle "Really???"
     Noelle ""
 
 # game/1_diya.rpy:5781
-translate general meeting_605a5997:
+translate spanish meeting_605a5997:
 
     # Chryssa "Uh...is she okay?"
     Chryssa ""
 
 # game/1_diya.rpy:5782
-translate general meeting_28d3dbea:
+translate spanish meeting_28d3dbea:
 
     # Noelle "She's fine. She just takes a while to warm up to people."
     Noelle ""
 
 # game/1_diya.rpy:5783
-translate general meeting_5f1f80c2:
+translate spanish meeting_5f1f80c2:
 
     # Akarsha "No kidding. She did this to me for the entire month of September."
     Akarsha ""
 
 # game/1_diya.rpy:5784
-translate general meeting_e629b0d2:
+translate spanish meeting_e629b0d2:
 
     # Diya "........"
     Diya ""
 
 # game/1_diya.rpy:5787
-translate general meeting_5f298bba:
+translate spanish meeting_5f298bba:
 
     # "Diya has finally given up on faking her death..."
     ""
 
 # game/1_diya.rpy:5789
-translate general meeting_6f37946c:
+translate spanish meeting_6f37946c:
 
     # Chryssa "Quiet kid, huh?"
     Chryssa ""
 
 # game/1_diya.rpy:5791
-translate general meeting_12f874f0:
+translate spanish meeting_12f874f0:
 
     # DiyaT "Why does everyone always say that? I'm not that quiet."
     DiyaT ""
 
 # game/1_diya.rpy:5794
-translate general meeting_62bf0f3c:
+translate spanish meeting_62bf0f3c:
 
     # Akarsha "She's not much of a talker, but she's SHREDDED."
     Akarsha ""
 
 # game/1_diya.rpy:5795
-translate general meeting_f8c98f14:
+translate spanish meeting_f8c98f14:
 
     # Akarsha "Look how ripped her abs are."
     Akarsha ""
 
 # game/1_diya.rpy:5797
-translate general meeting_8fd938a5:
+translate spanish meeting_8fd938a5:
 
     # "Akarsha tries to lift up Diya's shirt to expose her stomach."
     ""
 
 # game/1_diya.rpy:5798
-translate general meeting_3c351929:
+translate spanish meeting_3c351929:
 
     # "Calmly, Diya catches Akarsha's wrist and twists it behind her back."
     ""
 
 # game/1_diya.rpy:5800
-translate general meeting_af16c262:
+translate spanish meeting_af16c262:
 
     # Akarsha "Augh!! Okay!! Mercy!!" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:5802
-translate general meeting_500180ab:
+translate spanish meeting_500180ab:
 
     # Noelle "Diya played a lot of baseball back in elementary school."
     Noelle ""
 
 # game/1_diya.rpy:5804
-translate general meeting_d4fc85ef:
+translate spanish meeting_d4fc85ef:
 
     # Chryssa "That's great! What position did she play?"
     Chryssa ""
 
 # game/1_diya.rpy:5806
-translate general meeting_7dab632f:
+translate spanish meeting_7dab632f:
 
     # Noelle "Uh........"
     Noelle ""
 
 # game/1_diya.rpy:5808
-translate general meeting_ed44ed3f:
+translate spanish meeting_ed44ed3f:
 
     # Noelle "She's the person standing behind the.....the swinging place."
     Noelle ""
 
 # game/1_diya.rpy:5810
-translate general meeting_1d982fe4:
+translate spanish meeting_1d982fe4:
 
     # Diya "You mean the batter's box. I'm a catcher."
     Diya ""
 
 # game/1_diya.rpy:5813
-translate general meeting_bef4982a:
+translate spanish meeting_bef4982a:
 
     # Akarsha "The {i}swinging place?{/i} Really, man?"
     Akarsha ""
 
 # game/1_diya.rpy:5815
-translate general meeting_c88d9fa0:
+translate spanish meeting_c88d9fa0:
 
     # Noelle "Shut up! How was I supposed to know?!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:5817
-translate general meeting_bd99459b:
+translate spanish meeting_bd99459b:
 
     # Akarsha "What do you call the bat, then? \"The baseball stick\"?"
     Akarsha ""
 
 # game/1_diya.rpy:5819
-translate general meeting_5d9bf9d8:
+translate spanish meeting_5d9bf9d8:
 
     # Noelle "I said shut up!!!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:5821
-translate general meeting_c25e28b5:
+translate spanish meeting_c25e28b5:
 
     # Chryssa "What about you, Akarsha?"
     Chryssa ""
 
 # game/1_diya.rpy:5823
-translate general meeting_6cf13394:
+translate spanish meeting_6cf13394:
 
     # Akarsha "I can bench press over six million and ninety-two nanograms."
     Akarsha ""
 
 # game/1_diya.rpy:5825
-translate general meeting_57e9594f:
+translate spanish meeting_57e9594f:
 
     # Noelle "...That's barely 2 pounds."
     Noelle ""
 
 # game/1_diya.rpy:5827
-translate general meeting_fe5c20ea:
+translate spanish meeting_fe5c20ea:
 
     # Akarsha "It sounded better the way I said it."
     Akarsha ""
 
 # game/1_diya.rpy:5829
-translate general meeting_e3d63215:
+translate spanish meeting_e3d63215:
 
     # "Chryssa turns to Noelle and points at her."
     ""
 
 # game/1_diya.rpy:5831
-translate general meeting_f7e880e2:
+translate spanish meeting_f7e880e2:
 
     # Chryssa "What about you? You haven't introduced yourself yet."
     Chryssa ""
 
 # game/1_diya.rpy:5833
-translate general meeting_c42cd09d:
+translate spanish meeting_c42cd09d:
 
     # Noelle "Oh, I'm not here to join. We probably won't meet again."
     Noelle ""
 
 # game/1_diya.rpy:5835
-translate general meeting_3e4959d8:
+translate spanish meeting_3e4959d8:
 
     # Chryssa "That's a shame. I should try to change your mind. "
     Chryssa ""
 
 # game/1_diya.rpy:5837
-translate general meeting_7b956bce:
+translate spanish meeting_7b956bce:
 
     # Noelle "I strongly advise against it. Your efforts will prove futile."
     Noelle ""
 
 # game/1_diya.rpy:5839
-translate general meeting_77ca933f:
+translate spanish meeting_77ca933f:
 
     # Chryssa "If you say so..."
     Chryssa ""
 
 # game/1_diya.rpy:5842
-translate general meeting_0a1d4a2d:
+translate spanish meeting_0a1d4a2d:
 
     # Chryssa "In any case, we're glad you all came. We'll be starting the meeting in a bit."
     Chryssa ""
 
 # game/1_diya.rpy:5843
-translate general meeting_9ad60cfa:
+translate spanish meeting_9ad60cfa:
 
     # Chryssa "In the meantime, you guys can get your paperwork from Liz first."
     Chryssa ""
 
 # game/1_diya.rpy:5845
-translate general meeting_c5c651c6:
+translate spanish meeting_c5c651c6:
 
     # Akarsha "Gotcha."
     Akarsha ""
 
 # game/1_diya.rpy:5849
-translate general meeting_3de89f7d:
+translate spanish meeting_3de89f7d:
 
     # "Chryssa goes off to greet some other girls who showed up."
     ""
 
 # game/1_diya.rpy:5851
-translate general meeting_b4359f21:
+translate spanish meeting_b4359f21:
 
     # DiyaT "I guess she isn't too scary after all."
     DiyaT ""
 
 # game/1_diya.rpy:5852
-translate general meeting_9fb3dded:
+translate spanish meeting_9fb3dded:
 
     # DiyaT "She seems like the kind of person who'd walk into a pizza restaurant she ate at one time 6 years ago and yell, \"Remember us??\""
     DiyaT ""
 
 # game/1_diya.rpy:5858
-translate general lookLiz_3277a389:
+translate spanish lookLiz_3277a389:
 
     # Diya "......!"
     Diya ""
 
 # game/1_diya.rpy:5861
-translate general lookLiz_81047ddb:
+translate spanish lookLiz_81047ddb:
 
     # Liz "Hello! Can I help you?"
     Liz ""
 
 # game/1_diya.rpy:5863
-translate general lookLiz_d48c09d7:
+translate spanish lookLiz_d48c09d7:
 
     # Noelle "You must be Liz."
     Noelle ""
 
 # game/1_diya.rpy:5865
-translate general lookLiz_06fa2f2d:
+translate spanish lookLiz_06fa2f2d:
 
     # Liz "Yup!"
     Liz ""
 
 # game/1_diya.rpy:5867
-translate general lookLiz_795c1993:
+translate spanish lookLiz_795c1993:
 
     # "She hands them their forms."
     ""
 
 # game/1_diya.rpy:5869
-translate general lookLiz_0a990723:
+translate spanish lookLiz_0a990723:
 
     # Noelle "I don't need one. I'm not here to join."
     Noelle ""
 
 # game/1_diya.rpy:5871
-translate general lookLiz_39fa792f:
+translate spanish lookLiz_39fa792f:
 
     # Liz "Aw, are you sure?"
     Liz ""
 
 # game/1_diya.rpy:5872
-translate general lookLiz_e141e155:
+translate spanish lookLiz_e141e155:
 
     # Liz "We'd love to have you!"
     Liz ""
 
 # game/1_diya.rpy:5874
-translate general lookLiz_b5f080ec:
+translate spanish lookLiz_b5f080ec:
 
     # Noelle "No, you really don't. I'm not the athletic type."
     Noelle ""
 
 # game/1_diya.rpy:5876
-translate general lookLiz_597922ae:
+translate spanish lookLiz_597922ae:
 
     # Liz "Then joining us would do you some good, don't you think?"
     Liz ""
 
 # game/1_diya.rpy:5877
-translate general lookLiz_d7a0db2a:
+translate spanish lookLiz_d7a0db2a:
 
     # Liz "We need all the players we can get, so don't be afraid we'll reject you or anything like that."
     Liz ""
 
 # game/1_diya.rpy:5878
-translate general lookLiz_131acd02:
+translate spanish lookLiz_131acd02:
 
     # Liz "We'll accept you no matter what. Whether you're good, bad, dumb, weird, unathletic..."
     Liz ""
 
 # game/1_diya.rpy:5880
-translate general lookLiz_d05fadc2:
+translate spanish lookLiz_d05fadc2:
 
     # Noelle "What's with all those insults mixed in??"
     Noelle ""
 
 # game/1_diya.rpy:5881
-translate general lookLiz_02b4ee35:
+translate spanish lookLiz_02b4ee35:
 
     # Noelle "And no, I'm genuinely not interested. I hate sports."
     Noelle ""
 
 # game/1_diya.rpy:5882
-translate general lookLiz_7047710a:
+translate spanish lookLiz_7047710a:
 
     # Noelle "I'm just here for Diya."
     Noelle ""
 
 # game/1_diya.rpy:5884
-translate general lookLiz_8c43db89:
+translate spanish lookLiz_8c43db89:
 
     # Liz "That's so sweet of you."
     Liz ""
 
 # game/1_diya.rpy:5886
-translate general lookLiz_6f0ba0e0:
+translate spanish lookLiz_6f0ba0e0:
 
     # Noelle "It's not as though it takes a lot of effort to sit here and do nothing."
     Noelle ""
 
 # game/1_diya.rpy:5887
-translate general lookLiz_c54e968c:
+translate spanish lookLiz_c54e968c:
 
     # Noelle "I coincidentally happened to be free today, anyway."
     Noelle ""
 
 # game/1_diya.rpy:5889
-translate general lookLiz_db5b50ee:
+translate spanish lookLiz_db5b50ee:
 
     # Liz "Awww! You don't have to get all embarrassed about it."
     Liz ""
 
 # game/1_diya.rpy:5891
-translate general lookLiz_fa731b85:
+translate spanish lookLiz_fa731b85:
 
     # Noelle "I'm not getting embarrassed!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:5893
-translate general lookLiz_778e4b15:
+translate spanish lookLiz_778e4b15:
 
     # "Liz smiles at Diya, who shrinks back in fear."
     ""
 
 # game/1_diya.rpy:5895
-translate general lookLiz_e892b976:
+translate spanish lookLiz_e892b976:
 
     # Liz "I'm so glad you came!"
     Liz ""
 
 # game/1_diya.rpy:5897
-translate general lookLiz_8e3d5e45:
+translate spanish lookLiz_8e3d5e45:
 
     # Liz "I had a feeling you would."
     Liz ""
 
 # game/1_diya.rpy:5899
-translate general lookLiz_416546cd:
+translate spanish lookLiz_416546cd:
 
     # Liz "Changed your mind about the club, have you?"
     Liz ""
 
 # game/1_diya.rpy:5900
-translate general lookLiz_e29de08b:
+translate spanish lookLiz_e29de08b:
 
     # Liz "I knew you'd come around."
     Liz ""
 
 # game/1_diya.rpy:5902
-translate general lookLiz_31a4bcfb:
+translate spanish lookLiz_31a4bcfb:
 
     # Liz "I was at one of your games when you were little."
     Liz ""
 
 # game/1_diya.rpy:5903
-translate general lookLiz_5528cc22:
+translate spanish lookLiz_5528cc22:
 
     # Liz "You were so scary! Everyone would back up whenever you came up to bat."
     Liz ""
 
 # game/1_diya.rpy:5905
-translate general lookLiz_b45b8908:
+translate spanish lookLiz_b45b8908:
 
     # Akarsha "By the way, why is everyone in this club a girl?"
     Akarsha ""
 
 # game/1_diya.rpy:5908
-translate general lookLiz_9d73f57c:
+translate spanish lookLiz_9d73f57c:
 
     # Noelle "What?"
     Noelle ""
 
 # game/1_diya.rpy:5910
-translate general lookLiz_697efb60:
+translate spanish lookLiz_697efb60:
 
     # DiyaT "They are?!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:5913
-translate general lookLiz_852b2ac0:
+translate spanish lookLiz_852b2ac0:
 
     # Akarsha "Look. There's us four, Chryssa, and then some other random girls over there."
     Akarsha ""
 
 # game/1_diya.rpy:5918
-translate general lookLiz_484a1c51:
+translate spanish lookLiz_484a1c51:
 
     # Liz "That's so odd."
     Liz ""
 
 # game/1_diya.rpy:5920
-translate general lookLiz_42512e82:
+translate spanish lookLiz_42512e82:
 
     # Noelle "So it isn't on purpose?"
     Noelle ""
 
 # game/1_diya.rpy:5922
-translate general lookLiz_0b4612ef:
+translate spanish lookLiz_0b4612ef:
 
     # Liz "Nope. I don't know why those other girls joined."
     Liz ""
 
 # game/1_diya.rpy:5924
-translate general lookLiz_1a6796bf:
+translate spanish lookLiz_1a6796bf:
 
     # Noelle "What a strange coincidence."
     Noelle ""
 
 # game/1_diya.rpy:5926
-translate general lookLiz_4a38aa22:
+translate spanish lookLiz_4a38aa22:
 
     # Akarsha "Are you SURE you guys didn't, like, subconsciously do it?"
     Akarsha ""
 
 # game/1_diya.rpy:5928
-translate general lookLiz_5046a01a:
+translate spanish lookLiz_5046a01a:
 
     # Liz "Why would we subconsciously want a group of girls?"
     Liz ""
 
 # game/1_diya.rpy:5930
-translate general lookLiz_fbe8b953:
+translate spanish lookLiz_fbe8b953:
 
     # Akarsha "'Cause guys are like communism."
     Akarsha ""
 
 # game/1_diya.rpy:5931
-translate general lookLiz_ccf658ed:
+translate spanish lookLiz_ccf658ed:
 
     # Akarsha "They're good in concept, but in reality they suck."
     Akarsha ""
 
 # game/1_diya.rpy:5933
-translate general lookLiz_5d4038dc:
+translate spanish lookLiz_5d4038dc:
 
     # Akarsha "When you gather enough guys into a group, they suddenly become a bunch of douchebags."
     Akarsha ""
 
 # game/1_diya.rpy:5934
-translate general lookLiz_8f5e8dac:
+translate spanish lookLiz_8f5e8dac:
 
     # Akarsha "It's like magic."
     Akarsha ""
 
 # game/1_diya.rpy:5936
-translate general lookLiz_f5a5db3d:
+translate spanish lookLiz_f5a5db3d:
 
     # Noelle "What kind of overgeneralization is that?"
     Noelle ""
 
 # game/1_diya.rpy:5938
-translate general lookLiz_58b10135:
+translate spanish lookLiz_58b10135:
 
     # Akarsha "It's not racist if it's true!"
     Akarsha ""
 
 # game/1_diya.rpy:5940
-translate general lookLiz_140b53bc:
+translate spanish lookLiz_140b53bc:
 
     # DiyaT "Do you ever stand in a circle of people talking and not say anything the entire time?"
     DiyaT ""
 
 # game/1_diya.rpy:5941
-translate general lookLiz_75fc213c:
+translate spanish lookLiz_75fc213c:
 
     # DiyaT "There's no reason for me to be here. I wonder how it's so easy for them to just talk."
     DiyaT ""
 
 # game/1_diya.rpy:5944
-translate general lookLiz_9565f4f3:
+translate spanish lookLiz_9565f4f3:
 
     # "Diya stares off into space."
     ""
 
 # game/1_diya.rpy:5945
-translate general lookLiz_d9fae1a2:
+translate spanish lookLiz_d9fae1a2:
 
     # "Eventually, the conversation draws to a close and Liz goes off to attend to other club members."
     ""
 
 # game/1_diya.rpy:5948
-translate general lookLiz_c037a764:
+translate spanish lookLiz_c037a764:
 
     # DiyaT "Finally."
     DiyaT ""
 
 # game/1_diya.rpy:5951
-translate general lookLiz_8d89b126:
+translate spanish lookLiz_8d89b126:
 
     # Akarsha "*whispering* Dude, I just can't get over how weird her name is."
     Akarsha ""
 
 # game/1_diya.rpy:5953
-translate general lookLiz_59bceb03:
+translate spanish lookLiz_59bceb03:
 
     # Akarsha "The heck kind of name is \"Liz\"?"
     Akarsha ""
 
 # game/1_diya.rpy:5956
-translate general lookLiz_16d8d144:
+translate spanish lookLiz_16d8d144:
 
     # Noelle "It's probably short for something."
     Noelle ""
 
 # game/1_diya.rpy:5958
-translate general lookLiz_917cac5b:
+translate spanish lookLiz_917cac5b:
 
     # Akarsha "Like what? Liz...bian? Lesbian?"
     Akarsha ""
 
 # game/1_diya.rpy:5960
-translate general lookLiz_d2970b34:
+translate spanish lookLiz_d2970b34:
 
     # Noelle "THAT'S NOT A NAME."
     Noelle ""
 
 # game/1_diya.rpy:5962
-translate general lookLiz_2ede6a8a:
+translate spanish lookLiz_2ede6a8a:
 
     # Akarsha "Liz...ard Man?"
     Akarsha ""
 
 # game/1_diya.rpy:5964
-translate general lookLiz_17709760:
+translate spanish lookLiz_17709760:
 
     # Noelle "That'd be a thousand times weirder than \"Liz\" in the first place!"
     Noelle ""
 
 # game/1_diya.rpy:5966
-translate general lookLiz_c6f57831:
+translate spanish lookLiz_c6f57831:
 
     # Akarsha "No, wait. I've got it."
     Akarsha ""
 
 # game/1_diya.rpy:5967
-translate general lookLiz_cf1349ac:
+translate spanish lookLiz_cf1349ac:
 
     # Akarsha "Her parents met at a Petco when the lizards went on sale, \nbut there was only one left."
     Akarsha ""
 
 # game/1_diya.rpy:5968
-translate general lookLiz_b0f976cc:
+translate spanish lookLiz_b0f976cc:
 
     # Akarsha "So then they were like, \"Darn. We gotta get married and share it.\""
     Akarsha ""
 
 # game/1_diya.rpy:5970
-translate general lookLiz_f7a97d5a:
+translate spanish lookLiz_f7a97d5a:
 
     # Noelle "No one would get married over that!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:5972
-translate general lookLiz_6e0194e0:
+translate spanish lookLiz_6e0194e0:
 
     # Akarsha "You'd be surprised, man. Some people are hella desperate."
     Akarsha ""
 
 # game/1_diya.rpy:5974
-translate general lookLiz_33ed0c78:
+translate spanish lookLiz_33ed0c78:
 
     # Noelle "Nobody is {i}that{/i} desperate!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:5976
-translate general lookLiz_f0a4cd97:
+translate spanish lookLiz_f0a4cd97:
 
     # Akarsha "And then Lizard Man was born."
     Akarsha ""
 
 # game/1_diya.rpy:5977
-translate general lookLiz_1efc58cf:
+translate spanish lookLiz_1efc58cf:
 
     # Akarsha "They gave their kid a name that paid homage to her lizard origins, but in a low-key way."
     Akarsha ""
 
 # game/1_diya.rpy:5979
-translate general lookLiz_10bf6d36:
+translate spanish lookLiz_10bf6d36:
 
     # Akarsha "Totally plausible. Myth {i}confirmed{/i}."
     Akarsha ""
 
 # game/1_diya.rpy:5980
-translate general lookLiz_e04b0b6e:
+translate spanish lookLiz_e04b0b6e:
 
     # "Noelle is trying really hard not to smile."
     ""
 
 # game/1_diya.rpy:5982
-translate general lookLiz_043196a0:
+translate spanish lookLiz_043196a0:
 
     # Noelle "Myth NOT confirmed. Her name could just be \"Liz\" by itself!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:5984
-translate general lookLiz_4f884c10:
+translate spanish lookLiz_4f884c10:
 
     # Akarsha "Nawwww, that's boring. My beautiful romance is way better."
     Akarsha ""
 
 # game/1_diya.rpy:5986
-translate general lookLiz_314509ec:
+translate spanish lookLiz_314509ec:
 
     # Noelle "Your \"beautiful romance\" was set in Petco!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:5988
-translate general lookLiz_d92fc6e9:
+translate spanish lookLiz_d92fc6e9:
 
     # Akarsha "So picky, man!"
     Akarsha ""
 
 # game/1_diya.rpy:5989
-translate general lookLiz_d8e81483:
+translate spanish lookLiz_d8e81483:
 
     # Akarsha "What kind of Frenchman are you?"
     Akarsha ""
 
 # game/1_diya.rpy:5990
-translate general lookLiz_b61ce850:
+translate spanish lookLiz_b61ce850:
 
     # Akarsha "Weird name...no mustache...no romance..."
     Akarsha ""
 
 # game/1_diya.rpy:5992
-translate general lookLiz_f136a182:
+translate spanish lookLiz_f136a182:
 
     # Noelle "Look, how is my name weird?"
     Noelle ""
 
 # game/1_diya.rpy:5993
-translate general lookLiz_4d75f97f:
+translate spanish lookLiz_4d75f97f:
 
     # Noelle "All names have to originate from somewhere."
     Noelle ""
 
 # game/1_diya.rpy:5994
-translate general lookLiz_ef4dcd25:
+translate spanish lookLiz_ef4dcd25:
 
     # Noelle "I don't get why you're so fixated on it."
     Noelle ""
 
 # game/1_diya.rpy:5996
-translate general lookLiz_c71ed9dc:
+translate spanish lookLiz_c71ed9dc:
 
     # Akarsha "Because it's strange?"
     Akarsha ""
 
 # game/1_diya.rpy:5997
-translate general lookLiz_cc3512af:
+translate spanish lookLiz_cc3512af:
 
     # Akarsha "Isn't Noelle normally a name you give to kids born in December?"
     Akarsha ""
 
 # game/1_diya.rpy:5999
-translate general lookLiz_e8ae5617:
+translate spanish lookLiz_e8ae5617:
 
     # Noelle "My parents are Asian. They don't know that."
     Noelle ""
 
 # game/1_diya.rpy:6000
-translate general lookLiz_4404dae4:
+translate spanish lookLiz_4404dae4:
 
     # Noelle "It's like how there's a guy in our class named Skye because his parents didn't know it's a girl name."
     Noelle ""
 
 # game/1_diya.rpy:6002
-translate general lookLiz_74d3d5bc:
+translate spanish lookLiz_74d3d5bc:
 
     # Diya "There's also a Chinese guy in the grade above us named Stone."
     Diya ""
 
 # game/1_diya.rpy:6005
-translate general lookLiz_4ff2e86e:
+translate spanish lookLiz_4ff2e86e:
 
     # Akarsha "STONE..."
     Akarsha ""
 
 # game/1_diya.rpy:6007
-translate general lookLiz_dcff364e:
+translate spanish lookLiz_dcff364e:
 
     # Noelle "I'm pretty sure my parents stole my name from a random girl who lived down the street."
     Noelle ""
 
 # game/1_diya.rpy:6008
-translate general lookLiz_a4ba363d:
+translate spanish lookLiz_a4ba363d:
 
     # Noelle "They probably didn't know a lot of Western names and just thought it sounded good."
     Noelle ""
 
 # game/1_diya.rpy:6010
-translate general lookLiz_06ea44a9:
+translate spanish lookLiz_06ea44a9:
 
     # Akarsha "But still, what kind of Chinese parents would name their kid Noelle?"
     Akarsha ""
 
 # game/1_diya.rpy:6011
-translate general lookLiz_426876c1:
+translate spanish lookLiz_426876c1:
 
     # Akarsha "It doesn't match up at all. It's like if I had a kid and named him Naruto."
     Akarsha ""
 
 # game/1_diya.rpy:6012
-translate general lookLiz_1615e6f9:
+translate spanish lookLiz_1615e6f9:
 
     # "Noelle looks really taken aback."
     ""
 
 # game/1_diya.rpy:6014
-translate general lookLiz_26dc4b43:
+translate spanish lookLiz_26dc4b43:
 
     # Noelle "That...that would be weird."
     Noelle ""
 
 # game/1_diya.rpy:6016
-translate general lookLiz_90a4d75c:
+translate spanish lookLiz_90a4d75c:
 
     # Akarsha "Literally all your ancestors going back for CENTURIES had names like Wong Kar-wai or Mulan or whatever."
     Akarsha ""
 
 # game/1_diya.rpy:6017
-translate general lookLiz_a61e1ac3:
+translate spanish lookLiz_a61e1ac3:
 
     # Akarsha "And then there's you! Combo breaker."
     Akarsha ""
 
 # game/1_diya.rpy:6019
-translate general lookLiz_8c51bf78:
+translate spanish lookLiz_8c51bf78:
 
     # Diya "Also, do you ever think about how crazy it is that we're friends."
     Diya ""
 
 # game/1_diya.rpy:6020
-translate general lookLiz_2f55ad7b:
+translate spanish lookLiz_2f55ad7b:
 
     # Diya "In any part of history up until now, we never would've met."
     Diya ""
 
 # game/1_diya.rpy:6021
-translate general lookLiz_efccb19e:
+translate spanish lookLiz_efccb19e:
 
     # Diya "And even if we did by some miracle, we wouldn't speak the same language."
     Diya ""
 
 # game/1_diya.rpy:6022
-translate general lookLiz_9364384a:
+translate spanish lookLiz_9364384a:
 
     # Diya "We wouldn't even be able to communicate."
     Diya ""
 
 # game/1_diya.rpy:6025
-translate general lookLiz_cd1a8505:
+translate spanish lookLiz_cd1a8505:
 
     # Noelle "Well, you and Akarsha could."
     Noelle ""
 
 # game/1_diya.rpy:6027
-translate general lookLiz_b49cb54f:
+translate spanish lookLiz_b49cb54f:
 
     # Akarsha "Naw, we wouldn't."
     Akarsha ""
 
 # game/1_diya.rpy:6029
-translate general lookLiz_ead35395:
+translate spanish lookLiz_ead35395:
 
     # Akarsha "They don't speak Hindi in Tamil Nadu. Right, Madrasi?"
     Akarsha ""
 
 # game/1_diya.rpy:6031
-translate general lookLiz_4ed38bca:
+translate spanish lookLiz_4ed38bca:
 
     # Diya "Don't call me that."
     Diya ""
 
 # game/1_diya.rpy:6034
-translate general lookLiz_81bc77f4:
+translate spanish lookLiz_81bc77f4:
 
     # Akarsha "What's wrong with calling you Madrasi when you're from Madras?"
     Akarsha ""
 
 # game/1_diya.rpy:6036
-translate general lookLiz_22900282:
+translate spanish lookLiz_22900282:
 
     # Diya "What's wrong with calling you an idiot when you are one?"
     Diya ""
 
 # game/1_diya.rpy:6039
-translate general lookLiz_d4240447:
+translate spanish lookLiz_d4240447:
 
     # Akarsha "It's sad imagining Noelle all by herself on a little island in Taiwan."
     Akarsha ""
 
 # game/1_diya.rpy:6041
-translate general lookLiz_0bccf9e6:
+translate spanish lookLiz_0bccf9e6:
 
     # Noelle "What do you mean \"all by herself\"?"
     Noelle ""
 
 # game/1_diya.rpy:6042
-translate general lookLiz_801ea3ca:
+translate spanish lookLiz_801ea3ca:
 
     # Noelle "It's not like I'd be completely alone without you two."
     Noelle ""
 
 # game/1_diya.rpy:6044
-translate general lookLiz_6276c5a5:
+translate spanish lookLiz_6276c5a5:
 
     # Diya "................"
     Diya ""
 
 # game/1_diya.rpy:6047
-translate general lookLiz_5db23ed9:
+translate spanish lookLiz_5db23ed9:
 
     # Akarsha "................"
     Akarsha ""
 
 # game/1_diya.rpy:6049
-translate general lookLiz_3cb40208:
+translate spanish lookLiz_3cb40208:
 
     # Noelle "STOP LOOKING SKEPTICAL." with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:6050
-translate general lookLiz_2111417b:
+translate spanish lookLiz_2111417b:
 
     # Noelle "I would be able to make different friends."
     Noelle ""
 
 # game/1_diya.rpy:6052
-translate general lookLiz_237e0bb8:
+translate spanish lookLiz_237e0bb8:
 
     # Akarsha ".......Sure........."
     Akarsha ""
 
 # game/1_diya.rpy:6053
-translate general lookLiz_790fe684:
+translate spanish lookLiz_790fe684:
 
     # Akarsha "If you say so..."
     Akarsha ""
 
 # game/1_diya.rpy:6056
-translate general lookLiz_1b62b92e:
+translate spanish lookLiz_1b62b92e:
 
     # Noelle "YOU'RE THE WORST! I HATE YOU!!!!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:6058
-translate general lookLiz_1d9672c5:
+translate spanish lookLiz_1d9672c5:
 
     # "Chryssa brings her fingers to her lips and lets out a sharp whistle to get their attention."
     ""
 
 # game/1_diya.rpy:6060
-translate general lookLiz_7ca41df9:
+translate spanish lookLiz_7ca41df9:
 
     # Chryssa "Alright guys!! Meeting's starting!"
     Chryssa ""
 
 # game/1_diya.rpy:6068
-translate general lookLiz_87a4d9c3:
+translate spanish lookLiz_87a4d9c3:
 
     # "Everyone gathers in front of Chryssa and Liz."
     ""
 
 # game/1_diya.rpy:6070
-translate general lookLiz_e94c9393:
+translate spanish lookLiz_e94c9393:
 
     # Chryssa "Welcome to the Baseball Club!"
     Chryssa ""
 
 # game/1_diya.rpy:6071
-translate general lookLiz_ad82f063:
+translate spanish lookLiz_ad82f063:
 
     # Chryssa "As you're probably aware, our school doesn't have an official baseball program anymore. So we made one ourselves."
     Chryssa ""
 
 # game/1_diya.rpy:6073
-translate general lookLiz_d2856a2c:
+translate spanish lookLiz_d2856a2c:
 
     # Liz "You guys can think of it as a baseball team, Lite edition."
     Liz ""
 
 # game/1_diya.rpy:6075
-translate general lookLiz_d9b2ab0d:
+translate spanish lookLiz_d9b2ab0d:
 
     # Chryssa "Or a cheap budget edition. Since we can't afford to hire managers and stuff."
     Chryssa ""
 
 # game/1_diya.rpy:6077
-translate general lookLiz_72686ba7:
+translate spanish lookLiz_72686ba7:
 
     # Liz "Lite edition sounds less scrappy. Like Coke Zero."
     Liz ""
 
 # game/1_diya.rpy:6079
-translate general lookLiz_2bdbafda:
+translate spanish lookLiz_2bdbafda:
 
     # Chryssa "Anyhow, you can read up on the details in your club membership forms! It's pretty self explanatory."
     Chryssa ""
 
 # game/1_diya.rpy:6080
-translate general lookLiz_c0d9bdf2:
+translate spanish lookLiz_c0d9bdf2:
 
     # Chryssa "This is just a recreational club for fun, not an official school sports team, so the paperwork is really simple."
     Chryssa ""
 
 # game/1_diya.rpy:6081
-translate general lookLiz_4b6a0a12:
+translate spanish lookLiz_4b6a0a12:
 
     # Chryssa "There's just a membership fee and a sheet your parents have to sign."
     Chryssa ""
 
 # game/1_diya.rpy:6083
-translate general lookLiz_b97dd33f:
+translate spanish lookLiz_b97dd33f:
 
     # Chryssa "Basically, the sheet says if you get hurt or whatever while you're here, you can't sue us."
     Chryssa ""
 
 # game/1_diya.rpy:6084
-translate general lookLiz_0538a3cb:
+translate spanish lookLiz_0538a3cb:
 
     # Chryssa "Oh, and our practice schedule's in there, too. Though we're still negotiating our game dates."
     Chryssa ""
 
 # game/1_diya.rpy:6086
-translate general lookLiz_292b2126:
+translate spanish lookLiz_292b2126:
 
     # "A girl standing in front of Diya raises her hand."
     ""
 
 # game/1_diya.rpy:6087
-translate general lookLiz_37b5ef1a:
+translate spanish lookLiz_37b5ef1a:
 
     # Ester "Game dates? Who are we playing against?"
     Ester ""
 
 # game/1_diya.rpy:6089
-translate general lookLiz_73f8b22c:
+translate spanish lookLiz_73f8b22c:
 
     # Chryssa "Whoever we can get. Mostly teams from other schools."
     Chryssa ""
 
 # game/1_diya.rpy:6090
-translate general lookLiz_4cf7d8b8:
+translate spanish lookLiz_4cf7d8b8:
 
     # Chryssa "But don't worry, it'll be pretty casual."
     Chryssa ""
 
 # game/1_diya.rpy:6091
-translate general lookLiz_f1bc773d:
+translate spanish lookLiz_f1bc773d:
 
     # Chryssa "Hopefully we'll have enough members to at least fill the roster by then."
     Chryssa ""
 
 # game/1_diya.rpy:6092
-translate general lookLiz_7ecd7f4c:
+translate spanish lookLiz_7ecd7f4c:
 
     # Chryssa "Any other questions?"
     Chryssa ""
 
 # game/1_diya.rpy:6094
-translate general lookLiz_bdb75344:
+translate spanish lookLiz_bdb75344:
 
     # Akarsha "If every person on Earth aimed a laser pointer at the Moon at the same time, would it visibly change color?"
     Akarsha ""
 
 # game/1_diya.rpy:6096
-translate general lookLiz_57bcd5f5:
+translate spanish lookLiz_57bcd5f5:
 
     # Chryssa "Any {i}relevant{/i} questions?"
     Chryssa ""
 
 # game/1_diya.rpy:6097
-translate general lookLiz_460fe7af:
+translate spanish lookLiz_460fe7af:
 
     # "Silence..."
     ""
 
 # game/1_diya.rpy:6099
-translate general lookLiz_b719b257:
+translate spanish lookLiz_b719b257:
 
     # Chryssa "Then let's all introduce ourselves with a cheesy icebreaker activity!"
     Chryssa ""
 
 # game/1_diya.rpy:6101
-translate general lookLiz_4b96dffa:
+translate spanish lookLiz_4b96dffa:
 
     # Chryssa "Say your name, grade, and one fun fact about yourself."
     Chryssa ""
 
 # game/1_diya.rpy:6102
-translate general lookLiz_be7e8e8d:
+translate spanish lookLiz_be7e8e8d:
 
     # "Diya immediately wants to go home!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:6104
-translate general lookLiz_028b819a:
+translate spanish lookLiz_028b819a:
 
     # DiyaT "No!!!! I hate these!!!!!"
     DiyaT ""
 
 # game/1_diya.rpy:6105
-translate general lookLiz_46fa2e3a:
+translate spanish lookLiz_46fa2e3a:
 
     # DiyaT "I can never think of any fun facts! I'm boring!!"
     DiyaT ""
 
 # game/1_diya.rpy:6107
-translate general lookLiz_b52a08e8:
+translate spanish lookLiz_b52a08e8:
 
     # Chryssa "I'll start! I'm Chryssa, and I'm a senior."
     Chryssa ""
 
 # game/1_diya.rpy:6108
-translate general lookLiz_b589fc71:
+translate spanish lookLiz_b589fc71:
 
     # Chryssa "Fun fact. Uh..."
     Chryssa ""
 
 # game/1_diya.rpy:6110
-translate general lookLiz_f6cce7c7:
+translate spanish lookLiz_f6cce7c7:
 
     # Liz "I have one."
     Liz ""
 
 # game/1_diya.rpy:6111
-translate general lookLiz_5799c897:
+translate spanish lookLiz_5799c897:
 
     # Liz "She reads cryptid articles at night and scares herself, and then is afraid to get up and use the bathroom."
     Liz ""
 
 # game/1_diya.rpy:6113
-translate general lookLiz_f8dcd46e:
+translate spanish lookLiz_f8dcd46e:
 
     # Chryssa "If you're going to choose a fact for me, at least choose a flattering one!" with sshake
     Chryssa "" with sshake
 
 # game/1_diya.rpy:6115
-translate general lookLiz_353d756f:
+translate spanish lookLiz_353d756f:
 
     # Liz "My turn now! I'm Liz, and I'm a senior too."
     Liz ""
 
 # game/1_diya.rpy:6117
-translate general lookLiz_86cd3902:
+translate spanish lookLiz_86cd3902:
 
     # Chryssa "Her fun fact is that she can lick her elbow."
     Chryssa ""
 
 # game/1_diya.rpy:6119
-translate general lookLiz_b3fa9480:
+translate spanish lookLiz_b3fa9480:
 
     # DiyaT "I thought that was supposed to be impossible?"
     DiyaT ""
 
 # game/1_diya.rpy:6122
-translate general lookLiz_1c3038ba:
+translate spanish lookLiz_1c3038ba:
 
     # Akarsha "Do it!"
     Akarsha ""
 
 # game/1_diya.rpy:6124
-translate general lookLiz_b0b79658:
+translate spanish lookLiz_b0b79658:
 
     # "Liz does it."
     ""
 
 # game/1_diya.rpy:6126
-translate general lookLiz_362882ab:
+translate spanish lookLiz_362882ab:
 
     # DiyaT "WHAT THE..."
     DiyaT ""
 
 # game/1_diya.rpy:6128
-translate general lookLiz_ee691819:
+translate spanish lookLiz_ee691819:
 
     # DiyaT "What is she, a clown??"
     DiyaT ""
 
 # game/1_diya.rpy:6130
-translate general lookLiz_b94c50dc:
+translate spanish lookLiz_b94c50dc:
 
     # "Diya has gone back to being afraid of Liz again!"
     ""
 
 # game/1_diya.rpy:6131
-translate general lookLiz_2bc53ff4:
+translate spanish lookLiz_2bc53ff4:
 
     # "Liz gestures at another girl to go next."
     ""
 
 # game/1_diya.rpy:6134
-translate general lookLiz_851c9439:
+translate spanish lookLiz_851c9439:
 
     # Sumi "Watashi wa Sakura desu."
     Sumi ""
 
 # game/1_diya.rpy:6137
-translate general lookLiz_a19c6ed2:
+translate spanish lookLiz_a19c6ed2:
 
     # Grace "And I'm Yuki."
     Grace ""
 
 # game/1_diya.rpy:6141
-translate general lookLiz_fee6d6cb:
+translate spanish lookLiz_fee6d6cb:
 
     # Chryssa "THERE'S NO WAY THOSE ARE YOUR REAL NAMES." with sshake
     Chryssa "" with sshake
 
 # game/1_diya.rpy:6143
-translate general lookLiz_7d7ce7c8:
+translate spanish lookLiz_7d7ce7c8:
 
     # Liz "Hey, it doesn't hurt to humor them! Support their interests!"
     Liz ""
 
 # game/1_diya.rpy:6145
-translate general lookLiz_fc8ffda8:
+translate spanish lookLiz_fc8ffda8:
 
     # Sumi "Watashi wa am in 10th grade."
     Sumi ""
 
 # game/1_diya.rpy:6147
-translate general lookLiz_c36506d3:
+translate spanish lookLiz_c36506d3:
 
     # Grace "Watashi wa am in 10th grade too."
     Grace ""
 
 # game/1_diya.rpy:6149
-translate general lookLiz_d3b281ca:
+translate spanish lookLiz_d3b281ca:
 
     # Chryssa "STOP TALKING LIKE THAT."
     Chryssa ""
 
 # game/1_diya.rpy:6151
-translate general lookLiz_396ed76f:
+translate spanish lookLiz_396ed76f:
 
     # Akarsha "I'VE FOUND MY PEOPLE..."
     Akarsha ""
 
 # game/1_diya.rpy:6153
-translate general lookLiz_12139063:
+translate spanish lookLiz_12139063:
 
     # "The next girl up looks more normal."
     ""
 
 # game/1_diya.rpy:6157
-translate general lookLiz_fd6de762:
+translate spanish lookLiz_fd6de762:
 
     # Ester "I'm Ester —"
     Ester ""
 
 # game/1_diya.rpy:6159
-translate general lookLiz_79ba8fcb:
+translate spanish lookLiz_79ba8fcb:
 
     # Chryssa "Wait. Why are you here??"
     Chryssa ""
 
 # game/1_diya.rpy:6160
-translate general lookLiz_24ce074d:
+translate spanish lookLiz_24ce074d:
 
     # Chryssa "I tried to recruit you before. You said you weren't interested in baseball."
     Chryssa ""
 
 # game/1_diya.rpy:6162
-translate general lookLiz_9e2765c4:
+translate spanish lookLiz_9e2765c4:
 
     # Ester "I'll give it a chance."
     Ester ""
 
 # game/1_diya.rpy:6164
-translate general lookLiz_c0f465be:
+translate spanish lookLiz_c0f465be:
 
     # Chryssa "Alright, which anime has baseball in it?"
     Chryssa ""
 
 # game/1_diya.rpy:6166
-translate general lookLiz_9393edc6:
+translate spanish lookLiz_9393edc6:
 
     # Ester "What? I never said it was because of —"
     Ester ""
 
 # game/1_diya.rpy:6168
-translate general lookLiz_e9bb5b0b:
+translate spanish lookLiz_e9bb5b0b:
 
     # Chryssa "Which anime has baseball in it?"
     Chryssa ""
 
 # game/1_diya.rpy:6170
-translate general lookLiz_3ca1f730:
+translate spanish lookLiz_3ca1f730:
 
     # Sumi "It's Oofuri."
     Sumi ""
 
 # game/1_diya.rpy:6172
-translate general lookLiz_39d2f6e3:
+translate spanish lookLiz_39d2f6e3:
 
     # Chryssa "............."
     Chryssa ""
 
 # game/1_diya.rpy:6174
-translate general lookLiz_d78a7abe:
+translate spanish lookLiz_d78a7abe:
 
     # Liz "Don't tell me that's why Sakura and Yuki are here, too..."
     Liz ""
 
 # game/1_diya.rpy:6177
-translate general lookLiz_06ad80a3:
+translate spanish lookLiz_06ad80a3:
 
     # Grace "Heck no."
     Grace ""
 
 # game/1_diya.rpy:6178
-translate general lookLiz_05017b48:
+translate spanish lookLiz_05017b48:
 
     # Grace "I'm here because of Daiya no Ace."
     Grace ""
 
 # game/1_diya.rpy:6180
-translate general lookLiz_39d2f6e3_1:
+translate spanish lookLiz_39d2f6e3_1:
 
     # Chryssa "............."
     Chryssa ""
 
 # game/1_diya.rpy:6182
-translate general lookLiz_af831f3f:
+translate spanish lookLiz_af831f3f:
 
     # Liz "............."
     Liz ""
 
 # game/1_diya.rpy:6184
-translate general lookLiz_33486cc4:
+translate spanish lookLiz_33486cc4:
 
     # Sumi "What, is it a crime to like anime?"
     Sumi ""
 
 # game/1_diya.rpy:6186
-translate general lookLiz_97a7b20d:
+translate spanish lookLiz_97a7b20d:
 
     # Chryssa "Yes."
     Chryssa ""
 
 # game/1_diya.rpy:6188
-translate general lookLiz_fc687516:
+translate spanish lookLiz_fc687516:
 
     # Liz "Okay, let's move on."
     Liz ""
 
 # game/1_diya.rpy:6190
-translate general lookLiz_43032dd4:
+translate spanish lookLiz_43032dd4:
 
     # "Diya watches the icebreaker's progress with mounting terror."
     ""
 
 # game/1_diya.rpy:6191
-translate general lookLiz_a4986493:
+translate spanish lookLiz_a4986493:
 
     # "Her palms have grown clammy, like when she's getting ready to say \"Here\" during roll call."
     ""
 
 # game/1_diya.rpy:6195
-translate general lookLiz_bedcb684:
+translate spanish lookLiz_bedcb684:
 
     # DiyaT "Crap. It's almost my turn and I still can't think of any cool facts."
     DiyaT ""
 
 # game/1_diya.rpy:6196
-translate general lookLiz_742516e5:
+translate spanish lookLiz_742516e5:
 
     # DiyaT "\"I like crunching on ice cubes?\""
     DiyaT ""
 
 # game/1_diya.rpy:6197
-translate general lookLiz_4c94b3ea:
+translate spanish lookLiz_4c94b3ea:
 
     # DiyaT "\"When I go to people's houses, {w=0.35}I'm too scared to ask where the cups are, {w=0.35}so I go to the bathroom and drink from the faucet instead?\""
     DiyaT ""
 
 # game/1_diya.rpy:6198
-translate general lookLiz_c8357003:
+translate spanish lookLiz_c8357003:
 
     # DiyaT "\"Whenever an assembly is over and we're supposed to help carry the folding chairs back,{w=0.35} I secretly hope people notice how many I'm holding?\""
     DiyaT ""
 
 # game/1_diya.rpy:6201
-translate general lookLiz_3453ae47:
+translate spanish lookLiz_3453ae47:
 
     # DiyaT "These are all so bad!{w=0.35} What the???" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:6203
-translate general lookLiz_b1d65c31:
+translate spanish lookLiz_b1d65c31:
 
     # "By now, three other people have gone.{w=0.35} It's Akarsha's turn..."
     ""
 
 # game/1_diya.rpy:6205
-translate general lookLiz_8700c805:
+translate spanish lookLiz_8700c805:
 
     # Akarsha "What up ding dongs!{w=0.35} I'm a freshman."
     Akarsha ""
 
 # game/1_diya.rpy:6207
-translate general lookLiz_c2e44dce:
+translate spanish lookLiz_c2e44dce:
 
     # DiyaT "Ding dongs..."
     DiyaT ""
 
 # game/1_diya.rpy:6210
-translate general lookLiz_f436b8fd:
+translate spanish lookLiz_f436b8fd:
 
     # Akarsha "My name is...{w=0.35}Weekeeshee."
     Akarsha ""
 
 # game/1_diya.rpy:6212
-translate general lookLiz_6a61dc07:
+translate spanish lookLiz_6a61dc07:
 
     # Noelle "................"
     Noelle ""
 
 # game/1_diya.rpy:6215
-translate general lookLiz_60329ec7:
+translate spanish lookLiz_60329ec7:
 
     # Akarsha "Fun fact:{w=0.35} I once found 2 mutant tater tots that were fused together and sold them on eBay for $40."
     Akarsha ""
 
 # game/1_diya.rpy:6217
-translate general lookLiz_fa11c619:
+translate spanish lookLiz_fa11c619:
 
     # DiyaT "Selling things sounds stressful. "
     DiyaT ""
 
 # game/1_diya.rpy:6218
-translate general lookLiz_455e6115:
+translate spanish lookLiz_455e6115:
 
     # DiyaT "I would've just eaten them."
     DiyaT ""
 
 # game/1_diya.rpy:6222
-translate general lookLiz_dc306524:
+translate spanish lookLiz_dc306524:
 
     # "Noelle is the next one over,{w=0.35} so everyone looks at her expectantly."
     ""
 
 # game/1_diya.rpy:6223
-translate general lookLiz_fee9d0bc:
+translate spanish lookLiz_fee9d0bc:
 
     # Noelle "Skip me.{w=0.35} I'm not here to join."
     Noelle ""
 
 # game/1_diya.rpy:6225
-translate general lookLiz_124d0d1a:
+translate spanish lookLiz_124d0d1a:
 
     # Liz "Let's move on to Diya, shall we?"
     Liz ""
 
 # game/1_diya.rpy:6229
-translate general lookLiz_3100eac7:
+translate spanish lookLiz_3100eac7:
 
     # "All eyes are on Diya now..."
     ""
 
 # game/1_diya.rpy:6232
-translate general lookLiz_678341dd:
+translate spanish lookLiz_678341dd:
 
     # DiyaT "Okay!!!{w=0.35} Calm down, me!!"
     DiyaT ""
 
 # game/1_diya.rpy:6233
-translate general lookLiz_8d8078bf:
+translate spanish lookLiz_8d8078bf:
 
     # DiyaT "All I have to do is say \"I'm Diya.\""
     DiyaT ""
 
 # game/1_diya.rpy:6234
-translate general lookLiz_84efe97e:
+translate spanish lookLiz_84efe97e:
 
     # DiyaT "But wait...{w=0.35} Didn't she just say my name?"
     DiyaT ""
 
 # game/1_diya.rpy:6235
-translate general lookLiz_2b0d6083:
+translate spanish lookLiz_2b0d6083:
 
     # DiyaT "Does it seem redundant if I repeat it?"
     DiyaT ""
 
 # game/1_diya.rpy:6236
-translate general lookLiz_13fc9ac2:
+translate spanish lookLiz_13fc9ac2:
 
     # DiyaT "No, I'm overthinking this.{w=0.35} I should just say it like everyone else."
     DiyaT ""
 
 # game/1_diya.rpy:6238
-translate general lookLiz_cafd7987:
+translate spanish lookLiz_cafd7987:
 
     # Diya "I'm Diya."
     Diya ""
 
 # game/1_diya.rpy:6239
-translate general lookLiz_1e71e128:
+translate spanish lookLiz_1e71e128:
 
     # DiyaT "Yeah.{w=0.35} So far, so good."
     DiyaT ""
 
 # game/1_diya.rpy:6240
-translate general lookLiz_136db9e2:
+translate spanish lookLiz_136db9e2:
 
     # Diya "..........."
     Diya ""
 
 # game/1_diya.rpy:6244
-translate general lookLiz_1a46163f:
+translate spanish lookLiz_1a46163f:
 
     # DiyaT "What else was I supposed to say?"
     DiyaT ""
 
 # game/1_diya.rpy:6245
-translate general lookLiz_a6dd75ae:
+translate spanish lookLiz_a6dd75ae:
 
     # Diya "??????????" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:6248
-translate general lookLiz_f8b84393:
+translate spanish lookLiz_f8b84393:
 
     # "Panic is rising in Diya's chest!"
     ""
 
 # game/1_diya.rpy:6250
-translate general lookLiz_9c83dfc2:
+translate spanish lookLiz_9c83dfc2:
 
     # DiyaT "I've already messed up! I'm embarrassing myself in front of everyone!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:6251
-translate general lookLiz_0cffc41f:
+translate spanish lookLiz_0cffc41f:
 
     # DiyaT "This is the worst! Even worse than reading a passage out loud in class!"
     DiyaT ""
 
 # game/1_diya.rpy:6252
-translate general lookLiz_613f52a5:
+translate spanish lookLiz_613f52a5:
 
     # DiyaT "I shouldn't have come here!"
     DiyaT ""
 
 # game/1_diya.rpy:6258
-translate general lookLiz_065b40ff:
+translate spanish lookLiz_065b40ff:
 
     # "Diya bolts from the meeting!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:6259
-translate general lookLiz_03733b5d:
+translate spanish lookLiz_03733b5d:
 
     # "Distantly, she can hear Noelle calling out after her."
     ""
 
 # game/1_diya.rpy:6261
-translate general lookLiz_940cd670:
+translate spanish lookLiz_940cd670:
 
     # Noelle "Diya! Wait!"
     Noelle ""
 
 # game/1_diya.rpy:6264
-translate general lookLiz_7458a4c9:
+translate spanish lookLiz_7458a4c9:
 
     # DiyaT "I can't go back now!"
     DiyaT ""
 
 # game/1_diya.rpy:6272
-translate general lookLiz_a25570f5:
+translate spanish lookLiz_a25570f5:
 
     # "Powered by nervous energy, Diya barrels into the locker room."
     ""
 
 # game/1_diya.rpy:6273
-translate general lookLiz_4c320c23:
+translate spanish lookLiz_4c320c23:
 
     # "Her plan now is basically to run as far as her legs will carry her."
     ""
 
 # game/1_diya.rpy:6275
-translate general lookLiz_663bc22f:
+translate spanish lookLiz_663bc22f:
 
     # DiyaT "I suddenly feel like running 3 or 4 miles!!!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:6309
-translate general ch6_5bdef972:
+translate spanish ch6_5bdef972:
 
     # "Diya crashes into someone!"
     ""
 
 # game/1_diya.rpy:6313
-translate general ch6_9ae04690:
+translate spanish ch6_9ae04690:
 
     # Diya "????!"
     Diya ""
 
 # game/1_diya.rpy:6314
-translate general ch6_3db231f0:
+translate spanish ch6_3db231f0:
 
     # DiyaT "Ow?? I landed on my butt..."
     DiyaT ""
 
 # game/1_diya.rpy:6318
-translate general ch6_12d37f75:
+translate spanish ch6_12d37f75:
 
     # "Someone is lying on top of her. They roughly grab the front of Diya's shirt." with sshake
     "" with sshake
 
 # game/1_diya.rpy:6320
-translate general ch6_d7c2b5e2:
+translate spanish ch6_d7c2b5e2:
 
     # Min "Watch where you're going, motherfu—" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:6324
-translate general ch6_29350c31:
+translate spanish ch6_29350c31:
 
     # Min "........!!!!!!!!!!!!!!!!!!!!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:6328
-translate general ch6_1b571753:
+translate spanish ch6_1b571753:
 
     # Min "DIYA!!!!!!!!!!!!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:6329
-translate general ch6_49d86705:
+translate spanish ch6_49d86705:
 
     # Min "IT'S YOU!!!!!!!!"
     Min ""
 
 # game/1_diya.rpy:6334
-translate general ch6_7bfdc164:
+translate spanish ch6_7bfdc164:
 
     # "Min hugs her!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:6337
-translate general ch6_308d930a:
+translate spanish ch6_308d930a:
 
     # DiyaT "KGJFGK!!! FDJFDSFDH!!!!!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:6338
-translate general ch6_4efdccae:
+translate spanish ch6_4efdccae:
 
     # DiyaT "Wow!!!!!!! This is great!!!!!!!!!!!"
     DiyaT ""
 
 # game/1_diya.rpy:6342
-translate general ch6_e30d3ca6:
+translate spanish ch6_e30d3ca6:
 
     # Min "I promised I'd come back, didn't I?"
     Min ""
 
 # game/1_diya.rpy:6344
-translate general ch6_a8d26bbd:
+translate spanish ch6_a8d26bbd:
 
     # Min "I'm never letting go of you again!!"
     Min ""
 
 # game/1_diya.rpy:6347
-translate general ch6_fd841d5d:
+translate spanish ch6_fd841d5d:
 
     # Diya "Okay."
     Diya ""
 
 # game/1_diya.rpy:6350
-translate general ch6_f35ccb75:
+translate spanish ch6_f35ccb75:
 
     # Min "....................."
     Min ""
 
 # game/1_diya.rpy:6353
-translate general ch6_73c5644b:
+translate spanish ch6_73c5644b:
 
     # Diya "....................."
     Diya ""
 
 # game/1_diya.rpy:6354
-translate general ch6_f9c52a81:
+translate spanish ch6_f9c52a81:
 
     # DiyaT "I'M GAY. I'M GAY. I'M GAY!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:6357
-translate general ch6_3d47b55c:
+translate spanish ch6_3d47b55c:
 
     # DiyaT "I need to get up."
     DiyaT ""
 
 # game/1_diya.rpy:6360
-translate general ch6_5164ad5c:
+translate spanish ch6_5164ad5c:
 
     # Diya "Um."
     Diya ""
 
 # game/1_diya.rpy:6361
-translate general ch6_15f7d262:
+translate spanish ch6_15f7d262:
 
     # Diya "Actually, this ground is really gross and dirty."
     Diya ""
 
 # game/1_diya.rpy:6362
-translate general ch6_6bfa0dee:
+translate spanish ch6_6bfa0dee:
 
     # Diya "I can see other people's hair on it."
     Diya ""
 
 # game/1_diya.rpy:6365
-translate general ch6_d1f71aec:
+translate spanish ch6_d1f71aec:
 
     # Min "Oh. Okay, I'll let you up."
     Min ""
 
 # game/1_diya.rpy:6372
-translate general ch6_b619d44f:
+translate spanish ch6_b619d44f:
 
     # "Min gets off and looks Diya up and down as she staggers to her feet."
     ""
 
 # game/1_diya.rpy:6374
-translate general ch6_6b8a87ba:
+translate spanish ch6_6b8a87ba:
 
     # Min "Wow...I almost forgot how pretty you are."
     Min ""
 
 # game/1_diya.rpy:6376
-translate general ch6_5c9731bf:
+translate spanish ch6_5c9731bf:
 
     # Min "You could be a model."
     Min ""
 
 # game/1_diya.rpy:6378
-translate general ch6_c50f2165:
+translate spanish ch6_c50f2165:
 
     # DiyaT "...................."
     DiyaT ""
 
 # game/1_diya.rpy:6379
-translate general ch6_dd20ba6b:
+translate spanish ch6_dd20ba6b:
 
     # DiyaT "I almost forgot she did this all the time..."
     DiyaT ""
 
 # game/1_diya.rpy:6381
-translate general ch6_6f5b0d79:
+translate spanish ch6_6f5b0d79:
 
     # Diya "You didn't get taller than me."
     Diya ""
 
 # game/1_diya.rpy:6384
-translate general ch6_1eaa8115:
+translate spanish ch6_1eaa8115:
 
     # Min "Hey, I'm still growing."
     Min ""
 
 # game/1_diya.rpy:6386
-translate general ch6_90a89598:
+translate spanish ch6_90a89598:
 
     # Diya "You're off by almost a foot."
     Diya ""
 
 # game/1_diya.rpy:6389
-translate general ch6_a7559a31:
+translate spanish ch6_a7559a31:
 
     # Min "There's still hope!"
     Min ""
 
 # game/1_diya.rpy:6391
-translate general ch6_04042a24:
+translate spanish ch6_04042a24:
 
     # Diya "You really never give up, do you."
     Diya ""
 
 # game/1_diya.rpy:6394
-translate general ch6_c17bbc8d:
+translate spanish ch6_c17bbc8d:
 
     # Min "Of course not."
     Min ""
 
 # game/1_diya.rpy:6396
-translate general ch6_1789c922:
+translate spanish ch6_1789c922:
 
     # Min "I'll work hard so I can take you!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:6398
-translate general ch6_026faeab:
+translate spanish ch6_026faeab:
 
     # Min "O-OVERTAKE! I MEAN OVERTAKE YOU!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:6400
-translate general ch6_4706e4c6:
+translate spanish ch6_4706e4c6:
 
     # "In an attempt to hide her embarrassment, Min turns her head to the side and points to her ear."
     ""
 
 # game/1_diya.rpy:6402
-translate general ch6_c66e5bee:
+translate spanish ch6_c66e5bee:
 
     # Min "Look! I have piercings now!"
     Min ""
 
 # game/1_diya.rpy:6403
-translate general ch6_55971576:
+translate spanish ch6_55971576:
 
     # Min "Don't I look cool??"
     Min ""
 
 # game/1_diya.rpy:6405
-translate general ch6_97c9496d:
+translate spanish ch6_97c9496d:
 
     # Diya "You look cool."
     Diya ""
 
 # game/1_diya.rpy:6408
-translate general ch6_8ac430a0:
+translate spanish ch6_8ac430a0:
 
     # Min "And I got a butterfly knife!!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:6409
-translate general ch6_22785308:
+translate spanish ch6_22785308:
 
     # "Min pulls a knife out!!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:6410
-translate general ch6_bcb332bb:
+translate spanish ch6_bcb332bb:
 
     # Min "Watch this!!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:6411
-translate general ch6_9dd77b60:
+translate spanish ch6_9dd77b60:
 
     # "Min flips the knife open and does a trick! It looks really dangerous!"
     ""
 
 # game/1_diya.rpy:6413
-translate general ch6_07880bf4:
+translate spanish ch6_07880bf4:
 
     # DiyaT "Whoa!! Min is so brave!!" with sshake
     DiyaT "" with sshake
 
 # game/1_diya.rpy:6415
-translate general ch6_08d1b0de:
+translate spanish ch6_08d1b0de:
 
     # Diya "I missed you."
     Diya ""
 
 # game/1_diya.rpy:6418
-translate general ch6_8587efd8:
+translate spanish ch6_8587efd8:
 
     # Min "I missed you too!"
     Min ""
 
 # game/1_diya.rpy:6420
-translate general ch6_3a2190bc:
+translate spanish ch6_3a2190bc:
 
     # Diya "{font=korean.ttf}사랑해.{/font}"
     Diya ""
 
 # game/1_diya.rpy:6423
-translate general ch6_f8a1f174:
+translate spanish ch6_f8a1f174:
 
     # Min "................"
     Min ""
 
 # game/1_diya.rpy:6427
-translate general ch6_677f9015:
+translate spanish ch6_677f9015:
 
     # Min "{font=tamil.ttf}வணக்கம்!{/font}"
     Min ""
 
 # game/1_diya.rpy:6433
-translate general ch6_0f158bd8:
+translate spanish ch6_0f158bd8:
 
     # Min "{font=tamil.ttf}நான் குசு விரும்புகிறேன்!{/font}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:6437
-translate general ch6_1d74dd58:
+translate spanish ch6_1d74dd58:
 
     # Diya "!!!" with sshake
     Diya "" with sshake
 
 # game/1_diya.rpy:6442
-translate general ch6_0d0ba9bc:
+translate spanish ch6_0d0ba9bc:
 
     # "Someone runs into the locker room! She's wheezing so hard for breath that Diya knows who it is before looking."
     ""
 
 # game/1_diya.rpy:6445
-translate general ch6_dd19a1d7:
+translate spanish ch6_dd19a1d7:
 
     # Noelle "Diya, there you are!"
     Noelle ""
 
 # game/1_diya.rpy:6446
-translate general ch6_e10dbf75:
+translate spanish ch6_e10dbf75:
 
     # Noelle "Everyone is looking for y—"
     Noelle ""
 
 # game/1_diya.rpy:6451
-translate general ch6_74d76283:
+translate spanish ch6_74d76283:
 
     # Min "{i}You!{/i}" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:6455
-translate general ch6_46e87e05:
+translate spanish ch6_46e87e05:
 
     # Noelle ".............."
     Noelle ""
 
 # game/1_diya.rpy:6457
-translate general ch6_c47e75c1:
+translate spanish ch6_c47e75c1:
 
     # Diya ".............."
     Diya ""
 
 # game/1_diya.rpy:6461
-translate general ch6_1bf0db02:
+translate spanish ch6_1bf0db02:
 
     # Noelle "How...you...Why are you here?"
     Noelle ""
 
 # game/1_diya.rpy:6466
-translate general ch6_a8f727c5:
+translate spanish ch6_a8f727c5:
 
     # Min "That's my line."
     Min ""
 
 # game/1_diya.rpy:6468
-translate general ch6_62cc2d27:
+translate spanish ch6_62cc2d27:
 
     # Min "I can't believe Diya still lets a weakling like you hang out with her."
     Min ""
 
 # game/1_diya.rpy:6469
-translate general ch6_458de9cf:
+translate spanish ch6_458de9cf:
 
     # Min "You...you Empire State Building."
     Min ""
 
 # game/1_diya.rpy:6470
-translate general ch6_44520b2a:
+translate spanish ch6_44520b2a:
 
     # "Min does a trick with her butterfly knife!"
     ""
 
 # game/1_diya.rpy:6472
-translate general ch6_35842676:
+translate spanish ch6_35842676:
 
     # Noelle "Why do you have a knife?!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:6473
-translate general ch6_4739d9f6:
+translate spanish ch6_4739d9f6:
 
     # Noelle "Put that away."
     Noelle ""
 
 # game/1_diya.rpy:6476
-translate general ch6_58c649a2:
+translate spanish ch6_58c649a2:
 
     # Min "I'll put it away...in your heart!!!"
     Min ""
 
 # game/1_diya.rpy:6478
-translate general ch6_c47e75c1_1:
+translate spanish ch6_c47e75c1_1:
 
     # Diya ".............."
     Diya ""
 
 # game/1_diya.rpy:6481
-translate general ch6_93192951:
+translate spanish ch6_93192951:
 
     # Noelle "............"
     Noelle ""
 
 # game/1_diya.rpy:6484
-translate general ch6_cc159e1e:
+translate spanish ch6_cc159e1e:
 
     # Min "............"
     Min ""
 
 # game/1_diya.rpy:6486
-translate general ch6_75ff0a29:
+translate spanish ch6_75ff0a29:
 
     # Min "Shut up!!!!! It sounded cooler in my head!!!!"
     Min ""
 
 # game/1_diya.rpy:6488
-translate general ch6_718c5bbd:
+translate spanish ch6_718c5bbd:
 
     # Noelle "No one even said anything."
     Noelle ""
 
 # game/1_diya.rpy:6489
-translate general ch6_c95657e3:
+translate spanish ch6_c95657e3:
 
     # Noelle "Anyway, aren't knives like that illegal in California?"
     Noelle ""
 
 # game/1_diya.rpy:6490
-translate general ch6_bdb63253:
+translate spanish ch6_bdb63253:
 
     # Noelle "If I wanted to, I could report you to the police."
     Noelle ""
 
 # game/1_diya.rpy:6493
-translate general ch6_b131889b:
+translate spanish ch6_b131889b:
 
     # Min "........."
     Min ""
 
 # game/1_diya.rpy:6494
-translate general ch6_7fecfdaf:
+translate spanish ch6_7fecfdaf:
 
     # "Min reluctantly puts the knife away."
     ""
 
 # game/1_diya.rpy:6495
-translate general ch6_96d9be67:
+translate spanish ch6_96d9be67:
 
     # Min "Fuck you."
     Min ""
 
 # game/1_diya.rpy:6499
-translate general ch6_3accfbda:
+translate spanish ch6_3accfbda:
 
     # "Min threateningly draws in closer to Noelle and whispers into her ear, voice low."
     ""
 
 # game/1_diya.rpy:6500
-translate general ch6_bc0c28f8:
+translate spanish ch6_bc0c28f8:
 
     # "The dramatic effect is slightly ruined by the fact that Min has to step on top of a storage bin to be taller."
     ""
 
 # game/1_diya.rpy:6502
-translate general ch6_7938ba3e:
+translate spanish ch6_7938ba3e:
 
     # Min "I hate you. I hate you more than the stringy things on bananas."
     Min ""
 
 # game/1_diya.rpy:6504
-translate general ch6_41388c42:
+translate spanish ch6_41388c42:
 
     # Noelle "Why?! I didn't even do anything!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:6507
-translate general ch6_07d32b7c:
+translate spanish ch6_07d32b7c:
 
     # Min "Shut up!"
     Min ""
 
 # game/1_diya.rpy:6508
-translate general ch6_0c882154:
+translate spanish ch6_0c882154:
 
     # Min "I won't lose to you!!!"
     Min ""
 
 # game/1_diya.rpy:6510
-translate general ch6_aaf5e5d8:
+translate spanish ch6_aaf5e5d8:
 
     # Noelle "What are you even talking about?"
     Noelle ""
 
 # game/1_diya.rpy:6514
-translate general ch6_c3e0678f:
+translate spanish ch6_c3e0678f:
 
     # Min "Someday, Diya is gonna realize she's out of your league."
     Min ""
 
 # game/1_diya.rpy:6516
-translate general ch6_2f64e7d9:
+translate spanish ch6_2f64e7d9:
 
     # Min "You're not even taller than her anymore, so all your advantages are gone."
     Min ""
 
 # game/1_diya.rpy:6518
-translate general ch6_9e522920:
+translate spanish ch6_9e522920:
 
     # Noelle "I don't...what???" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:6521
-translate general ch6_2ff10b86:
+translate spanish ch6_2ff10b86:
 
     # Min "When she doesn't like you anymore, I'll gut you and feed you to her dog."
     Min ""
 
 # game/1_diya.rpy:6523
-translate general ch6_f339f08f:
+translate spanish ch6_f339f08f:
 
     # Noelle "She doesn't even have a dog."
     Noelle ""
 
 # game/1_diya.rpy:6526
-translate general ch6_2c0b51a4:
+translate spanish ch6_2c0b51a4:
 
     # Min "I'll buy her a dog and train it to eat you."
     Min ""
 
 # game/1_diya.rpy:6530
-translate general ch6_82f0c115:
+translate spanish ch6_82f0c115:
 
     # "Someone else ran into the locker room!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:6531
-translate general ch6_6567a112:
+translate spanish ch6_6567a112:
 
     # "It only takes a second for Diya and Noelle to recognize the sound of Akarsha's flip-flops."
     ""
 
 # game/1_diya.rpy:6533
-translate general ch6_c6c9c75b:
+translate spanish ch6_c6c9c75b:
 
     # Akarsha "Ayyy! Chryssa and Liz are looking for you tw—"
     Akarsha ""
 
 # game/1_diya.rpy:6535
-translate general ch6_1386c66b:
+translate spanish ch6_1386c66b:
 
     # Akarsha "..........."
     Akarsha ""
 
 # game/1_diya.rpy:6537
-translate general ch6_390a1bfb:
+translate spanish ch6_390a1bfb:
 
     # Noelle "..........."
     Noelle ""
 
 # game/1_diya.rpy:6539
-translate general ch6_136db9e2:
+translate spanish ch6_136db9e2:
 
     # Diya "..........."
     Diya ""
 
 # game/1_diya.rpy:6542
-translate general ch6_8683854e:
+translate spanish ch6_8683854e:
 
     # Min "..........."
     Min ""
 
 # game/1_diya.rpy:6544
-translate general ch6_7e7a713b:
+translate spanish ch6_7e7a713b:
 
     # Akarsha "Uh...Have I missed something here?"
     Akarsha ""
 
 # game/1_diya.rpy:6546
-translate general ch6_f84e07c2:
+translate spanish ch6_f84e07c2:
 
     # Min "Who the fuck are you?"
     Min ""
 
 # game/1_diya.rpy:6548
-translate general ch6_24e137cf:
+translate spanish ch6_24e137cf:
 
     # Akarsha "Who the fuck are {i}you{/i}?"
     Akarsha ""
 
 # game/1_diya.rpy:6550
-translate general ch6_3da59d15:
+translate spanish ch6_3da59d15:
 
     # Min "I asked first, jackass."
     Min ""
 
 # game/1_diya.rpy:6552
-translate general ch6_40ece0dc:
+translate spanish ch6_40ece0dc:
 
     # Akarsha "Wao!! Almost cut myself on this EDGE!!!"
     Akarsha ""
 
 # game/1_diya.rpy:6566
-translate general ch6_2f511966:
+translate spanish ch6_2f511966:
 
     # "Before Akarsha can react, Min grabs the front of her jacket and slams her back to the wall." with sshake
     "" with sshake
 
 # game/1_diya.rpy:6568
-translate general ch6_c188c3ae:
+translate spanish ch6_c188c3ae:
 
     # Min "You want a piece of me?" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:6570
-translate general ch6_a5403d9f:
+translate spanish ch6_a5403d9f:
 
     # Akarsha "Uh...whoa."
     Akarsha ""
 
 # game/1_diya.rpy:6571
-translate general ch6_4bb899d9:
+translate spanish ch6_4bb899d9:
 
     # Akarsha "Not gonna lie, if you were taller this would be pretty hot."
     Akarsha ""
 
 # game/1_diya.rpy:6578
-translate general ch6_b22389f1:
+translate spanish ch6_b22389f1:
 
     # "Min punches Akarsha in the face!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:6580
-translate general ch6_ce38bd63:
+translate spanish ch6_ce38bd63:
 
     # DiyaT "Oh no!"
     DiyaT ""
 
 # game/1_diya.rpy:6583
-translate general ch6_10ba0029:
+translate spanish ch6_10ba0029:
 
     # Noelle "Stop it!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:6587
-translate general ch6_13bb80ac:
+translate spanish ch6_13bb80ac:
 
     # "Diya picks Min up and throws her several feet across the room."
     ""
 
 # game/1_diya.rpy:6589
-translate general ch6_df2dbe56:
+translate spanish ch6_df2dbe56:
 
     # Diya "Min—"
     Diya ""
 
 # game/1_diya.rpy:6592
-translate general ch6_91be97bb:
+translate spanish ch6_91be97bb:
 
     # Min "You stay back! I'll handle this!"
     Min ""
 
 # game/1_diya.rpy:6594
-translate general ch6_a6d2f8ce:
+translate spanish ch6_a6d2f8ce:
 
     # Diya "No, but—"
     Diya ""
 
 # game/1_diya.rpy:6597
-translate general ch6_31149c22:
+translate spanish ch6_31149c22:
 
     # Akarsha "Is anyone gonna explain to me what's going on here?!" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:6598
-translate general ch6_320334da:
+translate spanish ch6_320334da:
 
     # Akarsha "Who's this emo shortie??"
     Akarsha ""
 
 # game/1_diya.rpy:6600
-translate general ch6_182dbcaa:
+translate spanish ch6_182dbcaa:
 
     # Min "Who're you calling short?!"
     Min ""
 
 # game/1_diya.rpy:6602
-translate general ch6_06112f02:
+translate spanish ch6_06112f02:
 
     # Noelle "But you are short..."
     Noelle ""
 
 # game/1_diya.rpy:6604
-translate general ch6_6ace77fa:
+translate spanish ch6_6ace77fa:
 
     # "Min charges at Akarsha!"
     ""
 
 # game/1_diya.rpy:6606
-translate general ch6_16bfaf22:
+translate spanish ch6_16bfaf22:
 
     # Akarsha "YaaaaAAAAaaaAAAA!!!!!!" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:6607
-translate general ch6_00a76ea5:
+translate spanish ch6_00a76ea5:
 
     # "Akarsha kicks her foot out so that the flip-flop flies off!"
     ""
 
 # game/1_diya.rpy:6615
-translate general ch6_b75c9fbb:
+translate spanish ch6_b75c9fbb:
 
     # "It hits Min's face with a loud slap!"
     ""
 
 # game/1_diya.rpy:6616
-translate general ch6_22f78938:
+translate spanish ch6_22f78938:
 
     # Min "Mmph?!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:6617
-translate general ch6_0da3c579:
+translate spanish ch6_0da3c579:
 
     # "Min tackles Akarsha to the ground!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:6619
-translate general ch6_3e6c5331:
+translate spanish ch6_3e6c5331:
 
     # Min "You think you're so smart, huh?!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:6620
-translate general ch6_d56beaf6:
+translate spanish ch6_d56beaf6:
 
     # Min "WELL, GUESS WHAT!!! I HATE SMART PEOPLE!!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:6622
-translate general ch6_0649c02a:
+translate spanish ch6_0649c02a:
 
     # "Her hands close around Akarsha's neck. In a panic, Akarsha scrabbles at Min's wrists, but it's no use!"
     ""
 
 # game/1_diya.rpy:6624
-translate general ch6_236fe2ee:
+translate spanish ch6_236fe2ee:
 
     # Noelle "USE YOUR HEAD, YOU STUPID CLOWN!!!!!!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:6626
-translate general ch6_9c4d345c:
+translate spanish ch6_9c4d345c:
 
     # Noelle "IF YOU DIE I'LL KILL YOU!!!!!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:6628
-translate general ch6_eb6295fa:
+translate spanish ch6_eb6295fa:
 
     # "Akarsha sticks a hand down her own leggings!" with sshake
     "" with sshake
 
 # game/1_diya.rpy:6630
-translate general ch6_3ab1083c:
+translate spanish ch6_3ab1083c:
 
     # Min "What the fuck?"
     Min ""
 
 # game/1_diya.rpy:6631
-translate general ch6_2a417610:
+translate spanish ch6_2a417610:
 
     # Min "This better not be your kink or somethi—"
     Min ""
 
 # game/1_diya.rpy:6633
-translate general ch6_79ca2b02:
+translate spanish ch6_79ca2b02:
 
     # "Akarsha smears her period blood-caked hand across Min's face." with sshake
     "" with sshake
 
 # game/1_diya.rpy:6635
-translate general ch6_5a19a428:
+translate spanish ch6_5a19a428:
 
     # Min "URRGHKK!!?????!"
     Min ""
 
 # game/1_diya.rpy:6638
-translate general ch6_d3d911f2:
+translate spanish ch6_d3d911f2:
 
     # "Min let go!"
     ""
 
 # game/1_diya.rpy:6640
-translate general ch6_815ba0cf:
+translate spanish ch6_815ba0cf:
 
     # Min "PFF!! PPFBT!!" with sshake
     Min "" with sshake
 
 # game/1_diya.rpy:6641
-translate general ch6_7272ee43:
+translate spanish ch6_7272ee43:
 
     # Min "EW!!! YUCK!!!"
     Min ""
 
 # game/1_diya.rpy:6643
-translate general ch6_edf403c1:
+translate spanish ch6_edf403c1:
 
     # "In the confusion, Akarsha staggers to her feet, gasping for breath."
     ""
 
 # game/1_diya.rpy:6644
-translate general ch6_b0b11d42:
+translate spanish ch6_b0b11d42:
 
     # "Noelle rushes to support her."
     ""
 
 # game/1_diya.rpy:6645
-translate general ch6_2c1b8302:
+translate spanish ch6_2c1b8302:
 
     # "When Akarsha slings her arm over Noelle's shoulders, she accidentally brushes Noelle with her bloody hand."
     ""
 
 # game/1_diya.rpy:6649
-translate general ch6_2ec60e80:
+translate spanish ch6_2ec60e80:
 
     # Noelle "YOU CONTAMINATED ME TOO!!!!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:6651
-translate general ch6_a7f5a1bf:
+translate spanish ch6_a7f5a1bf:
 
     # "Noelle shoves Akarsha away, leaving her to fend for herself."
     ""
 
 # game/1_diya.rpy:6652
-translate general ch6_2c59446b:
+translate spanish ch6_2c59446b:
 
     # "Akarsha menacingly holds out her dirty hand in Min's direction, like a weapon."
     ""
 
 # game/1_diya.rpy:6653
-translate general ch6_a8dcf867:
+translate spanish ch6_a8dcf867:
 
     # "Min backs away, desperately avoiding being touched by the period blood hand."
     ""
 
 # game/1_diya.rpy:6655
-translate general ch6_1bd3fca2:
+translate spanish ch6_1bd3fca2:
 
     # Akarsha "Stay away! Can't touch this!!" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:6657
-translate general ch6_488eebdc:
+translate spanish ch6_488eebdc:
 
     # Min "You...you nasty ass hoe...!"
     Min ""
 
 # game/1_diya.rpy:6660
-translate general ch6_95203f2b:
+translate spanish ch6_95203f2b:
 
     # Akarsha "That's me! If I can't win by being a kung-fu master..."
     Akarsha ""
 
 # game/1_diya.rpy:6661
-translate general ch6_1dc32ff1:
+translate spanish ch6_1dc32ff1:
 
     # Akarsha "I'll win by being a piece of garbage!" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:6665
-translate general ch6_62cf3b7b:
+translate spanish ch6_62cf3b7b:
 
     # "Min looks weirdly moved by Akarsha's words!"
     ""
 
 # game/1_diya.rpy:6667
-translate general ch6_71803346:
+translate spanish ch6_71803346:
 
     # Min "You crazy bitch..."
     Min ""
 
 # game/1_diya.rpy:6668
-translate general ch6_f5769d7c:
+translate spanish ch6_f5769d7c:
 
     # Min "Who ARE you?"
     Min ""
 
 # game/1_diya.rpy:6670
-translate general ch6_d1c4a94f:
+translate spanish ch6_d1c4a94f:
 
     # Akarsha "They call me...Rail Tracer."
     Akarsha ""
 
 # game/1_diya.rpy:6672
-translate general ch6_67ea573c:
+translate spanish ch6_67ea573c:
 
     # Noelle "Literally NO ONE calls you that."
     Noelle ""
 
 # game/1_diya.rpy:6675
-translate general ch6_c76a99b1:
+translate spanish ch6_c76a99b1:
 
     # Akarsha "Quiet, you!" with sshake
     Akarsha "" with sshake
 
 # game/1_diya.rpy:6678
-translate general ch6_68ddfd6f:
+translate spanish ch6_68ddfd6f:
 
     # "Min has stopped attacking completely now. In fact, she looks kind of impressed."
     ""
 
 # game/1_diya.rpy:6679
-translate general ch6_ae5dd984:
+translate spanish ch6_ae5dd984:
 
     # Min "You're the worst scum ever."
     Min ""
 
 # game/1_diya.rpy:6680
-translate general ch6_1f2245df:
+translate spanish ch6_1f2245df:
 
     # Min "Let's be friends."
     Min ""
 
 # game/1_diya.rpy:6682
-translate general ch6_5bf06c14:
+translate spanish ch6_5bf06c14:
 
     # Akarsha "...Really?"
     Akarsha ""
 
 # game/1_diya.rpy:6687
-translate general ch6_a938b42b:
+translate spanish ch6_a938b42b:
 
     # Akarsha "So we cool?"
     Akarsha ""
 
 # game/1_diya.rpy:6689
-translate general ch6_b61fd423:
+translate spanish ch6_b61fd423:
 
     # Min "I guess."
     Min ""
 
 # game/1_diya.rpy:6691
-translate general ch6_69ef26ba:
+translate spanish ch6_69ef26ba:
 
     # Min "More importantly, that was really gross just now, so I never want to fight you again."
     Min ""
 
 # game/1_diya.rpy:6692
-translate general ch6_48e10cf0:
+translate spanish ch6_48e10cf0:
 
     # Min "Let's start over."
     Min ""
 
 # game/1_diya.rpy:6694
-translate general ch6_d1b777d1:
+translate spanish ch6_d1b777d1:
 
     # Min "I'm Min."
     Min ""
 
 # game/1_diya.rpy:6696
-translate general ch6_8c258ef7:
+translate spanish ch6_8c258ef7:
 
     # Akarsha "Min???"
     Akarsha ""
 
 # game/1_diya.rpy:6697
-translate general ch6_ab3bd460:
+translate spanish ch6_ab3bd460:
 
     # Akarsha "As in, the delinquent kid? The one who knifed someone?"
     Akarsha ""
 
 # game/1_diya.rpy:6699
-translate general ch6_43bf2b39:
+translate spanish ch6_43bf2b39:
 
     # Min "Yeah? Got a problem with that?"
     Min ""
 
 # game/1_diya.rpy:6701
-translate general ch6_9dfcacc7:
+translate spanish ch6_9dfcacc7:
 
     # Akarsha "Are you kidding me? I've been looking for you."
     Akarsha ""
 
 # game/1_diya.rpy:6702
-translate general ch6_fb9def90:
+translate spanish ch6_fb9def90:
 
     # Akarsha "I need a dumb rebel friend to enable me to make bad decisions."
     Akarsha ""
 
 # game/1_diya.rpy:6704
-translate general ch6_6b89d94a:
+translate spanish ch6_6b89d94a:
 
     # Noelle "They're...getting along?!"
     Noelle ""
 
 # game/1_diya.rpy:6705
-translate general ch6_efd535b0:
+translate spanish ch6_efd535b0:
 
     # Noelle "What's happening???? I don't like this!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:6707
-translate general ch6_2501b12d:
+translate spanish ch6_2501b12d:
 
     # "With her clean hand, Akarsha makes a fist and offers it out to Min."
     ""
 
 # game/1_diya.rpy:6709
-translate general ch6_d0896ccc:
+translate spanish ch6_d0896ccc:
 
     # Akarsha "Bros?"
     Akarsha ""
 
 # game/1_diya.rpy:6711
-translate general ch6_e459dd58:
+translate spanish ch6_e459dd58:
 
     # Min "Bros."
     Min ""
 
 # game/1_diya.rpy:6712
-translate general ch6_96bfbe3c:
+translate spanish ch6_96bfbe3c:
 
     # "They fist bump."
     ""
 
 # game/1_diya.rpy:6714
-translate general ch6_fbe9999b:
+translate spanish ch6_fbe9999b:
 
     # Akarsha "Be the yee to my haw..."
     Akarsha ""
 
 # game/1_diya.rpy:6715
-translate general ch6_b77f01ab:
+translate spanish ch6_b77f01ab:
 
     # Akarsha "The knuckles to my enchilada...."
     Akarsha ""
 
 # game/1_diya.rpy:6716
-translate general ch6_86279bad:
+translate spanish ch6_86279bad:
 
     # Akarsha "The human to my centipede..."
     Akarsha ""
 
 # game/1_diya.rpy:6718
-translate general ch6_356f166f:
+translate spanish ch6_356f166f:
 
     # Noelle "I don't like this!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:6721
-translate general ch6_9bd1bde6:
+translate spanish ch6_9bd1bde6:
 
     # Akarsha "We can annoy Noelle...together...!"
     Akarsha ""
 
 # game/1_diya.rpy:6723
-translate general ch6_33fafd6a:
+translate spanish ch6_33fafd6a:
 
     # Noelle "I have a terrible feeling about this!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:6726
-translate general ch6_fb440c48:
+translate spanish ch6_fb440c48:
 
     # "Min is quickly taking the opportunity to wipe her face on Akarsha's windbreaker."
     ""
 
 # game/1_diya.rpy:6728
-translate general ch6_f58886b1:
+translate spanish ch6_f58886b1:
 
     # Akarsha "Ew, no! Stop!"
     Akarsha ""
 
 # game/1_diya.rpy:6730
-translate general ch6_52600a96:
+translate spanish ch6_52600a96:
 
     # Min "It's your own damn blood!"
     Min ""
 
 # game/1_diya.rpy:6732
-translate general ch6_31b4fef4:
+translate spanish ch6_31b4fef4:
 
     # Akarsha "I don't want it either, man!"
     Akarsha ""
 
 # game/1_diya.rpy:6734
-translate general ch6_4bfa2772:
+translate spanish ch6_4bfa2772:
 
     # "Noelle tries to wipe her contaminated arm on Akarsha, too. Akarsha dodges to avoid it."
     ""
 
 # game/1_diya.rpy:6736
-translate general ch6_40a9ab30:
+translate spanish ch6_40a9ab30:
 
     # Akarsha "Augh!"
     Akarsha ""
 
 # game/1_diya.rpy:6738
-translate general ch6_46c989ec:
+translate spanish ch6_46c989ec:
 
     # Noelle "Diya! Hold her down!"
     Noelle ""
 
 # game/1_diya.rpy:6741
-translate general ch6_fd841d5d_1:
+translate spanish ch6_fd841d5d_1:
 
     # Diya "Okay."
     Diya ""
 
 # game/1_diya.rpy:6744
-translate general ch6_a2b5bc45:
+translate spanish ch6_a2b5bc45:
 
     # Akarsha "No! No, please, Diya, homie, listen,"
     Akarsha ""
 
 # game/1_diya.rpy:6746
-translate general ch6_8b10d5f6:
+translate spanish ch6_8b10d5f6:
 
     # "With brutal efficiency, Diya grabs Akarsha's wrist, covers the bloody hand with a plastic bag, and ties it shut."
     ""
 
 # game/1_diya.rpy:6747
-translate general ch6_b863d891:
+translate spanish ch6_b863d891:
 
     # "Then, she pins Akarsha to the ground, thrashing and screaming."
     ""
 
 # game/1_diya.rpy:6754
-translate general ch6_63a9761a:
+translate spanish ch6_63a9761a:
 
     # "Chryssa and Liz come through the door with the rest of the team following after them!"
     ""
 
 # game/1_diya.rpy:6757
-translate general ch6_acfbbdd2:
+translate spanish ch6_acfbbdd2:
 
     # "Akarsha, Diya, Noelle, and Min freeze mid-scuffle, still covered in blood."
     ""
 
 # game/1_diya.rpy:6759
-translate general ch6_0a19001a:
+translate spanish ch6_0a19001a:
 
     # Liz "Good, you're all he—"
     Liz ""
 
 # game/1_diya.rpy:6761
-translate general ch6_25feaa50:
+translate spanish ch6_25feaa50:
 
     # Liz "What the?!" with sshake
     Liz "" with sshake
 
 # game/1_diya.rpy:6767
-translate general ch6_ff5f7f88:
+translate spanish ch6_ff5f7f88:
 
     # "Noelle points accusingly at Min."
     ""
 
 # game/1_diya.rpy:6769
-translate general ch6_360eb065:
+translate spanish ch6_360eb065:
 
     # Noelle "It's all her fault! Diya did nothing wrong!"
     Noelle ""
 
 # game/1_diya.rpy:6771
-translate general ch6_c49b40b6:
+translate spanish ch6_c49b40b6:
 
     # Min "What?! It's your fault for being annoying!"
     Min ""
 
 # game/1_diya.rpy:6773
-translate general ch6_d4c60a42:
+translate spanish ch6_d4c60a42:
 
     # Noelle "You started it! You called me names first!"
     Noelle ""
 
 # game/1_diya.rpy:6775
-translate general ch6_f9547506:
+translate spanish ch6_f9547506:
 
     # Chryssa "Okay, we don't care who started it! "
     Chryssa ""
 
 # game/1_diya.rpy:6778
-translate general ch6_296ea072:
+translate spanish ch6_296ea072:
 
     # "Liz stumbles over Akarsha's fallen flip-flop on the ground."
     ""
 
 # game/1_diya.rpy:6780
-translate general ch6_70f56912:
+translate spanish ch6_70f56912:
 
     # Liz "Whose shoe is this?"
     Liz ""
 
 # game/1_diya.rpy:6782
-translate general ch6_40af6463:
+translate spanish ch6_40af6463:
 
     # Akarsha "Oh. Mine."
     Akarsha ""
 
 # game/1_diya.rpy:6784
-translate general ch6_003c666a:
+translate spanish ch6_003c666a:
 
     # Chryssa "Why isn't it on your foot?"
     Chryssa ""
 
 # game/1_diya.rpy:6786
-translate general ch6_408b2a7b:
+translate spanish ch6_408b2a7b:
 
     # Akarsha "I kicked it off."
     Akarsha ""
 
 # game/1_diya.rpy:6788
-translate general ch6_8eb0cccc:
+translate spanish ch6_8eb0cccc:
 
     # Chryssa ".........Why.........."
     Chryssa ""
 
 # game/1_diya.rpy:6790
-translate general ch6_c3ea7921:
+translate spanish ch6_c3ea7921:
 
     # Akarsha "She hit me!"
     Akarsha ""
 
 # game/1_diya.rpy:6791
-translate general ch6_4c79e604:
+translate spanish ch6_4c79e604:
 
     # "Akarsha points at Min."
     ""
 
 # game/1_diya.rpy:6793
-translate general ch6_57de7479:
+translate spanish ch6_57de7479:
 
     # Chryssa "How old are you guys?! Five?!"
     Chryssa ""
 
 # game/1_diya.rpy:6794
-translate general ch6_16436a03:
+translate spanish ch6_16436a03:
 
     # "Exasperated, Chryssa turns to Min."
     ""
 
 # game/1_diya.rpy:6796
-translate general ch6_4dd8bf07:
+translate spanish ch6_4dd8bf07:
 
     # Chryssa "And you're Min? You here to play baseball, too?"
     Chryssa ""
 
 # game/1_diya.rpy:6798
-translate general ch6_78ddaa7d:
+translate spanish ch6_78ddaa7d:
 
     # Min "Yeah. I got here late."
     Min ""
 
 # game/1_diya.rpy:6800
-translate general ch6_f64fb81d:
+translate spanish ch6_f64fb81d:
 
     # Chryssa "Well Min, I'm Chryssa."
     Chryssa ""
 
 # game/1_diya.rpy:6802
-translate general ch6_9564a28f:
+translate spanish ch6_9564a28f:
 
     # Noelle "She has a knife!"
     Noelle ""
 
 # game/1_diya.rpy:6805
-translate general ch6_5257d24c:
+translate spanish ch6_5257d24c:
 
     # Min "You damn snitch!"
     Min ""
 
 # game/1_diya.rpy:6807
-translate general ch6_c8a9e82a:
+translate spanish ch6_c8a9e82a:
 
     # Chryssa "Hand the knife over."
     Chryssa ""
 
 # game/1_diya.rpy:6809
-translate general ch6_aadd3c79:
+translate spanish ch6_aadd3c79:
 
     # Min "Why should I?"
     Min ""
 
 # game/1_diya.rpy:6811
-translate general ch6_6e9676ca:
+translate spanish ch6_6e9676ca:
 
     # Chryssa "Because if you don't, I won't let you play baseball."
     Chryssa ""
 
 # game/1_diya.rpy:6813
-translate general ch6_a4926fea:
+translate spanish ch6_a4926fea:
 
     # Min "You...You can do that?"
     Min ""
 
 # game/1_diya.rpy:6815
-translate general ch6_e7db5d40:
+translate spanish ch6_e7db5d40:
 
     # Chryssa "I can do that."
     Chryssa ""
 
 # game/1_diya.rpy:6816
-translate general ch6_2a000eca:
+translate spanish ch6_2a000eca:
 
     # "Min looks very shocked..."
     ""
 
 # game/1_diya.rpy:6817
-translate general ch6_2c00d156:
+translate spanish ch6_2c00d156:
 
     # Chryssa "You can have it back when we're done."
     Chryssa ""
 
 # game/1_diya.rpy:6818
-translate general ch6_a5d672e6:
+translate spanish ch6_a5d672e6:
 
     # Chryssa "But you don't need it here."
     Chryssa ""
 
 # game/1_diya.rpy:6820
-translate general ch6_e26ed9b8:
+translate spanish ch6_e26ed9b8:
 
     # "Min pulls the knife from her pocket and gives it to Chryssa."
     ""
 
 # game/1_diya.rpy:6822
-translate general ch6_84819499:
+translate spanish ch6_84819499:
 
     # Chryssa "All of them."
     Chryssa ""
 
 # game/1_diya.rpy:6823
-translate general ch6_f1592af7:
+translate spanish ch6_f1592af7:
 
     # Chryssa "Come on. We don't have all day."
     Chryssa ""
 
 # game/1_diya.rpy:6825
-translate general ch6_60e46ad9:
+translate spanish ch6_60e46ad9:
 
     # "Reluctantly, Min shakes her jacket out. Several more knives clatter to the ground."
     ""
 
 # game/1_diya.rpy:6826
-translate general ch6_9e127b1c:
+translate spanish ch6_9e127b1c:
 
     # "Chryssa puts them all on top of a cabinet in the corner of the room."
     ""
 
 # game/1_diya.rpy:6827
-translate general ch6_83a50647:
+translate spanish ch6_83a50647:
 
     # "It's too tall for Min to reach. She sadly looks up at them."
     ""
 
 # game/1_diya.rpy:6829
-translate general ch6_2ebe5e11:
+translate spanish ch6_2ebe5e11:
 
     # Liz "Let's go to the field and actually play some baseball now."
     Liz ""
 
 # game/1_diya.rpy:6830
-translate general ch6_1ec4d44b:
+translate spanish ch6_1ec4d44b:
 
     # Liz "We're going to lock this place up, so you can leave your backpacks here."
     Liz ""
 
 # game/1_diya.rpy:6832
-translate general ch6_ef67bf2d:
+translate spanish ch6_ef67bf2d:
 
     # Noelle "Well, I need mine. I'm going to do my homework."
     Noelle ""
 
 # game/1_diya.rpy:6834
-translate general ch6_68550935:
+translate spanish ch6_68550935:
 
     # Liz "Sorry! If you're here, you're playing."
     Liz ""
 
 # game/1_diya.rpy:6836
-translate general ch6_43443e22:
+translate spanish ch6_43443e22:
 
     # Noelle "I refuse."
     Noelle ""
 
 # game/1_diya.rpy:6839
-translate general ch6_29482f10:
+translate spanish ch6_29482f10:
 
     # Liz "So you want to do this the hard way? Good, because I love the hard way. "
     Liz ""
 
 # game/1_diya.rpy:6841
-translate general ch6_6e1957d1:
+translate spanish ch6_6e1957d1:
 
     # Noelle "Then I have no obligation to stay here and argue with you. Diya's fine now; I'm going home."
     Noelle ""
 
 # game/1_diya.rpy:6843
-translate general ch6_e16c04ca:
+translate spanish ch6_e16c04ca:
 
     # Liz "Really? Then where're your house keys?"
     Liz ""
 
 # game/1_diya.rpy:6845
-translate general ch6_541360da:
+translate spanish ch6_541360da:
 
     # Noelle "What kind of question is that?"
     Noelle ""
 
 # game/1_diya.rpy:6846
-translate general ch6_165c0e59:
+translate spanish ch6_165c0e59:
 
     # Noelle "They're right here in my...."
     Noelle ""
 
 # game/1_diya.rpy:6849
-translate general ch6_3c219e3d:
+translate spanish ch6_3c219e3d:
 
     # "Noelle whirls to the spot where she put down her bookbag earlier."
     ""
 
 # game/1_diya.rpy:6850
-translate general ch6_2cc10f7d:
+translate spanish ch6_2cc10f7d:
 
     # "It's gone."
     ""
 
 # game/1_diya.rpy:6851
-translate general ch6_cba96ea8:
+translate spanish ch6_cba96ea8:
 
     # "Chryssa adds Noelle's bookbag to the top of the cabinet."
     ""
 
 # game/1_diya.rpy:6854
-translate general ch6_9305d717:
+translate spanish ch6_9305d717:
 
     # Noelle "NoOOO!!!!" with sshake
     Noelle "" with sshake
 
 # game/1_diya.rpy:6857
-translate general ch6_aef61097:
+translate spanish ch6_aef61097:
 
     # Chryssa "Come on! Suffering builds character!"
     Chryssa ""
 
 # game/1_diya.rpy:6859
-translate general ch6_c0165d23:
+translate spanish ch6_c0165d23:
 
     # Noelle "I don't want character!"
     Noelle ""
 
 # game/1_diya.rpy:6861
-translate general ch6_14a591a0:
+translate spanish ch6_14a591a0:
 
     # DiyaT "I guess we're all playing baseball now?"
     DiyaT ""
 
-translate general strings:
+translate spanish strings:
 
     # game/1_diya.rpy:7
     old "Min-seo"
@@ -13659,4 +13659,3 @@ translate general strings:
     # game/1_diya.rpy:6155
     old "Ester"
     new ""
-

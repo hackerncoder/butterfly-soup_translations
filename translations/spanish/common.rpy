@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2020-12-18 13:04
 
-translate general strings:
+translate spanish strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
@@ -957,4 +957,3 @@ translate general strings:
     # renpy/common/_errorhandling.rpym:692
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new ""
-

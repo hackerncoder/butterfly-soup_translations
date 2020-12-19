@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2020-12-18 13:04
 
-translate general strings:
+translate spanish strings:
 
     # game/script.rpy:2790
     old "English"
@@ -73,4 +73,3 @@ translate general strings:
     # game/script.rpy:2829
     old "Liz"
     new "Liz"
-
