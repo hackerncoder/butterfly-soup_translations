@@ -4,5 +4,5 @@ translate general strings:
 
     # game/options.rpy:15
     old "Butterfly Soup"
-    new ""
+    new "Butterfly Soup"
 
