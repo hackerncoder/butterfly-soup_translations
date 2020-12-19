@@ -131,7 +131,7 @@ translate spanish strings:
     new "{a=https://twitter.com/ArazatiTea}Arazati{/a}"
 
     # game/screens.rpy:892
-    old "\n\nSpanish locilization by:"
+    old "\n\nSpanish localization by:"
     new "\n\nTraducido al español por:"
 
     # game/screens.rpy:893
@@ -235,8 +235,8 @@ translate spanish strings:
     new "Lenguaje"
 
     # game/screens.rpy:1170
-    old "{font=arial.ttf}{size=30}Español{/size}{/font}"
-    new "{font=arial.ttf}{size=30}Español{/size}{/font}"
+    #old "{font=arial.ttf}{size=30}Español{/size}{/font}"
+    #new "{font=arial.ttf}{size=30}Español{/size}{/font}"
 
     # game/screens.rpy:1297
     old "The dialogue history is empty."

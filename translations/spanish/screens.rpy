@@ -1333,7 +1333,7 @@ style history_name_text:
 
 translate spanish style history_name_text:
     font "arial.ttf"
-    size 18
+    size 24
 
 
 style history_text:
@@ -1350,7 +1350,7 @@ style history_text:
    # outlines [ (1, "#00000080", 1, 1) ]
 translate spanish style history_text:
     font "arial.ttf"
-    size 18
+    size 24
 
 style history_label:
     xfill True
