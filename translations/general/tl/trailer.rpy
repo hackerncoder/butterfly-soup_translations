@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-12-18 13:04
+﻿# TODO: Translation updated at 2020-12-19 14:20
 
 # game/trailer.rpy:9
 translate general charms_08c7669e:

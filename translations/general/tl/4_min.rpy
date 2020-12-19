@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-12-18 13:04
+﻿# TODO: Translation updated at 2020-12-19 14:20
 
 # game/4_min.rpy:64
 translate general min1_0267cb8a:
