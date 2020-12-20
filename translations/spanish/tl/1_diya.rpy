@@ -13150,259 +13150,259 @@ translate spanish strings:
 
     # game/1_diya.rpy:7
     old "Min-seo"
-    new ""
+    new "Min-seo"
 
     # game/1_diya.rpy:9
     old "Jun-seo"
-    new ""
+    new "Jun-seo"
 
     # game/1_diya.rpy:11
     old "Akarsha"
-    new ""
+    new "Akarsha"
 
     # game/1_diya.rpy:16
     old "Dog"
-    new ""
+    new "Perro"
 
     # game/1_diya.rpy:18
     old "npc"
-    new ""
+    new "npc"
 
     # game/1_diya.rpy:19
     old "npc2"
-    new ""
+    new "npc2"
 
     # game/1_diya.rpy:119
     old "The summer between\n3rd and 4th grade"
-    new ""
+    new "El verano entre\n3er y 4to grado"
 
     # game/1_diya.rpy:126
     old "Evil Dragon"
-    new ""
+    new "Dragon Malvado"
 
     # game/1_diya.rpy:300
     old "Gun(?)"
-    new ""
+    new "Pistola(?)"
 
     # game/1_diya.rpy:310
     old "Gun"
-    new ""
+    new "Pistola"
 
     # game/1_diya.rpy:322
     old "Shoot the dragon"
-    new ""
+    new "Disparar al dragón"
 
     # game/1_diya.rpy:322
     old "Shoot Min"
-    new ""
+    new "Disparar a Min"
 
     # game/1_diya.rpy:322
     old "Shoot Jun"
-    new ""
+    new "Disparar a Jun"
 
     # game/1_diya.rpy:322
     old "Shoot the deflected bullet"
-    new ""
+    new "Disparar la bala desviada"
 
     # game/1_diya.rpy:352
     old "Gun Horse"
-    new ""
+    new "Pistola Caballo"
 
     # game/1_diya.rpy:732
     old "Look at woman"
-    new ""
+    new "Mirar a la mujer"
 
     # game/1_diya.rpy:741
     old "Eat popcorn"
-    new ""
+    new "Comer palomitas"
 
     # game/1_diya.rpy:750
     old "Look at the diamond"
-    new ""
+    new "Mirar el juego"
 
     # game/1_diya.rpy:783
     old "Look at empty seat"
-    new ""
+    new "Mirar al puesto vacío"
 
     # game/1_diya.rpy:792
     old "Talk to Jun"
-    new ""
+    new "Hablar con Jun"
 
     # game/1_diya.rpy:801
     old "Talk to Min"
-    new ""
+    new "Hablar con Min"
 
     # game/1_diya.rpy:896
     old "Dad"
-    new ""
+    new "Papá"
 
     # game/1_diya.rpy:897
     old "Kid"
-    new ""
+    new "Niño"
 
     # game/1_diya.rpy:1413
     old "Let's go get popcorn"
-    new ""
+    new "Vamos por palomitas"
 
     # game/1_diya.rpy:1413
     old "Offer her popcorn"
-    new ""
+    new "Ofrecerle palomitas"
 
     # game/1_diya.rpy:1413
     old "Talk about school"
-    new ""
+    new "Hablar sobre la escuela"
 
     # game/1_diya.rpy:1413
     old "Talk about baseball"
-    new ""
+    new "Hablar sobre béisbol"
 
     # game/1_diya.rpy:1413
     old "Are you sure nothing's wrong?"
-    new ""
+    new "Estás segura de que todo está bien?"
 
     # game/1_diya.rpy:1413
     old "Give her the baseball"
-    new ""
+    new "Darle la pelota a Min"
 
     # game/1_diya.rpy:1413
     old "Never mind"
-    new ""
+    new "No importa"
 
     # game/1_diya.rpy:1641
     old "Look at strangers"
-    new ""
+    new "Mirar a los extraños"
 
     # game/1_diya.rpy:1649
     old "Keep walking toward popcorn guy"
-    new ""
+    new "Seguir hacia el chico de las palomitas"
 
     # game/1_diya.rpy:1749
     old "Look at dog"
-    new ""
+    new "Mirar al perro"
 
     # game/1_diya.rpy:1758
     old "Approach the popcorn guy"
-    new ""
+    new "Acercarce al chico de las palomitas"
 
     # game/1_diya.rpy:1767
     old "Popcorn Vendor"
-    new ""
+    new "Vendedor de Palomitas"
 
     # game/1_diya.rpy:1849
     old "Look at popcorn guy"
-    new ""
+    new "Mirar al chico de las palomitas"
 
     # game/1_diya.rpy:1857
     old "Walk back to seats"
-    new ""
+    new "Regresar a los asientos"
 
     # game/1_diya.rpy:1913
     old "Owner"
-    new ""
+    new "Dueño"
 
     # game/1_diya.rpy:1916
     old "Ask the owner if you can pet it"
-    new ""
+    new "Preguntarle al dueño si puedes acariciarlo"
 
     # game/1_diya.rpy:1916
     old "Let Min ask"
-    new ""
+    new "Dejar que Min pregunte"
 
     # game/1_diya.rpy:1962
     old "Pet dog"
-    new ""
+    new "Acariciar perro"
 
     # game/1_diya.rpy:1982
     old "Pom"
-    new ""
+    new "Pom"
 
     # game/1_diya.rpy:1982
     old "Shibe"
-    new ""
+    new "Shibe"
 
     # game/1_diya.rpy:2179
     old "Teach her \"Hi\""
-    new ""
+    new "Enseñarle \"Hola\""
 
     # game/1_diya.rpy:2179
     old "Teach her \"I like to fart\""
-    new ""
+    new "Enseñarle \"Me gusta tirarme pedos\""
 
     # game/1_diya.rpy:2185
     old "Hi."
-    new ""
+    new "Hola."
 
     # game/1_diya.rpy:2189
     old "Hi?"
-    new ""
+    new "Hola?"
 
     # game/1_diya.rpy:2198
     old "Hi!"
-    new ""
+    new "Hola!"
 
     # game/1_diya.rpy:2208
     old "I like to fart."
-    new ""
+    new "Me gusta tirarme pedos."
 
     # game/1_diya.rpy:2216
     old "I...uh..."
-    new ""
+    new "Yo...eh..."
 
     # game/1_diya.rpy:2226
     old "I like to fart!"
-    new ""
+    new "Me gusta tirarme pedos!"
 
     # game/1_diya.rpy:2295
     old "Look at Jun and Min's dad"
-    new ""
+    new "Mirar al papá de Min y Jun"
 
     # game/1_diya.rpy:2427
     old "Offer him popcorn"
-    new ""
+    new "Ofrecerle palomitas"
 
     # game/1_diya.rpy:2427
     old "Is there something going on with Min?"
-    new ""
+    new "Sucede algo con Min?"
 
     # game/1_diya.rpy:2427
     old "Give him the baseball"
-    new ""
+    new "Darle la pelota a Jun"
 
     # game/1_diya.rpy:2516
     old "???"
-    new ""
+    new "???"
 
     # game/1_diya.rpy:2535
     old "dude"
-    new ""
+    new "viejo"
 
     # game/1_diya.rpy:2555
     old "5 Years Later"
-    new ""
+    new "5 Años Después"
 
     # game/1_diya.rpy:2559
     old "9th grade"
-    new ""
+    new "9no grado"
 
     # game/1_diya.rpy:2587
     old "{cps=0}Diya's morning routine includes lying in bed for 10 minutes thinking about how tired she is. {/cps}"
-    new ""
+    new "{cps=0}La mañana de Diya incluye quedarse en la cama por 10 minutos pensando en lo cansada que está. {/cps}"
 
     # game/1_diya.rpy:2587
     old "Do it"
-    new ""
+    new "Hacerlo."
 
     # game/1_diya.rpy:2625
     old "Check your computer"
-    new ""
+    new "Revisar tu computadora"
 
     # game/1_diya.rpy:2646
     old ">Yeah"
-    new ""
+    new ">Sí"
 
     # game/1_diya.rpy:2646
     old ">No"
-    new ""
+    new ">No"
 
     # game/1_diya.rpy:2828
     old "Sign-toting man"
@@ -13482,7 +13482,7 @@ translate spanish strings:
 
     # game/1_diya.rpy:3850
     old "Stranger"
-    new ""
+    new "Extraño"
 
     # game/1_diya.rpy:3881
     old "Sign the paper"
@@ -13494,7 +13494,7 @@ translate spanish strings:
 
     # game/1_diya.rpy:3927
     old "Teacher"
-    new ""
+    new "Profesor"
 
     # game/1_diya.rpy:4080
     old "Homie G"
@@ -13630,32 +13630,32 @@ translate spanish strings:
 
     # game/1_diya.rpy:5676
     old "Tall girl"
-    new ""
+    new "Chica alta"
 
     # game/1_diya.rpy:5678
     old "Club member"
-    new ""
+    new "Miembro del club"
 
     # game/1_diya.rpy:5688
     old "Mom"
-    new ""
+    new "Mamá"
 
     # game/1_diya.rpy:5697
     old "At the meeting"
-    new ""
+    new "En la reunión"
 
     # game/1_diya.rpy:5856
     old "Girl from before"
-    new ""
+    new "Chica de antes"
 
     # game/1_diya.rpy:6138
     old "\"Sakura\""
-    new ""
+    new "\"Sakura\""
 
     # game/1_diya.rpy:6139
     old "\"Yuki\""
-    new ""
+    new "\"Yuki\""
 
     # game/1_diya.rpy:6155
     old "Ester"
-    new ""
+    new "Ester"

@@ -8,7 +8,7 @@ translate spanish strings:
 
     # game/screens.rpy:456
     old "Skip"
-    new "Saltar"
+    new "Saltar Diálogo"
 
     # game/screens.rpy:458
     old "Prefs"
@@ -40,7 +40,7 @@ translate spanish strings:
 
     # game/screens.rpy:557
     old "Main Menu"
-    new "Menú Principal"
+    new "Inicio"
 
     # game/screens.rpy:567
     old "Quit"
@@ -131,7 +131,7 @@ translate spanish strings:
     new "{a=https://twitter.com/ArazatiTea}Arazati{/a}"
 
     # game/screens.rpy:892
-    old "\n\nSpanish locilization by:"
+    old "\n\nSpanish localization by:"
     new "\n\nTraducido al español por:"
 
     # game/screens.rpy:893
@@ -180,15 +180,15 @@ translate spanish strings:
 
     # game/screens.rpy:1100
     old "Window"
-    new "Ventana"
+    new "Solo Ventana"
 
     # game/screens.rpy:1101
     old "Fullscreen"
-    new "Pantalla Completa"
+    new "Pantalla Entera"
 
     # game/screens.rpy:1107
     old "Unseen Text"
-    new "Texto sin ver"
+    new "Texto Sin Ver"
 
     # game/screens.rpy:1108
     old "After Choices"
@@ -232,11 +232,7 @@ translate spanish strings:
 
     # game/screens.rpy:1168
     old "Language"
-    new "Lenguaje"
-
-    # game/screens.rpy:1170
-    old "{font=arial.ttf}{size=30}Español{/size}{/font}"
-    new "{font=arial.ttf}{size=30}Español{/size}{/font}"
+    new "Idioma"
 
     # game/screens.rpy:1297
     old "The dialogue history is empty."

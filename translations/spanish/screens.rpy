@@ -29,7 +29,7 @@ style gui_text:
     font "YunusH.ttf"
 translate spanish style gui_text:
     font "arial.ttf"
-    size 24
+    size 26
 
 style button:
     properties gui.button_properties("button") #This is the menu side and selection text. For example, the "Fullscreen" option text
@@ -41,7 +41,7 @@ style button_text is gui_text:
     yalign 0.5
 translate spanish style button_text:
     font "arial.ttf"
-    size 20
+    size 26
 
 #alternate buttons
 style textbutton1 is default: #settings menu buttons
@@ -53,7 +53,7 @@ style textbutton1_text:
     size 32
 translate spanish style textbutton1_text:
     font "arial.ttf"
-    size 20
+    size 26
 
 
 style textbutton2 is default: #settings menu buttons
@@ -66,7 +66,7 @@ style textbutton2_text:
     size 32
 translate spanish style textbutton2_text:
     font "arial.ttf"
-    size 20
+    size 26
 
 style choice1_button:
     hover_sound "sound/peep.ogg"
@@ -79,14 +79,14 @@ style label_text is gui_text:
     font "YunusH.ttf"
 translate spanish style label_text:
     font "arial.ttf"
-    #size 20
+    size 28
 
 style prompt_text is gui_text:
     properties gui.text_properties("prompt")
     font "YunusH.ttf"
 translate spanish style prompt_text:
     font "arial.ttf"
-    size 20
+    size 26
 
 style bar:
     ysize gui.bar_size
@@ -1069,7 +1069,7 @@ style slot_button_text: #size of save file descriptions on the save/load page
     size 28
 translate spanish style slot_button_text:
     font "arial.ttf"
-    size 20
+    size 28
 
 
 ## Preferences screen ##########################################################
@@ -1170,7 +1170,7 @@ screen preferences():
 
                     label _("Language")
                     textbutton _("English") action Language(None)
-                    textbutton _("{font=arial.ttf}{size=30}Español{/size}{/font}") action Language("spanish")
+                    textbutton _("{font=arial.ttf}{size=26}Español{/size}{/font}") action Language("spanish")
 
 
 
@@ -1216,7 +1216,7 @@ style pref_label_text: #size of Settings menu submenu text (like Volume)
     size 45
 translate spanish style pref_label_text:
     font "arial.ttf"
-    size 28
+    size 30
 
 
 style pref_vbox:
@@ -1333,7 +1333,7 @@ style history_name_text:
 
 translate spanish style history_name_text:
     font "arial.ttf"
-    size 18
+    size 24
 
 
 style history_text:
@@ -1350,7 +1350,7 @@ style history_text:
    # outlines [ (1, "#00000080", 1, 1) ]
 translate spanish style history_text:
     font "arial.ttf"
-    size 18
+    size 24
 
 style history_label:
     xfill True
