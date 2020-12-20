@@ -1,76 +1,52 @@
-﻿# TODO: Translation updated at 2020-12-19 14:20
+﻿# TODO: Translation updated at 2020-12-20 15:54
 
 translate general strings:
 
-    # game/script.rpy:2790
+    # game/script.rpy:2705
     old "English"
     new ""
 
-    # game/script.rpy:2790
-    old "{font=traditional_chinese.ttf}中文{/font}"
+    # game/script.rpy:2705
+    old "{font=general.ttf}general{/font}"
     new ""
 
-    # game/script.rpy:2790
-    old "{font=myriad.OTF}Português{/font}"
-    new ""
-
-    # game/script.rpy:2790
-    old "{font=myriad.OTF}Česky{/font}"
-    new ""
-
-    # game/script.rpy:2790
-    old "{font=japanese.ttc}日本語{/font}"
-    new ""
-
-    # game/script.rpy:2790
-    old "{font=Binggrae.otf}한국어{/font}"
-    new ""
-
-    # game/script.rpy:2790
-    old "{font=myriad.OTF}Polski{/font}"
-    new ""
-
-    # game/script.rpy:2790
-    old "{font=times.ttf}فارسی{/font}"
-    new ""
-
-    # game/script.rpy:2820
+    # game/script.rpy:2721
     old "Diya"
     new ""
 
-    # game/script.rpy:2821
+    # game/script.rpy:2722
     old "Min"
     new ""
 
-    # game/script.rpy:2822
+    # game/script.rpy:2723
     old "Noelle"
     new ""
 
-    # game/script.rpy:2823
+    # game/script.rpy:2724
     old "YAOI SEME"
     new ""
 
-    # game/script.rpy:2824
+    # game/script.rpy:2725
     old "NOELLEFUCKER69"
     new ""
 
-    # game/script.rpy:2825
+    # game/script.rpy:2726
     old "albret einstong"
     new ""
 
-    # game/script.rpy:2826
+    # game/script.rpy:2727
     old "Yuki"
     new ""
 
-    # game/script.rpy:2827
+    # game/script.rpy:2728
     old "Sakura"
     new ""
 
-    # game/script.rpy:2828
+    # game/script.rpy:2729
     old "Chryssa"
     new ""
 
-    # game/script.rpy:2829
+    # game/script.rpy:2730
     old "Liz"
     new ""
 
