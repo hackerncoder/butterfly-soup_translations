@@ -7,32 +7,8 @@ translate spanish strings:
     new "English"
 
     # game/script.rpy:2790
-    old "{font=traditional_chinese.ttf}中文{/font}"
-    new "{font=traditional_chinese.ttf}中文{/font}"
-
-    # game/script.rpy:2790
-    old "{font=myriad.OTF}Português{/font}"
-    new "{font=myriad.OTF}Português{/font}"
-
-    # game/script.rpy:2790
-    old "{font=myriad.OTF}Česky{/font}"
-    new "{font=myriad.OTF}Česky{/font}"
-
-    # game/script.rpy:2790
-    old "{font=japanese.ttc}日本語{/font}"
-    new "{font=japanese.ttc}日本語{/font}"
-
-    # game/script.rpy:2790
-    old "{font=Binggrae.otf}한국어{/font}"
-    new "{font=Binggrae.otf}한국어{/font}"
-
-    # game/script.rpy:2790
-    old "{font=myriad.OTF}Polski{/font}"
-    new "{font=myriad.OTF}Polski{/font}"
-
-    # game/script.rpy:2790
-    old "{font=times.ttf}فارسی{/font}"
-    new "{font=times.ttf}فارسی{/font}"
+    old "{font=arial.ttf}Español{/font}"
+    new "{font=arial.ttf}Español{/font}"
 
     # game/script.rpy:2820
     old "Diya"
