@@ -12,6 +12,7 @@ To get started, check the satus of the language you want to translate, if it is 
 In Progress:
 * Spanish: [#1](https://github.com/hackerncoder/butterfly-soup_translations/issues/1)
 * Tamil: [#3](https://github.com/hackerncoder/butterfly-soup_translations/issues/3)
+* French: [#4](https://github.com/hackerncoder/butterfly-soup_translations/issues/4)
 
 &nbsp;
 
