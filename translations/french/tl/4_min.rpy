@@ -394,13 +394,13 @@ translate french america_d58637c1:
 translate french america_519e7a8f:
 
     # Boy "Hey, Hayden! Jun!"
-    Garçon "Hey, Hayden ! Jun ! "
+    Boy "Hey, Hayden ! Jun ! "
 
 # game/4_min.rpy:212
 translate french america_75250582:
 
     # Boy "Wanna play baseball?"
-    Garçon "On joue au baseball ? "
+    Boy "On joue au baseball ? "
 
 # game/4_min.rpy:215
 translate french america_5a48e821:
@@ -424,7 +424,7 @@ translate french america_1a08212e:
 translate french america_8f3736aa:
 
     # Boy "Aren't you both in Little League?"
-    Garçon "Vous n'êtes pas en ligue junior tous les deux ?"
+    Boy "Vous n'êtes pas en ligue junior tous les deux ?"
 
 # game/4_min.rpy:222
 translate french america_8370805a:
@@ -448,7 +448,7 @@ translate french america_c6d74362:
 translate french america_fab8826f:
 
     # Boy "You??"
-    Garçon "Toi ??"
+    Boy "Toi ??"
 
 # game/4_min.rpy:229
 translate french america_0c2cfab0:
@@ -490,7 +490,7 @@ translate french america_8f04acb5:
 translate french america_61eb2473:
 
     # Boy "What?! No!"
-    Garçon "Hein ?! Non ! "
+    Boy "Hein ?! Non ! "
 
 # game/4_min.rpy:244
 translate french america_621f5271:
@@ -514,7 +514,7 @@ translate french america_ad8c6bf8:
 translate french america_28eab17b:
 
     # Boy "She said the b-word..."
-    Garçon "Elle a dit le mot en s..."
+    Boy "Elle a dit le mot en s..."
 
 # game/4_min.rpy:251
 translate french america_7c180eb4:
@@ -616,7 +616,7 @@ translate french america_7298d6fe:
 translate french america_f42f1588:
 
     # Boy "...You...you can't do that!"
-    Garçon "... Tu... Tu peux pas faire ça ! "
+    Boy "... Tu... Tu peux pas faire ça ! "
 
 # game/4_min.rpy:295
 translate french america_2c12e895:
@@ -724,7 +724,7 @@ translate french america_36123a56:
 translate french america_a4b64bf1:
 
     # NPC "Hahaha!!!"
-    PNJ "Hahaha !!!"
+    NPC "Hahaha !!!"
 
 # game/4_min.rpy:339
 translate french america_0ba108a4:
@@ -772,13 +772,13 @@ translate french gameboy_d48d0ff8:
 translate french gameboy_07e4e4dd:
 
     # Mom "What?? Don't be silly."
-    Maman "Quoi ?? Ne sois pas bête."
+    Mom "Quoi ?? Ne sois pas bête."
 
 # game/4_min.rpy:365
 translate french gameboy_3123d7a5:
 
     # Mom "You look so cute in them."
-    Maman "Tu es tellement mignonne avec."
+    Mom "Tu es tellement mignonne avec."
 
 # game/4_min.rpy:367
 translate french gameboy_68de6374:
@@ -796,7 +796,7 @@ translate french gameboy_1465c3c6:
 translate french gameboy_234f19f3:
 
     # Mom "Well, we already bought them. So you have to wear them."
-    Maman "Oui et bien, elles sont déjà achetées.  Alors tu vas devoir les porter."
+    Mom "Oui et bien, elles sont déjà achetées.  Alors tu vas devoir les porter."
 
 # game/4_min.rpy:372
 translate french gameboy_4076c734:
@@ -826,13 +826,13 @@ translate french gameboy_67139a52:
 translate french gameboy_ad47d4c1:
 
     # Mom "That'd be crazy! Jun's a boy."
-    Maman "Ce serait n'importe quoi ! Jun est un garçon."
+    Mom "Ce serait n'importe quoi ! Jun est un garçon."
 
 # game/4_min.rpy:378
 translate french gameboy_a8043700:
 
     # Mom "Boys don't wear skirts."
-    Maman "Les garçons ne mettent pas de jupes. "
+    Mom "Les garçons ne mettent pas de jupes. "
 
 # game/4_min.rpy:380
 translate french gameboy_c3df827e:
@@ -856,7 +856,7 @@ translate french gameboy_f404533e:
 translate french gameboy_732b4e26:
 
     # Mom "What're you talking about? That's your favorite shirt."
-    Maman "Mais qu'est ce que tu racontes ? C'est ta chemise préférée."
+    Mom "Mais qu'est ce que tu racontes ? C'est ta chemise préférée."
 
 # game/4_min.rpy:391
 translate french gameboy_f3699ec1:
@@ -868,7 +868,7 @@ translate french gameboy_f3699ec1:
 translate french gameboy_1707cd0e:
 
     # Mom "Why? It's a perfectly good shirt."
-    Maman "Pourquoi ? Elle est très bien cette chemise."
+    Mom "Pourquoi ? Elle est très bien cette chemise."
 
 # game/4_min.rpy:395
 translate french gameboy_b1083d75:
@@ -886,13 +886,13 @@ translate french gameboy_bad40199:
 translate french gameboy_ec4dfa2d:
 
     # Dad "Both of you are being ridiculous. You're wearing the clothes we bought you, and that's final."
-    Papa "Vous êtes ridicules tous les deux. Vous porterez les habits qu'on vous achète, point final."
+    Dad "Vous êtes ridicules tous les deux. Vous porterez les habits qu'on vous achète, point final."
 
 # game/4_min.rpy:399
 translate french gameboy_ec471ab8:
 
     # Dad "So spoiled. What kind of kids are you?"
-    Papa  "Tellement gâtés. Qu'est-ce que c'est que ces gosses ?"
+    Dad  "Tellement gâtés. Qu'est-ce que c'est que ces gosses ?"
 
 # game/4_min.rpy:401
 translate french gameboy_6e6159b3:
@@ -958,7 +958,7 @@ translate french gameboy_f685154b:
 translate french gameboy_c819690c:
 
     # Mom "Why don't you look outside at all the trees?"
-    Maman "Pourquoi tu ne regardes pas les arbres dehors ? "
+    Mom "Pourquoi tu ne regardes pas les arbres dehors ? "
 
 # game/4_min.rpy:441
 translate french gameboy_85505d9b:
@@ -970,19 +970,19 @@ translate french gameboy_85505d9b:
 translate french gameboy_0aea1611:
 
     # Mom "It's not normal for a girl to like video games that much."
-    Maman "Ce n'est pas normal pour une fille d'aimer autant les jeux vidéos. "
+    Mom "Ce n'est pas normal pour une fille d'aimer autant les jeux vidéos. "
 
 # game/4_min.rpy:445
 translate french gameboy_c70600d9:
 
     # Mom "None of our friends' daughters play games."
-    Maman "Aucune des filles de nos amis ne jouent aux jeux."
+    Mom "Aucune des filles de nos amis ne jouent aux jeux."
 
 # game/4_min.rpy:446
 translate french gameboy_a344bf22:
 
     # Mom "There must be something wrong with your hormones. We should go see a doctor."
-    Maman "Il doit y avoir un problème avec tes hormones. On devrait aller voir un docteur."
+    Mom "Il doit y avoir un problème avec tes hormones. On devrait aller voir un docteur."
 
 # game/4_min.rpy:449
 translate french gameboy_46862a06:
@@ -994,25 +994,25 @@ translate french gameboy_46862a06:
 translate french gameboy_b0555f65:
 
     # Mom "Yes, there is. It's not natural for a girl. "
-    Maman  "Bien sûr que si. C'est contre nature pour une fille. "
+    Mom  "Bien sûr que si. C'est contre nature pour une fille. "
 
 # game/4_min.rpy:454
 translate french gameboy_6087e54d:
 
     # Dad "It's called a Game Boy, not a Game Girl!"
-    Papa "On dit une Game Boy, pas une Game Girl ! "
+    Dad "On dit une Game Boy, pas une Game Girl ! "
 
 # game/4_min.rpy:455
 translate french gameboy_b337a433:
 
     # Dad "Hahaha!"
-    Papa "Hahaha ! "
+    Dad "Hahaha ! "
 
 # game/4_min.rpy:457
 translate french gameboy_a99df930:
 
     # Mom "Haha! Good one!"
-    Maman "Haha ! Bien trouvé ! "
+    Mom "Haha ! Bien trouvé ! "
 
 # game/4_min.rpy:460
 translate french gameboy_de5b8b15:
@@ -1024,7 +1024,7 @@ translate french gameboy_de5b8b15:
 translate french gameboy_0da8953e:
 
     # Dad "It's just a game. Take it easy."
-    Papa "C'est juste un jeu. Calme toi."
+    Dad "C'est juste un jeu. Calme toi."
 
 # game/4_min.rpy:466
 translate french gameboy_ca7d1048:
@@ -1240,7 +1240,7 @@ translate french mcDonalds_0dd77a69:
 translate french lookAtTV_5a6b010b:
 
     # NPC "Imagine a world where love is ILLEGAL..."
-    PNJ "Imaginez un monde où l'amour est ILLÉGAL... "
+    NPC "Imaginez un monde où l'amour est ILLÉGAL... "
 
 # game/4_min.rpy:604
 translate french lookAtTV_c679307c:
@@ -1252,7 +1252,7 @@ translate french lookAtTV_c679307c:
 translate french lookAtTV_dce15945:
 
     # NPC "Breathtakingly original..."
-    PNJ "D'une originalité à couper le souffle... "
+    NPC "D'une originalité à couper le souffle... "
 
 # game/4_min.rpy:606
 translate french lookAtTV_19516152:
@@ -1270,7 +1270,7 @@ translate french lookAtTV_3e52293c:
 translate french lookAtTV_4a9ddc9e:
 
     # NPC "A forbidden romance like you've NEVER seen before..."
-    PNJ "Un amour interdit comme vous n'en avez JAMAIS vu avant... "
+    NPC "Un amour interdit comme vous n'en avez JAMAIS vu avant... "
 
 # game/4_min.rpy:611
 translate french lookAtTV_ecd98013:
@@ -1558,7 +1558,7 @@ translate french toy_34e034f0:
 translate french toy_64dbf08f:
 
     # NPC "Sorry, we can't do that."
-    PNJ "Pardon mais nous ne pouvons pas faire ça."
+    NPC "Pardon mais nous ne pouvons pas faire ça."
 
 # game/4_min.rpy:785
 translate french toy_3acfa10c:
@@ -1570,7 +1570,7 @@ translate french toy_3acfa10c:
 translate french toy_b06bd761:
 
     # NPC "But you're such a pretty girl! You don't want Hot Wheels."
-    PNJ "Mais tu es une fille si mignonne ! Tu ne veux pas d'une voiture Hot Wheels."
+    NPC "Mais tu es une fille si mignonne ! Tu ne veux pas d'une voiture Hot Wheels."
 
 # game/4_min.rpy:789
 translate french toy_8dd1f32a:
@@ -1588,7 +1588,7 @@ translate french toy_9186ffd1:
 translate french toy_524d3a52:
 
     # NPC "Haha! You're a funny little girl."
-    PNJ "Haha ! Tu es une drôle de petite fille."
+    NPC "Haha ! Tu es une drôle de petite fille."
 
 # game/4_min.rpy:802
 translate french mirror_bda8889e:
@@ -1612,7 +1612,7 @@ translate french mirror_bda8889e_2:
 translate french mirror_75585899:
 
     # Mom "What were you thinking?! Why did you ruin your hair like that?!" with sshake
-    Maman "Tu pensais à quoi ? Pourquoi tu as ruiné ta coiffure comme ça ?! " with sshake
+    Mom "Tu pensais à quoi ? Pourquoi tu as ruiné ta coiffure comme ça ?! " with sshake
 
 # game/4_min.rpy:818
 translate french mirror_ab07a58d:
@@ -1630,13 +1630,13 @@ translate french mirror_6db25bea:
 translate french mirror_a996dacf:
 
     # Dad "What's gotten into you?!"
-    Papa "Qu'est ce qui t'as pris ?!"
+    Dad "Qu'est ce qui t'as pris ?!"
 
 # game/4_min.rpy:823
 translate french mirror_711777eb:
 
     # Dad "If you continue like this, no man is ever going to marry you!"
-    Papa "Si tu continues comme ça, aucun homme ne voudra se marier avec toi ! "
+    Dad "Si tu continues comme ça, aucun homme ne voudra se marier avec toi ! "
 
 # game/4_min.rpy:825
 translate french mirror_8bac71d0:
@@ -1666,7 +1666,7 @@ translate french mirror_9c627691:
 translate french mirror_23796d5a:
 
     # Dad "You have to have at least two or three."
-    Papa "Tu dois en avoir au moins deux ou trois."
+    Dad "Tu dois en avoir au moins deux ou trois."
 
 # game/4_min.rpy:832
 translate french mirror_f95155f9:
@@ -1678,13 +1678,13 @@ translate french mirror_f95155f9:
 translate french mirror_8a573ee1:
 
     # Mom "You won't be happy if you don't have kids."
-    Maman "Tu ne seras pas heureuse si tu n'as pas d'enfants. "
+    Mom "Tu ne seras pas heureuse si tu n'as pas d'enfants. "
 
 # game/4_min.rpy:836
 translate french mirror_e078fbbd:
 
     # Mom "You'll get it when you grow up."
-    Maman "Tu comprendras quand tu seras plus grande."
+    Mom "Tu comprendras quand tu seras plus grande."
 
 # game/4_min.rpy:838
 translate french mirror_3905c0c2:
@@ -1702,13 +1702,13 @@ translate french mirror_ba3cf420:
 translate french mirror_c0d9f3fb:
 
     # Mom "Well, nobody's perfect."
-    Maman "Et bien, personne n'est parfait."
+    Mom "Et bien, personne n'est parfait."
 
 # game/4_min.rpy:842
 translate french mirror_a8ef378f:
 
     # Mom "You have to have realistic expectations."
-    Maman "Il faut que tu sois réaliste sur tes attentes dans la vie."
+    Mom "Il faut que tu sois réaliste sur tes attentes dans la vie."
 
 # game/4_min.rpy:844
 translate french mirror_e458ed10:
@@ -1732,13 +1732,13 @@ translate french mirror_bc4119c1:
 translate french mirror_c8c990dd:
 
     # Mom "Prince Charming doesn't exist in real life."
-    Maman "Le prince charmant n'existe pas dans la réalité."
+    Mom "Le prince charmant n'existe pas dans la réalité."
 
 # game/4_min.rpy:849
 translate french mirror_3fd3798f:
 
     # Mom "If you think like that, you'll never find anyone."
-    Maman "Si tu penses comme ça, tu ne trouveras jamais personne."
+    Mom "Si tu penses comme ça, tu ne trouveras jamais personne."
 
 # game/4_min.rpy:851
 translate french mirror_e55eb48f:
@@ -1750,7 +1750,7 @@ translate french mirror_e55eb48f:
 translate french mirror_05b7a717:
 
     # Mom "You can't do that!"
-    Maman "Tu ne peux pas faire ça ! "
+    Mom "Tu ne peux pas faire ça ! "
 
 # game/4_min.rpy:855
 translate french mirror_8beabf7a:
@@ -1762,7 +1762,7 @@ translate french mirror_8beabf7a:
 translate french mirror_16d2eed0:
 
     # Mom "We're your parents! You have to do what we say!"
-    Maman "Nous sommes tes parents ! Tu dois faire ce qu'on te dit de faire ! "
+    Mom "Nous sommes tes parents ! Tu dois faire ce qu'on te dit de faire ! "
 
 # game/4_min.rpy:859
 translate french mirror_14eda8f0:
@@ -1774,25 +1774,25 @@ translate french mirror_14eda8f0:
 translate french mirror_7f3c4b13:
 
     # Mom "What's wrong with you?!"
-    Maman "Qu'est ce qui ne va pas chez toi ?!"
+    Mom "Qu'est ce qui ne va pas chez toi ?!"
 
 # game/4_min.rpy:862
 translate french mirror_53eeddb4:
 
     # Mom "What did we ever deserve to get a horrible child like this?!"
-    Maman "Qu'est ce qu'on a fait pour mériter un enfant horrible comme ça ?!"
+    Mom "Qu'est ce qu'on a fait pour mériter un enfant horrible comme ça ?!"
 
 # game/4_min.rpy:864
 translate french mirror_2b3742eb:
 
     # Dad "There's something wrong with her brain. She's so disobedient."
-    Papa "Il y a quelque chose qui ne va pas avec son cerveau. Elle est tellement désobéissante."
+    Dad "Il y a quelque chose qui ne va pas avec son cerveau. Elle est tellement désobéissante."
 
 # game/4_min.rpy:865
 translate french mirror_7664c70e:
 
     # Dad "She's still playing baseball with all those boys."
-    Papa "Elle continue de jouer au baseball avec tous ces garçons."
+    Dad "Elle continue de jouer au baseball avec tous ces garçons."
 
 # game/4_min.rpy:867
 translate french mirror_91745122:
@@ -1804,13 +1804,13 @@ translate french mirror_91745122:
 translate french mirror_863b5c98:
 
     # Dad "Do you see any other girls doing that?"
-    Papa "Tu as déjà vu d'autres filles faire ça ? "
+    Dad "Tu as déjà vu d'autres filles faire ça ? "
 
 # game/4_min.rpy:870
 translate french mirror_67a1ab04:
 
     # Dad "Do you want to be some kind of weirdo?"
-    Papa "Tu veux être une espèce de dérangée ? "
+    Dad "Tu veux être une espèce de dérangée ? "
 
 # game/4_min.rpy:872
 translate french mirror_ed10bfaf:
@@ -1822,13 +1822,13 @@ translate french mirror_ed10bfaf:
 translate french mirror_b6d1c809:
 
     # Dad "Jun is a boy! You're a girl!"
-    Papa "Jun est un garçon ! Tu es une fille ! "
+    Dad "Jun est un garçon ! Tu es une fille ! "
 
 # game/4_min.rpy:877
 translate french mirror_cc5a06ce:
 
     # Dad "What part of that don't you understand?! Are you brain damaged?"
-    Papa "Qu'est ce que tu ne comprends pas avec ça ?! Tu t'es faite une entorse au cerveau ? "
+    Dad "Qu'est ce que tu ne comprends pas avec ça ?! Tu t'es faite une entorse au cerveau ? "
 
 # game/4_min.rpy:880
 translate french mirror_41c07976:
@@ -1840,13 +1840,13 @@ translate french mirror_41c07976:
 translate french mirror_49aa4f4f:
 
     # Dad "That's reality! The world's not fair!"
-    Papa "C'est la réalité ! Le monde est injuste ! "
+    Dad "C'est la réalité ! Le monde est injuste ! "
 
 # game/4_min.rpy:883
 translate french mirror_9dd92707:
 
     # Dad "This isn't some fairy tale! You have to accept it, or you're stupid!"
-    Papa "On n'est pas dans un conte de fée ! Il faut que tu l'acceptes, ou tu es stupide ! "
+    Dad "On n'est pas dans un conte de fée ! Il faut que tu l'acceptes, ou tu es stupide ! "
 
 # game/4_min.rpy:887
 translate french mirror_7e0ec8d5:
@@ -1864,19 +1864,19 @@ translate french mirror_9fe1f5de:
 translate french mirror_4bca79e0:
 
     # Dad "{big=20}SO STUPID! WE REALLY DO HAVE TO TAKE YOU TO A DOCTOR NOW!{/big}" with sshake
-    Papa "{big=20}TELLEMENT STUPIDE ! ON VA VRAIMENT DEVOIR T'EMMENER VOIR UN DOCTEUR MAINTENANT !{/big}" with sshake
+    Dad "{big=20}TELLEMENT STUPIDE ! ON VA VRAIMENT DEVOIR T'EMMENER VOIR UN DOCTEUR MAINTENANT !{/big}" with sshake
 
 # game/4_min.rpy:893
 translate french mirror_7b17139a:
 
     # Dad "{big=20}YOU HAVE MENTAL PROBLEMS! BRAIN DAMAGED!{/big}" with sshake
-    Papa "{big=20}TU ES COMPLÈTEMENT DÉTRAQUÉE DU CERVEAU ! {/big}" with sshake
+    Dad "{big=20}TU ES COMPLÈTEMENT DÉTRAQUÉE DU CERVEAU ! {/big}" with sshake
 
 # game/4_min.rpy:894
 translate french mirror_c1527b0b:
 
     # Dad "{big=20}RETARDED!{/big}" with sshake
-    Papa  "{big=20} ABRUTIE ! {/big}" with sshake
+    Dad  "{big=20} ABRUTIE ! {/big}" with sshake
 
 # game/4_min.rpy:898
 translate french mirror_5560c7a7:
@@ -1924,7 +1924,7 @@ translate french mirror_0aaa7d35:
 translate french mirror_f17bea29:
 
     # Mom "You were asking for it."
-    Maman "Tu l'as cherché."
+    Mom "Tu l'as cherché."
 
 # game/4_min.rpy:918
 translate french mirror_e338a9b9:
@@ -1948,7 +1948,7 @@ translate french mirror_618e3e1a:
 translate french mirror_51f3578d:
 
     # Dad "Shut up!" with sshake
-    Papa "Ferme-la ! " with sshake
+    Dad "Ferme-la ! " with sshake
 
 # game/4_min.rpy:924
 translate french mirror_d7b14dbc:
@@ -1972,7 +1972,7 @@ translate french mirror_f4e46d9b:
 translate french mirror_ccbbd9e1:
 
     # Dad "AUGH!!!" with sshake
-    Papa "AÏE !!!" with sshake
+    Dad "AÏE !!!" with sshake
 
 # game/4_min.rpy:932
 translate french mirror_b961992a:
@@ -2326,13 +2326,13 @@ translate french meetingDiya_f5204332:
 translate french meetingDiya_ce41ef83:
 
     # NPC "Hey, look! It's a girl batting!"
-    PNJ "Hey, regardez ! C'est une fille à la batte ! "
+    NPC "Hey, regardez ! C'est une fille à la batte ! "
 
 # game/4_min.rpy:1068
 translate french meetingDiya_5f3742f8:
 
     # NPC2 "Yes! Our team got lucky!"
-    PNJ2 "Ouais ! Notre équipe a de la chance ! "
+    NPC2 "Ouais ! Notre équipe a de la chance ! "
 
 # game/4_min.rpy:1084
 translate french meetingDiya_74edb3c7:
@@ -3772,7 +3772,7 @@ translate french furry_4f2285a5:
 translate french furry_b2e7e140:
 
     # NPC "How many?"
-    PNJ "Combien ?"
+    NPC "Combien ?"
 
 # game/4_min.rpy:1632
 translate french furry_c061639d:
@@ -3784,7 +3784,7 @@ translate french furry_c061639d:
 translate french furry_19dd2bff:
 
     # NPC "We don't have any large tables left. Is two separate ones fine?"
-    PNJ "Nous n'avons plus de grandes tables. Est-ce que ça irait avec deux tables séparées ?"
+    NPC "Nous n'avons plus de grandes tables. Est-ce que ça irait avec deux tables séparées ?"
 
 # game/4_min.rpy:1634
 translate french furry_3ff12095:
@@ -3796,7 +3796,7 @@ translate french furry_3ff12095:
 translate french furry_20c35c40:
 
     # NPC "Come this way."
-    PNJ "Suivez-moi."
+    NPC "Suivez-moi."
 
 # game/4_min.rpy:1636
 translate french furry_4a591d09:
@@ -3826,7 +3826,7 @@ translate french furry_2f6f419c:
 translate french furry_63981d3d:
 
     # NPC "................"
-    PNJ "................"
+    NPC "................"
 
 # game/4_min.rpy:1646
 translate french furry_8e650fe7:

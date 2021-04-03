@@ -700,7 +700,7 @@ translate french wakeUp_9d48d641:
 translate french wakeUp_6a3d80f6:
 
     # Mom "What did you get on the math test?"
-    Mère "Qu'est-ce que tu as eu comme note en maths ?"
+    Mom "Qu'est-ce que tu as eu comme note en maths ?"
 
 # game/2_noelle.rpy:364
 translate french wakeUp_0590859f:
@@ -712,7 +712,7 @@ translate french wakeUp_0590859f:
 translate french wakeUp_5c4243d2:
 
     # Mom "A-? Why not A?"
-    Mère "16 ? Pourquoi pas un 18 ?"
+    Mom "16 ? Pourquoi pas un 18 ?"
 
 # game/2_noelle.rpy:367
 translate french wakeUp_4b7f6a27:
@@ -724,25 +724,25 @@ translate french wakeUp_4b7f6a27:
 translate french wakeUp_7b0a96e5:
 
     # Mom "Look at this article."
-    Mère "Regarde cet article."
+    Mom "Regarde cet article."
 
 # game/2_noelle.rpy:369
 translate french wakeUp_60559349:
 
     # Mom "This boy was accepted into every single Ivy League college. He lives in Pleasanton."
-    Mère "Ce garçon a été accepté dans toutes les université de l'Ivy League. Il vit à Pleasanton"
+    Mom "Ce garçon a été accepté dans toutes les université de l'Ivy League. Il vit à Pleasanton"
 
 # game/2_noelle.rpy:370
 translate french wakeUp_2ee13495:
 
     # Mom "If he can do it, why can't you?"
-    Mère "S'il peut le faire, pourquoi pas toi ?"
+    Mom "S'il peut le faire, pourquoi pas toi ?"
 
 # game/2_noelle.rpy:371
 translate french wakeUp_2341c4b7:
 
     # Mom "I'm putting this on your wall. To inspire you."
-    Mère "Je vais accrocher ça à ton mur. Pour t'inspirer"
+    Mom "Je vais accrocher ça à ton mur. Pour t'inspirer"
 
 # game/2_noelle.rpy:372
 translate french wakeUp_f0dc1bb3:
@@ -760,7 +760,7 @@ translate french wakeUp_d9c076d7:
 translate french wakeUp_b31f7479:
 
     # Mom "What for?"
-    Mère "Pour faire quoi ?"
+    Mom "Pour faire quoi ?"
 
 # game/2_noelle.rpy:378
 translate french wakeUp_f2dd3498:
@@ -778,7 +778,7 @@ translate french wakeUp_815e78fd:
 translate french wakeUp_4bef0aa0:
 
     # Mom "Will Diya still be your friend if you say no?"
-    Mère "Est-ce que Diya sera toujours ton amie si tu dis non ? "
+    Mom "Est-ce que Diya sera toujours ton amie si tu dis non ? "
 
 # game/2_noelle.rpy:383
 translate french wakeUp_a8f2b6f6:
@@ -790,25 +790,25 @@ translate french wakeUp_a8f2b6f6:
 translate french wakeUp_a3479395:
 
     # Mom "Then there's no point."
-    Mère "Donc il n'y a aucun intérêt"
+    Mom "Donc il n'y a aucun intérêt"
 
 # game/2_noelle.rpy:386
 translate french wakeUp_ae7c597f:
 
     # Mom "Now that you've already established your friendship, you should be expending the minimum amount of energy to maintain it."
-    Mère "à présent que tu as établi une amitié, tu devrais utiliser le minimum d'énergie nécessaire afin de la maintenir."
+    Mom "à présent que tu as établi une amitié, tu devrais utiliser le minimum d'énergie nécessaire afin de la maintenir."
 
 # game/2_noelle.rpy:387
 translate french wakeUp_fd3d62ab:
 
     # Mom "Otherwise you're just wasting your limited time. Fun is an illusion."
-    Mère "Sinon tu perds juste ton temps limité. La plaisanterie est une illusion."
+    Mom "Sinon tu perds juste ton temps limité. La plaisanterie est une illusion."
 
 # game/2_noelle.rpy:388
 translate french wakeUp_04ee9e1c:
 
     # Mom "Don't be controlled by your emotions."
-    Mère "Ne sois pas contrôlée par tes émotions."
+    Mom "Ne sois pas contrôlée par tes émotions."
 
 # game/2_noelle.rpy:390
 translate french wakeUp_623517e6:
