@@ -208,7 +208,6 @@ translate farsi style prompt_text:
     font "times.ttf"
     size 24
 
-
 style bar:
     ysize gui.bar_size
     left_bar Frame("gui/bar/left.png", gui.bar_borders, tile=gui.bar_tile)
@@ -398,7 +397,6 @@ translate farsi style say_label:
     font "times.ttf"
     size 40
 
-
 style say_dialogue:
     properties gui.text_properties("dialogue")
     font "myriad.OTF"
@@ -421,7 +419,6 @@ translate farsi style say_dialogue:
     size 32
     xpos 1050
     line_spacing 1
-
 
 translate farsi python:
     gui.dialogue_text_xalign = 1.0  #right align text
@@ -778,7 +775,6 @@ style navigation_button_text:
 
 translate french style navigation_button_text:
     size 37
-
 translate french python:
     gui.navigation_xpos = 170 #better way to do that ?
 
@@ -1088,7 +1084,6 @@ translate farsi style game_menu_label_text:
     size 36
 translate indonesian style game_menu_label_text:
     size 48
-
 
 style return_button:
     xpos gui.navigation_xpos

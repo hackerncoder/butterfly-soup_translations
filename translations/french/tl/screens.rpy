@@ -64,7 +64,7 @@ translate french strings:
 
     # game/screens.rpy:1118
     old "Thought Projection, Holding Your Breath, and Thoughts of You by {a=http://ketsamusic.com/}Ketsa{/a}\nare licensed under CC BY-NC-ND 4.0\n"
-    new "Thought Projection, Holding Your Breath, et Thoughts of You de {a=http://ketsamusic.com/}Ketsa{/a}\nare sous licence CC BY-NC-ND 4.0\n"
+    new "Thought Projection, Holding Your Breath, et Thoughts of You de {a=http://ketsamusic.com/}Ketsa{/a}\nsous licence CC BY-NC-ND 4.0\n"
 
     # game/screens.rpy:1119
     old "Romaras, Blooming, and Side by Side by Miltata are licensed\nunder CC BY-NC 3.0"
@@ -301,7 +301,7 @@ translate french strings:
     # game/screens.rpy:1502
     old "Language"
     new "Langue"
-
+    
     # game/screens.rpy:1504
     old "{font=traditional_chinese.ttf}{size=30}中文{/size}{/font}"
     new "{font=traditional_chinese.ttf}{size=30}中文{/size}{/font}"
@@ -332,11 +332,11 @@ translate french strings:
 
     # game/screens.rpy:1511
     old "bahasa Indonesia"
-    new "bahasa Indonesia"
+    new "{size=36}bahasa Indonesia{/size}"
 
     # game/screens.rpy:1512
     old "Français"
-    new "Français"
+    new "{font=YunusH.ttf}{size=36}Français{/size}{/font}"
 
     # game/screens.rpy:1659
     old "The dialogue history is empty."

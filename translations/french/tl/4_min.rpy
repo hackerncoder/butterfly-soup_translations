@@ -7076,4 +7076,19 @@ translate french strings:
     old "{white}{size=+25}Special Thanks{/size}{/white}\n{blue}Additional scripting: Arazati{/blue}\nJapanese localization: KINSHA Co., Ltd\n{blue}Chinese localization: {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nBrazilian Portuguese localization: Jean Araujo\n{blue}Czech localization: scie{/blue}\nKorean localization: KyleHeren\n{blue}Polish localization: ymzu{/blue}\nAnd You"
     new "{white}{size=+25}Remerciements spéciaux{/size}{/white}\n{blue}Script supplémentaire : Arazati{/blue}\nLocalisation japonaise : KINSHA Co., Ltd\n{blue}Localisation chinoise : {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nLocalisation brésilienne : Jean Araujo\n{blue}Localisation tchèque : scie{/blue}\nLocalisation coréenne : KyleHeren\n{blue}Localisation polonaise : ymzu{/blue}\nEt Vous"
 
+    # TODO: Translation updated at 2021-04-03 19:55
+
+translate french strings:
+
+    # game/4_min.rpy:2646
+    old "{white}{size=+25}French localization{/size}{/white}\nQueerscriptors from {blue}Next Gaymer{/blue}\n\nPhoross{space=55}{blue}L'Unix Benoit{/blue}{space=55}Ven\nBrom{space=55}{blue}Tlaloc{/blue}{space=55}Seb_Ash\nTorli{space=55}{blue}MandyLane{/blue}{space=55}Tashousse\nDestryl{space=55}{blue}Giovanni{/blue}{space=55}Batwoman\nNinaDelPepito{space=55}{blue}Blaxis{/blue}{space=55}IannaFOX"
+    new "{white}{size=+25}Localisation française{/size}{/white}\nLes Queerscriptors de {blue}Next Gaymer{/blue}\n\nPhoross{space=55}{blue}L'Unix Benoit{/blue}{space=55}Ven\nBrom{space=55}{blue}Tlaloc{/blue}{space=55}Seb_Ash\nTorli{space=55}{blue}MandyLane{/blue}{space=55}Tashousse\nDestryl{space=55}{blue}Giovanni{/blue}{space=55}Batwoman\nNinaDelPepito{space=55}{blue}Blaxis{/blue}{space=55}IannaFOX"
     
+    # game/4_min.rpy:2651
+    old "{white}{size=+25}Special Thanks{/size}{/white}\n{blue}Additional scripting: Arazati{/blue}\nJapanese localization: KINSHA Co., Ltd\n{blue}Chinese localization: {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nBrazilian Portuguese localization: Jean Araujo\n{blue}Czech localization: scie{/blue}\nKorean localization: KyleHeren\n{blue}Polish localization: ymzu{/blue}\nFarsi localization: Kasbarg\n{blue}Indonesian localization: Konberrii{/blue}"
+    new "{white}{size=+25}Remerciements spéciaux{/size}{/white}\n{blue}Script supplémentaire : Arazati{/blue}\nLocalisation japonaise : KINSHA Co., Ltd\n{blue}Localisation chinoise : {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nLocalisation brésilienne : Jean Araujo\n{blue}Localisation tchèque : scie{/blue}\nLocalisation coréenne : KyleHeren\n{blue}Localisation polonaise : ymzu{/blue}\nLocalisation persanne : Kasbarg\n{blue}Localisation indonésienne : Konberrii{/blue}"
+
+    # game/4_min.rpy:2656
+    old "{white}{size=+25}Special Thanks{/size}{/white}\n{blue}Additional scripting: Arazati{/blue}\nJapanese localization: KINSHA Co., Ltd\n{blue}Chinese localization: {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nBrazilian Portuguese localization: Jean Araujo\n{blue}Czech localization: scie{/blue}\nKorean localization: KyleHeren\n{blue}Polish localization: ymzu{/blue}\nFarsi localization: Kasbarg\n{blue}Indonesian localization: Konberrii{/blue}\nAnd You"
+    new "{white}{size=+25}Remerciements spéciaux{/size}{/white}\n{blue}Script supplémentaire : Arazati{/blue}\nLocalisation japonaise : KINSHA Co., Ltd\n{blue}Localisation chinoise : {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nLocalisation brésilienne : Jean Araujo\n{blue}Localisation tchèque : scie{/blue}\nLocalisation coréenne : KyleHeren\n{blue}Localisation polonaise : ymzu{/blue}\nLocalisation persanne : Kasbarg\n{blue}Localisation indonésienne : Konberrii{/blue}\nEt Vous"
+
