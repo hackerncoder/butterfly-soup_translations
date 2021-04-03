@@ -9520,7 +9520,7 @@ translate french ay2_5b1d8989:
 translate french ay2_ec9aeb0d:
 
     # Akarsha "If I were an enzyme, I'd be DNA helicase so I could unzip your genes."
-    Akarsha "Si j'étais une enzyme, je serais une hélicase d'ADN comme ca je pourrais dézipper tes gênes."
+    Akarsha "Si j’étais une enzyme, je serai une hélicase, pour te désaper sans gêne."
 
 # game/1_diya.rpy:5694
 translate french ay2_73c5644b:
@@ -9544,7 +9544,7 @@ translate french ay2_81a3083d:
 translate french ay2_8fd72ef7:
 
     # Akarsha "The optimal counterflirt would be, \"Then I’ll be your topoisomerase to help you relieve your tension.\""
-    Akarsha "Le contre-flirt optimal serait, \"Alors je serais ta topoisomérase pour t'aider à relacher tes tensions.\""
+    Akarsha "Le contre-flirt optimal serait, \"Alors, je serai ta topoisomérase pour soulager toutes tes tensions.\""
 
 # game/1_diya.rpy:5702
 translate french ay2_ff128adc:
