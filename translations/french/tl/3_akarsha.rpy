@@ -3964,7 +3964,7 @@ translate french akarsha2_af953cc4:
 translate french akarsha2_f257ca24:
 
     # Noelle "For steal attempts to be NOT detrimental, you have to succeed around 70 percent of the time. That's the point where you break even."
-    Noelle "Pour que les tentatives de vol ne soit PAS préjudiciable, tu dois réussir plus de 70% du temps. C'est à ce moment la que tu atteints le seuil de rentabilité."
+    Noelle "Pour que les tentatives de vol ne soit PAS préjudiciable, tu dois réussir plus de 70%% du temps. C'est à ce moment la que tu atteints le seuil de rentabilité."
 
 # game/3_akarsha.rpy:2552
 translate french akarsha2_679269e6:
