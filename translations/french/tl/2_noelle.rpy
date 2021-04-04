@@ -4882,7 +4882,7 @@ translate french loophole_1647ec79:
 translate french loophole_bffa1d28:
 
     # cSame "{image=nanocar.png}"
-    cSame "{image=nanoauto.png}"
+    cSame "{image=nanocar.png}"
 
 # game/2_noelle.rpy:2662
 translate french loophole_4fb951b5:
