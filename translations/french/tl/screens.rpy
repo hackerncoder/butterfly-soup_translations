@@ -304,39 +304,39 @@ translate french strings:
     
     # game/screens.rpy:1504
     old "{font=traditional_chinese.ttf}{size=30}中文{/size}{/font}"
-    new "{font=traditional_chinese.ttf}{size=30}中文{/size}{/font}"
+    new "{font=traditional_chinese.ttf}{size=20}中文{/size}{/font}"
 
     # game/screens.rpy:1505
     old "{font=japanese.ttc}{size=30}日本語{/size}{/font}"
-    new "{font=japanese.ttc}{size=30}日本語{/size}{/font}"
+    new "{font=japanese.ttc}{size=20}日本語{/size}{/font}"
 
     # game/screens.rpy:1506
     old "{font=Binggrae.otf}{size=30}한국어{/size}{/font}"
-    new "{font=Binggrae.otf}{size=30}한국어{/size}{/font}"
+    new "{font=Binggrae.otf}{size=20}한국어{/size}{/font}"
 
     # game/screens.rpy:1507
     old "{font=myriad.OTF}{size=30}Português{/size}{/font}"
-    new "{font=myriad.OTF}{size=30}Português{/size}{/font}"
+    new "{font=myriad.OTF}{size=20}Português{/size}{/font}"
 
     # game/screens.rpy:1508
     old "{font=myriad.OTF}{size=30}Česky{/size}{/font}"
-    new "{font=myriad.OTF}{size=30}Česky{/size}{/font}"
+    new "{font=myriad.OTF}{size=20}Česky{/size}{/font}"
 
     # game/screens.rpy:1509
     old "{font=myriad.OTF}{size=30}Polski{/size}{/font}"
-    new "{font=myriad.OTF}{size=30}Polski{/size}{/font}"
+    new "{font=myriad.OTF}{size=20}Polski{/size}{/font}"
 
     # game/screens.rpy:1510
     old "{font=times.ttf}{size=30}فارسی{/size}{/font}"
-    new "{font=times.ttf}{size=30}فارسی{/size}{/font}"
+    new "{font=times.ttf}{size=25}فارسی{/size}{/font}"
 
     # game/screens.rpy:1511
     old "bahasa Indonesia"
-    new "{size=36}bahasa Indonesia{/size}"
+    new "bahasa Indonesia"
 
     # game/screens.rpy:1512
-    old "Français"
-    new "{font=YunusH.ttf}{size=36}Français{/size}{/font}"
+    old "{font=YunusH.ttf}Français{/font}"
+    new "{font=YunusH.ttf}Français{/font}"
 
     # game/screens.rpy:1659
     old "The dialogue history is empty."

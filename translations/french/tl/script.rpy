@@ -39,8 +39,8 @@ translate french strings:
     new "{font=myriad.OTF}bahasa Indonesia{/font}"
 
     # game/script.rpy:2790
-    old "{font=Juliagar.ttf}Français{/font}"
-    new "{font=Juliagar.ttf}Français{/font}"
+    old "{font=YunusH.ttf}{size=36}Français{/size}{/font}"
+    new "{font=YunusH.ttf}{size=36}Français{/size}{/font}"
 
     # game/script.rpy:2822
     old "Diya"

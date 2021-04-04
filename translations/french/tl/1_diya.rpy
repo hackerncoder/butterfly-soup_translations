@@ -1660,7 +1660,7 @@ translate french lookDiamond2_713a990d:
 translate french lookDiamond2_2ba8ad3c:
 
     # Min "If there's two of us,{w=0.26} we {i}both{/i} have to mess up for them to think that."
-    Min "Si on est deux, {w=0.26} alors il faudra qu'on foire {i}toutes les deux{i} pour qu'ils pensent ça."
+    Min "Si on est deux, {w=0.26} alors il faudra qu'on foire {i}toutes les deux{/i} pour qu'ils pensent ça."
 
 # game/1_diya.rpy:1014
 translate french lookDiamond2_56bfc018:
@@ -3742,7 +3742,7 @@ translate french sitBackDown_9dbbf29d:
 translate french sitBackDown_1583baca:
 
     # Min "I'll punch it real hard in the head like {i}WHAM!!!{/i}" with sshake
-    Min "Je lui mets une bonne droite dans la tête en mode {i} BIM!!!!{i}" with sshake
+    Min "Je lui mets une bonne droite dans la tête en mode {i} BIM!!!!{/i}" with sshake
 
 # game/1_diya.rpy:2408
 translate french sitBackDown_79937b81:
@@ -6358,7 +6358,7 @@ translate french p5_aeaa15bb:
 translate french p5_eae06f25:
 
     # Liz "Thank you very much!{w=0.26} Look forward {incoherent}( ? ? ? ){/incoherent}!"
-    Liz "Merci beaucoup !{w=0.26} J'attends avec impatience {incohérent}( ? ? ? ){/incohérent} !"
+    Liz "Merci beaucoup !{w=0.26} J'attends avec impatience {incoherent}( ? ? ? ){/incoherent} !"
 
 # game/1_diya.rpy:4048
 translate french p5_cb549d56:
@@ -6712,7 +6712,7 @@ translate french noelleSick_affe725d:
 translate french noelleSick_f8773c53:
 
     # Akarsha "If school is cancelled...If school is cancelled {i}right now{/}..."
-    Akarsha "Si l'école est annulée...Si l'école est annulée {i}à l'heure actuelle{/}..."
+    Akarsha "Si l'école est annulée...Si l'école est annulée {i}à l'heure actuelle{/i}..."
 
 # game/1_diya.rpy:4238
 translate french noelleSick_981af952:
@@ -7036,7 +7036,7 @@ translate french forehead_be6a3743:
 translate french forehead_f3e3e4f2:
 
     # Noelle "Studies show that people who try to diagnose fever by touch significantly overestimate the incidence of fever, sometimes by as much as 40%%."
-    Noelle "Des études montrent que les personnes qui essaient de diagnostiquer la fièvre par le toucher surestiment considérablement l'incidence de la fièvre, parfois jusqu'à 40 %."
+    Noelle "Des études montrent que les personnes qui essaient de diagnostiquer la fièvre par le toucher surestiment considérablement l'incidence de la fièvre, parfois jusqu'à 40 %%."
 
 # game/1_diya.rpy:4414
 translate french forehead_49f7964f:
@@ -13717,4 +13717,4 @@ translate french strings:
     # 1_diya.rpy:6157
     old "Ester"
     new "Ester"
-    
+
