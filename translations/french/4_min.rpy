@@ -10,13 +10,13 @@ translate french min1_0267cb8a:
 translate french min1_a17a3158:
 
     # Min "Heck no."
-    Min "Putain non."
+    Min "Pas du tout bordel."
 
 # game/4_min.rpy:64
 translate french min1_1a4bb950:
 
     # Min "I still gotta do my hair."
-    Min "Faut encore que je me coiffe."
+    Min "Faut encore que j'me coiffe."
 
 # game/4_min.rpy:67
 translate french min1_39f1184a:
@@ -34,7 +34,7 @@ translate french min1_a13428a1:
 translate french min1_b66bfb4c:
 
     # Min "Do you have any idea how long this takes to dry?"
-    Min "T'as une idée du temps que ça met à sécher ?"
+    Min "T'as seulement une idée du temps que ça met à sécher ?"
 
 # game/4_min.rpy:73
 translate french min1_4c650643:
@@ -46,7 +46,7 @@ translate french min1_4c650643:
 translate french min1_1ac595e5:
 
     # Min "But it builds up! Combined over my lifetime, it adds up to..."
-    Min "Mais ça s'accumule ! Si je compte depuis le début de ma vie ça monte jusqu'à..."
+    Min "Mais ça s'accumule ! Si je compte depuis le début de ma vie ça fait..."
 
 # game/4_min.rpy:76
 translate french min1_dc91eb61:
@@ -64,13 +64,13 @@ translate french min1_04ce660c:
 translate french min1_51249c2a:
 
     # Jun "If you don't know the answer, just admit it."
-    Jun "Tu peux le dire si tu ne connais pas la réponse."
+    Jun "Tu peux le dire si tu connais pas la réponse."
 
 # game/4_min.rpy:90
 translate french america_da1c171c:
 
     # Hayden "I read something interesting in the news this morning."
-    Hayden "J'ai lu quelque chose d’intéressant dans le journal ce matin. "
+    Hayden "J'ai lu un truc d’intéressant dans le journal ce matin."
 
 # game/4_min.rpy:92
 translate french america_424b16ca:
@@ -82,7 +82,7 @@ translate french america_424b16ca:
 translate french america_381c475d:
 
     # Min "I thought you have that thing where you can't read. Dystopia."
-    Min "Je croyais que t'avais ce truc qui t'empêche de lire. La dystopie."
+    Min "Je croyais que t'avais ce truc qu'empêche de lire. La dystopie."
 
 # game/4_min.rpy:96
 translate french america_00c7e6ca:
@@ -106,13 +106,13 @@ translate french america_dd62f94f:
 translate french america_58dcdd3b:
 
     # Jun "So what's the thing you read?"
-    Jun "Du coup qu'est-ce que tu as lu ?"
+    Jun "Du coup qu'est-ce que t'as lu ?"
 
 # game/4_min.rpy:105
 translate french america_b745a9c7:
 
     # Hayden "What percent of America do you think is Asian-American?"
-    Hayden "Selon vous, quel pourcentage de la population américaine est d'origine asiatique ?"
+    Hayden "Vous pensez que combien de pourcents de la population américaine est d'origine asiatique ?"
 
 # game/4_min.rpy:109
 translate french america_4c16d96c:
@@ -124,7 +124,7 @@ translate french america_4c16d96c:
 translate french america_d86d979d:
 
     # Jun "Probably more. Like 80%%."
-    Jun "Sans doute plus. Comme 80%%"
+    Jun "Sans doute plus. Genre 80%%."
 
 # game/4_min.rpy:115
 translate french america_95a8a6a9:
@@ -136,13 +136,13 @@ translate french america_95a8a6a9:
 translate french america_b8303237:
 
     # Min "100%%."
-    Min "100%%"
+    Min "100%%."
 
 # game/4_min.rpy:124
 translate french america_ac4f9336:
 
     # Hayden "What am I, then?!" with sshake
-    Hayden "Je suis quoi, alors ?" with sshake
+    Hayden "Et moi, j'suis quoi, alors ?" with sshake
 
 # game/4_min.rpy:125
 translate french america_84295834:
@@ -154,25 +154,25 @@ translate french america_84295834:
 translate french america_5dd3c335:
 
     # Min "Oh. I forgot about you."
-    Min "Oh j'avais zappé."
+    Min "Oh j't'avais zappé."
 
 # game/4_min.rpy:130
 translate french america_2e93da55:
 
     # Hayden "That's even worse! I'm standing right in front of you!" with sshake
-    Hayden "C'est encore pire ! Je suis juste en face de toi !" with sshake
+    Hayden "C'est encore pire ! J'suis juste en face de toi !" with sshake
 
 # game/4_min.rpy:133
 translate french america_0cb2666d:
 
     # Jun "What's the actual answer?"
-    Jun "Quelle est la vraie réponse ?"
+    Jun "C'est quoi la vraie réponse ?"
 
 # game/4_min.rpy:135
 translate french america_537bd77a:
 
     # Hayden "4%%."
-    Hayden "4%%"
+    Hayden "4%%."
 
 # game/4_min.rpy:138
 translate french america_007da8f3:
@@ -202,19 +202,19 @@ translate french america_e3e146f3:
 translate french america_60f31e34:
 
     # Jun "Are you sure you read it correctly?"
-    Jun "Tu es sûr de l'avoir lu correctement ?"
+    Jun "Tu es sûr d'avoir lu correctement ?"
 
 # game/4_min.rpy:149
 translate french america_a7e8736e:
 
     # Jun "Sometimes you read things wrong."
-    Jun "Parfois tu ne lis pas très bien."
+    Jun "Parfois tu lis pas très bien."
 
 # game/4_min.rpy:151
 translate french america_994e81b1:
 
     # Hayden "I didn't read it wrong. It said right there, 4%%."
-    Hayden "Je l'ai très bien lu. C'était bien marqué 4%%."
+    Hayden "Je me suis pas trompé. C'était bien marqué 4%%."
 
 # game/4_min.rpy:153
 translate french america_c25cbdab:
@@ -244,13 +244,13 @@ translate french america_c044af3a:
 translate french america_5ac2cec2:
 
     # Hayden "It was including Indians."
-    Hayden "Ils incluaient les Indiens."
+    Hayden "Les Indiens étaient inclus."
 
 # game/4_min.rpy:162
 translate french america_389ebcb8:
 
     # Hayden "Why don't you guys believe me? It's really 4%%!"
-    Hayden "Pourquoi vous ne me croyez pas les potos ? C'est vraiment 4%%. "
+    Hayden "Pourquoi vous me croyez pas ? C'est vraiment 4%%."
 
 # game/4_min.rpy:164
 translate french america_247898db:
@@ -262,7 +262,7 @@ translate french america_247898db:
 translate french america_4e196804:
 
     # Min "Do you see any white people?"
-    Min "Tu vois des blanches ici ?"
+    Min "Tu vois des blancs ici ?"
 
 # game/4_min.rpy:167
 translate french america_74c08ce8:
@@ -274,37 +274,37 @@ translate french america_74c08ce8:
 translate french america_f2626aad:
 
     # Min "You're like an endangered species."
-    Min "Vous êtes comme une espèce en voie de disparition."
+    Min "Vous êtes genre, une espèce en voie de disparition."
 
 # game/4_min.rpy:172
 translate french america_8c34ea1f:
 
     # Hayden "But that's just here. The rest of the country isn't like this."
-    Hayden "Mais c'est juste ici. Le reste du pays n'est pas comme ça."
+    Hayden "Mais c'est juste ici. Le reste du pays est pas comme ça."
 
 # game/4_min.rpy:173
 translate french america_30b3ba70:
 
     # Hayden "Don't you wonder why everyone is white on TV?"
-    Hayden "Tu ne te demandes jamais pourquoi tout le monde est blanc à la télé ?"
+    Hayden "Tu te demandes jamais pourquoi tout le monde est blanc à la télé ?"
 
 # game/4_min.rpy:175
 translate french america_575f3324:
 
     # Jun "That's easy. Because their parents won't let them become actors."
-    Jun "Facile. Parce que leurs parents ne les laissent pas devenir des acteurs."
+    Jun "Facile. Parce que pour les asiatiques, leurs parents les laissent pas devenir acteurs."
 
 # game/4_min.rpy:176
 translate french america_e87ed1ef:
 
     # Jun "It's too risky. Only white parents are that dumb."
-    Jun "C'est trop risqué. Il n'y a que les parents blancs qui sont aussi débiles."
+    Jun "C'est trop risqué. Y'a que les parents blancs qui sont aussi débiles."
 
 # game/4_min.rpy:178
 translate french america_36c6f5b5:
 
     # Hayden "Okay, but what about sports? There aren't Asians there, either."
-    Hayden "D'accord, mais qu'en est-il du sport ? Il n'y a pas d'asiatique dans ce domaine non plus."
+    Hayden "D'accord, mais, et dans le sport ? Y'a pas d'asiatiques là-dedans non plus."
 
 # game/4_min.rpy:180
 translate french america_4113aa43:
@@ -316,7 +316,7 @@ translate french america_4113aa43:
 translate french america_9dc9f160:
 
     # Hayden "The difference can't be that big! I'm going to cut out the newspaper article and show it to you guys."
-    Hayden "La différence ne peut pas être aussi énorme! Je vais découper l'article du journal et vous le montrer. "
+    Hayden "La différence peut pas être aussi énorme! Je vais découper l'article du journal et vous le montrer. "
 
 # game/4_min.rpy:184
 translate french america_59f12888:
@@ -328,13 +328,13 @@ translate french america_59f12888:
 translate french america_cc159e1e:
 
     # Min "............"
-    Min ".........."
+    Min "............"
 
 # game/4_min.rpy:189
 translate french america_c7ab82cf:
 
     # Hayden "Stop looking at me all concerned like that!"
-    Hayden "Arrêtez de me regarder comme ça avec votre air penaud.  "
+    Hayden "Arrêtez de me regarder comme si j'étais devenu fou !"
 
 # game/4_min.rpy:191
 translate french america_ba3325b3:
@@ -346,7 +346,7 @@ translate french america_ba3325b3:
 translate french america_7ed63fe3:
 
     # Hayden "I'm not mad!"
-    Hayden "Je suis pas taré ! "
+    Hayden "Je suis pas taré !"
 
 # game/4_min.rpy:195
 translate french america_4b625d1c:
@@ -358,19 +358,19 @@ translate french america_4b625d1c:
 translate french america_d72bed26:
 
     # Jun "Hayden, are you feeling lonely or something?"
-    Jun "Hayden, tu te sens seul ou autre chose ?"
+    Jun "Hayden, tu te sens seul ou un truc du genre ?"
 
 # game/4_min.rpy:199
 translate french america_da57e028:
 
     # Jun "It's okay. We still like you even though you're different."
-    Jun "Ça va aller. On continue de t'aimer même si tu es différent. "
+    Jun "Ça va aller. On t'aime quand même, même si t'es différent."
 
 # game/4_min.rpy:201
 translate french america_c69237f7:
 
     # Min "Yeah. Every year they show us that video where they go back in time to racism!"
-    Min "Ouais. Tous les ans ils nous montrent cette vidéo où ils reviennent à l'époque du racisme ! "
+    Min "Ouais. Tous les ans ils nous montrent cette vidéo où ils reviennent à l'époque du racisme !"
 
 # game/4_min.rpy:202
 translate french america_e2d3ad83:
@@ -382,7 +382,7 @@ translate french america_e2d3ad83:
 translate french america_c001fc9a:
 
     # Hayden "I give up........forget it................"
-    Hayden "J'abandonne...... Oubliez ça ........."
+    Hayden "J'abandonne........ Oubliez................"
 
 # game/4_min.rpy:210
 translate french america_d58637c1:
@@ -394,25 +394,25 @@ translate french america_d58637c1:
 translate french america_519e7a8f:
 
     # Boy "Hey, Hayden! Jun!"
-    Boy "Hey, Hayden ! Jun ! "
+    Boy "Hey, Hayden ! Jun !"
 
 # game/4_min.rpy:212
 translate french america_75250582:
 
     # Boy "Wanna play baseball?"
-    Boy "On joue au baseball ? "
+    Boy "On joue au baseball ?"
 
 # game/4_min.rpy:215
 translate french america_5a48e821:
 
     # Jun "Oh. Uh........"
-    Jun "Oh. Euh....."
+    Jun "Oh. Euh........"
 
 # game/4_min.rpy:216
 translate french america_3abf3024:
 
     # "He looks like he really doesn't want to."
-    "Il a l'air de ne pas du tout avoir envie."
+    "Il a vraiment pas l'air d'eavoir envie."
 
 # game/4_min.rpy:219
 translate french america_1a08212e:
@@ -424,7 +424,7 @@ translate french america_1a08212e:
 translate french america_8f3736aa:
 
     # Boy "Aren't you both in Little League?"
-    Boy "Vous n'êtes pas en ligue junior tous les deux ?"
+    Boy "Vous êtes pas en ligue junior tous les deux ?"
 
 # game/4_min.rpy:222
 translate french america_8370805a:
@@ -436,13 +436,13 @@ translate french america_8370805a:
 translate french america_2ec4871c:
 
     # Min "What about me?"
-    Min "Et moi alors ? "
+    Min "Et moi ? "
 
 # game/4_min.rpy:225
 translate french america_c6d74362:
 
     # Min "Can I play?"
-    Min "Je peux jouer ? "
+    Min "J'peux jouer ?"
 
 # game/4_min.rpy:227
 translate french america_fab8826f:
@@ -466,13 +466,13 @@ translate french america_27c559be:
 translate french america_86a7bfb6:
 
     # "The group is nervously exchanging glances amongst themselves. This is clearly the first time a girl has asked to join their ranks."
-    "Le groupe s'échange entre eux des regards inquiets. C'est clairement la première fois qu'une fille demande de rejoindre leurs rangs.  "
+    "Le groupe s'échange entre eux des regards inquiets. C'est clairement la première fois qu'une fille demande de rejoindre leurs rangs. "
 
 # game/4_min.rpy:235
 translate french america_8bed4f35:
 
     # Min "I'm not like other girls. I'm way, way worse."
-    Min "Je suis pas comme les autres filles. Je suis pire, bien pire."
+    Min "J'suis pas comme les autres filles. Je suis pire, bien pire."
 
 # game/4_min.rpy:239
 translate french america_eb4980a6:
@@ -484,31 +484,31 @@ translate french america_eb4980a6:
 translate french america_8f04acb5:
 
     # Hayden "What, are you scared you'll lose to a girl?"
-    Hayden "Quoi, vous avez peur de perdre contre une fille ? "
+    Hayden "Quoi, t'as peur de perdre contre une fille ? "
 
 # game/4_min.rpy:242
 translate french america_61eb2473:
 
     # Boy "What?! No!"
-    Boy "Hein ?! Non ! "
+    Boy "Hein ?! Non !"
 
 # game/4_min.rpy:244
 translate french america_621f5271:
 
     # Min "Wow, you ARE scared."
-    Min "Wow, vous AVEZ les pétoches. "
+    Min "Wow, tu AS la frousse."
 
 # game/4_min.rpy:245
 translate french america_5265a6fa:
 
     # Min "You little bitch."
-    Min "Petites salopes"
+    Min "Petite salope."
 
 # game/4_min.rpy:248
 translate french america_ad8c6bf8:
 
     # "A hush falls over the group."
-    "Un silence pèse sur le groupe"
+    "Un silence pèse sur le groupe."
 
 # game/4_min.rpy:249
 translate french america_28eab17b:
@@ -526,7 +526,7 @@ translate french america_7c180eb4:
 translate french america_dcff1f9e:
 
     # Boy "Oh yeah? Like what?"
-    Boy "Ah ouais ? Comme quoi ? "
+    Boy "Ah ouais ? Comme quoi ?"
 
 # game/4_min.rpy:254
 translate french america_2c6562db:
@@ -538,19 +538,19 @@ translate french america_2c6562db:
 translate french america_f20d162a:
 
     # "This instantly wins everyone over!" with sshake
-    "Tout le monde est instantanément conquis ! " with sshake
+    "Tout le monde est instantanément conquis !" with sshake
 
 # game/4_min.rpy:275
 translate french america_3e2348d7:
 
     # "The group has made their way to the field."
-    "Le groupe se met en route vers le terrain. "
+    "Le groupe se met en route vers le terrain."
 
 # game/4_min.rpy:276
 translate french america_4f8984d0:
 
     # Boy "Jun, your shirt's so girly."
-    Boy "Jun, ton haut est tellement girly. "
+    Boy "Jun, ton t-shirt est trop girly."
 
 # game/4_min.rpy:278
 translate french america_f72b1ddf:
@@ -568,61 +568,61 @@ translate french america_79dfec63:
 translate french america_f3a02563:
 
     # Boy "Wearing Arthur on your shirt looks gay."
-    Boy "Porter Arthur sur ton haut ça fait tellement gay."
+    Boy "Avoir Arthur sur ton t-shirt ça fait tellement gay."
 
 # game/4_min.rpy:282
 translate french america_c953f06e:
 
     # Jun "I'm not gay!"
-    Jun "Je suis pas gay ! "
+    Jun "Je suis pas gay !"
 
 # game/4_min.rpy:283
 translate french america_47100738:
 
     # Boy "Then why're you wearing that shirt? Haha!"
-    Boy "Alors pourquoi tu portes ce haut ? Haha ! "
+    Boy "Alors pourquoi tu portes ce haut ? Haha !"
 
 # game/4_min.rpy:285
 translate french america_ef46c392:
 
     # "Min takes out a box cutter!"
-    "Min sort un cutter ! "
+    "Min sort un cutter !"
 
 # game/4_min.rpy:288
 translate french america_6b041b89:
 
     # Min "Hey!" with sshake
-    Min "Hey ! " with sshake
+    Min "Eh !" with sshake
 
 # game/4_min.rpy:289
 translate french america_4542c5ea:
 
     # Min "What's so funny? You wanna go?"
-    Min "C'est quoi qu'est drôle ? Tu veux te battre ? "
+    Min "C'est quoi qu'est drôle ? Tu veux t'battre ?"
 
 # game/4_min.rpy:291
 translate french america_553eee0f:
 
     # "The blade glints in the sunlight as she stabs the air in front of the jeering boys."
-    "La lame brille dans la lumière du soleil, alors qu'elle transperce l'air en face des garçons sarcastiques."
+    "La lame brille à la lumière du soleil, alors qu'elle transperce l'air en face des garçons sarcastiques."
 
 # game/4_min.rpy:292
 translate french america_7298d6fe:
 
     # "Frightened, everyone abruptly stops laughing."
-    "Effrayés, tout le monde s'arrête brusquement de rire. "
+    "Effrayés, tout le monde s'arrête brusquement de rire."
 
 # game/4_min.rpy:293
 translate french america_f42f1588:
 
     # Boy "...You...you can't do that!"
-    Boy "... Tu... Tu peux pas faire ça ! "
+    Boy "...Tu... Tu peux pas faire ça !"
 
 # game/4_min.rpy:295
 translate french america_2c12e895:
 
     # Min "Says who? You? Fight me."
-    Min "D'après qui ? Toi ? Viens te battre. "
+    Min "D'après qui ? Toi ? Viens t'battre."
 
 # game/4_min.rpy:297
 translate french america_4d8ef8d5:
@@ -634,13 +634,13 @@ translate french america_4d8ef8d5:
 translate french america_4d1dd1ba:
 
     # Min "That's what I thought."
-    Min "C'est bien ce que je pensais. "
+    Min "C'est bien c'que j'pensais."
 
 # game/4_min.rpy:301
 translate french america_4fbfcf68:
 
     # "Min successfully asserted dominance over the leader of the group!"
-    "Min assure sa domination sur le chef du groupe !  "
+    "Min assure sa domination sur le chef du groupe !"
 
 # game/4_min.rpy:302
 translate french america_b0ea70de:
@@ -658,7 +658,7 @@ translate french america_16ebfbb1:
 translate french america_4ab1f263:
 
     # Min "Anytime. It's your noona's job to protect you."
-    Min "Quand tu veux. C'est le boulot de ta noona de te protéger."
+    Min "Quand tu veux. C'est le boulot de ta noona d'te protéger."
 
 # game/4_min.rpy:311
 translate french america_29ae2196:
@@ -676,25 +676,25 @@ translate french america_583c0525:
 translate french america_ea20cee5:
 
     # Min "DIEEEE!!!!!!" with sshake
-    Min "CREEEEEEEVE !!!!!" with sshake
+    Min "CREEEEEEEVE !!!!!!" with sshake
 
 # game/4_min.rpy:320
 translate french america_2849889d:
 
     # "Min hits the ball toward the mound!"
-    "Min frappe la balle vers le monticule ! "
+    "Min frappe la balle vers le monticule !"
 
 # game/4_min.rpy:322
 translate french america_bb64c13e:
 
     # "The pitcher ducks to avoid getting beaned. Min reaches the bag with time to spare."
-    "Le lanceur se penche pour éviter de se faire percuter. Min atteint la base sans tarder. "
+    "Le lanceur se penche pour éviter de se faire percuter. Min atteint la base sans tarder."
 
 # game/4_min.rpy:325
 translate french america_2e2e608f:
 
     # MinT "I made it to first."
-    MinT "J'ai atteint la première."
+    MinT "J'ai atteint la première base."
 
 # game/4_min.rpy:327
 translate french america_1a6935cb:
@@ -706,7 +706,7 @@ translate french america_1a6935cb:
 translate french america_71e3ebb4:
 
     # "Jun bunted it into the dirt!"
-    "Jun fait un amorti au sol ! "
+    "Jun fait un amorti au sol !"
 
 # game/4_min.rpy:332
 translate french america_c2785a01:
@@ -754,13 +754,13 @@ translate french america_2af8caab:
 translate french america_14c28892:
 
     # "Min's skirt has flipped up so everyone can see her underwear."
-    "La jupe de Min s'est retournée au point où tout le monde peut voir sa culotte. "
+    "La jupe de Min s'est retournée au point où tout le monde peut voir sa culotte."
 
 # game/4_min.rpy:361
 translate french gameboy_c27306b2:
 
     # Min "I hate skirts!" with sshake
-    Min "Je déteste les jupes ! " with sshake
+    Min "Je déteste les jupes !" with sshake
 
 # game/4_min.rpy:362
 translate french gameboy_d48d0ff8:
@@ -784,7 +784,7 @@ translate french gameboy_3123d7a5:
 translate french gameboy_68de6374:
 
     # Min "I don't wanna look cute!"
-    Min "Je veux pas être mignonne ! "
+    Min "Je veux pas être mignonne !"
 
 # game/4_min.rpy:368
 translate french gameboy_1465c3c6:
@@ -802,7 +802,7 @@ translate french gameboy_234f19f3:
 translate french gameboy_4076c734:
 
     # Min "I always say I don't like them but you keep buying them anyway!"
-    Min "J'ai toujours dis que je ne les aimais pas mais tu continues d'en acheter ! "
+    Min "J'ai toujours dis que je les aimais pas mais tu continues d'en acheter !"
 
 # game/4_min.rpy:373
 translate french gameboy_e3fdef1f:
@@ -832,7 +832,7 @@ translate french gameboy_ad47d4c1:
 translate french gameboy_a8043700:
 
     # Mom "Boys don't wear skirts."
-    Mom "Les garçons ne mettent pas de jupes. "
+    Mom "Les garçons ne mettent pas de jupes."
 
 # game/4_min.rpy:380
 translate french gameboy_c3df827e:
@@ -850,13 +850,13 @@ translate french gameboy_3b86f353:
 translate french gameboy_f404533e:
 
     # Jun "I don't like this shirt anymore."
-    Jun "Je n'aime plus cette chemise."
+    Jun "Je n'aime plus ce t-shirt."
 
 # game/4_min.rpy:389
 translate french gameboy_732b4e26:
 
     # Mom "What're you talking about? That's your favorite shirt."
-    Mom "Mais qu'est ce que tu racontes ? C'est ta chemise préférée."
+    Mom "Mais qu'est ce que tu racontes ? C'est ton t-shirt préféré."
 
 # game/4_min.rpy:391
 translate french gameboy_f3699ec1:
@@ -868,7 +868,7 @@ translate french gameboy_f3699ec1:
 translate french gameboy_1707cd0e:
 
     # Mom "Why? It's a perfectly good shirt."
-    Mom "Pourquoi ? Elle est très bien cette chemise."
+    Mom "Pourquoi ? C'est un très joli t-shirt."
 
 # game/4_min.rpy:395
 translate french gameboy_b1083d75:
@@ -880,7 +880,7 @@ translate french gameboy_b1083d75:
 translate french gameboy_bad40199:
 
     # Jun "I'm not allowed to not like a shirt?"
-    Jun "J'ai pas le droit de pas aimer une chemise ? "
+    Jun "J'ai pas le droit de pas aimer un t-shirt ?"
 
 # game/4_min.rpy:398
 translate french gameboy_ec4dfa2d:
@@ -892,19 +892,19 @@ translate french gameboy_ec4dfa2d:
 translate french gameboy_ec471ab8:
 
     # Dad "So spoiled. What kind of kids are you?"
-    Dad  "Tellement gâtés. Qu'est-ce que c'est que ces gosses ?"
+    Dad "Tellement gâtés. Qu'est-ce que c'est que ces gosses ?"
 
 # game/4_min.rpy:401
 translate french gameboy_6e6159b3:
 
     # Jun "..................."
-    Jun "..............."
+    Jun "..................."
 
 # game/4_min.rpy:404
 translate french gameboy_8eabd16d:
 
     # Min "..................."
-    Min "................"
+    Min "..................."
 
 # game/4_min.rpy:406
 translate french gameboy_91a4d2bb:
@@ -916,7 +916,7 @@ translate french gameboy_91a4d2bb:
 translate french gameboy_88439201:
 
     # "Jun-seo is mashing the buttons on his Game Boy Advance like his life depends on it."
-    "Jun-seo broie les boutons de sa Game Boy Advance comme si sa vie en dépendait. "
+    "Jun-seo broie les boutons de sa Game Boy Advance comme si sa vie en dépendait."
 
 # game/4_min.rpy:422
 translate french gameboy_b2531579:
@@ -934,7 +934,7 @@ translate french gameboy_17093906:
 translate french gameboy_0fca92de:
 
     # Jun "Wait. Just 5 more minutes."
-    Jun "Attends. Encore 5 minutes. "
+    Jun "Attends. Encore 5 minutes."
 
 # game/4_min.rpy:429
 translate french gameboy_50b6a71f:
@@ -976,7 +976,7 @@ translate french gameboy_0aea1611:
 translate french gameboy_c70600d9:
 
     # Mom "None of our friends' daughters play games."
-    Mom "Aucune des filles de nos amis ne jouent aux jeux."
+    Mom"Aucune des filles de nos amis ne jouent aux jeux vidéos."
 
 # game/4_min.rpy:446
 translate french gameboy_a344bf22:
@@ -988,13 +988,13 @@ translate french gameboy_a344bf22:
 translate french gameboy_46862a06:
 
     # Min "I don't need to see a doctor! There's nothing wrong with liking games!"
-    Min "J'ai pas besoin d'un docteur ! Y'a rien de mal à aimer les jeux ! "
+    Min "J'ai pas besoin d'un docteur ! Y'a rien de mal à aimer les jeux vidéos ! "
 
 # game/4_min.rpy:452
 translate french gameboy_b0555f65:
 
     # Mom "Yes, there is. It's not natural for a girl. "
-    Mom  "Bien sûr que si. C'est contre nature pour une fille. "
+    Mom "Bien sûr que si. C'est contre nature pour une fille. "
 
 # game/4_min.rpy:454
 translate french gameboy_6087e54d:
@@ -1018,13 +1018,13 @@ translate french gameboy_a99df930:
 translate french gameboy_de5b8b15:
 
     # Min "That's not funny. This isn't fair!"
-    Min "C'est pas drôle, et pas juste ! "
+    Min "C'est pas drôle, et c'est pas juste ! "
 
 # game/4_min.rpy:463
 translate french gameboy_0da8953e:
 
     # Dad "It's just a game. Take it easy."
-    Dad "C'est juste un jeu. Calme toi."
+    Dad "C'est juste un jeu. Calme-toi."
 
 # game/4_min.rpy:466
 translate french gameboy_ca7d1048:
@@ -1054,7 +1054,7 @@ translate french gameboy_7222abfc:
 translate french mcDonalds_bf6dc169:
 
     # Hayden "You did WHAT?!" with sshake
-    Hayden "T'as fais QUOI ?!" with sshake
+    Hayden "T'as fait QUOI ?!" with sshake
 
 # game/4_min.rpy:484
 translate french mcDonalds_08cb9e3a:
@@ -1066,19 +1066,19 @@ translate french mcDonalds_08cb9e3a:
 translate french mcDonalds_0a345fa5:
 
     # Min "We turned around and got it. The screen was busted, though."
-    Min "On a fait demi tour oui, l'écran était défoncé par contre."
+    Min "On a fait demi tour pour la récupérer. Par contre l'écran était défoncé."
 
 # game/4_min.rpy:487
 translate french mcDonalds_0eeacad2:
 
     # Min "Once you turned it on, it'd show all this rainbow shit. You couldn't use it at all."
-    Min "Quand on l'a allumée, ça montrait c'te merde d'arc en ciel là. On pouvait plus du tout l'utiliser."
+    Min "Quand on l'a allumée, ça montrait c'te merde arc en ciel là. On pouvait plus du tout l'utiliser."
 
 # game/4_min.rpy:490
 translate french mcDonalds_b84be90b:
 
     # Hayden "Nooo.........."
-    Hayden "Nooooooon........"
+    Hayden "Nooooooon.........."
 
 # game/4_min.rpy:491
 translate french mcDonalds_7ff94a66:
@@ -1096,7 +1096,7 @@ translate french mcDonalds_e7ef4c30:
 translate french mcDonalds_2329245d:
 
     # Hayden "Just, like, calm down. Try not getting angry."
-    Hayden "Essaye, genre, de te calmer. Arrêter de t'énerver."
+    Hayden "Essaye, genre, de te calmer. Arrête de t'énerver."
 
 # game/4_min.rpy:497
 translate french mcDonalds_74187ec2:
@@ -1108,7 +1108,7 @@ translate french mcDonalds_74187ec2:
 translate french mcDonalds_058405fa:
 
     # Hayden "Try harder. You didn't have to do that! Now neither of you can play it."
-    Hayden "Essaie plus. T'étais pas obligée de faire ça ! Maintenant aucun de vous deux peut jouer. "
+    Hayden "Essaye plus. T'étais pas obligée de faire ça ! Maintenant aucun de vous deux peut jouer. "
 
 # game/4_min.rpy:502
 translate french mcDonalds_784ff302:
@@ -1156,7 +1156,7 @@ translate french mcDonalds_1939344f:
 translate french mcDonalds_102b607d:
 
     # "It's a futuristic looking Hot Wheels car sporting transculent ice blue windows."
-    "C'est une voiture de sport Hot Wheels à l'air futuriste avec des fenêtres translucides de couleur bleu glacier. "
+    "C'est une voiture de sport Hot Wheels à l'air futuriste avec des fenêtres translucides de couleur bleu glacier."
 
 # game/4_min.rpy:515
 translate french mcDonalds_cbbd59d7:
@@ -1168,7 +1168,7 @@ translate french mcDonalds_cbbd59d7:
 translate french mcDonalds_1b54b8f3:
 
     # "Jun unwraps his toy, too. His is a monster truck."
-    "Jun déballe aussi son jouet. C'est un monster truck.  "
+    "Jun déballe aussi son jouet. C'est un monster truck."
 
 # game/4_min.rpy:520
 translate french mcDonalds_a541b6b5:
@@ -1180,19 +1180,19 @@ translate french mcDonalds_a541b6b5:
 translate french mcDonalds_8f8402dc:
 
     # Min "That's not bad, either!"
-    Min "C'est pas mal non plus ! "
+    Min "C'est pas mal non plus !"
 
 # game/4_min.rpy:524
 translate french mcDonalds_840ea832:
 
     # Jun "Uh...I guess?"
-    Jun "Euh... J'imagine ? "
+    Jun "Euh... J'imagine ?"
 
 # game/4_min.rpy:525
 translate french mcDonalds_f5b8859c:
 
     # Jun "I don't really get why these things are popular."
-    Jun "Je comprend pas pourquoi ces trucs sont aussi populaires. "
+    Jun "Je comprend pas pourquoi ces trucs sont aussi populaires."
 
 # game/4_min.rpy:528
 translate french mcDonalds_d5cbd1c9:
@@ -1222,7 +1222,7 @@ translate french mcDonalds_d3b84124:
 translate french mcDonalds_cd2045ac:
 
     # Min "............."
-    Min "......."
+    Min "............."
 
 # game/4_min.rpy:538
 translate french mcDonalds_1e540b44:
@@ -1288,7 +1288,7 @@ translate french lookAtTV_9ec34b34:
 translate french lookAtTV_3dd21fa9:
 
     # Hayden "See? It's all white people on TV."
-    Hayden "Tu vois ? C'est que des personnes blanches à la télé. "
+    Hayden "Tu vois ? Y'a que des personnes blanches à la télé. "
 
 # game/4_min.rpy:620
 translate french lookAtTV_c3108272:
@@ -1324,7 +1324,7 @@ translate french lookAtTV_4b625d1c:
 translate french lookAtTV_c934e3f6:
 
     # Hayden "I haven't gone mad!" with sshake
-    Hayden "Je suis pas devenu taré ! " with sshake
+    Hayden "J'suis pas taré ! " with sshake
 
 # game/4_min.rpy:652
 translate french lookCam_7a226861:
@@ -1348,7 +1348,7 @@ translate french lookCam_9629ca48:
 translate french lookCam_3caacb60:
 
     # "A small, patient smile forms on Jun's face."
-    "Un sourire patient se dessine sur le visage de Jun. "
+    "Un petit sourire patient se dessine sur le visage de Jun. "
 
 # game/4_min.rpy:660
 translate french lookCam_3c55e49f:
@@ -1396,7 +1396,7 @@ translate french lookCam_8a06dd6f:
 translate french lookCam_e5e7796a:
 
     # Jun "But you did! It was exactly the same!"
-    Jun "Mais c'est le cas ! C'est exactement la même blague ! "
+    Jun "Mais si ! C'est exactement la même blague ! "
 
 # game/4_min.rpy:675
 translate french lookCam_8c47b817:
@@ -1558,19 +1558,19 @@ translate french toy_34e034f0:
 translate french toy_64dbf08f:
 
     # NPC "Sorry, we can't do that."
-    NPC "Pardon mais nous ne pouvons pas faire ça."
+    NPC "Pardon, mais nous ne pouvons pas faire ça."
 
 # game/4_min.rpy:785
 translate french toy_3acfa10c:
 
     # Min "No, I don't mean I'm trying to get a specific one. I want a boy one, but they gave me a girl toy by mistake."
-    Min "Non, je veux dire j'en veux pas un en particulier. J'en veux un pour garçon, mais ils m'en ont donné un pour fille par erreur."
+    Min "Non, j'veux dire j'en veux pas un en particulier. J'en veux un pour garçon, mais ils m'en ont donné un pour fille par erreur."
 
 # game/4_min.rpy:787
 translate french toy_b06bd761:
 
     # NPC "But you're such a pretty girl! You don't want Hot Wheels."
-    NPC "Mais tu es une fille si mignonne ! Tu ne veux pas d'une voiture Hot Wheels."
+    NPC "Mais tu es une fille si mignonne ! Tu ne veux pas d'une voiture Hot Wheels, voyons."
 
 # game/4_min.rpy:789
 translate french toy_8dd1f32a:
@@ -1588,31 +1588,31 @@ translate french toy_9186ffd1:
 translate french toy_524d3a52:
 
     # NPC "Haha! You're a funny little girl."
-    NPC "Haha ! Tu es une drôle de petite fille."
+    NPC "Haha ! T'es une drôle de petite fille."
 
 # game/4_min.rpy:802
 translate french mirror_bda8889e:
 
     # Min ".................."
-    Min "............"
+    Min ".................."
 
 # game/4_min.rpy:804
 translate french mirror_bda8889e_1:
 
     # Min ".................."
-    Min "..............."
+    Min ".................."
 
 # game/4_min.rpy:805
 translate french mirror_bda8889e_2:
 
     # Min ".................."
-    Min ".............."
+    Min ".................."
 
 # game/4_min.rpy:816
 translate french mirror_75585899:
 
     # Mom "What were you thinking?! Why did you ruin your hair like that?!" with sshake
-    Mom "Tu pensais à quoi ? Pourquoi tu as ruiné ta coiffure comme ça ?! " with sshake
+    Mom "Mais qu'est-ce qui t'es passé par la tête ?! Pourquoi tu as ruiné ta coiffure comme ça ?! " with sshake
 
 # game/4_min.rpy:818
 translate french mirror_ab07a58d:
@@ -1624,13 +1624,13 @@ translate french mirror_ab07a58d:
 translate french mirror_6db25bea:
 
     # Min "And it's not ruined! It's better like this!"
-    Min "Et c'est pas ruiné ! Elle est mieux comme ça ! "
+    Min "Et c'est pas ruiné ! C'est mieux comme ça ! "
 
 # game/4_min.rpy:822
 translate french mirror_a996dacf:
 
     # Dad "What's gotten into you?!"
-    Dad "Qu'est ce qui t'as pris ?!"
+    Dad "Mais qu'est ce qui t'as pris ?!"
 
 # game/4_min.rpy:823
 translate french mirror_711777eb:
@@ -1654,7 +1654,7 @@ translate french mirror_72cf0c52:
 translate french mirror_3645779a:
 
     # Min "I don't ever want kids!"
-    Min "Je veux même pas d'enfants ! "
+    Min "J'veux même pas d'enfants ! "
 
 # game/4_min.rpy:829
 translate french mirror_9c627691:
@@ -1672,7 +1672,7 @@ translate french mirror_23796d5a:
 translate french mirror_f95155f9:
 
     # Min "I don't think I'd make a good parent. I don't want my kids to end up hating me."
-    Min "Je pense pas que je ferais une bonne mère. Je veux pas que mes gosses finissent par me détester. "
+    Min "J'pense pas que j'ferais un bon parent. J'veux pas que mes gosses finissent par m'détester. "
 
 # game/4_min.rpy:835
 translate french mirror_8a573ee1:
@@ -1690,7 +1690,7 @@ translate french mirror_e078fbbd:
 translate french mirror_3905c0c2:
 
     # Min "What's there to get?"
-    Min "Qu'est ce qu'il y a à comprendre ? "
+    Min "Y'a quoi à comprendre ? "
 
 # game/4_min.rpy:839
 translate french mirror_ba3cf420:
@@ -1708,7 +1708,7 @@ translate french mirror_c0d9f3fb:
 translate french mirror_a8ef378f:
 
     # Mom "You have to have realistic expectations."
-    Mom "Il faut que tu sois réaliste sur tes attentes dans la vie."
+    Mom "Il faut que tu aies des attentes réalistes dans la vie."
 
 # game/4_min.rpy:844
 translate french mirror_e458ed10:
@@ -1720,13 +1720,13 @@ translate french mirror_e458ed10:
 translate french mirror_64999ef5:
 
     # Min "I don't want someone who's nothing special."
-    Min "Je veux pas de quelqu'un qui n'a rien de spécial."
+    Min "J'veux pas de quelqu'un qui a rien de spécial."
 
 # game/4_min.rpy:846
 translate french mirror_bc4119c1:
 
     # Min "I'm pretty awesome, so I should get someone who's awesome, too."
-    Min "Je suis assez incroyable, alors je devrais me trouver quelqu'un d'incroyable aussi."
+    Min "J'suis assez incroyable, alors je devrais m'trouver quelqu'un d'incroyable aussi."
 
 # game/4_min.rpy:848
 translate french mirror_c8c990dd:
@@ -1774,7 +1774,7 @@ translate french mirror_14eda8f0:
 translate french mirror_7f3c4b13:
 
     # Mom "What's wrong with you?!"
-    Mom "Qu'est ce qui ne va pas chez toi ?!"
+    Mom "Mais qu'est ce qui ne va pas chez toi ?!"
 
 # game/4_min.rpy:862
 translate french mirror_53eeddb4:
@@ -1786,7 +1786,7 @@ translate french mirror_53eeddb4:
 translate french mirror_2b3742eb:
 
     # Dad "There's something wrong with her brain. She's so disobedient."
-    Dad "Il y a quelque chose qui ne va pas avec son cerveau. Elle est tellement désobéissante."
+    Dad "Y'a quelque chose qui va pas avec son cerveau. Elle est tellement désobéissante."
 
 # game/4_min.rpy:865
 translate french mirror_7664c70e:
@@ -1798,7 +1798,7 @@ translate french mirror_7664c70e:
 translate french mirror_91745122:
 
     # Min "What's wrong with that?!"
-    Min "C'est quoi le problème avec ça ?!"
+    Min "C'est quoi l'problème avec ça ?!"
 
 # game/4_min.rpy:869
 translate french mirror_863b5c98:
@@ -1816,7 +1816,7 @@ translate french mirror_67a1ab04:
 translate french mirror_ed10bfaf:
 
     # Min "But Jun gets to! How come I don't get to?!"
-    Min "Mais Jun peut faire ça ! Pourquoi pas moi ?!"
+    Min "Mais Jun peut le faire ! Pourquoi pas moi ?!"
 
 # game/4_min.rpy:874
 translate french mirror_b6d1c809:
@@ -1846,25 +1846,25 @@ translate french mirror_49aa4f4f:
 translate french mirror_9dd92707:
 
     # Dad "This isn't some fairy tale! You have to accept it, or you're stupid!"
-    Dad "On n'est pas dans un conte de fée ! Il faut que tu l'acceptes, ou tu es stupide ! "
+    Dad "On n'est pas dans un conte de fée ! Il faut que tu l'acceptes, ou t'es stupide ! "
 
 # game/4_min.rpy:887
 translate french mirror_7e0ec8d5:
 
     # Min "I WON'T ACCEPT IT!" with sshake
-    Min "JE NE L'ACCEPTERAI PAS ! " with sshake
+    Min "JE L'ACCEPTERAI PAS ! " with sshake
 
 # game/4_min.rpy:888
 translate french mirror_9fe1f5de:
 
     # Min "I WON'T EVER ACCEPT IT!!" with sshake
-    Min "JE NE L'ACCEPTERAI JAMAIS !!" with sshake
+    Min "J'L'ACCEPTERAI JAMAIS !!" with sshake
 
 # game/4_min.rpy:892
 translate french mirror_4bca79e0:
 
     # Dad "{big=20}SO STUPID! WE REALLY DO HAVE TO TAKE YOU TO A DOCTOR NOW!{/big}" with sshake
-    Dad "{big=20}TELLEMENT STUPIDE ! ON VA VRAIMENT DEVOIR T'EMMENER VOIR UN DOCTEUR MAINTENANT !{/big}" with sshake
+    Dad "{big=20}TELLEMENT DÉBILE ! ON VA VRAIMENT DEVOIR T'EMMENER CHEZ LE DOCTEUR MAINTENANT ! {/big}" with sshake
 
 # game/4_min.rpy:893
 translate french mirror_7b17139a:
@@ -1876,13 +1876,13 @@ translate french mirror_7b17139a:
 translate french mirror_c1527b0b:
 
     # Dad "{big=20}RETARDED!{/big}" with sshake
-    Dad  "{big=20} ABRUTIE ! {/big}" with sshake
+    Dad "{big=20}ABRUTIE !{/big}" with sshake
 
 # game/4_min.rpy:898
 translate french mirror_5560c7a7:
 
     # Min "{big=20}YOU'RE THE ONE WHO'S RETARDED!{/big}" with sshake
-    Min "{big=20} C'EST TOI L'ABRUTI !{/big}  " with sshake
+    Min "{big=20}C'EST TOI L'ABRUTI !{/big}  " with sshake
 
 # game/4_min.rpy:899
 translate french mirror_56cffd5d:
@@ -1936,7 +1936,7 @@ translate french mirror_e338a9b9:
 translate french mirror_1045694f:
 
     # Jun "Stop it! She's sorry!" with sshake
-    Jun "Arrêtez ! Elle est désolée ! " with sshake
+    Jun "Arrête ! Elle est désolée ! " with sshake
 
 # game/4_min.rpy:921
 translate french mirror_618e3e1a:
@@ -1960,7 +1960,7 @@ translate french mirror_d7b14dbc:
 translate french mirror_7d45bcb2:
 
     # Min "!!!!!!!!!!!!!!" with sshake
-    Min "!!!!!!!!!!!!!" with sshake
+    Min "!!!!!!!!!!!!!!" with sshake
 
 # game/4_min.rpy:930
 translate french mirror_f4e46d9b:
@@ -2002,7 +2002,7 @@ translate french mirror_6eb6d7f3:
 translate french mirror_6e2504fa:
 
     # MinT "I'll kill him if it's the last thing I do!"
-    MinT "Je le buterai même si c'est la dernière chose que je dois faire ! "
+    MinT "J'le buterai même si c'est la dernière chose que je dois faire ! "
 
 # game/4_min.rpy:954
 translate french inBed_d79d5b69:
@@ -2032,7 +2032,7 @@ translate french inBed_4c402edb:
 translate french inBed_38e094dd:
 
     # Min "I don't want to hurt anyone, but I want to be happy, too."
-    Min "Je veux blesser personne, mais je veux aussi être heureuse."
+    Min "J'veux blesser personne, mais je veux aussi être heureuse."
 
 # game/4_min.rpy:960
 translate french inBed_70ea614b:
@@ -2068,7 +2068,7 @@ translate french inBed_72bf5b22:
 translate french inBed_7e361509:
 
     # Min "But I wasn't wrong."
-    Min "Mais je l'étais pas."
+    Min "Mais j'avais pas tort."
 
 # game/4_min.rpy:966
 translate french inBed_738a864d:
@@ -2080,7 +2080,7 @@ translate french inBed_738a864d:
 translate french inBed_44a43a81:
 
     # Min "Yeah it does! I'm not gonna say I was wrong when I wasn't."
-    Min "Non on s'en fiche pas ! Je vais pas dire que je me trompe si c'est pas le cas."
+    Min "Non on s'en fiche pas ! Je vais pas dire que j'me trompe si c'est pas le cas."
 
 # game/4_min.rpy:968
 translate french inBed_7b77dd67:
@@ -2104,7 +2104,7 @@ translate french inBed_97e0b90c:
 translate french inBed_4ced280f:
 
     # Jun "You have to learn how to pick your battles like me and Mom."
-    Jun "Faut que t'apprennes à te mettre en retrait des fois, comme moi et maman."
+    Jun "Faut que t'apprennes à te mettre en retrait des fois, comme Maman et moi."
 
 # game/4_min.rpy:972
 translate french inBed_92805365:
@@ -2116,7 +2116,7 @@ translate french inBed_92805365:
 translate french inBed_ed1c1dff:
 
     # Min "That's not fair! I'm a kid! He's supposed to be the adult!"
-    Min "C'est pas juste ! Je suis une enfant ! C'est lui qui doit être adulte ! "
+    Min "C'est pas juste ! J'suis une enfant ! C'est lui qui doit être adulte ! "
 
 # game/4_min.rpy:974
 translate french inBed_8c7e1688:
@@ -2146,7 +2146,7 @@ translate french inBed_c2e029df:
 translate french inBed_c01c27a5:
 
     # Min "I'd rather die!"
-    Min "Je préfère crever ! "
+    Min "J'préfère crever ! "
 
 # game/4_min.rpy:979
 translate french inBed_044bf7d2:
@@ -2170,19 +2170,19 @@ translate french inBed_c53d3665:
 translate french inBed_db2d2b24:
 
     # Min "I shouldn't have to worry about any of this in the first place!"
-    Min "Je devrais même pas avoir à m'inquiéter de tout ça à la base."
+    Min "J'devrais même pas avoir à m'inquiéter de tout ça à la base !"
 
 # game/4_min.rpy:983
 translate french inBed_452288cc:
 
     # Min "I'm not letting him treat me that way, like some wimpy sissy."
-    Min "Je le laisserai pas me traiter comme ça, comme une petite pisseuse."
+    Min "J'le laisserai pas me traiter comme ça, comme une petite pisseuse."
 
 # game/4_min.rpy:1015
 translate french inBed_dbf7eaa5:
 
     # Jun "There's a fine line between bravery and stupidity."
-    Jun "Entre le courage et la stupidité, il n'y a qu'un pas."
+    Jun "Entre le courage et la stupidité, y'a qu'un pas."
 
 # game/4_min.rpy:1016
 translate french inBed_d904c059:
@@ -2206,7 +2206,7 @@ translate french inBed_227bdae1:
 translate french inBed_8c768a4e:
 
     # Min "I didn't do anything wrong! He's the one who should learn!"
-    Min "J'ai rien fais de mal ! C'est lui qui devrait apprendre ! "
+    Min "J'ai rien fait de mal ! C'est lui qui devrait apprendre ! "
 
 # game/4_min.rpy:1020
 translate french inBed_2e316a97:
@@ -2224,25 +2224,25 @@ translate french inBed_f9e125b4:
 translate french inBed_995e57c1:
 
     # Jun "You're an idiot."
-    Jun "Et toi une idiote."
+    Jun "Et t'es une idiote."
 
 # game/4_min.rpy:1023
 translate french inBed_b6d574bc:
 
     # Jun "I don't understand you."
-    Jun "Je te comprends pas."
+    Jun "J'te comprends pas."
 
 # game/4_min.rpy:1024
 translate french inBed_b55677d9:
 
     # Min "Good. I don't understand you either."
-    Min "Tant mieux. Moi non plus je te comprends pas."
+    Min "Tant mieux. Moi non plus j'te comprends pas."
 
 # game/4_min.rpy:1036
 translate french meetingDiya_961b6f50:
 
     # "Min sulks on the bleachers as Jun and Hayden's team goes on defense."
-    "Min rumine sur les gradins pendant que l'équipe de Jun et Hayden vont en défense."
+    "Min rumine sur les gradins pendant que l'équipe de Jun et Hayden passe à la défense."
 
 # game/4_min.rpy:1038
 translate french meetingDiya_6cca4bc6:
@@ -2254,7 +2254,7 @@ translate french meetingDiya_6cca4bc6:
 translate french meetingDiya_f2e1d949:
 
     # MinT "How can they stand how unfair everything is? It's so obvious."
-    MinT "Comment ils peuvent supporter à quel point tout est injuste ? Ça se voit pourtant."
+    MinT "Comment ils peuvent supporter à quel point tout est injuste ? Ça crève les yeux pourtant."
 
 # game/4_min.rpy:1040
 translate french meetingDiya_8a6a23b4:
@@ -2266,7 +2266,7 @@ translate french meetingDiya_8a6a23b4:
 translate french meetingDiya_08446d5b:
 
     # MinT "God! I'm so mad."
-    MinT "Merde ! Je suis tellement énervée."
+    MinT "Merde ! Je suis tellement véner."
 
 # game/4_min.rpy:1043
 translate french meetingDiya_f6421533:
@@ -2308,13 +2308,13 @@ translate french meetingDiya_2d707df4:
 translate french meetingDiya_2178f8a2:
 
     # MinT "OH MY GOD???????? HOLY SHIT!!!!!!!!" with sshake
-    MinT "OH MERDE ????? PUTAIN !!!!!!!!!!" with sshake
+    MinT "OH MERDE ???????? PUTAIN !!!!!!!!" with sshake
 
 # game/4_min.rpy:1062
 translate french meetingDiya_5c09a327:
 
     # "It's a girl with eyes the color of desert camouflage."
-    "C'est une fille avec des yeux couleur \"camouflage du désert\"."
+    "C'est une fille avec des yeux couleur camouflage du désert."
 
 # game/4_min.rpy:1063
 translate french meetingDiya_f5204332:
@@ -2338,7 +2338,7 @@ translate french meetingDiya_5f3742f8:
 translate french meetingDiya_74edb3c7:
 
     # Diya "..................."
-    Diya "............."
+    Diya "..................."
 
 # game/4_min.rpy:1085
 translate french meetingDiya_da990fa4:
@@ -2356,7 +2356,7 @@ translate french meetingDiya_1fc3b486:
 translate french meetingDiya_443a2232:
 
     # Min "YOU'RE COOL!!!" with sshake
-    Min "T'ES COOL !!!!" with sshake
+    Min "T'ES COOL !!!" with sshake
 
 # game/4_min.rpy:1091
 translate french meetingDiya_ca096675:
@@ -2368,13 +2368,13 @@ translate french meetingDiya_ca096675:
 translate french meetingDiya_23bf6f48:
 
     # Min "I WON'T GIVE UP IF YOU DON'T GIVE UP!" with sshake
-    Min "J'ABANDONNERAI PAS SI TU N'ABANDONNES PAS ! " with sshake
+    Min "J'ABANDONNERAI PAS SI T'ABANDONNES PAS !" with sshake
 
 # game/4_min.rpy:1096
 translate french meetingDiya_3d73dada:
 
     # Diya "................!"
-    Diya "...................."
+    Diya "................!"
 
 # game/4_min.rpy:1097
 translate french meetingDiya_62679c57:
@@ -2392,13 +2392,13 @@ translate french meetingDiya_9344c1c2:
 translate french meetingDiya_bf5b68bd:
 
     # "The pitcher winds up and sends a fastball straight down the middle."
-    "Le lanceur s'avance et lance une balle rapide droite directement vers le centre."
+    "Le lanceur s'avance et lance une balle rapide droit vers le centre."
 
 # game/4_min.rpy:1109
 translate french meetingDiya_3510e055:
 
     # "The batter swings at it with terrifying power." with sshake
-    "Le batteur balance sa batte avec une force terrifiante." with sshake
+    "Le jeune fille à la batte frappe avec une force terrifiante." with sshake
 
 # game/4_min.rpy:1110
 translate french meetingDiya_9274ce73:
@@ -2410,31 +2410,31 @@ translate french meetingDiya_9274ce73:
 translate french meetingDiya_71f50ea8:
 
     # MinT "HOLY SHIT!!!!!!!!!!!!!!!!!!!!!!!!!!!!! WOW!!!!!!!!!!" with sshake
-    MinT "OH PUTAIN !!!!!!!!!!! WAOUW !!!!!!!!!" with sshake
+    MinT "OH PUTAIN !!!!!!!!!!!!!!!!!!!!!!!!!!!!! WAOUW !!!!!!!!!!" with sshake
 
 # game/4_min.rpy:1116
 translate french meetingDiya_e56fdd54:
 
     # MinT "GOD BLESS AMERICA!!!!!!!!!!!!!!" with sshake
-    MinT "DIEU BÉNISSE L'AMERIQUE !!!!!!!! " with sshake
+    MinT "DIEU BÉNISSE L'AMERIQUE !!!!!!!!!!!!!!" with sshake
 
 # game/4_min.rpy:1117
 translate french meetingDiya_de513b6d:
 
     # MinT "A NATIONAL TREASURE!!!!!" with sshake
-    MinT "UN TRÉSOR NATIONAL !!!!!!" with sshake
+    MinT "UN TRÉSOR NATIONAL !!!!!" with sshake
 
 # game/4_min.rpy:1129
 translate french meetingDiya_255c45d6:
 
     # "The batter hit a walk-off. The game is over because she scored."
-    "Le batteur fait un but sur balle. Le match est terminé parce qu'elle a marqué un point. "
+    "Elle marque grâce à sa balle. Le match est terminé parce qu'elle a marqué le point. "
 
 # game/4_min.rpy:1130
 translate french meetingDiya_85cde8e5:
 
     # "Everyone comes in from the field. Her teammates have come bounding over, giddy off their victory."
-    "Tout le monde débarque sur le terrain. Ses coéquipiers l'ont encerclée, encore étourdis de leur victoire.  "
+    "Tout le monde revient du terrain. Ses coéquipiers se sont joyeusement précipités vers elle, encore étourdis de leur victoire.  "
 
 # game/4_min.rpy:1131
 translate french meetingDiya_0581fb80:
@@ -2452,7 +2452,7 @@ translate french meetingDiya_f206c7f7:
 translate french meetingDiya_a41a98dc:
 
     # MinT "She's so shy! That's so cute!"
-    MinT "Elle est tellement timide ! C'est trop mignon !"
+    MinT "Elle est tellement timide ! C'est trop mignon ! "
 
 # game/4_min.rpy:1136
 translate french meetingDiya_4ddde1c7:
@@ -2476,7 +2476,7 @@ translate french meetingDiya_2cedec8a:
 translate french meetingDiya_74967a4a:
 
     # MinT "Holy shit...Okay...okay!!" with sshake
-    MinT "Merde... Ok... ok..." with sshake
+    MinT "Merde... Ok... ok !!" with sshake
 
 # game/4_min.rpy:1143
 translate french meetingDiya_140965de:
@@ -2530,7 +2530,7 @@ translate french meetingDiya_3429593e:
 translate french meetingDiya_12ae31e0:
 
     # Min "Of course I did. You were badass."
-    Min "Bien sûr que je l'ai fait ! T'étais trop badass."
+    Min "Bien sûr que je t'ai encouragée ! T'étais trop badass."
 
 # game/4_min.rpy:1167
 translate french meetingDiya_624f4905:
@@ -2560,7 +2560,7 @@ translate french meetingDiya_ab3c06c3:
 translate french meetingDiya_aba95152:
 
     # Diya "......................"
-    Diya ".............."
+    Diya "......................"
 
 # game/4_min.rpy:1181
 translate french meetingDiya_d917dff7:
@@ -2596,7 +2596,7 @@ translate french meetingDiya_5c11adfc:
 translate french meetingDiya_f3806366:
 
     # "A bizzare tingling feeling, impossible to identify, prickles across Min's palms. It feels like being tickled with soda bubbles."
-    "Une sensation de picotement bizarre, impossible à identifier, parcourent les paumes de Min. C'est comme si elle était chatouillée par des bulles de soda. "
+    "Une sensation de picotement bizarre, impossible à identifier, parcoure les paumes de Min. C'est comme si elle était chatouillée par des bulles de soda. "
 
 # game/4_min.rpy:1190
 translate french meetingDiya_46384388:
@@ -2608,7 +2608,7 @@ translate french meetingDiya_46384388:
 translate french meetingDiya_18dd7bb2:
 
     # Min "You're welcome!!!"
-    Min "Avec plaisir !!!!!!"
+    Min "Avec plaisir !!!"
 
 # game/4_min.rpy:1194
 translate french meetingDiya_e51304ec:
@@ -2650,19 +2650,19 @@ translate french min2_5a5f3cd2:
 translate french min2_20054154:
 
     # cMin "whats wrong??? WHO HURT YOU"
-    cMin "Qu'est-ce qu'il y a ??? QUI T'A FAIT DU MAL"
+    cMin "qu'est ce qui va pas ??? QUI T'A FAIT DU MAL"
 
 # game/4_min.rpy:1222
 translate french min2_f25cb6fb:
 
     # cSame "ill kill them! ill smash their heads in"
-    cSame "Je vais les buter ! Je vais défoncer leur gueule !"
+    cSame "Je v les buter ! Je v défoncer leur gueule"
 
 # game/4_min.rpy:1223
 translate french min2_be903325:
 
     # cDiya "I don't know how to talk to the baseball team"
-    cDiya "Je ne sais pas comment parler à l'équipe de baseball"
+    cDiya "Je sais pas comment parler à l'équipe de baseball"
 
 # game/4_min.rpy:1224
 translate french min2_6a7eb5bb:
@@ -2674,7 +2674,7 @@ translate french min2_6a7eb5bb:
 translate french min2_09ec8ab7:
 
     # cSame ".......weird"
-    cSame "........ bizarres."
+    cSame "....... bizarres."
 
 # game/4_min.rpy:1227
 translate french min2_76b2fe88:
@@ -2692,7 +2692,7 @@ translate french furry_8e0ddc15:
 translate french furry_cc200624:
 
     # cSumi "*pets you*"
-    cSumi "*te câline*"
+    cSumi "*te caresse la tête*"
 
 # game/4_min.rpy:1242
 translate french furry_b483af8f:
@@ -2734,13 +2734,13 @@ translate french furry_a7c69a37:
 translate french furry_1cbb4238:
 
     # cMin "KICKS YOU OVER A FENCE"
-    cMin "TE BOTTE LE CUL PAR DESSUS LA CLÔTURE"
+    cMin "TE BOTTE LE CUL PAR DESSUS LA CLÔTURE "
 
 # game/4_min.rpy:1249
 translate french furry_e221b3d7:
 
     # cSame "BE A FURRY FREAK HO SOMEWHERE ELSE"
-    cSame "VA FAIRE LA FURRY SALOPE AILLEURS"
+    cSame "VA FAIRE LA SALOPE FURRY AILLEURS"
 
 # game/4_min.rpy:1250
 translate french furry_e14aee7d:
@@ -2758,7 +2758,7 @@ translate french furry_2415b9cd:
 translate french furry_47e4de5d:
 
     # cNarrator "Chryssa has entered the chatroom."
-    cNarrator "Chryssa est entrée dans le salon du tchat"
+    cNarrator "Chryssa est entrée dans le groupe de discussion"
 
 # game/4_min.rpy:1254
 translate french furry_0d001ea7:
@@ -2782,7 +2782,7 @@ translate french furry_e2367482:
 translate french furry_ae338825:
 
     # cChryssa "how about going out for lunch?"
-    cChryssa "et si on mangeait dehors ?"
+    cChryssa "et si on mangeait dehors ? "
 
 # game/4_min.rpy:1258
 translate french furry_5fc06cf9:
@@ -2824,13 +2824,13 @@ translate french furry_2a3ded22:
 translate french furry_afc3699c:
 
     # cChryssa "if we're really being frugal"
-    cChryssa "Si on a pas très faim"
+    cChryssa "tant qu'à être radins"
 
 # game/4_min.rpy:1265
 translate french furry_532c7754:
 
     # cSame "I bet Min could pass off as under 12 for the Kids price"
-    cSame "Je parie que Min pourrait se faire passer pour une enfant de moins de 12 ans pour le tarif réduit"
+    cSame "Je parie que Min pourrait se faire passer pour une enfant de moins de 12 ans pour avoir le tarif réduit"
 
 # game/4_min.rpy:1268
 translate french furry_1f0ec9ec:
@@ -2848,37 +2848,37 @@ translate french furry_8911b2bd:
 translate french furry_38631292:
 
     # cAkarsha3 "DAMN"
-    cAkarsha3 "WAOUH"
+    cAkarsha3 "C CHÔÔÔÔ"
 
 # game/4_min.rpy:1271
 translate french furry_bc613d5f:
 
     # cMin "HEY"
-    cMin "HEY"
+    cMin "EH"
 
 # game/4_min.rpy:1272
 translate french furry_a8db8d77:
 
     # cLiz "more realistically, Min could actually fit in our equipment bag"
-    cLiz "plus sérieusement, Min pourrait réellement tenir dans notre sac de sport"
+    cLiz "plus sérieusement, Min pourrait vraiment tenir dans notre sac de sport"
 
 # game/4_min.rpy:1273
 translate french furry_1d06cae1:
 
     # cSame "the giant 3 ft long one"
-    cSame "le géant d'un mètre de long"
+    cSame "le sac géant d'un mètre de long"
 
 # game/4_min.rpy:1274
 translate french furry_6d146baa:
 
     # cSame "we can straight up smuggle her inside and not pay for her at all"
-    cSame "on peut la faire passer en douce et ne pas payer pour son repas"
+    cSame "on peut carrément la faire passer en douce et ne pas payer du tout"
 
 # game/4_min.rpy:1278
 translate french furry_1a18fcfc:
 
     # cChryssa "Won't the waiters find it odd that a tiny Asian kid suddenly materialized at our table?"
-    cChryssa "Les serveurs ne vont pas se douter de quelque chose quand un petit enfant asiatique va soudainement se matérialiser à notre table ?"
+    cChryssa "Les serveurs vont pas se douter de quelque chose quand un petit enfant asiatique va soudainement se matérialiser à la table ?"
 
 # game/4_min.rpy:1279
 translate french furry_e2edfb66:
@@ -2896,31 +2896,31 @@ translate french furry_4495f2fa:
 translate french furry_31cdd721:
 
     # cSame "When no one's looking, we can quickly slip the food inside."
-    cSame "Quand personne ne regardera, on pourra glisser rapidement la nourriture à l'intérieur."
+    cSame "Quand personne regardera, on pourra glisser rapidement la nourriture à l'intérieur."
 
 # game/4_min.rpy:1282
 translate french furry_3910fe39:
 
     # cChryssa "what kind of demented fantasy even is this"
-    cChryssa "dans quel délire est-ce qu'on est rentré?"
+    cChryssa "dans quel délire on est rentrées ?"
 
 # game/4_min.rpy:1283
 translate french furry_b920eacb:
 
     # cSame "I'm getting scared for your future children, you weirdo"
-    cSame "J'ai peur pour tes futurs enfants, t'es chelou."
+    cSame "Je commence à avoir peur pour tes futurs enfants, t'es chelou."
 
 # game/4_min.rpy:1284
 translate french furry_2088f1d1:
 
     # cMin "that sounds kinda fun actually"
-    cMin "Ça a l'air marrant en vrai"
+    cMin "ça a l'air marrant en vrai"
 
 # game/4_min.rpy:1285
 translate french furry_935ddb4f:
 
     # cSame "ill do it"
-    cSame "Je vais le faire"
+    cSame "jvais le faire"
 
 # game/4_min.rpy:1286
 translate french furry_e7c6863a:
@@ -2932,7 +2932,7 @@ translate french furry_e7c6863a:
 translate french furry_f3827ead:
 
     # cMin "ill be like"
-    cMin "je serai genre"
+    cMin "j'serai genre"
 
 # game/4_min.rpy:1288
 translate french furry_57676ea5:
@@ -2944,7 +2944,7 @@ translate french furry_57676ea5:
 translate french furry_76c352da:
 
     # cLiz "Alright, let's meet up there at noon tomorrow"
-    cLiz "D'accord, on se rejoint demain à midi'"
+    cLiz "Bon bah, on se rejoint là-bas demain à midi'"
 
 # game/4_min.rpy:1290
 translate french furry_8565616d:
@@ -2956,7 +2956,7 @@ translate french furry_8565616d:
 translate french furry_26e9da23:
 
     # cNoelle "Tomorrow? I won't be able to go. "
-    cNoelle "Demain ? Je ne pourrais pas être là."
+    cNoelle "Demain ? Je ne pourrai pas être là."
 
 # game/4_min.rpy:1293
 translate french furry_365e191a:
@@ -2980,31 +2980,31 @@ translate french furry_4441f588:
 translate french furry_89896ca9:
 
     # cMin "i cant go either"
-    cMin "Je pourrai pas non plus"
+    cMin "je pourrai pas non plus"
 
 # game/4_min.rpy:1297
 translate french furry_c83c9596:
 
     # cSame "im still grounded for getting ecxpelled from niles"
-    cSame "Je suis toujours punie pour m'être fait exclure de Niles"
+    cSame "jsuis toujours punie pour m'être fait ecxlure de niles"
 
 # game/4_min.rpy:1298
 translate french furry_512c0732:
 
     # cLiz "How are you coming to practice, then?"
-    cLiz "Comment tu vas aller à l'entrainement alors ?"
+    cLiz "Comment tu vas aller à l'entraînement alors ?"
 
 # game/4_min.rpy:1299
 translate french furry_750b37bd:
 
     # cMin "i told them i'm going to a tutering group"
-    cMin "Je leur ai dit que je rejoignais un groupe de soutien scolaire"
+    cMin "je leur ai dit que je rejoignais un groupe de suotien scolaire"
 
 # game/4_min.rpy:1300
 translate french furry_86fd86b2:
 
     # cAkarsha3 "can't u say ur going to a special additional session?"
-    cAkarsha3 "tu peux pas dire que tu participe à une séance spéciale demain ?"
+    cAkarsha3 "tu peux pas dire que tu participes à une séance spéciale demain ?"
 
 # game/4_min.rpy:1301
 translate french furry_ee758fe3:
@@ -3016,7 +3016,7 @@ translate french furry_ee758fe3:
 translate french furry_c3f4b211:
 
     # cMin "fuck yuo"
-    cMin "va te faire fuotre"
+    cMin "va t'faire fuotre"
 
 # game/4_min.rpy:1303
 translate french furry_5f52dc54:
@@ -3064,7 +3064,7 @@ translate french furry_f1b736bd:
 translate french furry_e3fa1e6b:
 
     # "Min gestures at her, wrinkling her nose with disgust. "
-    "Min lui fait un signe, plissant son nez de dégout."
+    "Min lui fait un signe, plissant son nez de dégoût."
 
 # game/4_min.rpy:1324
 translate french furry_67d2da76:
@@ -3184,13 +3184,13 @@ translate french furry_745325e7:
 translate french furry_1d49a633:
 
     # Min "It's so messed up that we even have to do this, just for really basic things. We're not even doing anything bad."
-    Min "C'est débile qu'on doivent faire ça, juste pour des trucs aussi basiques. On fait même pas quelque chose de mal."
+    Min "C'est débile qu'on ait à faire ça, juste pour des trucs aussi basiques. On fait même pas quelque chose de mal."
 
 # game/4_min.rpy:1369
 translate french furry_278b43c5:
 
     # Noelle "I can't comprehend a situation where you don't have to hide most of your life from your parents."
-    Noelle "Je n'arrive pas à imaginer une situation où tu dois pas cacher le plus gros de ta vie à tes parents."
+    Noelle "J'arrive pas à imaginer une situation où tu dois pas cacher le plus gros de ta vie à tes parents."
 
 # game/4_min.rpy:1372
 translate french furry_cef73201:
@@ -3208,7 +3208,7 @@ translate french furry_b5cbc2d4:
 translate french furry_d1fae115:
 
     # Noelle "It took me a long time to accept that my mom and dad are decent people who just happen to make horrible parents."
-    Noelle "J'ai mis beaucoup de temps pour accepter que mon père et ma mère sont des gens décents qui font d'horribles parents. "
+    Noelle "J'ai mis beaucoup de temps pour accepter que mon père et ma mère sont des gens décents qui sont juste d'horribles parents. "
 
 # game/4_min.rpy:1379
 translate french furry_2706c6e9:
@@ -3226,13 +3226,13 @@ translate french furry_7474844c:
 translate french furry_2c4d15ae:
 
     # Noelle "I was only 5, but I remember it clearly because I was there for hours and hours."
-    Noelle "Je n'avais que 5 ans, mais je m'en souviens clairement parce que ça m'a pris des heures et des heures."
+    Noelle "J'avais que 5 ans, mais je m'en souviens clairement parce que ça m'a pris des heures et des heures."
 
 # game/4_min.rpy:1386
 translate french furry_f1b2bcda:
 
     # MinT "...I still don't know the 11 and 12 ones."
-    MinT "...Je connais toujours pas les tables de 11 et 12."
+    MinT "... Je connais toujours pas les tables de 11 et 12."
 
 # game/4_min.rpy:1388
 translate french furry_c8c48851:
@@ -3250,19 +3250,19 @@ translate french furry_f0c57ef3:
 translate french furry_c8def3be:
 
     # Min "My dad went to pee in the middle of an argument and suddenly remembered how mad he was at me."
-    Min "Mon père est parti pissé en plein milieu d'une engueulade et s'est soudainement rappelé à quel point il avait les boules contre moi."
+    Min "Mon père est parti pisser en plein milieu d'une engueulade et s'est soudainement rappelé à quel point il avait les boules contre moi."
 
 # game/4_min.rpy:1395
 translate french furry_238a634c:
 
     # Min "So he stormed out of the bathroom with the thing in hand and hurled it at me on sight."
-    Min "Du coup il s'est rué hors de la salle de bain avec le truc dans les mains et me l'a balancé."
+    Min "Du coup il est sorti furax de la salle de bain avec le truc dans les mains et me l'a balancé."
 
 # game/4_min.rpy:1398
 translate french furry_70b6078d:
 
     # Noelle "Wow. That explains a lot about you."
-    Noelle "Wow. Ça explique beaucoup de chose à ton propos. "
+    Noelle "Wow. Ça explique beaucoup de chose à ton sujet."
 
 # game/4_min.rpy:1401
 translate french furry_6fb6aabe:
@@ -3280,19 +3280,19 @@ translate french furry_5c28a47f:
 translate french furry_19c2dbbc:
 
     # Noelle "I'd want the test to ask them to explain their motivation for being a parent. Do you want a kid just to elevate your own status?"
-    Noelle "J'aimerais un test pour leur demander d'expliquer leur motivation pour devenir parents. Est-ce qu'ils veulent un enfant juste pour s'élever dans la société ? "
+    Noelle "J'aimerais que le test leur demande d'expliquer leur motivation pour devenir parents. Est-ce qu'ils veulent un enfant juste pour s'élever dans la société ? "
 
 # game/4_min.rpy:1406
 translate french furry_9eab50bd:
 
     # Noelle "What if your kids don't turn out the way you expected?"
-    Noelle "Et si tes enfants ne deviennent pas ce que tu attendais d'eux ?"
+    Noelle "Qu'est-ce qu'il feraient si leurs enfants deviennent pas ce qu'ils attendaient d'eux ?"
 
 # game/4_min.rpy:1411
 translate french furry_f3de3104:
 
     # "A bunch of white guys holler at them as they pass by the intersection."
-    "Un groupe de mecs blancs les interpelle en passant l'intersection."
+    "Un groupe de mecs blancs les interpelle alors qu'elles traversent le carrefour."
 
 # game/4_min.rpy:1413
 translate french furry_05feeed3:
@@ -3310,7 +3310,7 @@ translate french furry_1e03745f:
 translate french furry_e283959f:
 
     # Min "This is America! SPEAK ENGLISH, MOTHERFUCKER!!!" with sshake
-    Min "On est en Amérique ici ! PARLE NOTRE LANGUE, CONNARD !!!" with sshake
+    Min "On est en Amérique ici ! PARLE LA BONNE LANGUE, CONNARD !!!" with sshake
 
 # game/4_min.rpy:1420
 translate french furry_ceb712a7:
@@ -3322,7 +3322,7 @@ translate french furry_ceb712a7:
 translate french furry_dfbbd33c:
 
     # Min "It's kinda funny, he had two chances to get it right and got it wrong for both of us."
-    Min "C'est marrant, il avait deux chances que ce soit correct, mais il s'est quand même planté pour nous deux."
+    Min "C'est marrant, il avait deux chances de tomber juste, mais il s'est quand même planté pour nous deux."
 
 # game/4_min.rpy:1427
 translate french furry_afa0d65c:
@@ -3334,13 +3334,13 @@ translate french furry_afa0d65c:
 translate french furry_b3c4d507:
 
     # Min "Oh, shut up."
-    Min "Oh, la ferme."
+    Min "Oh, ta gueule."
 
 # game/4_min.rpy:1439
 translate french furry_4392fa19:
 
     # Min "We're here!"
-    Min "On est là !"
+    Min "On est arrivés !"
 
 # game/4_min.rpy:1441
 translate french furry_46cc5616:
@@ -3364,13 +3364,13 @@ translate french furry_d13bf152:
 translate french furry_a293139f:
 
     # Min "{font=tamil.ttf}வணக்கம்.{/font}"
-    Min "{font=tamil.ttf}வணக்கம்.{/font}"
+    Min "{font=tamil.ttf}வணக்கம்.{/font} (Vaṇakkam.)"
 
 # game/4_min.rpy:1455
 translate french furry_0dc258b4:
 
     # Min "{font=tamil.ttf}நான் குசு விரும்புகிறேன்.{/font}"
-    Min "{font=tamil.ttf}நான் குசு விரும்புகிறேன்.{/font}"
+    Min "{font=tamil.ttf}நான் குசு விரும்புகிறேன்.{/font} (Nāṉ kucu virumpukiṟēṉ.)"
 
 # game/4_min.rpy:1458
 translate french furry_ae21a3c4:
@@ -3382,13 +3382,13 @@ translate french furry_ae21a3c4:
 translate french furry_3a2190bc:
 
     # Diya "{font=korean.ttf}사랑해.{/font}"
-    Diya "{font=korean.ttf}사랑해.{/font}"
+    Diya "{font=korean.ttf}사랑해.{/font} (Salanghae)"
 
 # game/4_min.rpy:1465
 translate french furry_dfc8c0e6:
 
     # MinT "This just added 5 years to my lifespan!!!"
-    MinT "Mon espérance de vie vient de se rallonger de 5 ans !!!"
+    MinT "Mon espérance de vie vient juste de se rallonger de 5 ans !!!"
 
 # game/4_min.rpy:1479
 translate french furry_bd4f8afd:
@@ -3400,31 +3400,31 @@ translate french furry_bd4f8afd:
 translate french furry_346a4f82:
 
     # Noelle "You're sweating buckets. Were you exercising or something?"
-    Noelle "Tu transpires beaucoup. T'as fait du sport ?"
+    Noelle "Tu transpires comme un cochon. T'as fait du sport ou un truc du genre ?"
 
 # game/4_min.rpy:1483
 translate french furry_d87ed046:
 
     # Diya "Ran 5 miles to here from my house."
-    Diya "J'ai couru 8 km de ma maison jusqu'ici."
+    Diya "J'ai couru les 8 km de chez moi jusqu'ici."
 
 # game/4_min.rpy:1485
 translate french furry_b86ed933:
 
     # Noelle "But your house is only 1 mile away."
-    Noelle "Mais ta maison n'est même pas à 2 km."
+    Noelle "Mais ta maison est même pas à 2 km."
 
 # game/4_min.rpy:1487
 translate french furry_e8b3244e:
 
     # Diya "I know. I just can't read maps."
-    Diya "Je sais. Je sais juste pas lire une carte."
+    Diya "Je sais. J'ai juste beaucoup de mal à lire une carte."
 
 # game/4_min.rpy:1489
 translate french furry_b0f76e72:
 
     # Akarsha "You should cool off in the fountain."
-    Akarsha "Tu devrais te rafraichir dans la fontaine."
+    Akarsha "Tu devrais te rafraîchir dans la fontaine."
 
 # game/4_min.rpy:1491
 translate french furry_a2dbca39:
@@ -3436,25 +3436,25 @@ translate french furry_a2dbca39:
 translate french furry_367bed1e:
 
     # Min "It doesn't matter that you're not wearing a swimsuit. If you take off your clothes, your bra and underwear will basically be like a bikini."
-    Min "C'est pas grave si tu portes pas de maillot. Si tu te déshabilles, tes sous-vêtements serviront de bikini."
+    Min "C'est pas grave si tu portes pas de maillot. Si tu te déshabilles, tes sous-vêtements feront bikini."
 
 # game/4_min.rpy:1496
 translate french furry_a64073da:
 
     # Noelle "You think the swimsuit is the only issue here??"
-    Noelle "Tu penses que c'est le maillot le seul problème ??"
+    Noelle "Tu penses que c'est le maillot le seul problème, là ??"
 
 # game/4_min.rpy:1498
 translate french furry_0b9bd3c1:
 
     # Akarsha "It's called having fun, Frenchman. You should try it sometime."
-    Akarsha "C'est ce qui s'appelle s'amuser. Tu devrais essayer un jour."
+    Akarsha "Ca s'appelle s'amuser. Tu devrais essayer un jour."
 
 # game/4_min.rpy:1500
 translate french furry_d77fcfa9:
 
     # Noelle "Really? Then why don't YOU jump into the fountain?"
-    Noelle "Vraiment ? Alors pourquoi ce n'est pas TOI qui sautes dans la fontaine ?"
+    Noelle "Vraiment ? Alors pourquoi c'est pas TOI qui sautes dans la fontaine ?"
 
 # game/4_min.rpy:1502
 translate french furry_96be9389:
@@ -3472,19 +3472,19 @@ translate french furry_9d73f57c:
 translate french furry_0c9cb4f7:
 
     # Akarsha "It's filled with money people threw in there. It's like a swimming pool but better."
-    Akarsha "Elle est remplie de pièces que les gens ont jetées dedans. C'est comme une piscine, mais en mieux."
+    Akarsha "C'est rempli de pièces que les gens ont jetées. C'est comme une piscine, mais en mieux."
 
 # game/4_min.rpy:1514
 translate french furry_1ea964e0:
 
     # Min "She's right! There's nothing stopping us from taking it."
-    Min "Mais ouais ! Rien ne nous empêche de les prendre."
+    Min "Ah mais ouais ! Rien nous empêche de les prendre."
 
 # game/4_min.rpy:1517
 translate french furry_b44d5aa4:
 
     # Noelle "You can't be serious. Stop. Stop!"
-    Noelle "Vous n'êtes pas sérieuses. Arrêtez. Stop !"
+    Noelle "Vous êtes pas sérieuses. Arrêtez. Arrêtez !"
 
 # game/4_min.rpy:1525
 translate french furry_6645c25c:
@@ -3520,19 +3520,19 @@ translate french furry_3d649a42:
 translate french furry_415d8ace:
 
     # Akarsha "You've got like $1.88."
-    Akarsha "T'as genre 1,88$."
+    Akarsha "T'as genre 1 dollar 88."
 
 # game/4_min.rpy:1535
 translate french furry_134615bd:
 
     # Akarsha "If we find 392 more cents, we can buy Mario Party at GameStop."
-    Akarsha "Si on trouve encore 392 cents, on pourra acheter Mario Party au GameStop."
+    Akarsha "Si on trouve encore 392 cents, on pourra acheter Mario Party à GameStop."
 
 # game/4_min.rpy:1541
 translate french furry_65f2fbb0:
 
     # Chryssa "Hey! What're you doing in there?? Get out!"
-    Chryssa "Hé ! Qu'est-ce que vous faites là-dedans ?? Sortez !"
+    Chryssa "Hé ! Mais qu'est-ce que vous foutez là-dedans ?? Sortez de suite !"
 
 # game/4_min.rpy:1543
 translate french furry_233bd0e4:
@@ -3550,7 +3550,7 @@ translate french furry_fbd0a49c:
 translate french furry_af0fcfab:
 
     # "Akarsha and Min reluctantly climb out of the mall fountain."
-    "Akarsha et Min sortent de la fontaine à contrecoeur."
+    "Akarsha et Min sortent de la fontaine à contrecœur."
 
 # game/4_min.rpy:1554
 translate french furry_d12085ce:
@@ -3562,13 +3562,13 @@ translate french furry_d12085ce:
 translate french furry_fba8191a:
 
     # Chryssa "Have you never gone outside before??"
-    Chryssa "Vous êtes jamais sorties avant ??"
+    Chryssa "Vous êtes jamais sorties dehors de votre vie ou quoi ??"
 
 # game/4_min.rpy:1557
 translate french furry_fa62fe8e:
 
     # Akarsha "How dare you. Just last week, I went to Safeway with my mom."
-    Akarsha "Comment ose-tu. Je suis allée à Safeway avec ma mère pas plus tard que la semaine dernière."
+    Akarsha "Comment oses-tu. Je suis allée à Safeway avec ma maman pas plus tard que la semaine dernière."
 
 # game/4_min.rpy:1559
 translate french furry_04372ed0:
@@ -3586,7 +3586,7 @@ translate french furry_cbe0414d:
 translate french furry_012caae6:
 
     # Noelle "What! I didn't do anything."
-    Noelle "Quoi ? Je n'ai rien fait."
+    Noelle "Quoi ? J'ai rien fait."
 
 # game/4_min.rpy:1565
 translate french furry_508ebbcd:
@@ -3598,13 +3598,13 @@ translate french furry_508ebbcd:
 translate french furry_dbf25334:
 
     # Chryssa "Are you the responsible one or not??"
-    Chryssa "C'est toi la personne responsable ici, non ??"
+    Chryssa "C'est toi la personne responsable du groupe, non ??"
 
 # game/4_min.rpy:1568
 translate french furry_279b75c7:
 
     # Liz "Alright, I think they get it. Let's just go into the restaurant now."
-    Liz "D'accord, je pense qu'elles ont compris. Entrons juste dans le restaurant."
+    Liz "Allez, je pense qu'elles ont compris. Entrons juste dans le restaurant."
 
 # game/4_min.rpy:1573
 translate french furry_a47faf55:
@@ -3622,7 +3622,7 @@ translate french furry_e4ddcc92:
 translate french furry_d56d1a05:
 
     # "Min climbs in and lies on her side in fetal position. There's actually some room to spare."
-    "Min rentre dedans et se couche en position fétale. Il y a même plus d'espace que prévu."
+    "Min rentre dedans et se couche en position fœtale. Il y a même plus d'espace que prévu."
 
 # game/4_min.rpy:1581
 translate french furry_64eead0b:
@@ -3634,7 +3634,7 @@ translate french furry_64eead0b:
 translate french furry_c37135d2:
 
     # Min "It's kinda like being in sleeping bag, except not padded and shitty."
-    Min "C'est un peu comme un sac de couchage, mais en plus merdique et sans rembourage."
+    Min "C'est un peu comme un sac de couchage, mais en plus merdique et sans rembourrage."
 
 # game/4_min.rpy:1587
 translate french furry_fdaf85dd:
@@ -3646,13 +3646,13 @@ translate french furry_fdaf85dd:
 translate french furry_3b3212d9:
 
     # Akarsha "That's right, homie. Fight the system."
-    Akarsha "J'avoue. Fight the system."
+    Akarsha "J'avoue poto. Nique le système."
 
 # game/4_min.rpy:1596
 translate french furry_79bd4e16:
 
     # Liz "We need to zip this up now, so no one sees you."
-    Liz "Il faut qu'on ferme le sac maintenant, pour que personne ne te voie."
+    Liz "Il faut qu'on ferme le sac maintenant, pour que personne te voie."
 
 # game/4_min.rpy:1598
 translate french furry_bf0e76e6:
@@ -3676,7 +3676,7 @@ translate french furry_e8568ce8:
 translate french furry_3201dc4c:
 
     # "Min feels a tug on the top of the bag."
-    "Min sent quelqu'un tirer le sac."
+    "Min sent quelqu'un tenter de soulever le sac."
 
 # game/4_min.rpy:1609
 translate french furry_73c93030:
@@ -3700,7 +3700,7 @@ translate french furry_b51a4fc0:
 translate french furry_3233ba4e:
 
     # Noelle "No, Diya won't work."
-    Noelle "Non, ça n'ira pas avec Diya."
+    Noelle "Non, ça marchera pas avec Diya."
 
 # game/4_min.rpy:1613
 translate french furry_f93b1989:
@@ -3718,7 +3718,7 @@ translate french furry_0067b5d1:
 translate french furry_6e0c4e44:
 
     # Chryssa "...Did you just call me Mom?"
-    Chryssa "...Tu viens de m'appeler maman ?"
+    Chryssa "... Tu viens de m'appeler maman ?"
 
 # game/4_min.rpy:1616
 translate french furry_cb305ac7:
@@ -3742,19 +3742,19 @@ translate french furry_196db4a7:
 translate french furry_df4427cd:
 
     # Chryssa "Alright, I'll carry the bag."
-    Chryssa "D'accord, je vais porter le sac."
+    Chryssa "Bon ok, je vais porter le sac."
 
 # game/4_min.rpy:1622
 translate french furry_9f007404:
 
     # MinT "Whoa. She's lifting the bag off the ground."
-    MinT "Waouh. Elle soulève le sac."
+    MinT "Waouh. Elle a réussi à soulever le sac."
 
 # game/4_min.rpy:1623
 translate french furry_95462c53:
 
     # MinT "I'm suddenly really worried about being dropped."
-    MinT "J'ai très peur qu'elle me lâche, d'un coup."
+    MinT "J'ai très peur qu'elle lâche, d'un coup."
 
 # game/4_min.rpy:1624
 translate french furry_365a88f7:
@@ -3772,7 +3772,7 @@ translate french furry_4f2285a5:
 translate french furry_b2e7e140:
 
     # NPC "How many?"
-    NPC "Combien ?"
+    NPC "Pour combien ?"
 
 # game/4_min.rpy:1632
 translate french furry_c061639d:
@@ -3802,7 +3802,7 @@ translate french furry_20c35c40:
 translate french furry_4a591d09:
 
     # "The bag shifts with Chryssa's movements as she follows the waiter."
-    "Le sac balance au bout du bras du Chryssa alors qu'elle suit le serveur."
+    "Le sac se balance au bout du bras du Chryssa alors qu'elle suit le serveur."
 
 # game/4_min.rpy:1638
 translate french furry_2feef746:
@@ -3820,7 +3820,7 @@ translate french furry_f28d19c5:
 translate french furry_2f6f419c:
 
     # Min "{big=+20}I'M NOT THAT SHORT, YOU BITCH!{/big}" with sshake
-    Min "JE SUIS PAS SI PETITE QUE ÇA, SALOPE !" with sshake
+    Min "{big=+20}JE SUIS PAS SI PETITE QUE ÇA, CONNASSE !{/big}" with sshake
 
 # game/4_min.rpy:1645
 translate french furry_63981d3d:
@@ -3874,7 +3874,7 @@ translate french furry_8aa62bec:
 translate french furry_0fa1dc2b:
 
     # Diya "We can get our drinks and food now."
-    Diya "On peut enfin commander quelque chose."
+    Diya "On peut aller chercher à manger et à boire maintenant."
 
 # game/4_min.rpy:1664
 translate french furry_ced4aa4c:
@@ -3886,7 +3886,7 @@ translate french furry_ced4aa4c:
 translate french furry_7cfc6891:
 
     # Noelle "Wait. I'll get your water along with mine."
-    Noelle "Attends. Je vais remplir ton verre en même temps que le mien."
+    Noelle "Laisse. Je vais remplir ton verre en même temps que le mien."
 
 # game/4_min.rpy:1667
 translate french furry_677a2ad0:
@@ -3922,7 +3922,7 @@ translate french furry_c0fc8668:
 translate french furry_7af4b272:
 
     # Noelle "I don't have the energy to deal with both you and Min-seo at the same time. "
-    Noelle "Je n'ai pas l'énergie pour vous gérer en même temps toi et Min-seo."
+    Noelle "J'ai pas l'énergie pour te gérer en même temps toi et Min-seo."
 
 # game/4_min.rpy:1677
 translate french furry_28432370:
@@ -3934,7 +3934,7 @@ translate french furry_28432370:
 translate french furry_40f24e6b:
 
     # Min "I like how getting her water is something you have to get her back for."
-    Min "J'aime bien comment elle te doit un service juste pour lui avoir apporter de l'eau."
+    Min "J'aime bien comment elle te doit un service juste pour lui avoir apporté de l'eau."
 
 # game/4_min.rpy:1682
 translate french furry_3382ed19:
@@ -3958,7 +3958,7 @@ translate french furry_fc09ab02:
 translate french furry_ec46e96b:
 
     # Min "...She's okay, I guess."
-    Min "...Ouais, ça peut aller."
+    Min "... Ouais, ça peut aller."
 
 # game/4_min.rpy:1689
 translate french furry_0df69513:
@@ -3976,7 +3976,7 @@ translate french furry_3bbe2e2e:
 translate french furry_10410ce5:
 
     # Min "I don't know what anything is."
-    Min "Je connais aucun de ces plats."
+    Min "Je connais aucun des plats."
 
 # game/4_min.rpy:1703
 translate french furry_fe0aee52:
@@ -4012,7 +4012,7 @@ translate french furry_d67775eb:
 translate french furry_266e4523:
 
     # Noelle "Are you 5 years old? You could've just said, like the \"due\" in \"due date.\""
-    Noelle "Quel âge tu as ? Tu aurais juste pu dire \"dou\" comme dans \"doué.\""
+    Noelle "Mais t'as quel âge ? T'aurais juste pu dire \"dou\" comme dans \"douée.\""
 
 # game/4_min.rpy:1717
 translate french furry_1080092c:
@@ -4030,13 +4030,13 @@ translate french furry_46fd130d:
 translate french furry_01cc5a36:
 
     # MinT "I ended up taking a bit of everything."
-    MinT "Finalement, j'ai pris un peu de tout."
+    MinT "Au final j'ai pris un peu de tout."
 
 # game/4_min.rpy:1729
 translate french furry_7d94db38:
 
     # MinT "Maybe this will make Diya think I'm cool for trying all of it."
-    MinT "Peut-être que Diya pensera que j'suis cool parce que j'ai gouté à tous les plats."
+    MinT "Peut-être que Diya pensera que j'suis cool parce que j'ai goûté à tous les plats."
 
 # game/4_min.rpy:1732
 translate french furry_e0f181aa:
@@ -4048,19 +4048,19 @@ translate french furry_e0f181aa:
 translate french furry_0d025e1c:
 
     # "Noelle dumps it on Diya's plate. Diya eagerly stuffs the extra food into her mouth."
-    "Noelle le jette dans l'assiette de Diya. Diya s'empresse de fourrer la nourriture supplémentaire dans sa bouche."
+    "Noelle le met dans l'assiette de Diya. Diya s'empresse de fourrer la nourriture supplémentaire dans sa bouche."
 
 # game/4_min.rpy:1735
 translate french furry_8b27f2c3:
 
     # Akarsha "What is she, your garbage disposal?"
-    Akarsha "Elle est quoi, ton broyeur d'ordures ?"
+    Akarsha "Mais Diya c'est qui pour toi, ton broyeur à ordures ?"
 
 # game/4_min.rpy:1743
 translate french furry_91e9efa0:
 
     # "Min jitters her leg so the table is rattling like there's a small earthquake."
-    "Min secoue sa jambe pour que la table s'agite comme s'il y avait un petit tremblement de terre."
+    "Min secoue sa jambe et la table s'agite comme s'il y avait un petit tremblement de terre."
 
 # game/4_min.rpy:1745
 translate french furry_e603c6b2:
@@ -4078,7 +4078,7 @@ translate french furry_5393e36d:
 translate french furry_d414d8cd:
 
     # Akarsha "Knowledge is power."
-    Akarsha "La connaissance est le pouvoir."
+    Akarsha "La connaissance c'est le pouvoir."
 
 # game/4_min.rpy:1762
 translate french furry_32ebaef2:
@@ -4090,7 +4090,7 @@ translate french furry_32ebaef2:
 translate french furry_7d59d08c:
 
     # "Clearly waiting for this moment to arrive, Noelle smugly flips open her cell phone and shows it to her."
-    "Alors qu'elle attendait manifestement ce moment, Noëlle ouvre son téléphone portable d'un air suffisant et le lui montre."
+    "Alors qu'elle attendait manifestement ce moment, Noelle ouvre son téléphone portable d'un air suffisant et le lui montre."
 
 # game/4_min.rpy:1765
 translate french furry_0ed8a4fd:
@@ -4108,13 +4108,13 @@ translate french furry_9d0168c6:
 translate french furry_16285bbf:
 
     # Akarsha "Is that...You filled my cup with toilet water?!" with sshake
-    Akarsha "Est-ce que... Tu as rempli ma tasse avec de l'eau des toilettes ?!" with sshake
+    Akarsha "Est-ce que... T'as rempli ma tasse avec de l'eau des toilettes ?!" with sshake
 
 # game/4_min.rpy:1773
 translate french furry_605c834f:
 
     # Noelle "What do you think?"
-    Noelle "Qu'est-ce que tu en penses ?"
+    Noelle "T'en penses quoi ?"
 
 # game/4_min.rpy:1775
 translate french furry_5829e205:
@@ -4126,7 +4126,7 @@ translate french furry_5829e205:
 translate french furry_402f584e:
 
     # "Akarsha stands. Noelle has a perversely happy look on her face, like a child burning ants with a magnifying glass." with sshake
-    "Akarsha se lève. Noëlle a un regard perversement heureux, comme un enfant qui brûle des fourmis avec une loupe." with sshake
+    "Akarsha se lève. Noelle a un regard perversement heureux, comme celui un enfant qui brûle des fourmis avec une loupe." with sshake
 
 # game/4_min.rpy:1778
 translate french furry_a6498f6e:
@@ -4138,7 +4138,7 @@ translate french furry_a6498f6e:
 translate french furry_2b883328:
 
     # Noelle "Now we're even."
-    Noelle "Maintenant nous sommes quittes."
+    Noelle "Maintenant on est quittes."
 
 # game/4_min.rpy:1783
 translate french furry_350775bf:
@@ -4150,7 +4150,7 @@ translate french furry_350775bf:
 translate french furry_1e88c8d9:
 
     # Akarsha "I can't believe you! You meanie!!"
-    Akarsha "Je ne peux pas te croire ! Méchante !"
+    Akarsha "Je peux pas te croire ! Méchante !"
 
 # game/4_min.rpy:1785
 translate french furry_88df026f:
@@ -4162,7 +4162,7 @@ translate french furry_88df026f:
 translate french furry_eb27cd01:
 
     # Noelle "You're being overdramatic. The bacteria wouldn't affect it that fast."
-    Noelle "Tu es trop dramatique. La bactérie ne t'affecterait pas si vite."
+    Noelle "Tu es trop dramatique. Les bactéries t'affecteraient pas si vite."
 
 # game/4_min.rpy:1789
 translate french furry_4bd98bee:
@@ -4192,13 +4192,13 @@ translate french furry_136db9e2:
 translate french furry_5e09fc34:
 
     # "Worried, Diya goes after Akarsha, leaving Min alone with Noelle at the table."
-    "Inquiète, Diya va chercher Akarsha, laissant Min seule avec Noelle à la table."
+    "Inquiète, Diya va rejoindre Akarsha, laissant Min seule avec Noelle à la table."
 
 # game/4_min.rpy:1806
 translate french furry_d0962bc0:
 
     # "Noelle is in a particularly good mood now."
-    "Noelle est de particulièrement bonne humeur en ce moment."
+    "Noelle est maintenant de particulièrement bonne humeur."
 
 # game/4_min.rpy:1870
 translate french check_6728dfde:
@@ -4222,7 +4222,7 @@ translate french check_0388f21d:
 translate french check_0d29e64d:
 
     # Akarsha "Oh my god! People pooped in the toilet water! And I drank it!"
-    Akarsha "Oh mon dieu ! Des gens ont chié dans l'eau des toilettes ! Et je l'ai bu !"
+    Akarsha "Oh mon dieu ! Des gens ont chié dans l'eau des toilettes ! Et j'ai bu ça !"
 
 # game/4_min.rpy:1876
 translate french check_9cbab985:
@@ -4246,7 +4246,7 @@ translate french check_0f663ebd:
 translate french check_b38f8ce1:
 
     # Diya "You tied Noelle's braid to a tree."
-    Diya "Tu as attaché la tresse de Noelle à un arbre."
+    Diya "T'as attaché la tresse de Noelle à un arbre."
 
 # game/4_min.rpy:1883
 translate french check_db534db3:
@@ -4264,25 +4264,25 @@ translate french check_38dccbc4:
 translate french check_96f461c3:
 
     # Akarsha "Besides that. That was weeks ago!"
-    Akarsha "Non mais, à part ça. C'était y'a une semaine !"
+    Akarsha "Non mais, à part ça. C'était y'a des semaines !"
 
 # game/4_min.rpy:1889
 translate french check_aab5ab31:
 
     # Diya "Yesterday you picked her up, replied \"Okay!\" when she demanded you put her down, and threw her into the school swimming pool."
-    Diya "Hier, tu l'as prise dans tes bras, t'as répondu \"OK !\" quand elle t'a demandé de la poser, et tu l'as jetée dans la piscine de l'école."
+    Diya "Hier, tu l'as soulevée dans tes bras, t'as répondu \"OK !\" quand elle t'a demandé de la poser, et tu l'as jetée dans la piscine de l'école."
 
 # game/4_min.rpy:1890
 translate french check_6319f787:
 
     # Diya "And when she screeched, \"Now I'm all wet,\" you yelled, \"That's what she said.\""
-    Diya "Et quand elle a crié : \"Maintenant je suis toute mouillée\", tu as hurlé : \"C'est elle qui l'a dit.\""
+    Diya "Et quand elle a crié : \"Maintenant je suis toute mouillée\", tu as hurlé : \"Comme ta mère.\""
 
 # game/4_min.rpy:1892
 translate french check_a11fb1c4:
 
     # Akarsha "Besides that! None of these count!"
-    Akarsha "Non mais, à part ça. Aucun d'entre eux ne compte !"
+    Akarsha "Non mais, à part ça. Tout ça c'est pour du beurre !"
 
 # game/4_min.rpy:1894
 translate french check_c47e75c1:
@@ -4294,13 +4294,13 @@ translate french check_c47e75c1:
 translate french check_557d3841:
 
     # Akarsha "Such a cruel world we live in."
-    Akarsha "Nous vivons dans un monde si cruel."
+    Akarsha "On vit dans un monde si cruel."
 
 # game/4_min.rpy:1898
 translate french check_195e0304:
 
     # Diya "...Right."
-    Diya "...C'est vrai."
+    Diya "... Si tu le dis."
 
 # game/4_min.rpy:1900
 translate french check_506c2ec4:
@@ -4312,7 +4312,7 @@ translate french check_506c2ec4:
 translate french check_50c1fce2:
 
     # "Even though she's mostly just standing there listening, though, Akarsha seems to appreciate her presence."
-    "Même si elle reste le plus souvent à écouter, Akarsha semble apprécier sa présence."
+    "Même si elle reste juste là à écouter, Akarsha semble apprécier sa présence."
 
 # game/4_min.rpy:1903
 translate french check_a650b6a8:
@@ -4336,19 +4336,19 @@ translate french check_e97a0d5c:
 translate french check_940aa5b4:
 
     # Noelle "She's not crying, is she?"
-    Noelle "Elle ne pleure pas, n'est-ce pas ?"
+    Noelle "Elle pleure pas, au moins ?"
 
 # game/4_min.rpy:1914
 translate french check_176c0f77:
 
     # Min "No, she's just being a drama queen like usual."
-    Min "Non, elle fait juste sa drama queen comme d'habitude."
+    Min "Non, elle fait juste sa drama queen comme d'hab."
 
 # game/4_min.rpy:1915
 translate french check_1c9dc3ad:
 
     # Min "What, are you worried?"
-    Min "Quoi, tu es inquiète ?"
+    Min "Quoi, t'es inquiète ?"
 
 # game/4_min.rpy:1918
 translate french check_34f980cf:
@@ -4378,19 +4378,19 @@ translate french talkNoelle_3d39808e:
 translate french talkNoelle_90747559:
 
     # Noelle "What? Of course not. That would've been unsanitary."
-    Noelle "Quoi ? Bien sûr que non. Ça n'aurait pas été hygiénique."
+    Noelle "Quoi ? Bien sûr que non. Ça aurait pas été hygiénique."
 
 # game/4_min.rpy:1933
 translate french talkNoelle_a946e741:
 
     # Noelle "What kind of person do you think I am?"
-    Noelle "Quelle genre de personne penses-tu que je suis ?"
+    Noelle "Mais tu me prends pour quoi ?"
 
 # game/4_min.rpy:1935
 translate french talkNoelle_43601d8a:
 
     # Min "What the fuck...That somehow makes it even worse."
-    Min "C'est quoi ce bordel... Ça rend les choses encore pires."
+    Min "C'est vache... Ça rend la chose presque encore plus horrible."
 
 # game/4_min.rpy:1936
 translate french talkNoelle_31b3e5ad:
@@ -4414,25 +4414,25 @@ translate french talkNoelle_c159ed15:
 translate french talkNoelle_b9b99edc:
 
     # Min "Um...It pisses me off to admit it, but you're less boring than I originally thought."
-    Min "Hum... Ça me fait chier de l'admettre, mais tu es moins ennuyeuse que je ne le pensais."
+    Min "Hum... Ça m'fait chier de l'admettre, mais t'es moins ennuyeuse que je pensais."
 
 # game/4_min.rpy:1946
 translate french talkNoelle_52cbf3c1:
 
     # Min "I used to think you were the bland goody-two-shoes type."
-    Min "Je pensais que tu étais la meuf cul-béni."
+    Min "Je pensais que t'étais une meuf cul-béni."
 
 # game/4_min.rpy:1947
 translate french talkNoelle_7d737b19:
 
     # Min "But you're actually this sadistic, manipulative weirdo."
-    Min "Mais en fait, tu es une sadique, une manipulatrice bizarre."
+    Min "Mais en fait, t'es une sadique, une manipulatrice cheloue."
 
 # game/4_min.rpy:1948
 translate french talkNoelle_2000134e:
 
     # Min "I can respect that."
-    Min "Je peux respecter cela."
+    Min "J'peux respecter ca."
 
 # game/4_min.rpy:1951
 translate french talkNoelle_994566f2:
@@ -4444,7 +4444,7 @@ translate french talkNoelle_994566f2:
 translate french talkNoelle_b8618034:
 
     # Min "Sorry I've been a jerk to you."
-    Min "Désolée d'avoir été une abrutie avec toi."
+    Min "Désolée d'avoir été aussi vache avec toi."
 
 # game/4_min.rpy:1954
 translate french talkNoelle_5034b09e:
@@ -4468,7 +4468,7 @@ translate french talkNoelle_e33dcd61:
 translate french talkNoelle_bb83dead:
 
     # "Noelle nods with relief."
-    "Noëlle acquiesce avec soulagement."
+    "Noelle acquiesce avec soulagement."
 
 # game/4_min.rpy:1964
 translate french talkNoelle_f77745ef:
@@ -4480,19 +4480,19 @@ translate french talkNoelle_f77745ef:
 translate french talkNoelle_da132d19:
 
     # Min "None of this Disney shit."
-    Min "Pas de cette merde de Disney."
+    Min "On est pas dans un Disney putain."
 
 # game/4_min.rpy:1968
 translate french talkNoelle_4d256c73:
 
     # Noelle "Right."
-    Noelle "C'est ça."
+    Noelle "Exactement."
 
 # game/4_min.rpy:1975
 translate french dessert_5b5afcc9:
 
     # "The workers are refilling the iced tea keg now."
-    "Les ouvriers sont en train de remplir le tonneau de thé glacé."
+    "Des employés sont en train de remplir le conteneur de thé glacé."
 
 # game/4_min.rpy:1977
 translate french dessert_bca8dc2c:
@@ -4522,31 +4522,31 @@ translate french dessert_a08ebed0:
 translate french dessert_c7eafc9f:
 
     # Noelle "What? Where was it?"
-    Noelle "Quoi ? Où était-il ?"
+    Noelle "Quoi ? Il était où ?"
 
 # game/4_min.rpy:2004
 translate french dessert_19d80885:
 
     # "Min points at the glass keg in the corner of the buffet."
-    "Min désigne le tonneau en verre sur le coin du buffet."
+    "Min désigne le conteneur en verre sur le coin du buffet."
 
 # game/4_min.rpy:2006
 translate french dessert_89ed21a8:
 
     # Noelle "Why is it all by itself, away from the other beverages?"
-    Noelle "Pourquoi est-il tout seul, loin des autres boissons ?"
+    Noelle "Pourquoi il tout seul comme ça, aussi loin des autres boissons ?"
 
 # game/4_min.rpy:2008
 translate french dessert_0082dee4:
 
     # Min "Uh...Maybe they didn't have room by the soda machine?"
-    Min "Euh... Peut-être qu'ils n'avaient pas de place près de la machine à soda ?"
+    Min "Euh... Pt'être qu'ils avaient plus de place à côté du distributeur de boissons ?"
 
 # game/4_min.rpy:2010
 translate french dessert_b0f0e474:
 
     # "Now that she looks, though, there is room by the soda machine."
-    "Maintenant qu'elle regarde, en fait, il y a de la place près de la machine à soda."
+    "Maintenant qu'elle regarde, en fait, il y a de la place près du distributeur de boissons."
 
 # game/4_min.rpy:2012
 translate french dessert_162f7fbe:
@@ -4558,13 +4558,13 @@ translate french dessert_162f7fbe:
 translate french dessert_9bdee54d:
 
     # Min "What the hell is this then?"
-    Min "Qu'est-ce que c'est, alors ?"
+    Min "C'est quoi alors ce truc ?"
 
 # game/4_min.rpy:2016
 translate french dessert_81ae7f4f:
 
     # Noelle "How should I know?"
-    Noelle "Comment le saurais-je ?"
+    Noelle "Comment je suis censée le savoir ?"
 
 # game/4_min.rpy:2017
 translate french dessert_ce3d1369:
@@ -4576,25 +4576,25 @@ translate french dessert_ce3d1369:
 translate french dessert_c3d600cf:
 
     # Min "I can't tell what it is."
-    Min "Je peux pas dire ce que c'est."
+    Min "J'arrive pas à reconnaître c'que c'est."
 
 # game/4_min.rpy:2020
 translate french dessert_283d48b3:
 
     # Min "You try."
-    Min "Essaye."
+    Min "T'as qu'à essayer."
 
 # game/4_min.rpy:2022
 translate french dessert_e2728208:
 
     # "Noelle brings to bowl to her face and inhales."
-    "Noelle approche la bol de son visage et inhale."
+    "Noelle approche le verre de son visage et renifle."
 
 # game/4_min.rpy:2023
 translate french dessert_f1b30f94:
 
     # Noelle "I don't know. It doesn't smell like a tea."
-    Noelle "Je ne suis pas sûre. Ca ne sent pas vraiment le thé."
+    Noelle "Je suis pas sûre. Ça sent pas vraiment le thé."
 
 # game/4_min.rpy:2024
 translate french dessert_e1a8ff90:
@@ -4606,19 +4606,19 @@ translate french dessert_e1a8ff90:
 translate french dessert_296d4ea2:
 
     # Noelle "I don't want this!"
-    Noelle "Je n'en veux pas!"
+    Noelle "J'en veux pas !"
 
 # game/4_min.rpy:2028
 translate french dessert_8abf27e4:
 
     # Min "It's a symbol of our not being enemies anymore."
-    Min "C'est le symbole de la fin de l'époque où nous étions ennemies."
+    Min "C'est le symbole de la fin de notre rivalité."
 
 # game/4_min.rpy:2031
 translate french dessert_a6c9fa8e:
 
     # Noelle "I don't even know what it is!"
-    Noelle "Je ne sais même pas ce que c'est!"
+    Noelle "Je sais même pas ce que c'est !"
 
 # game/4_min.rpy:2033
 translate french dessert_ccbde720:
@@ -4630,55 +4630,55 @@ translate french dessert_ccbde720:
 translate french dessert_4ba584c5:
 
     # Noelle "YOU try it."
-    Noelle "TU goûtes."
+    Noelle "Goûtes, TOI."
 
 # game/4_min.rpy:2038
 translate french dessert_e733dc8c:
 
     # Min "What, are you scared it'll taste bad?"
-    Min "Quoi, t'as peur que ce soit dégueu?"
+    Min "Quoi, t'as peur que ça soit dégueu ?"
 
 # game/4_min.rpy:2044
 translate french dessert_abb71892:
 
     # Noelle "What if it's a condiment? Or a sauce? "
-    Noelle "Et s'il s'avère que c'est de l'assaisonnement? Ou une sauce?"
+    Noelle "Et si c'est de l'assaisonnement ? Ou une sauce ?"
 
 # game/4_min.rpy:2045
 translate french dessert_c0ddd923:
 
     # Noelle "It would be like eating mustard."
-    Noelle "Ben ça serait comme manger de la moutarde."
+    Noelle "Ça serait comme manger de la moutarde."
 
 # game/4_min.rpy:2046
 translate french dessert_1c0c2844:
 
     # Noelle "We should just wait for Diya and Akarsha to come back and ask them. "
-    Noelle "Nous devrions attendre Diya et Akarsha et leur demander."
+    Noelle "On devrait attendre Diya et Akarsha pour leur demander."
 
 # game/4_min.rpy:2048
 translate french dessert_c87556df:
 
     # Min "I don't want to be sitting here with matching cups with you!"
-    Min "J'ai pas envie de poireauter ici avec une tasse assortie à la tienne!"
+    Min "J'ai pas envie de poireauter ici avec une tasse assortie à la tienne !"
 
 # game/4_min.rpy:2049
 translate french dessert_18193fd6:
 
     # Min "It'll look stupid!"
-    Min "On aura l'air connes!"
+    Min "On aura l'air connes !"
 
 # game/4_min.rpy:2052
 translate french dessert_d490ca13:
 
     # Noelle "You should've thought about that before taking a glass of mystery liquid! "
-    Noelle "Tu aurais dû penser à ça avant de pendre un verre de ce mystérieux liquide!"
+    Noelle "Tu aurais dû penser à ça avant de pendre un verre de ce liquide bizarre !"
 
 # game/4_min.rpy:2054
 translate french dessert_b873d7eb:
 
     # Min "I thought I knew what it was!"
-    Min "Je pensais savoir ce que c'était!"
+    Min "J'pensais savoir ce que c'était !"
 
 # game/4_min.rpy:2057
 translate french dessert_5c38d096:
@@ -4696,25 +4696,25 @@ translate french dessert_a29566b5:
 translate french dessert_86cc518a:
 
     # Noelle "It's spicy, not sweet."
-    Noelle "C'est épicé et non sucré."
+    Noelle "C'est épicé, pas sucré."
 
 # game/4_min.rpy:2064
 translate french dessert_32e24b1a:
 
     # Noelle "It's...weird for a beverage. I don't like it."
-    Noelle "C'est... bizarre comme boisson. Je n'aime pas."
+    Noelle "C'est... bizarre comme boisson. J'aime pas."
 
 # game/4_min.rpy:2066
 translate french dessert_77828a29:
 
     # Min "What're you, racist?"
-    Min "T'es raciste ou quoi?"
+    Min "T'es raciste ou quoi ?"
 
 # game/4_min.rpy:2069
 translate french dessert_aca62f5e:
 
     # Noelle "I'm not racist!"
-    Noelle "Je ne suis pas raciste!"
+    Noelle "Je suis pas raciste !"
 
 # game/4_min.rpy:2071
 translate french dessert_a4617aa6:
@@ -4726,19 +4726,19 @@ translate french dessert_a4617aa6:
 translate french dessert_ad75d33b:
 
     # Min "Closed-minded."
-    Min "Obtus."
+    Min "Obtue."
 
 # game/4_min.rpy:2075
 translate french dessert_06b35ea5:
 
     # Noelle "I'm not! Look, I'll finish it!"
-    Noelle "Je ne suis pas obtus! Regarde, je le finis!"
+    Noelle "C'est pas vrai ! Regarde, je le finis !"
 
 # game/4_min.rpy:2077
 translate french dessert_a23e347d:
 
     # Noelle "It's probably an acquired taste, like durian."
-    Noelle "Si ça se trouves on finit par aimer ça, comme le durian."
+    Noelle "Si ça se trouve on finit par aimer ça, comme le durian."
 
 # game/4_min.rpy:2080
 translate french dessert_84600c98:
@@ -4756,7 +4756,7 @@ translate french dessert_9bb7d531:
 translate french dessert_adad66d0:
 
     # MinT "I don't like it. But I'm better than her! I'll never admit it!"
-    MinT "C'est dégueu. Mais pas moyen que je lui dise! Je vaux mieux qu'elle!"
+    MinT "C'est dégueu. Mais pas moyen que je lui dise ! Je vaux mieux qu'elle !"
 
 # game/4_min.rpy:2092
 translate french dessert_0ca41dcd:
@@ -4768,7 +4768,7 @@ translate french dessert_0ca41dcd:
 translate french dessert_d4c3dd95:
 
     # Min "...Hey, you're like a Diya expert, right?"
-    Min "... Dis, t'es une sorte d'experte de Diya non?"
+    Min "... Dis, t'es une sorte d'experte de Diya non ?"
 
 # game/4_min.rpy:2098
 translate french dessert_c33ca5f8:
@@ -4780,19 +4780,19 @@ translate french dessert_c33ca5f8:
 translate french dessert_09c68427:
 
     # Min "Can I ask for your opinion on something, then?"
-    Min "J'peux te demander ton avis sur un truc alors?"
+    Min "J'peux te demander ton avis sur un truc alors ?"
 
 # game/4_min.rpy:2102
 translate french dessert_f4a86317:
 
     # Noelle "Yes?"
-    Noelle "Oui?"
+    Noelle "Oui ?"
 
 # game/4_min.rpy:2104
 translate french dessert_052b5efb:
 
     # Min "Where would be the best possible place to take Diya on a date?"
-    Min "Ca serait quoi le lieu idéal où amener Diya pour une rencard? "
+    Min "Ca serait quoi le lieu idéal où amener Diya pour un rencard ?"
 
 # game/4_min.rpy:2108
 translate french dessert_4cbedaf8:
@@ -4834,13 +4834,13 @@ translate french dessert_b3a12134:
 translate french dessert_6b92d36c:
 
     # Noelle "...In this hypothetical situation."
-    Noelle "...Dans cette situation tout à fait hypothétique."
+    Noelle "... Dans cette situation tout à fait hypothétique."
 
 # game/4_min.rpy:2121
 translate french dessert_21cfe736:
 
     # Min "Right. In this hypothetical situation."
-    Min "Mais bien sûr. On parle d'une situation hypothétique."
+    Min "Ouais. On parle d'une situation hypothétique."
 
 # game/4_min.rpy:2122
 translate french dessert_24926156:
@@ -4858,7 +4858,7 @@ translate french dessert_b1a1420d:
 translate french dessert_c38327a8:
 
     # Min "................."
-    Min "..................."
+    Min "................."
 
 # game/4_min.rpy:2133
 translate french dessert_8375ccca:
@@ -4870,61 +4870,61 @@ translate french dessert_8375ccca:
 translate french dessert_c799b355:
 
     # Noelle "Why don't you take her to a dessert place instead?"
-    Noelle "Pourquoi ne pas l'emmener dans un salon thé?"
+    Noelle "Pourquoi pas l'emmener dans un salon de thé ?"
 
 # game/4_min.rpy:2135
 translate french dessert_328fee46:
 
     # Noelle "There's one she wants to try called Snowcastle. They have shaved ice and boba."
-    Noelle "Je sais qu'elle aimerait essayer le Snowcastle. Ils font du buble-tea avec de la glace pillée."
+    Noelle "Je sais qu'elle aimerait essayer le Snowcastle. Ils font du bubble-tea et de la glace pillée."
 
 # game/4_min.rpy:2136
 translate french dessert_4e899500:
 
     # Noelle "It's within walking distance from school. Students often visit it during the lunch hour."
-    Noelle "Ce n'est pas très loin de notre lycée. Les élèves y vont souvent durant la pause déjeuner."
+    Noelle "C'est pas très loin du lycée. Les élèves y vont souvent pendant la pause du midi."
 
 # game/4_min.rpy:2138
 translate french dessert_8e952d6e:
 
     # Min "Perfect! Thanks."
-    Min "Parfait! Merci."
+    Min "Parfait ! Merci."
 
 # game/4_min.rpy:2140
 translate french dessert_df347f3f:
 
     # Min "...I mean, you pass."
-    Min "....J'veux dire, t'as réussi."
+    Min "... J'veux dire, t'as passé le test."
 
 # game/4_min.rpy:2142
 translate french dessert_1c2c28f1:
 
     # Min "Because I was testing you."
-    Min "T'as réussi le test que je te faisais passé."
+    Min "T'as réussi le test que je te faisais passer."
 
 # game/4_min.rpy:2145
 translate french dessert_b1a1420d_1:
 
     # Noelle "................."
-    Noelle "............."
+    Noelle "................."
 
 # game/4_min.rpy:2147
 translate french dessert_026d9242:
 
     # Noelle "Just as a reminder, I hate you."
-    Noelle "Pour ta gouverne, je te hais toujours."
+    Noelle "Pour ta gouverne, je te déteste toujours."
 
 # game/4_min.rpy:2148
 translate french dessert_34bec438:
 
     # Noelle "I'm only helping you to make sure Diya doesn't have a terrible time."
-    Noelle "Je t'aide simplement parce que je veux m'assurer que Diya ne passera pas un mauvais moment."
+    Noelle "Je t'aide simplement parce que je veux m'assurer que Diya passera pas un mauvais moment."
 
 # game/4_min.rpy:2150
 translate french dessert_2241f0d3:
 
     # Min "Yeah, of course. I hate you, too."
-    Min "Je sais. Je te hais aussi."
+    Min "Je sais. Je te déteste aussi."
 
 # game/4_min.rpy:2153
 translate french dessert_2a57c39f:
@@ -4942,13 +4942,13 @@ translate french dessert_60ff0222:
 translate french dessert_884d52a6:
 
     # Akarsha "Are you guys drinking pani?!"
-    Akarsha "Vous buvez du pani?!"
+    Akarsha "Vous buvez du pani ?!"
 
 # game/4_min.rpy:2158
 translate french dessert_d07f31ec:
 
     # Akarsha "Diya, look! Look, they're drinking pani!!" with sshake
-    Akarsha "Diya, regarde! Elles sont en train de boire du pani!!" with sshake
+    Akarsha "Diya, regarde ! Elles sont en train de boire du pani !!" with sshake
 
 # game/4_min.rpy:2161
 translate french dessert_10ef475f:
@@ -4960,19 +4960,19 @@ translate french dessert_10ef475f:
 translate french dessert_10ab0666:
 
     # Noelle "What?? What's pani?"
-    Noelle "Quoi?? C'est quoi du pani"
+    Noelle "Quoi ?? C'est quoi du pani ?"
 
 # game/4_min.rpy:2165
 translate french dessert_8cc07bbd:
 
     # Akarsha "You're supposed to use it to fill up fill puri, the fried dough ball things."
-    Akarsha "T'es censée l'utiliser pour remplir le puri, les trucs de boule de pâte frite là."
+    Akarsha "T'es censée l'utiliser pour remplir les puri, les genre de boules de pâte frite là."
 
 # game/4_min.rpy:2166
 translate french dessert_26adaa46:
 
     # Akarsha "You don't drink it all by itself."
-    Akarsha "Tu le bois pas tout entier tout seul."
+    Akarsha "Tu le bois pas comme ça tout seul."
 
 # game/4_min.rpy:2168
 translate french dessert_52a598e7:
@@ -4990,7 +4990,7 @@ translate french dessert_77ec4a8e:
 translate french dessert_3346b3a7:
 
     # Min "Don't pin it on me!"
-    Min "Wesh, j'ai rien dit !"
+    Min "Wesh, c'est pas ma faute !"
 
 # game/4_min.rpy:2172
 translate french dessert_89c47458:
@@ -5002,7 +5002,7 @@ translate french dessert_89c47458:
 translate french dessert_da7b37f1:
 
     # Akarsha "Do you guys squirt ketchup directly into your mouths too??"
-    Akarsha "Les meufs, vous aspergez vos bouches de ketchup aussi, ou quoi ??"
+    Akarsha "Les meufs, vous buvez le ketchup au goulot aussi, ou quoi ??"
 
 # game/4_min.rpy:2177
 translate french dessert_bfcfdeac:
@@ -5074,7 +5074,7 @@ translate french dessert_cab6be82:
 translate french dessert_75394782:
 
     # "Noelle storms off to the buffet area to escape Akarsha's photos."
-    "Noelle se barre vers le buffet pour échapper à l'appareil photo d'Akarsha."
+    "Noelle se barre en courant vers le buffet pour échapper à l'appareil photo d'Akarsha."
 
 # game/4_min.rpy:2205
 translate french dessert_6994ccff:
@@ -5134,7 +5134,7 @@ translate french dessert_7e6044fe:
 translate french dessert_e1baff9b:
 
     # MinT "Here's my chance to ask her out!!!"
-    MinT "C'est l'moment d'lui demander de sortir avec moi !!!"
+    MinT "C'est le moment de lui demander de sortir avec moi !!!"
 
 # game/4_min.rpy:2235
 translate french dessert_9ef51350:
@@ -5212,25 +5212,25 @@ translate french date_8e0ddc15:
 translate french date_6de3677e:
 
     # cNoelle "I have prepared a Diya cheat sheet for your reference."
-    cNoelle "Pour ton information, j'ai préparé une feuille de triche Diya."
+    cNoelle "Je t'ai préparé une feuille de triche spéciale Diya."
 
 # game/4_min.rpy:2314
 translate french date_2d772f64:
 
     # cSame "Top desserts/drinks Diya likes:\n - Any food artificially colored to look blue. The flavor is irrelevant (e.g. Blue Raspberry, Baja Blast, etc.). Diya cannot tell the difference and will refer to it as \"blue flavor\". \n- Peanut butter. She is neutral toward actual peanuts. \n- Mango. \n- Food with a circle in the center (e.g. bagels, bundt cakes, peach gummy rings)."
-    cSame "Les meilleurs desserts et boissons que Diya aime :\n - Tout aliment coloré artificiellement pour paraître bleu. La saveur n'a pas d'importance (e.g. framboises bleues, Powerade bleu, etc.). Diya ne sait pas faire la différence et s'y référera simplement à \"saveur bleue\". \n- Beurre de cacahuète. Elle est indifférente aux véritables cacahuètes. \n- Mangue. \n- La nourriture avec un cercle à l'intérieur (e.g. beignets, kouglofs, beignets de calmar)."
+    cSame "Les meilleurs desserts et boissons que Diya aime :\n - Tout aliment coloré artificiellement pour être bleu. La goût n'a pas d'importance (e.g. framboises bleues, Powerade bleu, etc.). Diya ne sait pas faire la différence et l'appelera simplement \"goût bleu\". \n- Beurre de cacahuète. Elle est indifférente aux véritables cacahuètes. \n- Mangue. \n- La nourriture avec un cercle à l'intérieur (e.g. beignets, kouglofs, beignets de calamar)."
 
 # game/4_min.rpy:2319
 translate french date_3cc39f49:
 
     # cSame "If you are in a situation where multiple food items have these features (e.g. both a blue colored cake and a mango mousse cake are available), the hierarchy is as follows: \n\"Blue flavor\" > Peanut butter > Mango > Circle in the center"
-    cSame "Si vous êtes dans une situation où plusieurs aliments ont ces caractéristiques (e.g. sont disponibles, à la fois un gâteau de couleur bleue, et une gâteau-mousse à la mangue), la hiérarchie est la suivante : \n\"Saveur bleue\" > Beurre de cacahuète > Mangue > Cercle à l'intérieur"
+    cSame "Si t'es dans une situation où plusieurs aliments ont ces caractéristiques (ex. sont disponibles, à la fois un gâteau de couleur bleue, et un gâteau-mousse à la mangue), la priorité est la suivante : \n\"Saveur bleue\" > Beurre de cacahuète > Mangue > Cercle à l'intérieur"
 
 # game/4_min.rpy:2321
 translate french date_b576917d:
 
     # cSame "Suggested conversation topics\n - Owl City \n- Dogs who have different colored fur above their eyes so it looks like they have eyebrows \n- The Most Extreme (Animal Planet series)"
-    cSame "Sujets de conversation suggérés\n - Le Château Ambulant \n- Les chiens qui ont une couleur de poils différente au-dessus de leurs yeux, que l'on dirait qu'ils ont des sourcils \n- 30 Millions d'Amis, l'émission"
+    cSame "Sujets de conversation suggérés\n - Owl City \n- Les chiens qui ont une couleur de poils différente au-dessus de leurs yeux, où on dirait qu'ils ont des sourcils \n- 30 Millions d'Amis, l'émission"
 
 # game/4_min.rpy:2325
 translate french date_eb9c7d91:
@@ -5248,7 +5248,7 @@ translate french date_31c43bf1:
 translate french date_6181ac04:
 
     # cNoelle "Understood."
-    cNoelle "Entendu"
+    cNoelle "Entendu."
 
 # game/4_min.rpy:2331
 translate french date_480cc057:
@@ -5262,13 +5262,13 @@ translate french date_480cc057:
 translate french date_3b094eaf:
 
     # Min "These shaved ice desserts look massive."
-    Min "Ces desserts à la glace pilée ont l'air oufissimes."
+    Min "Les desserts à la glace pilée ont l'air oufissimes."
 
 # game/4_min.rpy:2335
 translate french date_4f238848:
 
     # Min "Maybe we can share one."
-    Min "On pourrait partager."
+    Min "On pourrait en partager un."
 
 # game/4_min.rpy:2338
 translate french date_9ee5e3fd:
@@ -5280,7 +5280,7 @@ translate french date_9ee5e3fd:
 translate french date_b4cdb038:
 
     # Diya "It's on purpose. They're made for couples to eat togeth-"
-    Diya "C'est fait exprès. Ils ont fait en sorte que les couples mangent ensem-"
+    Diya "C'est fait exprès. C'est fait pour que les couples mangent ensem-"
 
 # game/4_min.rpy:2342
 translate french date_3b40016d:
@@ -5292,7 +5292,7 @@ translate french date_3b40016d:
 translate french date_0ad2c1e0:
 
     # "It's Diya and Min's turn in line now. "
-    "C'est maintenant au tour de Diya et de Min."
+    "C'est maintenant au tour de Diya et de Min dans la file."
 
 # game/4_min.rpy:2349
 translate french date_25403de1:
@@ -5310,7 +5310,7 @@ translate french date_7be4e409:
 translate french date_19463d0a:
 
     # MinT "She's relying on me!"
-    MinT "Elle se repose sur moi !"
+    MinT "Elle compte sur moi !"
 
 # game/4_min.rpy:2353
 translate french date_5e89bd56:
@@ -5328,13 +5328,13 @@ translate french date_bcf421ec:
 translate french date_09b47bc4:
 
     # MinT "That one is blue."
-    MinT "Ce truc est bleu."
+    MinT "Celui-là est bleu."
 
 # game/4_min.rpy:2358
 translate french date_328d047e:
 
     # NPC "One Mt. Fuji, coming right up!"
-    NPC "Et un Mont Fuji en cours !"
+    NPC "Et un Mont Fuji, c'est parti !"
 
 # game/4_min.rpy:2366
 translate french date_d1385f48:
@@ -5364,13 +5364,13 @@ translate french date_b79bd400:
 translate french date_771d492a:
 
     # Diya "...Thanks."
-    Diya "... Merci"
+    Diya "... Merci."
 
 # game/4_min.rpy:2376
 translate french date_b1f5625d:
 
     # Min "You're welcome. I'd kill someone if you asked me to."
-    Min "Au plaisir. J'tuerais n'importe qui si tu me le demandais."
+    Min "Au plaisir. J'tuerais n'importe qui si tu m'le demandais."
 
 # game/4_min.rpy:2379
 translate french date_9975f86d:
@@ -5394,7 +5394,7 @@ translate french date_d7e5bde9:
 translate french date_21b909ce:
 
     # Diya "Don't wanna see."
-    Diya "Je veux pas voir ça."
+    Diya "Je veux pas voir."
 
 # game/4_min.rpy:2386
 translate french date_8b244130:
@@ -5430,7 +5430,7 @@ translate french date_0ff0d969:
 translate french date_075e28fa:
 
     # Diya "That's not cooking."
-    Diya "C'est pas cuisiner ça."
+    Diya "C'est pas cuisiner, ça."
 
 # game/4_min.rpy:2398
 translate french date_d636d142:
@@ -5442,7 +5442,7 @@ translate french date_d636d142:
 translate french date_e38697e3:
 
     # Diya "...Not really."
-    Diya ".. Pas vraiment."
+    Diya "... Pas vraiment."
 
 # game/4_min.rpy:2402
 translate french date_698bc6e5:
@@ -5454,7 +5454,7 @@ translate french date_698bc6e5:
 translate french date_0fc1bff7:
 
     # Diya "But it burned to a total crisp. Like a rock."
-    Diya "Mais ça a brûlé au point de se changer en carbone. Genre un caillou en carbone."
+    Diya "Mais ça a brûlé au point de se changer en carbone. Genre comme du charbon."
 
 # game/4_min.rpy:2404
 translate french date_bd229531:
@@ -5466,25 +5466,25 @@ translate french date_bd229531:
 translate french date_a1186cf9:
 
     # Diya "I was so embarrassed that I dug a big hole in the backyard and buried it."
-    Diya "J'étais génée que j'ai creusé un grand trou dans le jardin et je l'ai enterré"
+    Diya "J'étais tellement gênée que j'ai creusé un grand trou dans le jardin pour l'enterrer."
 
 # game/4_min.rpy:2407
 translate french date_3eca1780:
 
     # Min "Including the pan?!"
-    Min "Dont la poelle ?!"
+    Min "Avec la poêle ?!"
 
 # game/4_min.rpy:2410
 translate french date_e41c3027:
 
     # Diya "I was desperate. Didn't know what else to do."
-    Diya "J'étais désespéré. Je ne savais pas quoi faire d'autre "
+    Diya "J'étais désespérée. Je savais pas quoi faire d'autre."
 
 # game/4_min.rpy:2412
 translate french date_b02b6f63:
 
     # Min "That's so cute. Like a little puppy."
-    Min "C'est si mignon. Comme un chiot"
+    Min "C'est si mignon. Comme un petit chien."
 
 # game/4_min.rpy:2415
 translate french date_c6563535:
@@ -5496,25 +5496,25 @@ translate french date_c6563535:
 translate french date_74e65d7a:
 
     # Min "No! It's a good thing."
-    Min "Non ! Ce n'est pas une bonne chose. "
+    Min "Non ! C'est cool."
 
 # game/4_min.rpy:2419
 translate french date_3c9da375:
 
     # Min "You're so cute sometimes that I almost can't stand it."
-    Min "Tu es si mignone que parfois je ne peux presque pas le supporter."
+    Min "T'es si mignone parfois, je peux presque pas le supporter."
 
 # game/4_min.rpy:2422
 translate french date_d52b05c9:
 
     # Diya "................."
-    Diya "...................."
+    Diya "................."
 
 # game/4_min.rpy:2423
 translate french date_3d2bd622:
 
     # Diya "I-I have to go to the bathroom."
-    Diya "J-Je dois aller au cabinet"
+    Diya "F-Faut que j'aille aux toilettes."
 
 # game/4_min.rpy:2426
 translate french date_0aea222b:
@@ -5526,7 +5526,7 @@ translate french date_0aea222b:
 translate french date_bf019f1d:
 
     # "She misses the door and slams straight into the wall." with sshake
-    "Elle loupe la porte et se cogne conter le mur" with sshake
+    "Elle loupe la porte et se cogne contre le mur." with sshake
 
 # game/4_min.rpy:2430
 translate french date_4962ac78:
@@ -5538,37 +5538,37 @@ translate french date_4962ac78:
 translate french date_66b68b55:
 
     # "Min rushes to her side as she staggers back and grabs ahold of her, worried she might fall."
-    "Min se précipite à ses cotés alors qu'elle vacille et l'agrippe, inquiète qu'elle ne chusse "
+    "Min se précipite à ses cotés alors qu'elle vacille et l'agrippe, inquiète qu'elle ne chute."
 
 # game/4_min.rpy:2435
 translate french date_001632b5:
 
     # Min "What's wrong? Are you hurt?"
-    Min "Qu'est-ce qui ne vas pas ? Tu t'es fait mal ?"
+    Min "Ca va pas ? Tu t'es fait mal ?"
 
 # game/4_min.rpy:2438
 translate french date_209aa739:
 
     # "Diya just shakes her head, face red. She seems to be struggling with the limits of spoken language."
-    "Diya secoue sa tête, le visage rouge. Elle semble avoir du mal à s'exprimer. "
+    "Diya secoue la tête, le visage rouge. Elle semble avoir du mal à s'exprimer. "
 
 # game/4_min.rpy:2440
 translate french date_033eac02:
 
     # Min "You sure?"
-    Min "Tu es sur ?"
+    Min "T'es sûre ?"
 
 # game/4_min.rpy:2442
 translate french date_86f3f2e5:
 
     # "Diya nods frantically."
-    "Diya acquiesce rapidement"
+    "Diya acquiesce rapidement."
 
 # game/4_min.rpy:2444
 translate french date_d091a18e:
 
     # "Min tentatively lets her go. She watches Diya scramble into the restroom (correctly this time)."
-    "Min la laisse doucement partir. Diya se précipiter dans les toilettes (correctement cette fois) "
+    "Min la laisse doucement partir. Diya se précipite dans les toilettes (correctement cette fois)."
 
 # game/4_min.rpy:2447
 translate french date_66c3b7fe:
@@ -5580,55 +5580,55 @@ translate french date_66c3b7fe:
 translate french date_8e0ddc15_1:
 
     # cFirstLine "{nw}"
-    cFirstLine "nw"
+    cFirstLine "{nw}"
 
 # game/4_min.rpy:2450
 translate french date_93bfa41f:
 
     # cAkarsha3 "IM GDSO FDUCKING DFONE"
-    cAkarsha3 "OH PUTDIEUX J'EN AI RAS LE CUL"
+    cAkarsha3 "OH PUTDIEUX J'EN AI RAS LE CLU"
 
 # game/4_min.rpy:2451
 translate french date_a771f4c7:
 
     # cSame "THE WAY U GRABED HER I THOIUGHT U WERE GONNNA START DRY HUMPGIN HER IN THE MIDDLE OF THE RESTAURNAT"
-    cSame "LA FAÇON DONT TU L'AS ATTRAPÉE, J'AI CRU QUE TU ALLAIS COMMENCER À LA BAISER AU MILIEU DU RESTAURANT"
+    cSame "LA FAÇON DON TU L'AS ATTRAPÉE J'IA CRU QUE TALLAIS COMMENCER À LA BAISER AU MILIEU DU RESTAURNAT"
 
 # game/4_min.rpy:2452
 translate french date_ee96e9f5:
 
     # cNoelle "Akarsha, I'm convinced those sunglasses are actually impeding your mental processes."
-    cNoelle "Akarsha, je suis convaincu que ses lunettes de soleil entrave ta reflexion"
+    cNoelle "Akarsha, je suis convaincue que ces lunettes de soleil te rendent encore plus attardée mentalement."
 
 # game/4_min.rpy:2453
 translate french date_3a12341d:
 
     # cSame "I am embarrassed to be seen with you."
-    cSame "Je suis gênée d'être vu avec toi"
+    cSame "Je suis gênée d'être vue avec toi."
 
 # game/4_min.rpy:2454
 translate french date_f241ddf1:
 
     # cAkarsha3 "well i cant take them off"
-    cAkarsha3 "Et bien, je ne peux pas les enlever"
+    cAkarsha3 "ouais bah je peux pas les enlever"
 
 # game/4_min.rpy:2455
 translate french date_49bd71ff:
 
     # cSame "my coverll be blown"
-    cSame "Ma couverture sera détruite"
+    cSame "ma couverture sera détruite"
 
 # game/4_min.rpy:2456
 translate french date_785231e5:
 
     # cNoelle "YOU SHOULD HAVE CHOSEN A BETTER DISGUISE IN THE FIRST PLACE, THEN."
-    cNoelle "TU AURAIS DU CHOISIR UN MEILLEUR DEGUISEMENT EN PREMIER LIEU, tac "
+    cNoelle "T'AURAIS DÛ CHOISIR UN MEILLEUR DÉGUISEMENT EN PREMIER LIEU, DEJA."
 
 # game/4_min.rpy:2461
 translate french date_06e8dbfe:
 
     # cMin "what"
-    cMin "Quoi"
+    cMin "quoi"
 
 # game/4_min.rpy:2462
 translate french date_a72d67d4:
@@ -5646,7 +5646,7 @@ translate french date_76b2fe88:
 translate french date_bda8889e:
 
     # Min ".................."
-    Min "..............."
+    Min ".................."
 
 # game/4_min.rpy:2475
 translate french date_8e0ddc15_2:
@@ -5658,19 +5658,19 @@ translate french date_8e0ddc15_2:
 translate french date_f1a4dee5:
 
     # cMin "WTF"
-    cMin "CQCB"
+    cMin "WTF"
 
 # game/4_min.rpy:2477
 translate french date_4d4810d6:
 
     # cAkarsha3 "diya's been texting me for advice on u"
-    cAkarsha3 "Diya ma demander des conseils par messages"
+    cAkarsha3 "Diya ma demander des conseils sur toi par message"
 
 # game/4_min.rpy:2478
 translate french date_2089359c:
 
     # cSame "thats why she went to the bathroom"
-    cSame "C'est pour ça qu'elle est partie au cabinet"
+    cSame "c'est pour ça qu'elle est partie au cabinet"
 
 # game/4_min.rpy:2479
 translate french date_47de0e2b:
@@ -5682,55 +5682,55 @@ translate french date_47de0e2b:
 translate french date_606e6a6c:
 
     # cNoelle "Honestly, I'm annoyed she goes to you and not me."
-    cNoelle "Honnêtement, je suis ennuyer qu'elle aille vers toi et non vers moi"
+    cNoelle "Honnêtement, ça m'agace qu'elle soit allée vers toi et pas vers moi."
 
 # game/4_min.rpy:2481
 translate french date_0c8abb32:
 
     # cAkarsha3 "why would she go to u? u never talk about feelings and gay stuff"
-    cAkarsha3 "Pourquoi est-ce qu'elle se confie à toi ? Tu ne parle jamais de tes sentiments et de trucs gay"
+    cAkarsha3 "pourquoi elle se confierait à toi ? tu parles jamais de sentiments et de trucs gay"
 
 # game/4_min.rpy:2483
 translate french date_c938498c:
 
     # cSame "and i also have master seduction skills"
-    cSame "Et j'ai aussi une master en séduction"
+    cSame "et j'ai aussi un master en séduction"
 
 # game/4_min.rpy:2485
 translate french date_fd55c9a4:
 
     # cNoelle "What master seduction skills?"
-    cNoelle "Quel master en séduction ? "
+    cNoelle "Quel master en séduction ?"
 
 # game/4_min.rpy:2486
 translate french date_b03bb65d:
 
     # cAkarsha3 "my Tactics"
-    cAkarsha3 "mes tactiques"
+    cAkarsha3 "mes Tactiques"
 
 # game/4_min.rpy:2487
 translate french date_a9961127:
 
     # cNoelle "If you're so knowledgable on these matters, why are you single?"
-    cNoelle "Si tu en sais autan sur ces sujets, pourquoi es tu célib ? "
+    cNoelle "Si t'en sais tant sur ces sujets, pourquoi t'es célibataire ?"
 
 # game/4_min.rpy:2488
 translate french date_8b0524ae:
 
     # cAkarsha3 "excuse u im single bc i want to be??"
-    cAkarsha3 "Je te merde, je suis célib parce que je le veux"
+    cAkarsha3 "je te merde, je suis célib parce que je le veux ??"
 
 # game/4_min.rpy:2489
 translate french date_62841a7b:
 
     # cSame "some people like being sad and alone"
-    cSame "Y a des gens qui aiment être triste et seule"
+    cSame "y a des gens qui aiment être triste et seule"
 
 # game/4_min.rpy:2490
 translate french date_de3ce7f3:
 
     # cSame "on purpose"
-    cSame "A dessein"
+    cSame "a dessein"
 
 # game/4_min.rpy:2491
 translate french date_2c6c72f9:
@@ -5742,7 +5742,7 @@ translate french date_2c6c72f9:
 translate french date_083a10a1:
 
     # cAkarsha3 "rigHT, ON PURPOSE"
-    cAkarsha3 "biEN, A desssein."
+    cAkarsha3 "oUI, A DESSSEIN"
 
 # game/4_min.rpy:2493
 translate french date_1c5beafe:
@@ -5754,7 +5754,7 @@ translate french date_1c5beafe:
 translate french date_0757bf2f:
 
     # cSame "dont attack me like this wtf???"
-    cSame " pourquoi ce tacke à la jugulaire "
+    cSame "c'est quoi ce tacle à la jugulaire, meuf oh ???"
 
 # game/4_min.rpy:2495
 translate french date_c1ed4011:
@@ -5766,55 +5766,55 @@ translate french date_c1ed4011:
 translate french date_9e28ada8:
 
     # cSame "how long has this been going on????"
-    cSame "ça dure depuis combien de temps ?????"
+    cSame "ça dure depuis combien de temps votre cinéma ????"
 
 # game/4_min.rpy:2497
 translate french date_bfd06caa:
 
     # cSame "was the whole thing at the buffet a setup?? when yuo two left the table??"
-    cSame "Est-ce que tout ce truc au buffet était un coup monté ?? quand vous avez toutes deux quittées la table ??"
+    cSame "tout ce truc au buffet c'était un coup monté ?? qd vous avez toutes deux quitté la table ??"
 
 # game/4_min.rpy:2498
 translate french date_6fed39f8:
 
     # cNoelle "Take a wild guess, Sherlock."
-    cNoelle "Essaie de deviner Sherlock."
+    cNoelle "Devine Sherlock."
 
 # game/4_min.rpy:2499
 translate french date_b1018941:
 
     # cMin "you know nolle im starting to realize you do have a sense of humor"
-    cMin "Tu sais quoi, Nolle je commence à me rendre compte que tu as un sens de l'humour "
+    cMin "tu sais quoi nolle je commence à me rendre compte que tu as vraiment un sens de l'humour"
 
 # game/4_min.rpy:2500
 translate french date_5072402f:
 
     # cSame "but your so emotionally constipated that youre style of humor is just being extremely mean"
-    cSame "mais tu es tellement constipé émotionnellement que ton style d'humour est juste extrêmement méchant."
+    cSame "mais t'es tellement constipée émotionnellement que ton style d'humour est juste super méchant"
 
 # game/4_min.rpy:2501
 translate french date_1c639c1c:
 
     # cAkarsha3 "omg wait??"
-    cAkarsha3 "Oh mon dieux quoi ??"
+    cAkarsha3 "oh mon dieu, attends un peu ??"
 
 # game/4_min.rpy:2502
 translate french date_4558ad6f:
 
     # cSame "do u and noelle get along now??"
-    cSame "Est-ce que Noelle et toi vous vous entendez bien maintenant? "
+    cSame "vous vous entendez bien maintenant noelle et toi ??"
 
 # game/4_min.rpy:2503
 translate french date_0ec18da0:
 
     # cNoelle "We don't get along."
-    cNoelle "On ne s'entend pas"
+    cNoelle "On ne s'entend pas."
 
 # game/4_min.rpy:2504
 translate french date_65bb5315:
 
     # cMin "but we used to not get along much worse"
-    cMin "mais nous ne nous entendions pas beaucoup plus"
+    cMin "mais c'était pire avant"
 
 # game/4_min.rpy:2507
 translate french date_76b2fe88_1:
@@ -5826,13 +5826,13 @@ translate french date_76b2fe88_1:
 translate french date_d15b28cd:
 
     # "Diya returns to the table."
-    "Diya reviens à table"
+    "Diya revient à table."
 
 # game/4_min.rpy:2514
 translate french date_2bfcde61:
 
     # Min "Are you feeling better?"
-    Min "Tu te sens mieux"
+    Min "Tu te sens mieux ?"
 
 # game/4_min.rpy:2517
 translate french date_7db98ad7:
@@ -5844,7 +5844,7 @@ translate french date_7db98ad7:
 translate french date_1f43a5f9:
 
     # NPC "One Mt. Fuji?"
-    NPC "Un Mont blanc?"
+    NPC "Un Mont Fuji ?"
 
 # game/4_min.rpy:2521
 translate french date_f985c064:
@@ -5856,37 +5856,37 @@ translate french date_f985c064:
 translate french date_0aeb4999:
 
     # "It's a mound of shaved ice, sculpted and saturated with blue raspberry syrup and condensed milk to look like a mountain."
-    "c'est un monticule de glace pilée, sculpté et saturé de sirop de framboise bleue et de lait concentré pour ressembler à une montagne."
+    "C'est un monticule de glace pilée, sculpté et saturé de sirop de framboise bleue et de lait concentré pour ressembler à une montagne."
 
 # game/4_min.rpy:2528
 translate french date_e60bc343:
 
     # Diya "...!!!!!!!"
-    Diya "..!!!!!!!"
+    Diya "...!!!!!!!"
 
 # game/4_min.rpy:2529
 translate french date_c148ca9c:
 
     # Diya "The blue flavor looks good."
-    Diya "La saveur bleu a l'air bonne"
+    Diya "La goût bleu a l'air bon."
 
 # game/4_min.rpy:2532
 translate french date_67c8be6f:
 
     # MinT "Noelle was spot on!"
-    MinT "Noelle a été parfaite !"
+    MinT "Noelle a géré !"
 
 # game/4_min.rpy:2535
 translate french date_2c1b2f54:
 
     # Diya "What're the pink things?"
-    Diya "Quel sont les trucs rose"
+    Diya "C'est quoi les trucs roses ?"
 
 # game/4_min.rpy:2538
 translate french date_b5d4ba39:
 
     # Min "It's mochi. They're supposed to look like cherry blossoms."
-    Min "C'est du mochi. Ils sont sensé resemblé à des feuille de cerisié"
+    Min "C'est du mochi. C'est censé ressembler à des feuilles de cerisier."
 
 # game/4_min.rpy:2540
 translate french date_4be91b6d:
@@ -5904,31 +5904,31 @@ translate french date_92dd2f87:
 translate french date_b14e324a:
 
     # Min "I think I'm getting brainfreeze."
-    Min "J'ai mal à la tête à cause du froid"
+    Min "J'ai mal à la tête à cause du froid."
 
 # game/4_min.rpy:2549
 translate french date_4047d783:
 
     # Diya "Me too."
-    Diya "Moi aussi"
+    Diya "Moi aussi."
 
 # game/4_min.rpy:2550
 translate french date_24eb4686:
 
     # "A drop of cream is trickling down Diya's finger. She quickly licks it clean before it can reach her palm."
-    "Une goutte de crème coule sur le doigt de Diya. Elle la lèche rapidement avant qu'elle n'atteigne sa paume."
+    "Une goutte de crème coule sur le doigt de Diya. Elle la lèche rapidement avant même qu'elle n'atteigne sa paume."
 
 # game/4_min.rpy:2551
 translate french date_f0b38232:
 
     # "Min is so focused watching, she doesn't realize her own mouth is hanging open until she feels a trail of spit about to drop down from it."
-    "Min est tellement concentrée à regarder qu'elle ne se rend pas compte que sa propre bouche est ouverte jusqu'à ce qu'elle sente une traînée de salive sur le point d'en sortir."
+    "Min est tellement concentrée à regarder qu'elle ne se rend pas compte que sa propre bouche est ouverte jusqu'à ce qu'elle sente une traînée de salive sur le point d'en tomber."
 
 # game/4_min.rpy:2552
 translate french date_c003e9e7:
 
     # "Min accidentally drooled onto the table."
-    "Min a bavé accidentellement sur la table "
+    "Min a accidentellement bavé sur la table."
 
 # game/4_min.rpy:2554
 translate french date_b85557d5:
@@ -5952,7 +5952,7 @@ translate french date_6a61dc07:
 translate french date_82339b76:
 
     # "Diya is staring determinedly into the Mr. Fuji. She's probably pretending not to have seen. "
-    "Diya fixe le mont Fuji de façon déterminée. Elle fait comme si elle n'avait rien vu."
+    "Diya regarde avec détermination le mont Fuji. Elle fait certainement comme si elle n'avait rien vu."
 
 # game/4_min.rpy:2567
 translate french date_8e0ddc15_3:
@@ -5970,19 +5970,19 @@ translate french date_f4f61793:
 translate french date_997a0246:
 
     # cAkarsha3 "pretend to drown so she has to give you mouth-to-mouth"
-    cAkarsha3 "fais semblant de te noyer, alors elle va devoir te faire du bouche-à-bouche"
+    cAkarsha3 "fais semblant de te noyer pour quelle te fasse du bouche-à-bouche"
 
 # game/4_min.rpy:2571
 translate french date_dfc12c83:
 
     # cMin "wtf kind of plan is that"
-    cMin "c kel genre de plan sa ptdr"
+    cMin "c quel genre de plan ca"
 
 # game/4_min.rpy:2572
 translate french date_1a1506e8:
 
     # cSame "what would i even be drowning on??"
-    cSame "Et dans quoi est-ce que je me noierais ??"
+    cSame "et dans quoi je me noierais ??"
 
 # game/4_min.rpy:2574
 translate french date_0557c3db:
@@ -6030,13 +6030,13 @@ translate french date_5b9de73f:
 translate french date_93c136aa:
 
     # cMin "your the LAST person on the planet qualified to tell me to be open"
-    cMin "t la DERNIERE personne qualifiée sur cette planète à me dire que j'dois m'ouvrir"
+    cMin "t la DERNIERE personne qualifiée sur cette planète à me dire que j'dois m'ouvrir à quelqu'un"
 
 # game/4_min.rpy:2584
 translate french date_6a17d31d:
 
     # cNoelle "I don't know what you're talking about. I'm perfectly open about my feelings."
-    cNoelle "J'vois absolument pas de quoi tu parles. Je suis parfaitement à l'aise sur mes sentiments."
+    cNoelle "Je vois absolument pas de quoi tu parles. Je suis parfaitement à l'aise avec mes sentiments."
 
 # game/4_min.rpy:2585
 translate french date_925c106f:
@@ -6048,13 +6048,13 @@ translate french date_925c106f:
 translate french date_370c0e91:
 
     # cSame "hey frenchman u enjoy our company right?"
-    cSame "Hé, la 2nde, tu kiffes notre présence hein ?"
+    cSame "hé la française tu kiffes notre compagnie hein ?"
 
 # game/4_min.rpy:2587
 translate french date_d0a5c397:
 
     # cNoelle "I'm not sure how you deluded yourself into believing that."
-    cNoelle "Je me demande bien comment tu as pu te leurrer en pensant ça."
+    cNoelle "Je me demande bien comment tu as pu te leurrer au point de penser ça."
 
 # game/4_min.rpy:2589
 translate french date_fdd232a7:
@@ -6072,13 +6072,13 @@ translate french date_754eade2:
 translate french date_fdbfbe1c:
 
     # cSame "proved us right"
-    cSame "Ca prouve qu'on avait raison"
+    cSame "ça prouve qu'on avait raison"
 
 # game/4_min.rpy:2592
 translate french date_a06a76f8:
 
     # cSame "you cant even argue it"
-    cSame "tu n'as même pas de contre-argument"
+    cSame "t'as même pas de contre-argument"
 
 # game/4_min.rpy:2593
 translate french date_95272ec7:
@@ -6096,13 +6096,13 @@ translate french date_c44de48a:
 translate french date_c03c9a84:
 
     # cSame "SHE HATES BEING WRONG BUT CANT ADMIT SHE LIKES US"
-    cSame "ELLE DETESTE AVOIR TORT MAIS PEUT PAS AVOUER QU'ELLE NOUS KIFFE."
+    cSame "ELLE DETESTE AVOIR TORT MAIS PEUT PAS AVOUER QU'ELLE NOUS KIFFE"
 
 # game/4_min.rpy:2596
 translate french date_226a80c1:
 
     # cNoelle "I like you."
-    cNoelle "Je t'apprécie."
+    cNoelle "Je vous apprécie."
 
 # game/4_min.rpy:2597
 translate french date_71991069:
@@ -6114,25 +6114,25 @@ translate french date_71991069:
 translate french date_48a3cf16:
 
     # cNoelle "HOWEVER, you're immature and relentlessly annoying. Everything about you fills me with indescribable rage. From the way you wear a windbreaker with flip-flops, to your idiotic looking hairstyle, to how you're smart yet do things like call forks \"food rakes\", etc."
-    cNoelle "CEPENDANT, tu es immature et d'un ennui incessant. Tout ce qu'il y a en toi me remplit d'une rage indescriptible. Depuis la façon dont tu as à porter un coupe-vent avec des tongs, à ta coiffure tellement idiote, ou encore au fait que, bien que tu sois rusée, tu arrives toujours à faire des trucs stupides, tel que nommer les fourchettes des \"râteaux à nourriture\", et ainsi de suite."
+    cNoelle "CEPENDANT, tu es immature et d'un ennui incessant. Tout ce qu'il y a en toi me remplit d'une rage indescriptible. De la façon que tu as de porter un coupe-vent avec des tongs, à ta coiffure tellement idiote, ou encore au fait que, bien que tu sois intelligente, tu arrives toujours à faire des trucs stupides, tel que nommer les fourchettes des \"râteaux à nourriture\", et ainsi de suite."
 
 # game/4_min.rpy:2599
 translate french date_a3083047:
 
     # cSame "And Min, you're volatile and stupid. I already hardly tolerate you, so if you hurt Diya in any way, I won't hesitate to destroy you."
-    cSame "Et Min, t'es super instable et stupide. Déjà que je te supporte à peine, alors si tu fais quoique ce soit de mal à Diya, je n'hésiterai pas à te buter."
+    cSame "Et Min, t'es super instable et stupide. Déjà que je te supporte à peine, alors si tu fais le moindre mal à Diya, je n'hésiterai pas à te détruire."
 
 # game/4_min.rpy:2600
 translate french date_c88dce9c:
 
     # cMin "WHY DO YOU HAVE TO IMMEDIATLY DRAG US TO DEFUSE THE SITUATION??"
-    cMin "PUTAIN, MAIS POURQUOI TU NOUS EMBARQUES TOUJOURS DANS DES SITUATIONS PAREILLES ??"
+    cMin "PTN MAIS POURQUOI TU DOIS TJRS NOUS INSULTER POUR DÉSAMORCER LA SITUATION ??"
 
 # game/4_min.rpy:2601
 translate french date_4c780be4:
 
     # cAkarsha3 "baby steps, frenchman! very good"
-    cAkarsha3 "à petits pas, belle gosse de seconde ! bravo"
+    cAkarsha3 "un pied devant l'autre, la française ! bravo"
 
 # game/4_min.rpy:2602
 translate french date_6452903e:
@@ -6144,19 +6144,19 @@ translate french date_6452903e:
 translate french date_a90505a0:
 
     # cSame "Now that I'm right, as always, about being open, Min has no valid excuse."
-    cSame "Comme toujours, j'ai raison d'être ouverte d'esprit. Min n'a aucune excuse valable."
+    cSame "Comme j'ai prouvé infailliblement, encore une fois, que j'étais bien sincère sur mes sentiments, Min n'a aucune excuse valable."
 
 # game/4_min.rpy:2604
 translate french date_a6671969:
 
     # cMin "what if diya rejects me??"
-    cMin "et si diya m'rejette ???"
+    cMin "et si diya m'rejette ??"
 
 # game/4_min.rpy:2605
 translate french date_0daa9134:
 
     # cAkarsha3 "then that's her own personal problem for having bad taste"
-    cAkarsha3 "alors c'est son problème d'avoir des mauvais goûts"
+    cAkarsha3 "alors c'est son problème si elle a des mauvais goûts"
 
 # game/4_min.rpy:2606
 translate french date_34b259ea:
@@ -6174,13 +6174,13 @@ translate french date_f5776140:
 translate french date_7ad37b68:
 
     # cAkarsha3 "lemme think"
-    cAkarsha3 "Att, je réfléchis"
+    cAkarsha3 "att, je réfléchis"
 
 # game/4_min.rpy:2609
 translate french date_e4e646d8:
 
     # cSame "shit bitch u iz fine"
-    cSame "koi 2 9 salope de merde"
+    cSame "ptn t bonne"
 
 # game/4_min.rpy:2610
 translate french date_88dfe622:
@@ -6210,7 +6210,7 @@ translate french date_8f028d7a:
 translate french date_f37f8cf1:
 
     # cMin "WHO TF WOULD SAY THAT"
-    cMin "PUTAIN, MAIS QUI DIRAIT UNE MERDE PAREILLE"
+    cMin "PUTAIN MAIS QUI DIRAIT UNE MERDE PAREILLE"
 
 # game/4_min.rpy:2615
 translate french date_54eaacdd:
@@ -6240,13 +6240,13 @@ translate french date_cbbe2496:
 translate french date_77959821:
 
     # cSame "IMMA BELT THE CRAZY FROG SONG AND RUIN UR WHOLE DATE!!"
-    cSame "J'VAIS METTRE CETTE PUTAIN DE MUSIQUE DE GRENOUILLE ET RUINER VOTRE DATE !!!"
+    cSame "J'VAIS HURLER LA CHANSON DE CRAZY FROG ET RUINER VOTRE DATE !!"
 
 # game/4_min.rpy:2620
 translate french date_0250454a:
 
     # cSame "IVE PRACTICED"
-    cSame "J'ME SUIS ENTRAÎNEE"
+    cSame "J'ME SUIS ENTRAINEE"
 
 # game/4_min.rpy:2621
 translate french date_359cd51e:
@@ -6264,31 +6264,31 @@ translate french date_76b2fe88_2:
 translate french date_d508d84c:
 
     # MinT "Okay. I can do this."
-    MinT "Ok. J'peux faire ça."
+    MinT "Ok. Je peux le faire."
 
 # game/4_min.rpy:2630
 translate french date_48d65bed:
 
     # Diya "My mouth is so cold."
-    Diya "Ma bouche est cousue."
+    Diya "Ma bouche est gelée."
 
 # game/4_min.rpy:2632
 translate french date_1ff8bd13:
 
     # Min "Want me to warm it up for you?"
-    Min "Tu veux que j'réchauffe le truc pour toi ?"
+    Min "Tu veux que j'la réchauffe pour toi ?"
 
 # game/4_min.rpy:2635
 translate french date_4a462600:
 
     # "Diya freezes."
-    "Diya se gèle."
+    "Diya s'immobilise."
 
 # game/4_min.rpy:2637
 translate french date_d75e83d8:
 
     # MinT "OH MY GOD?? I FUCKED UP!!! I FUCKED UP!!" with sshake
-    MinT "OH PUTAIN ! J'AI MERDE !!! J'AI MERDE !!!" with sshake
+    MinT "OH PUTAIN ! J'AI MERDE !!! J'AI MERDE !!" with sshake
 
 # game/4_min.rpy:2640
 translate french date_354e41f8:
@@ -6300,13 +6300,13 @@ translate french date_354e41f8:
 translate french date_a7e3de8e:
 
     # MinT "WHAT???????!" with sshake
-    MinT "QUOI ??????!" with sshake
+    MinT "QUOI ???????!" with sshake
 
 # game/4_min.rpy:2649
 translate french date_683c659b:
 
     # "Min crawls onto the table on all fours with a loud clatter." with sshake
-    "Min rampe à quatre pattes sur la table, avec un fort claquement." with sshake
+    "Min rampe à quatre pattes sur la table, à grand renfort de bruit." with sshake
 
 # game/4_min.rpy:2650
 translate french date_424563f8:
@@ -6318,7 +6318,7 @@ translate french date_424563f8:
 translate french date_3a775385:
 
     # "Her mouth is cold, as advertised, and blue flavor."
-    "Comme prévenu, sa bouche et cousue, et de saveur bleue."
+    "Comme prévenu, sa bouche est froide, et au goût bleu."
 
 # game/4_min.rpy:2653
 translate french date_78540729:
@@ -6330,7 +6330,7 @@ translate french date_78540729:
 translate french date_eeb6c3d6:
 
     # "Anxious, Min pulls back over the sounds of Akarsha's whooping and yodeling in the background."
-    "Anxieuse, Min recule alors qu'elle entend Akarsha s'esclaffer et crier en arrière-fond."
+    "Anxieuse, Min recule tandis qu'on entend Akarsha éclater de joie et se mettre à faire du yodel."
 
 # game/4_min.rpy:2657
 translate french date_4ed2a490:
@@ -6342,7 +6342,7 @@ translate french date_4ed2a490:
 translate french date_b5edd645:
 
     # Min "Is this good?"
-    Min "On se sent bien là ?"
+    Min "Est-ce que ça va ?"
 
 # game/4_min.rpy:2661
 translate french date_ed724b66:
@@ -6384,7 +6384,7 @@ translate french date_caf4954b:
 translate french date_a1bf253e:
 
     # Diya "I want to hold hands with you and cuddle."
-    Diya "J'ai envie de te prendre les mains et de te faire un câlin."
+    Diya "J'ai envie de te tenir la main et de te faire un câlin."
 
 # game/4_min.rpy:2675
 translate french date_64f4516a:
@@ -6414,19 +6414,19 @@ translate french date_e7591873:
 translate french date_510b0bc2:
 
     # Min "Me too."
-    Min "La même."
+    Min "Pareil."
 
 # game/4_min.rpy:2691
 translate french date_d7e687cb:
 
     # "Min lightly brushes Diya's lips with her thumb; Diya shivers at the touch as Min gently pulls her closer."
-    "Min caresse légèrement les lèvres de Diya avec ses pousses ; Diya frissonne au toucher, alors que Min se rapproche doucement."
+    "Min caresse légèrement les lèvres de Diya avec son pouce ; Diya frissonne au toucher, alors que Min se rapproche doucement."
 
 # game/4_min.rpy:2693
 translate french date_f44d13f1:
 
     # Min "Do you like this?"
-    Min "Tu kiffes ça ?"
+    Min "Tu aimes ça ?"
 
 # game/4_min.rpy:2695
 translate french date_28fbcf65:
@@ -6438,13 +6438,13 @@ translate french date_28fbcf65:
 translate french date_2b3fa0fe:
 
     # "She nuzzles against Min, peppering her cheek with soft, little kisses."
-    "Elle se blottit contre Min, parsemant ses joues de doux petits baisers."
+    "Elle se blottit contre Min, parsemant sa joue de doux petits baisers."
 
 # game/4_min.rpy:2698
 translate french date_e9c0cfa2:
 
     # MinT "OH MY GOD!!! DIYA IS KISSING ME!!!"
-    MinT "OH PUTAIN !!! DIYA M'A EMBRASSE !!!"
+    MinT "OH PUTAIN !!! DIYA M'EMBRASSE !!!"
 
 # game/4_min.rpy:2713
 translate french date_3efa1664:
@@ -6456,7 +6456,7 @@ translate french date_3efa1664:
 translate french date_669e7702:
 
     # "Noelle stands up and is approaching them."
-    "Noelle se lève, et s'approche d'elles."
+    "Noelle se lève et s'approche d'elles."
 
 # game/4_min.rpy:2717
 translate french date_0af23dc1:
@@ -6468,7 +6468,7 @@ translate french date_0af23dc1:
 translate french date_0e9069a4:
 
     # Noelle "You think I {i}want{/i} to be here watching this disgusting display?"
-    Noelle "Tu penses que je {i}veux{/i} rester ici à regarder cette scène dégoûtante ? "
+    Noelle "Tu penses que je {i}veux{/i} rester ici à regarder cette scène dégoûtante ?"
 
 # game/4_min.rpy:2722
 translate french date_1099f389:
@@ -6486,13 +6486,13 @@ translate french date_f742b48d:
 translate french lastChat_9ab142a7:
 
     # Diya "I can't believe we're banned from Snowcastle now."
-    Diya "J'arrive pas à croire qu'on est bannies de Snowcastle désormais."
+    Diya "J'arrive pas à croire qu'on soit bannies de Snowcastle."
 
 # game/4_min.rpy:2743
 translate french lastChat_64e191fb:
 
     # Noelle "I can't believe Min BROKE THEIR TABLE."
-    Noelle "Je n'arrive pas à croire que Min ait CASSE LEUR TABLE."
+    Noelle "J'arrive pas à croire que Min ait CASSE LEUR TABLE."
 
 # game/4_min.rpy:2746
 translate french lastChat_7d330c29:
@@ -6504,19 +6504,19 @@ translate french lastChat_7d330c29:
 translate french lastChat_30cccf2a:
 
     # Noelle "You could have held off on making out for 10 seconds and walked around it."
-    Noelle "Vous auriez vraiment pu vous retenir de vous embrasser, ne serait-ce que 10 secondes, et vous déplacer de l'autre côté de la table."
+    Noelle "T'aurais pu te retenir de l'embrasser, ne serait-ce que 10 secondes, et te déplacer de l'autre côté de la table."
 
 # game/4_min.rpy:2751
 translate french lastChat_fe1f5af1:
 
     # Min "Like I said, no choice."
-    Min "Comme je l'ai dit, pas l'choix."
+    Min "Comme j'ai dit, pas l'choix."
 
 # game/4_min.rpy:2754
 translate french lastChat_7efb1ece:
 
     # Akarsha "That was even better than you guys drinking pani at the buffet."
-    Akarsha "C'était encore meilleur que lorsque vous buviez du pani au buffet."
+    Akarsha "C'était encore meilleur que quand vous buviez du pani au buffet."
 
 # game/4_min.rpy:2756
 translate french lastChat_bfcfdeac:
@@ -6528,13 +6528,13 @@ translate french lastChat_bfcfdeac:
 translate french lastChat_b9a3bc78:
 
     # Min "Yeah, shut your fuck up."
-    Min "Ouais, ferme ta putain de gueule."
+    Min "Ouais, ferme ton putain de gueule."
 
 # game/4_min.rpy:2761
 translate french lastChat_bf9bf43d:
 
     # Akarsha "Shut your fuck up..."
-    Akarsha "Ta gueule..."
+    Akarsha "Ton putain de gueule..."
 
 # game/4_min.rpy:2770
 translate french lastChat_96e5cd79:
@@ -6558,7 +6558,7 @@ translate french lastChat_a8affe25:
 translate french lastChat_58e55a4c:
 
     # Noelle "Change my mind, then."
-    Noelle "Alors fais moi changer d'avis."
+    Noelle "Alors fais-moi changer d'avis."
 
 # game/4_min.rpy:2778
 translate french lastChat_a777ebdd:
@@ -6570,7 +6570,7 @@ translate french lastChat_a777ebdd:
 translate french lastChat_2d3f2f1d:
 
     # Akarsha "Friendship is like peeing on yourself."
-    Akarsha "L'amitié, c'est un peu comme se pisser sur soi-même."
+    Akarsha "L'amitié, c'est un peu comme se pisser dessus."
 
 # game/4_min.rpy:2781
 translate french lastChat_b54990fd:
@@ -6594,7 +6594,7 @@ translate french lastChat_93212e9d:
 translate french lastChat_329b78eb:
 
     # Noelle "Goodbye."
-    Noelle "Au revoir."
+    Noelle "Bon, salut, hein."
 
 # game/4_min.rpy:2792
 translate french lastChat_075d813a:
@@ -6606,13 +6606,13 @@ translate french lastChat_075d813a:
 translate french lastChat_24793ad5:
 
     # Min "WHAT WERE YOU EXPECTING AFTER THAT YOU NASTY FREAK HO???" with sshake
-    Min "MEUF, TU T'ATTENDAIS A QUOI APRES CA, PUTAIN DE DEGUEULASSE OH ???" with sshake
+    Min "MEUF, TU T'ATTENDAIS A QUOI APRES CA, GROSSE DEGUEULASSE ???" with sshake
 
 # game/4_min.rpy:2796
 translate french lastChat_e70233a3:
 
     # Min "PEE GIRL AGAIN??"
-    Min "PISSEUSE, ENCORE ???"
+    Min "PISSE-GIRL, ENCORE ???"
 
 # game/4_min.rpy:2800
 translate french lastChat_6a8bcf35:
@@ -6624,13 +6624,13 @@ translate french lastChat_6a8bcf35:
 translate french lastChat_7a052830:
 
     # Akarsha "MEANIE!!!"
-    Akarsha "VILAINE !!!"
+    Akarsha "MECHANTE !!!"
 
 # game/4_min.rpy:2805
 translate french lastChat_25038277:
 
     # Akarsha "You...YOU DUNG ELF."
-    Akarsha "GROSSE... CRASSEUSE D'ELFE"
+    Akarsha "ESPECE DE... GNOME DE BOUSE."
 
 # game/4_min.rpy:2807
 translate french lastChat_6970e3fe:
@@ -6642,19 +6642,19 @@ translate french lastChat_6970e3fe:
 translate french lastChat_6458bc5c:
 
     # Diya "You know how during metamorphosis, inside the chrysalis, the caterpillar turns to soup?"
-    Diya "Pendant la métamorphose, à l'intérieur de la chrysalide, tu sais comment la chenille se transforme en soupe ?"
+    Diya "Tu sais, quand pendant la métamorphose, dans la chrysalide, la chenille se transforme en soupe ?"
 
 # game/4_min.rpy:2824
 translate french lastChat_d7486d0c:
 
     # Diya "It melts into this disgusting muddled goo slushie."
-    Diya "Elle fond et devient cette boue gluante et dégueulasse."
+    Diya "Elle fond et devient cette boue gluante et toute crade."
 
 # game/4_min.rpy:2827
 translate french lastChat_f65b9cab:
 
     # Diya "Everyone is a mess when they're growing up. Some people are just better at hiding it than others."
-    Diya "Chez tout le monde, c'est le grand bordel en grandissant. Certaines personnes sont juste plus douées à le cacher que d'autres."
+    Diya "Pour tout le monde, c'est le grand bordel en grandissant. Certaines personnes sont juste plus douées à le cacher que d'autres."
 
 # game/4_min.rpy:2828
 translate french lastChat_43c4ec11:
@@ -6684,19 +6684,19 @@ translate french lastChat_d5882679:
 translate french lastChat_98998a58:
 
     # Diya "If you think about it like that, we're all doing pretty good right now. We just don't know it yet."
-    Diya "Si tu penses commeça, on se démerde toutes plutôt bien en ce moment, non ? Mais on le sait pas encore."
+    Diya "Quand on y pense, on se démerde toutes plutôt bien en ce moment. Mais on le sait juste pas encore."
 
 # game/4_min.rpy:2833
 translate french lastChat_6adee12c:
 
     # Akarsha "Just keep going."
-    Akarsha "Vas-y, continue."
+    Akarsha "Il faut aller de l'avant."
 
 # game/4_min.rpy:2834
 translate french lastChat_2277d0c0:
 
     # Akarsha "Keep trying and eventually, you'll find people who like you for the weird fuck-up that you are."
-    Akarsha "Continue, et tu finiras peut-être par trouver des gens qui t'aiment pour la merde chelou que tu es."
+    Akarsha "Encore et encore, et tu finiras peut-être par trouver des gens qui t'aiment pour la merde chelou que tu es."
 
 # game/4_min.rpy:2835
 translate french lastChat_717f19c9:
@@ -6720,7 +6720,7 @@ translate french lastChat_7b63ab9f:
 translate french lastChat_019c7474:
 
     # Diya "...And if an alligator attacks you, go for the eyes."
-    Diya "Et si un alligator t'attaque, vise les yeux."
+    Diya "...Et si un alligator t'attaque, vise les yeux."
 
 # game/4_min.rpy:2839
 translate french lastChat_cce84401:
@@ -6750,7 +6750,7 @@ translate french lastChat_e600fa88:
 translate french lastChat_cf4e1312:
 
     # Akarsha "Instead of moving forward or backwards, go directly left or right toward the nearest obstacle you see."
-    Akarsha "Au lieu d'aller de l'avant ou de l'arrière, bouge direct à gauche ou à droite, vers l'obstacle le plus proche que tu vois."
+    Akarsha "Au lieu d'aller en avant ou en arrière, bouge direct à gauche ou à droite, vers l'obstacle le plus proche que tu vois."
 
 # game/4_min.rpy:2844
 translate french lastChat_c78d2a4e:
@@ -6768,37 +6768,37 @@ translate french lastChat_1e1e150a:
 translate french lastChat_176c5270:
 
     # Akarsha "I was looking up how to survive if a car drives into you as a pedestrian."
-    Akarsha "Je cherchais comment survivre si une voiture fonçait vers un piéton."
+    Akarsha "Y'a pas longtemps, je cherchais sur Internet comment survivre si une voiture fonçait vers un piéton."
 
 # game/4_min.rpy:2847
 translate french lastChat_d94c84b7:
 
     # Min "I already told you, I'll just hit the car out of the way."
-    Min "J'te l'ai déjà meuf. Je buterais la caisse hors de la route."
+    Min "J'te l'ai déjà dit meuf. Je buterais la caisse hors de la route."
 
 # game/4_min.rpy:2848
 translate french lastChat_8965235d:
 
     # Noelle "This turned into a random advice session."
-    Noelle "Cela s'est transformé en une séance de conseils aléatoires."
+    Noelle "Ça s'est transformé en une séance de conseils random."
 
 # game/4_min.rpy:2849
 translate french lastChat_a7fd37ff:
 
     # Noelle "End this conversation. Otherwise we'll be standing here forever."
-    Noelle "Abrège la conversation. Autrement, on va en avoir pour des lustres."
+    Noelle "Abrège. Autrement, on va en avoir pour des lustres."
 
 # game/4_min.rpy:2850
 translate french lastChat_4fdba33a:
 
     # Min "Okay, I'm ending it now. Bye."
-    Min "Ok, j'abrège now. Bye."
+    Min "Ok, j'abrège. Salut."
 
 # game/4_min.rpy:2915
 translate french epilogue_c1fde218:
 
     # Min "So which one do you want?"
-    Min "Alors lequel tu veux ?"
+    Min "Alors tu veux lequel ?"
 
 # game/4_min.rpy:2920
 translate french epilogue_3e0fdf9c:
@@ -6816,19 +6816,19 @@ translate french epilogue_216d1353:
 translate french epilogue_7654c8bc:
 
     # "Hearing his name, Shibe turns brightly to Diya, tongue lolling out."
-    "A entendre son nom, Shibe se tourne vivement vers Diya, la langue pendante."
+    "En entendant son nom, Shibe se tourne joyeusement vers Diya, la langue pendante."
 
 # game/4_min.rpy:2924
 translate french epilogue_bbdaecf7:
 
     # "His frog raincoat makes a crinkling sound against Min's arms as he wags his tail."
-    "Alors qu'il remue la queue dans les bras de Min, son imperméable grenouille fait des bruits de grincement."
+    "Son petit imperméable grenouille fait du bruit tandis qu'il remue la queue dans les bras de Min."
 
 # game/4_min.rpy:2925
 translate french epilogue_f224682b:
 
     # Min "He's too nice. He likes all of them."
-    Min "Il est trop cool. Il les kiff tous."
+    Min "Il est trop gentil. Il les kiff tous."
 
 # game/4_min.rpy:2926
 translate french epilogue_3d92c9bd:
@@ -6846,25 +6846,25 @@ translate french epilogue_57537cff:
 translate french epilogue_5189ceec:
 
     # Diya "This one. Reminds me of you."
-    Diya "Celle-ci. Elle m'fait grave penser à toi."
+    Diya "Celle-ci. Elle me fait trop penser à toi."
 
 # game/4_min.rpy:2930
 translate french epilogue_228ad9c5:
 
     # Min "How?"
-    Min "Genre ?"
+    Min "Hein ?"
 
 # game/4_min.rpy:2931
 translate french epilogue_6f144b13:
 
     # Diya "Small, but thinks she's invincible."
-    Diya "Elle est p'tite, mais elle se croit invincible."
+    Diya "Elle est petite, mais elle se croit invincible."
 
 # game/4_min.rpy:2932
 translate french epilogue_4d48d07e:
 
     # Min "Hey..."
-    Min "Eh..."
+    Min "Hé..."
 
 # game/4_min.rpy:2933
 translate french epilogue_e35a667d:
@@ -6882,7 +6882,7 @@ translate french epilogue_2f7cb634:
 translate french epilogue_c6939739:
 
     # Diya "Your name is Pom."
-    Diya "Tu t'appelles Pom."
+    Diya "Tu t'appelleras Pom."
 
 translate french strings:
 
@@ -6900,7 +6900,7 @@ translate french strings:
 
     # 4_min.rpy:1231
     old "Check the baseball club chat"
-    new "Jeter un œil au chat du club de baseball"
+    new "Jeter un œil au groupe de discussion du club de baseball"
 
     # 4_min.rpy:1833
     old "Check on Diya and Akarsha"
@@ -6916,19 +6916,19 @@ translate french strings:
 translate french mcDonalds_7224791d:
 
     # "It's a futuristic looking Hot Wheels car sporting translucent ice blue windows."
-    "C'est une voiture de sport Hot Wheels à l'air futuriste avec des fenêtres translucides de couleur bleu glacier."
+    "C'est une voiture de sport Hot Wheels à l'air futuriste avec des fenêtres transparentes couleur bleu glacier."
 
 # game/4_min.rpy:1880
 translate french dessert_b1487f8c:
 
     # "Noelle brings the bowl to her face and inhales."
-    "Noelle approche le bol de son visage et inhale."
+    "Noelle approche le verre de son visage et renifle."
 
 # game/4_min.rpy:2012
 translate french dessert_68356139:
 
     # Akarsha "You're supposed to use it to fill puri, the fried dough ball things."
-    Akarsha "T'es censée l'utiliser pour remplir le puri, les trucs de boule de pâte frite là."
+    Akarsha "T'es censée l'utiliser pour remplir les puri, les genre de boules de pâte frite là."
 
 # game/4_min.rpy:2215
 translate french date_f21486d8:
@@ -6940,7 +6940,7 @@ translate french date_f21486d8:
 translate french date_6cef74b7:
 
     # "Diya is staring determinedly into the Mt. Fuji. She's probably pretending not to have seen. "
-    "Diya regarde fixement le mont Fuji. Elle fait certainement comme si elle ne l'avait pas vu."
+    "Diya regarde a le mont Fuji. Elle fait certainement comme si elle n'avait rien vu."
 
 translate french strings:
 
@@ -6998,7 +6998,7 @@ translate french strings:
 
     # 4_min.rpy:1387
     old "I love you."
-    new "Je t'aime"
+    new "Je t'aime."
 
     # 4_min.rpy:1542
     old "Waiter"
@@ -7034,7 +7034,7 @@ translate french strings:
 
     # 4_min.rpy:2633
     old "{white}{size=+25}Beta testers{/size}{/white}\nK Turner{space=55}{blue}Keelin{/blue}{space=55}Jun\nAnita{space=55}{blue}Luke_SuperNova{/blue}{space=55}Rin\nJiedi Chen{space=55}{blue}Jocelyn Kim{/blue}{space=55}gently\nAino{space=55}{blue}Infiniton{/blue}{space=55}emu\nLyla Lee "
-    new "{white}{size=+25}Bêta-testeurs{/size}{/white}\nK Turner{space=55}{blue}Keelin{/blue}{space=55}Jun\nAnita{space=55}{blue}Luke_SuperNova{/blue}{space=55}Rin\nJiedi Chen{space=55}{blue}Jocelyn Kim{/blue}{space=55}doucement\nAino{space=55}{blue}Infinition{/blue}{space=55}emu\nLyla Lee"
+    new "{white}{size=+25}Bêta-testeurs{/size}{/white}\nK Turner{space=55}{blue}Keelin{/blue}{space=55}Jun\nAnita{space=55}{blue}Luke_SuperNova{/blue}{space=55}Rin\nJiedi Chen{space=55}{blue}Jocelyn Kim{/blue}{space=55}gently\nAino{space=55}{blue}Infinition{/blue}{space=55}emu\nLyla Lee"
 
     # 4_min.rpy:2637
     old "{white}{size=+25}Beta testers{/size}{/white}\nAJ Sohrabi{space=55}{blue}ynri{/blue}{space=55}Kiuu\nKaren Steele{space=55}{blue}paintmemelons{/blue}{space=55}eurdude974\nsteph{space=55}{blue}ghost!{/blue}{space=55}Bagnarsi\njuliet & sam{space=55}{blue}Elsie{/blue}{space=55}Brigita Kuimet\nSirius Machelton{space=55}{blue}Cen U{/blue}{space=55}tatertonks\nMax{space=55}{blue}sanix the edgehogg{/blue}{space=55}Savannah"
@@ -7064,31 +7064,19 @@ translate french strings:
     old "The future"
     new "Le futur"
 
-# TODO: Translation updated at 2020-07-08 21:16
-
-translate french strings:
-
-    # 4_min.rpy:2646
-    old "{white}{size=+25}Special Thanks{/size}{/white}\n{blue}Additional scripting: Arazati{/blue}\nJapanese localization: KINSHA Co., Ltd\n{blue}Chinese localization: {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nBrazilian Portuguese localization: Jean Araujo\n{blue}Czech localization: scie{/blue}\nKorean localization: KyleHeren\n{blue}Polish localization: ymzu{/blue}"
-    new "{white}{size=+25}Remerciements spéciaux{/size}{/white}\n{blue}Script supplémentaire : Arazati{/blue}\nLocalisation japonaise : KINSHA Co., Ltd\n{blue}Localisation chinoise : {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nLocalisation brésilienne : Jean Araujo\n{blue}Localisation tchèque : scie{/blue}\nLocalisation coréenne : KyleHeren\n{blue}Localisation polonaise : ymzu{/blue}"
-
-    # 4_min.rpy:2651
-    old "{white}{size=+25}Special Thanks{/size}{/white}\n{blue}Additional scripting: Arazati{/blue}\nJapanese localization: KINSHA Co., Ltd\n{blue}Chinese localization: {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nBrazilian Portuguese localization: Jean Araujo\n{blue}Czech localization: scie{/blue}\nKorean localization: KyleHeren\n{blue}Polish localization: ymzu{/blue}\nAnd You"
-    new "{white}{size=+25}Remerciements spéciaux{/size}{/white}\n{blue}Script supplémentaire : Arazati{/blue}\nLocalisation japonaise : KINSHA Co., Ltd\n{blue}Localisation chinoise : {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nLocalisation brésilienne : Jean Araujo\n{blue}Localisation tchèque : scie{/blue}\nLocalisation coréenne : KyleHeren\n{blue}Localisation polonaise : ymzu{/blue}\nEt Vous"
-
-    # TODO: Translation updated at 2021-04-03 19:55
+# TODO: Translation updated at 2021-09-17 01:02
 
 translate french strings:
 
     # game/4_min.rpy:2646
     old "{white}{size=+25}French localization{/size}{/white}\nQueerscriptors from {blue}Next Gaymer{/blue}\n\nPhoross{space=55}{blue}L'Unix Benoit{/blue}{space=55}Ven\nBrom{space=55}{blue}Tlaloc{/blue}{space=55}Seb_Ash\nTorli{space=55}{blue}MandyLane{/blue}{space=55}Tashousse\nDestryl{space=55}{blue}Giovanni{/blue}{space=55}Batwoman\nNinaDelPepito{space=55}{blue}Blaxis{/blue}{space=55}IannaFOX"
-    new "{white}{size=+25}Localisation française{/size}{/white}\nLes Queerscriptors de {blue}Next Gaymer{/blue}\n\nPhoross{space=55}{blue}L'Unix Benoit{/blue}{space=55}Ven\nBrom{space=55}{blue}Tlaloc{/blue}{space=55}Seb_Ash\nTorli{space=55}{blue}MandyLane{/blue}{space=55}Tashousse\nDestryl{space=55}{blue}Giovanni{/blue}{space=55}Batwoman\nNinaDelPepito{space=55}{blue}Blaxis{/blue}{space=55}IannaFOX"
-    
+    new "{white}{size=+25}Localisation française{/size}{/white}\nQueerscriptors de {blue}Next Gaymer{/blue}\n\nPhoross{space=55}{blue}L'Unix Benoit{/blue}{space=55}Ven\nBrom{space=55}{blue}Tlaloc{/blue}{space=55}Seb_Ash\nTorli{space=55}{blue}MandyLane{/blue}{space=55}Tashousse\nDestryl{space=55}{blue}Giovanni{/blue}{space=55}Batwoman\nNinaDelPepito{space=55}{blue}Blaxis{/blue}{space=55}IannaFOX"
+
     # game/4_min.rpy:2651
     old "{white}{size=+25}Special Thanks{/size}{/white}\n{blue}Additional scripting: Arazati{/blue}\nJapanese localization: KINSHA Co., Ltd\n{blue}Chinese localization: {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nBrazilian Portuguese localization: Jean Araujo\n{blue}Czech localization: scie{/blue}\nKorean localization: KyleHeren\n{blue}Polish localization: ymzu{/blue}\nFarsi localization: Kasbarg\n{blue}Indonesian localization: Konberrii{/blue}"
-    new "{white}{size=+25}Remerciements spéciaux{/size}{/white}\n{blue}Script supplémentaire : Arazati{/blue}\nLocalisation japonaise : KINSHA Co., Ltd\n{blue}Localisation chinoise : {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nLocalisation brésilienne : Jean Araujo\n{blue}Localisation tchèque : scie{/blue}\nLocalisation coréenne : KyleHeren\n{blue}Localisation polonaise : ymzu{/blue}\nLocalisation persanne : Kasbarg\n{blue}Localisation indonésienne : Konberrii{/blue}"
+    new "{white}{size=+25}Remerciements spéciaux{/size}{/white}\n{blue}Script supplémentaire : Arazati{/blue}\nLocalisation japonaise : KINSHA Co., Ltd\n{blue}Localisation chinoise : {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nLocalisation brésilienne : Jean Araujo\n{blue}Localisation tchèque : scie{/blue}\nLocalisation coréenne : KyleHeren\n{blue}Localisation polonaise : ymzu{/blue}\nLocalisation farsi : Kasbarg\n{blue}Localisation Indonésienne : Konberrii{/blue}"
 
     # game/4_min.rpy:2656
     old "{white}{size=+25}Special Thanks{/size}{/white}\n{blue}Additional scripting: Arazati{/blue}\nJapanese localization: KINSHA Co., Ltd\n{blue}Chinese localization: {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nBrazilian Portuguese localization: Jean Araujo\n{blue}Czech localization: scie{/blue}\nKorean localization: KyleHeren\n{blue}Polish localization: ymzu{/blue}\nFarsi localization: Kasbarg\n{blue}Indonesian localization: Konberrii{/blue}\nAnd You"
-    new "{white}{size=+25}Remerciements spéciaux{/size}{/white}\n{blue}Script supplémentaire : Arazati{/blue}\nLocalisation japonaise : KINSHA Co., Ltd\n{blue}Localisation chinoise : {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nLocalisation brésilienne : Jean Araujo\n{blue}Localisation tchèque : scie{/blue}\nLocalisation coréenne : KyleHeren\n{blue}Localisation polonaise : ymzu{/blue}\nLocalisation persanne : Kasbarg\n{blue}Localisation indonésienne : Konberrii{/blue}\nEt Vous"
+    new "{white}{size=+25}Remerciements spéciaux{/size}{/white}\n{blue}Script supplémentaire : Arazati{/blue}\nLocalisation japonaise : KINSHA Co., Ltd\n{blue}Localisation chinoise : {font=traditional_chinese.ttf}鬼怒川{/font}(KINUKUROletsplay){/blue}\nLocalisation brésilienne : Jean Araujo\n{blue}Localisation tchèque : scie{/blue}\nLocalisation coréenne : KyleHeren\n{blue}Localisation polonaise : ymzu{/blue}\nLocalisation farsi : Kasbarg\n{blue}Localisation Indonésienne : Konberrii{/blue}\nEt Vous"
 

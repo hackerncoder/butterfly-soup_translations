@@ -4,31 +4,31 @@
 translate french akarsha1_66517db0:
 
     # Akarsha "Ayyyy! I'm here."
-    Akarsha "Heyyyyyy ! Je suis là."
+    Akarsha "Heyyyyyy ! J'suis là."
 
 # game/3_akarsha.rpy:50
 translate french akarsha1_e3e731e4:
 
     # Akarsha "Hello? Diya? Homie??"
-    Akarsha "Salut ? Diya ? Homie ??"   #(il faut que je vois si dans le contexte Homie c'est plutot 'les amies' ou quelqu'un
+    Akarsha "Hey ? Diya ? Poto ??"
 
 # game/3_akarsha.rpy:52
 translate french akarsha1_8f3b3877:
 
     # "Diya is crawling on her hands and knees in the bushes."
-    "Diya rampe dans les buissons a quatre pattes."
+    "Diya rampe à quatre pattes dans les buissons."
 
 # game/3_akarsha.rpy:54
 translate french akarsha1_3a3d3b85:
 
     # Akarsha "What are you doing?"
-    Akarsha "Qu'est-ce que tu fais ?"
+    Akarsha "Qu'est-ce tu fous ?"
 
 # game/3_akarsha.rpy:57
 translate french akarsha1_a53c99d4:
 
     # Diya "Caught him."
-    Diya "Je l'ai eu."
+    Diya "J'l'ai eue."
 
 # game/3_akarsha.rpy:60
 translate french akarsha1_f0027840:
@@ -40,13 +40,13 @@ translate french akarsha1_f0027840:
 translate french akarsha1_a8b35a67:
 
     # "It's fat and striped."
-    "Elle est grosse et rayées."
+    "Elle est grosse et rayée."
 
 # game/3_akarsha.rpy:63
 translate french akarsha1_e9bde6d1:
 
     # Akarsha "Ew!!!"
-    Akarsha "Ew!!!"
+    Akarsha "Bweeeeh !!!"
 
 # game/3_akarsha.rpy:66
 translate french akarsha1_ec27f475:
@@ -59,12 +59,12 @@ translate french akarsha1_afce4b82:
 
     # "Because she's deaf in one ear, when she stands up \"straight\" she actually faces slightly to the right."
     "A cause de sa surdité à une oreille, quand elle se tient \"droite\", elle est en fait légèrement tournée vers la droite."
-    
+
 # game/3_akarsha.rpy:69
 translate french akarsha1_1c26ad5a:
 
     # Diya "Don't be rude."
-    Diya "Ne soit pas méchante."
+    Diya "Sois pas méchante."
 
 # game/3_akarsha.rpy:70
 translate french akarsha1_ec46067d:
@@ -76,25 +76,25 @@ translate french akarsha1_ec46067d:
 translate french akarsha1_a0b7b1f7:
 
     # Akarsha "[caterpillar]."
-    Akarsha "[caterpillar]."  #(a vérifier si les crochets sont pas une balise de code pour le moment j'y touche pas)
+    Akarsha "[caterpillar]."
 
 # game/3_akarsha.rpy:80
 translate french akarsha1_289738fa:
 
     # Diya "...What kind of name is that?"
-    Diya "...C'est quel genre de nom ça ?"
+    Diya "...Mais c'est quoi ce nom ?"
 
 # game/3_akarsha.rpy:82
 translate french akarsha1_1d479b91:
 
     # Akarsha "It's a joke about a character from the Zero Escape games."
-    Akarsha "C'est une blague à propos d'un personnage de la série de jeu Zero Escape."
+    Akarsha "C'est une blague sur un perso des jeux Zero Escape."
 
 # game/3_akarsha.rpy:83
 translate french akarsha1_e3143918:
 
     # Akarsha "Someone asked the director if he could be paired with a girl character, and he responded, \"Does Aoi even like girls? I have to start considering from that.\""
-    Akarsha "Une personne a demandé au créateur du jeu si le personnage pouvait être avec un personnage féminin. Il a répondu ; \"Est-ce que Aoi aime les filles ? Je devrais commencer a considérer ça.\""
+    Akarsha "Quelqu'un a demandé à l'auteur si un perso pouvait se mettre avec un personnage féminin. Il a répondu : \"Est-ce qu'Aoi aime seulement les filles ? Je devrais commencer à considérer ça.\""
 
 # game/3_akarsha.rpy:84
 translate french akarsha1_31837432:
@@ -106,7 +106,7 @@ translate french akarsha1_31837432:
 translate french akarsha1_78ab8e2c:
 
     # Akarsha "It's awesome that he went out of his way to say you can't assume that character's straight."
-    Akarsha "C'est génial qu'il ait fait tout son possible pour qu'on puisse pas supposer que le personnage est hétéro."
+    Akarsha "C'est génial qu'il ait pris le temps d'dire qu'on peut pas supposer que l'perso est hétéro."
 
 # game/3_akarsha.rpy:91
 translate french akarsha1_a0b7b1f7_1:
@@ -118,31 +118,31 @@ translate french akarsha1_a0b7b1f7_1:
 translate french akarsha1_289738fa_1:
 
     # Diya "...What kind of name is that?"
-    Diya "...C'est quel genre de nom ça ?"
+    Diya "...Mais c'est quoi ce nom ?"
 
 # game/3_akarsha.rpy:96
 translate french akarsha1_65c3ee91:
 
     # Akarsha "It's a character from the manga Nabari no Ou."
-    Akarsha "C'est un personnage du manga Nabari no Ou."
+    Akarsha "C'est un perso du manga Nabari no Ou."
 
 # game/3_akarsha.rpy:97
 translate french akarsha1_8e39919a:
 
     # Akarsha "It's hella gay, you should read it."
-    Akarsha "C'est super gay, tu devrais le lire."
+    Akarsha "C'est suuuuper gay, tu devrais le lire."
 
 # game/3_akarsha.rpy:99
 translate french akarsha1_17c92aad:
 
     # Diya "...You say that like I'd be interested just because it's gay."
-    Diya "...Tu dis ça comme si je serais intéressée juste parce que c'est gay."
+    Diya "...Tu dis ça comme si j'serais intéressée juste parce que c'est gay."
 
 # game/3_akarsha.rpy:101
 translate french akarsha1_3ff54c78:
 
     # Akarsha "You're not? Good gay stuff is hard to come by."
-    Akarsha "T'es pas intéressée ? Les bons trucs gay sont difficile à trouver."
+    Akarsha "T'es pas intéressée ? Les bons trucs gay sont pas faciles à trouver."
 
 # game/3_akarsha.rpy:107
 translate french akarsha1_a0b7b1f7_2:
@@ -154,31 +154,31 @@ translate french akarsha1_a0b7b1f7_2:
 translate french akarsha1_289738fa_2:
 
     # Diya "...What kind of name is that?"
-    Diya "...C'est quel genre de nom ça ?"
+    Diya "...Mais c'est quoi ce nom ?"
 
 # game/3_akarsha.rpy:112
 translate french akarsha1_e971af2d:
 
     # Akarsha "It's a character from the Ace Attorney games."
-    Akarsha "C'est le nom d'un personnage des jeux Pheonix Wright."
+    Akarsha "C'est le nom d'un perso des jeux Phoenix Wright."
 
 # game/3_akarsha.rpy:113
 translate french akarsha1_8e231241:
 
     # Akarsha "It's hella gay, you should play it."
-    Akarsha "C'est super gay, tu devrais y jouer."
+    Akarsha "C'est suuuper gay, tu devrais y jouer."
 
 # game/3_akarsha.rpy:115
 translate french akarsha1_17c92aad_1:
 
     # Diya "...You say that like I'd be interested just because it's gay."
-    Diya "...Tu dis ça comme si je serais intéressée juste parce que c'est gay."
+    Diya "...Tu dis ça comme si j'serais intéressée juste parce que c'est gay."
 
 # game/3_akarsha.rpy:117
 translate french akarsha1_3ff54c78_1:
 
     # Akarsha "You're not? Good gay stuff is hard to come by."
-    Akarsha "T'es pas intéressée ? Les bons trucs gay sont difficile à trouver."
+    Akarsha "T'es pas intéressée ? Les bons trucs gay sont pas faciles à trouver."
 
 # game/3_akarsha.rpy:120
 translate french akarsha1_1612cdcc:
@@ -190,19 +190,19 @@ translate french akarsha1_1612cdcc:
 translate french akarsha1_10f3afd6:
 
     # "Diya scrutinizes [caterpillar] as he inches across her palm."
-    "Diya examine [caterpillar] en train de marcher dans sa paume."
+    "Diya examine [caterpillar] en train de ramper dans sa paume."
 
 # game/3_akarsha.rpy:136
 translate french akarsha1_34261f39:
 
     # Diya "You're so invested in these kinds of things. Video games and stuff."
-    Diya "Tu es tellement invertie dans toutes ces choses. Les jeux vidéos et trucs du genre."
+    Diya "T'es tellement à fond dans tous ces trucs. Les jeux vidéos et les machins comme ça."
 
 # game/3_akarsha.rpy:139
 translate french akarsha1_f8e8e254:
 
     # Akarsha "They're a form of escapism. I need obsessions to distract me from the crushing emptiness and hopelessness of life."
-    Akarsha "C'est un moyen de s’échapper. J'ai besoin d'une obsession pour me distraire du vide désespérant de ma vie."
+    Akarsha "C'est un genre d'échappatoire. J'ai besoin d'obsessions pour me distraire de l'écrasant vide et désespoir de la vie."
 
 # game/3_akarsha.rpy:141
 translate french akarsha1_1612cdcc_1:
@@ -214,7 +214,7 @@ translate french akarsha1_1612cdcc_1:
 translate french akarsha1_e126318b:
 
     # Akarsha "...Just kidding. Haha!"
-    Akarsha "... Je déconne. Haha !"
+    Akarsha "... J'déconne. Haha !"
 
 # game/3_akarsha.rpy:146
 translate french akarsha1_dcf348a4:
@@ -232,13 +232,13 @@ translate french akarsha1_8938250d:
 translate french akarsha1_9ed98cf4:
 
     # Diya "Yes we can."
-    Diya "Yes we can."  #(on traduit ou pas ou on laisse le slogan de la campagne ?)
+    Diya "Yes we can."
 
 # game/3_akarsha.rpy:153
 translate french akarsha1_6403c4ca:
 
     # Akarsha "Yeah, but they outlawed gay marriage."
-    Akarsha "Oui mais ils ont rendu le mariage gay illégal."
+    Akarsha "Ouais, mais ils ont rendu le mariage gay illégal."
 
 # game/3_akarsha.rpy:156
 translate french akarsha1_fe724f6a:
@@ -256,37 +256,37 @@ translate french akarsha1_77d0ad5c:
 translate french akarsha1_c0216ad3:
 
     # Akarsha "I thought we were better than that."
-    Akarsha "Je pensais qu'on était meilleur que ça."
+    Akarsha "Je pensais qu'on valait mieux que ça."
 
 # game/3_akarsha.rpy:162
 translate french akarsha1_63cf157f:
 
     # Diya "You shoudn't be surprised. There were a lot of yellow wearing guys."
-    Diya "Tu devrais pas être surprise, il y avait beaucoup de gens en jaune."
+    Diya "Tu devrais pas être surprise. Y'avait beaucoup de gens en jaune."
 
 # game/3_akarsha.rpy:163
 translate french akarsha1_73f43b32:
 
     # Diya "Don't even have to ask my parents what they voted. I know."
-    Diya "J'ai même pas besoin de demande à mes parents pour qui ils ont votés. Je le sais."
+    Diya "J'ai même pas besoin d'demander à mes parents pour quoi ils ont votés. J'sais déjà."
 
 # game/3_akarsha.rpy:165
 translate french akarsha1_13cd203d:
 
     # Akarsha "But the thing is, it used to be legal. We USED to be better."
-    Akarsha "Ça a déjà été légal. On ÉTAIT meilleur sur ce point par le passé."
+    Akarsha "Mais le truc c'est que, c'était légal avant en fait. On ÉTAIT mieux là-dessus avant."
 
 # game/3_akarsha.rpy:166
 translate french akarsha1_59f0dabf:
 
     # Akarsha "It's not just that the world sucks. The world sucks, and it's getting worse."
-    Akarsha "C'est pas que le monde va mal. Le monde va mal et c'est de pire en pire."
+    Akarsha "C'est pas seulement  qu'le monde est pourri. Le monde est pourri et c'est d'pire en pire."
 
 # game/3_akarsha.rpy:169
 translate french akarsha1_29a19d7d:
 
     # Diya "...Obama, though."
-    Diya "... Obama quand même."
+    Diya "... Obama, quand même."
 
 # game/3_akarsha.rpy:171
 translate french akarsha1_9ed98cf4_1:
@@ -304,7 +304,7 @@ translate french akarsha1_ce02184e:
 translate french akarsha1_28db0432:
 
     # "[caterpillar] is crawling up Diya's arm now. "
-    "[caterpillar] est maintenant en train de ramper le long du bras de Diya."
+    "[caterpillar] est maintenant en train de remonter le long du bras de Diya."
 
 # game/3_akarsha.rpy:177
 translate french akarsha1_e3a7f541:
@@ -316,7 +316,7 @@ translate french akarsha1_e3a7f541:
 translate french akarsha1_114f7346:
 
     # Diya "That's so shallow. He has a good heart."
-    Diya "C'est tellement superficiel. Il a un bon cœur."
+    Diya "T'es tellement superficielle. Il a un bon cœur."
 
 # game/3_akarsha.rpy:181
 translate french akarsha1_c321e247:
@@ -328,13 +328,13 @@ translate french akarsha1_c321e247:
 translate french akarsha1_25ec29de:
 
     # Diya "Caterpillars are only poisonous if you eat them."
-    Diya "Les chenilles sont seulement venimeuse si tu les mangent."
+    Diya "Les chenilles sont seulement venimeuses si tu les manges."
 
 # game/3_akarsha.rpy:185
 translate french akarsha1_91fe79aa:
 
     # Diya "Not dangerous if you're nice."
-    Diya "Elles sont pas dangereuses si t'es gentille."
+    Diya "C'est pas dangereux si t'es gentille."
 
 # game/3_akarsha.rpy:188
 translate french akarsha1_6728b1af:
@@ -376,61 +376,61 @@ translate french akarsha1_1612cdcc_2:
 translate french akarsha1_b36a8df6:
 
     # Diya "...Never mind."
-    Diya "... Rien, oublie ça."
+    Diya "... Rien, oublie."
 
 # game/3_akarsha.rpy:214
 translate french akarsha1_efb5ed1c:
 
     # AkarshaT "What the..."
-    AkarshaT "C'est quoi ce..."
+    AkarshaT "Qu'est-ce que..."
 
 # game/3_akarsha.rpy:230
 translate french secondMeeting_d0504f3a:
 
     # AkarshaT "We went ahead and got changed. It feels like we're a real team now, wearing the same uniform!"
-    AkarshaT "On est allé se changer. J'ai l'impression de vraiment faire partie de l'équipe maintenant qu'on porte tous le même uniforme !"
+    AkarshaT "On a pris d'l'avance et on s'est changées. Ça donne vraiment l'impression d'être une vraie équipe maintenant, avec le même uniforme !"
 
 # game/3_akarsha.rpy:231
 translate french secondMeeting_fdf69252:
 
     # AkarshaT "We've still got some time to kill before the meeting starts."
-    AkarshaT "On a encore du temps à tuer avant le début de la rencontre."
+    AkarshaT "On a encore du temps à tuer avant que la rencontre commence."
 
 # game/3_akarsha.rpy:253
 translate french cubeHelpMenu_0c1f82d1:
 
     # "Diya is on the bench, resting her head on Min's shoulder."
-    "Diya est sur un banc, sa tête posé sur l'épaule de Min-seo."
+    "Diya est sur un banc, sa tête posée sur l'épaule de Min."
 
 # game/3_akarsha.rpy:254
 translate french cubeHelpMenu_1f0ca689:
 
     # "She's showing Min a picture of a seagull her cellphone. One side of the photo is blurry brown from Diya's thumb partially obscuring the camera lens."
-    "Elle montre à Min des photos de mouettes sur son téléphone. Un côté de la photo est flou, le doigt de Diya bloquant partiellement l'objectif de l'appareil photo."
+    "Elle montre à Min une photo de mouette sur son téléphone. Un côté de la photo est flou à cause du doigt de Diya bloquant partiellement l'objectif de l'appareil photo."
 
 # game/3_akarsha.rpy:256
 translate french cubeHelpMenu_c8d35f03:
 
     # Diya "Look how close I got to this seagull."
-    Diya "Regarde comment j'étais près de ces mouettes."
+    Diya "Regarde comment j'étais près de cette mouette."
 
 # game/3_akarsha.rpy:258
 translate french cubeHelpMenu_d43264a0:
 
     # Min "That's pretty close."
-    Min "En effet, c'est proche."
+    Min "Ah ouais, c'est proche."
 
 # game/3_akarsha.rpy:264
 translate french cubeHelpMenu_371304f6:
 
     # Akarsha "Life is so hard..."
-    Akarsha "La vie est dure..."
+    Akarsha "La vie c'est dur..."
 
 # game/3_akarsha.rpy:265
 translate french cubeHelpMenu_054e3dd3:
 
     # Akarsha "Any words of wisdom, Diya?"
-    Akarsha "Quelques mots de sagesse Diya ?"
+    Akarsha "Des mots de sagesse à partager, Diya ?"
 
 # game/3_akarsha.rpy:268
 translate french cubeHelpMenu_93212e9d:
@@ -442,13 +442,13 @@ translate french cubeHelpMenu_93212e9d:
 translate french cubeHelpMenu_46fe2e49:
 
     # Diya "Snowflakes are actually really, really small."
-    Diya "Les flocons de neiges sont minuscules en vrai."
+    Diya "Les flocons de neiges sont en fait très, trèèèès petits."
 
 # game/3_akarsha.rpy:271
 translate french cubeHelpMenu_c868c4aa:
 
     # Diya "Not like you would think from Christmas decorations."
-    Diya "Pas comme on pourrait le croire quand on voit des décorations de Noël."
+    Diya "Pas comme on pourrait l'croire quand on voit les décos de Noël."
 
 # game/3_akarsha.rpy:273
 translate french cubeHelpMenu_3f4f2769:
@@ -460,13 +460,13 @@ translate french cubeHelpMenu_3f4f2769:
 translate french cubeHelpMenu_77fab986:
 
     # Diya "Like the size of a plate."
-    Diya "Bah la taille d'une assiette."
+    Diya "Bah genre la taille d'une assiette."
 
 # game/3_akarsha.rpy:278
 translate french cubeHelpMenu_fee8d79b:
 
     # Akarsha "Wow...you must've been crazy disappointed when you discovered the truth."
-    Akarsha "Wow... Tu devais être vraiment déçue quand tu as découvert la vérité."
+    Akarsha "Wow... T'as dû être vraiment déçue quand t'as découvert la vérité."
 
 # game/3_akarsha.rpy:280
 translate french cubeHelpMenu_313d81b5:
@@ -490,7 +490,7 @@ translate french cubeHelpMenu_eca40cd9:
 translate french cubeHelpMenu_a213a330:
 
     # Diya "If you do this three times a day you'll have three meals for like $1.50."
-    Diya "Si tu fais ça trois fois par jour, tu auras trois repas pour genre 2€"
+    Diya "Si tu fais ça trois fois par jour, tu auras trois repas pour genre 1,50 $."
 
 # game/3_akarsha.rpy:288
 translate french cubeHelpMenu_c9144fb5:
@@ -502,7 +502,7 @@ translate french cubeHelpMenu_c9144fb5:
 translate french cubeHelpMenu_896007fa:
 
     # Akarsha "I come seeking more knowledge, wise one."
-    Akarsha "Je viens chercher la sagesse, oh ancien sage."
+    Akarsha "Je viens chercher de nouveaux savoirs, oh grand sage."
 
 # game/3_akarsha.rpy:297
 translate french cubeHelpMenu_93212e9d_2:
@@ -520,7 +520,7 @@ translate french cubeHelpMenu_a7e44749:
 translate french cubeHelpMenu_35abeaab:
 
     # Akarsha "...Are you speaking from personal experience?"
-    Akarsha "... Tu parles d'expérience ?"
+    Akarsha "... Ca sent le vécu."
 
 # game/3_akarsha.rpy:303
 translate french cubeHelpMenu_681b8edc:
@@ -538,7 +538,7 @@ translate french cubeHelpMenu_986ee31c:
 translate french cubeHelpMenu_65cd963d:
 
     # Diya "Thought it'd taste like sticky rice."
-    Diya "Je pensais que ça aurait le goût du riz collant."
+    Diya "Je pensais que ça aurait le goût du riz gluant."
 
 # game/3_akarsha.rpy:308
 translate french cubeHelpMenu_0a9fe539:
@@ -568,13 +568,13 @@ translate french cubeHelpMenu_50eb2492:
 translate french cubeHelpMenu_d8e020bb:
 
     # Akarsha "That's weirdly studious of you."
-    Akarsha "C'est bizarrement sérieux de ta part."
+    Akarsha "C'est curieusement studieux de ta part."
 
 # game/3_akarsha.rpy:326
 translate french cubeHelpMenu_a30078f2:
 
     # Min "I told my parents I joined a tutoring club."
-    Min "J'ai dis a mes parents que je faisais du tutorat."
+    Min "J'ai dis à mes parents que je faisais du tutorat."
 
 # game/3_akarsha.rpy:328
 translate french cubeHelpMenu_211559a1:
@@ -592,7 +592,7 @@ translate french cubeHelpMenu_339dc458:
 translate french cubeHelpMenu_84cb89a8:
 
     # Akarsha "Wha? What do you need tutoring for?"
-    Akarsha "Quoi ? Pourquoi tu as besoin de tutorat ?"
+    Akarsha "Quoi ? Pourquoi t'aurais besoin de tutorat ?"
 
 # game/3_akarsha.rpy:335
 translate french cubeHelpMenu_64c5cabb:
@@ -616,37 +616,37 @@ translate french cubeHelpMenu_7b3d7e28:
 translate french cubeHelpMenu_998d6546:
 
     # Min "MATCH MADE IN HELL. I don't want her help."
-    Min "LA PAIRE DE L'ENFER. Je veux pas de son aide."
+    Min "LA PAIRE DE L'ENFER, OUAIS. J'veux pas d'son aide."
 
 # game/3_akarsha.rpy:345
 translate french cubeHelpMenu_83e4bf7e:
 
     # "As she says it, though, she's staring down at the page with a desolate expression."
-    "En disant ça elle regarde la page de son manuel avec une expression de désespoir."
+    "En disant ça, elle regarde la page de son manuel avec une expression de désespoir."
 
 # game/3_akarsha.rpy:347
 translate french cubeHelpMenu_27f96571:
 
     # Min "Math should just...die."
-    Min "Les math ça devrait juste... crever."
+    Min "Les maths ça devrait juste... crever."
 
 # game/3_akarsha.rpy:349
 translate french cubeHelpMenu_fd626e9a:
 
     # Noelle "Why? It's a discipline full of beautiful and complex patterns."
-    Noelle "Pourquoi ? C'est une matière pleine de beauté de complexité."
+    Noelle "Pourquoi ? C'est une matière pleine de beauté et de complexité."
 
 # game/3_akarsha.rpy:350
 translate french cubeHelpMenu_ff359dbd:
 
     # Noelle "There's absolutely nothing inherently bad or oppressive about it, yet people treat it like it's evil and malicious."
-    Noelle "Il rien de mauvais ou d'opprimant dans les maths mais les gens traitent ça comme si c'était mauvais et malveillant."
+    Noelle "Y'a rien de mauvais ou d'opprimant dans les maths mais les gens traitent ça comme si c'était diabolique et malveillant."
 
 # game/3_akarsha.rpy:351
 translate french cubeHelpMenu_35192e92:
 
     # Noelle "A lot of pure math lacks any kind of practical application, and merely exists for the sake of stimulating people's minds and pushing the limits of the medium as far as is possible."
-    Noelle "Il y a plein de choses dans les mathématiques qui n'ont pas d'applications pratiques et qui existe juste pour stimuler le cerveau des gens et les faire repousser les limites de la matière le plus loin possible."
+    Noelle "Il y a plein de choses dans les mathématiques qui n'ont pas d'applications pratiques et qui existent juste pour stimuler le cerveau des gens et les faire pousser les limites de la matière aussi loin possible."
 
 # game/3_akarsha.rpy:352
 translate french cubeHelpMenu_19885ab6:
@@ -658,25 +658,25 @@ translate french cubeHelpMenu_19885ab6:
 translate french cubeHelpMenu_d0e68b48:
 
     # Min "Can't relate. Shut the fuck up."
-    Min "Ca me dit rien. Ferme la."
+    Min "J'm'en fous. Ta gueule."
 
 # game/3_akarsha.rpy:356
 translate french cubeHelpMenu_88839ff1:
 
     # Akarsha "Dude, let me see it. I'll help you."
-    Akarsha "Nan mais laisse moi regarder, je vais t'aider."
+    Akarsha "Nan mais laisse moi regarder, j'vais t'aider."
 
 # game/3_akarsha.rpy:357
 translate french cubeHelpMenu_66394e69:
 
     # Akarsha "Problem 1: Bill can paint a house in five hours, and Mary can paint a house in three hours. How long will it take for them to paint a house together?"
-    Akarsha "Problème 1 : Bill peut peindre une maison en cinq heures et Mary peut peindre une maison en 3 heures. Combien de temps les deux ensemble prendraient pour peindre une maison ?"
+    Akarsha "Problème 1 : Bill peut peindre une maison en cinq heures et Mary peut peindre une maison en 3 heures. Combien de temps les deux prendraient pour peindre une maison ensemble ?"
 
 # game/3_akarsha.rpy:360
 translate french cubeHelpMenu_8d608bcf:
 
     # Min "8 hours. 5 + 3 is 8."
-    Min "8 heures. 5 + 3 = 8"
+    Min "8 heures. 5 + 3 ça fait 8."
 
 # game/3_akarsha.rpy:362
 translate french cubeHelpMenu_2df16a64:
@@ -700,19 +700,19 @@ translate french cubeHelpMenu_46e87e05:
 translate french cubeHelpMenu_d442674a:
 
     # Akarsha "...Are you gonna be okay at this school?"
-    Akarsha "... Tu penses que ça va aller dans ce lycée ?"
+    Akarsha "...Tu penses que ça va aller à l'école ?"
 
 # game/3_akarsha.rpy:377
 translate french cubeHelpMenu_07180d14:
 
     # Akarsha "Would you kiss a girl for 1 million dollars?"
-    Akarsha "Est-ce que tu embrasserais une fille pour 1 million d'euros ?"
+    Akarsha "T'embrasserais une meuf pour 1 million de dollars ?"
 
 # game/3_akarsha.rpy:381
 translate french cubeHelpMenu_c67808c5:
 
     # Min "I guess? I don't have that kind of money, though."
-    Min "Je crois ? J'ai pas ce genre d'argent par contre."
+    Min "J'crois ? J'ai pas ce genre de thune par contre."
 
 # game/3_akarsha.rpy:384
 translate french cubeHelpMenu_0e88480b:
@@ -724,7 +724,7 @@ translate french cubeHelpMenu_0e88480b:
 translate french cubeHelpMenu_9b70fe7e:
 
     # Akarsha "No, I'm saying you get PAID."
-    Akarsha "No, je dis que tu es PAYÉE."
+    Akarsha "Non, mais j'dis qu't'es PAYÉE POUR."
 
 # game/3_akarsha.rpy:390
 translate french cubeHelpMenu_d5cee3d0:
@@ -736,13 +736,13 @@ translate french cubeHelpMenu_d5cee3d0:
 translate french cubeHelpMenu_a389b763:
 
     # Akarsha "Never mind."
-    Akarsha "Laisse tomber."
+    Akarsha "Laisse béton."
 
 # game/3_akarsha.rpy:404
 translate french cubeHelpMenu_2a0fac31:
 
     # "Noelle is solving a Professor's Cube. Unlike a regular Rubik's Cube, it's 5x5x5 instead of 3x3x3."
-    "Noelle est en train de résoudre un Professor's Cube. C'est comme un Rubik's Cube mais a la place d'être 3x3x3 c'est 5x5x5."
+    "Noelle est en train de résoudre un Professor's Cube. Comme un Rubik's Cube mais à la place d'être 3x3x3 c'est 5x5x5."
 
 # game/3_akarsha.rpy:406
 translate french cubeHelpMenu_388bee5c:
@@ -754,7 +754,7 @@ translate french cubeHelpMenu_388bee5c:
 translate french cubeHelpMenu_d9093cdc:
 
     # Diya "I solved one side for you already."
-    Diya "J'ai déjà résolu une des faces pour toi."
+    Diya "J'ai résolu une face pour toi."
 
 # game/3_akarsha.rpy:408
 translate french cubeHelpMenu_eea0a41a:
@@ -784,7 +784,7 @@ translate french cubeHelpMenu_4b64b274:
 translate french cubeHelpMenu_95649a64:
 
     # AkarshaT "I'm pretty sure that doesn't help at all."
-    AkarshaT "Je suis quasi sûre que ça aide pas du tout."
+    AkarshaT "Je suis quasi sûre que ça l'aide pas du tout."
 
 # game/3_akarsha.rpy:416
 translate french cubeHelpMenu_82111a3c:
@@ -796,19 +796,19 @@ translate french cubeHelpMenu_82111a3c:
 translate french cubeHelpMenu_2e12ac34:
 
     # Akarsha "Wow. You make it look easy."
-    Akarsha "Wow. Tu donnes l'impression que c'est facile."
+    Akarsha "Wow. Tu donnes l'impression q'c'est trop facile."
 
 # game/3_akarsha.rpy:421
 translate french cubeHelpMenu_d23f06b5:
 
     # Diya "Did I help?"
-    Diya "Est-ce que j'ai aidé ?"
+    Diya " J'ai aidé ?"
 
 # game/3_akarsha.rpy:423
 translate french cubeHelpMenu_2081f830:
 
     # Noelle "...Of course. I appreciate it."
-    Noelle "... Bien sur. J'apprécie ton aide."
+    Noelle "... Bien sûr. Merci pour ton aide."
 
 # game/3_akarsha.rpy:427
 translate french cubeHelpMenu_0b085f3d:
@@ -820,13 +820,13 @@ translate french cubeHelpMenu_0b085f3d:
 translate french cubeHelpMenu_a0330732:
 
     # Min "What the hell are you doing? Aren't you taking the banana sticker off?"
-    Min "Mais qu'est-ce que tu fous ? Tu enlèves pas l'autocollant de la banane ?"
+    Min "Mais tu fous quoi là ? T'enlèves pas l'autocollant de la banane ?"
 
 # game/3_akarsha.rpy:431
 translate french cubeHelpMenu_4aee3906:
 
     # Noelle "Why would I? It comes off with the peel anyway. "
-    Noelle "Pourquoi je ferais ça ? Ça part avec la peau de toute façon."
+    Noelle "Pourquoi j'ferais ça ? Ça part avec la peau de toute façon."
 
 # game/3_akarsha.rpy:432
 translate french cubeHelpMenu_0415fb81:
@@ -844,13 +844,13 @@ translate french cubeHelpMenu_624fe318:
 translate french cubeHelpMenu_712ab292:
 
     # Noelle "Yes? It doesn't have any effect on the inside of the banana."
-    Noelle "Oui ? Ca change rien à ce qu'il y a à l'intérieur de la peau."
+    Noelle "Heu oui ? Ça change rien à l'intérieur de la banane."
 
 # game/3_akarsha.rpy:438
 translate french cubeHelpMenu_6e93cfc3:
 
     # Min "The fuck's wrong with you?"
-    Min "Qu'est ce qui va pas chez toi bordel ?"
+    Min "C'est quoi le blème chez toi bordel ?"
 
 # game/3_akarsha.rpy:439
 translate french cubeHelpMenu_103396cf:
@@ -862,25 +862,25 @@ translate french cubeHelpMenu_103396cf:
 translate french cubeHelpMenu_6d6a2db0:
 
     # Noelle "HOW AM I NOT HUMAN?!"
-    Noelle "COMMENT CA JE SUIS PAS HUMAINE ?!"
+    Noelle "COMMENT ÇA JE SUIS PAS HUMAINE ?!"
 
 # game/3_akarsha.rpy:471
 translate french meetingStart_07697155:
 
     # "The locker room door creaks open."
-    "La porte du vestiaire d'ouvre avec un grincement."
+    "La porte du vestiaire s'ouvre en grinçant."
 
 # game/3_akarsha.rpy:472
 translate french meetingStart_2b2803f4:
 
     # "When Noelle sees Chryssa and Liz come through, she lifts her hand to wave but aborts halfway through the motion."
-    "Quand Noelle voit Chryssa et Liz passer la porte, elle lève la main pour les saluer mais elle d'arrête en plein milieu de son mouvement."
+    "Quand Noelle voit Chryssa et Liz passer la porte, elle lève la main pour les saluer mais elle s'arrête en plein milieu de son mouvement."
 
 # game/3_akarsha.rpy:473
 translate french meetingStart_3974d62e:
 
     # "Scowling, she jerks the offending appendage back down, like her hand had gone and betrayed the rest of her body."
-    "Elle baisse d'un coup sec le membre incriminé comme si sa main avait trahie le reste de son corps avec un air renfrogné."
+    "D'un air renfrogné, elle baisse d'un coup sec le membre incriminé comme si sa main avait trahi le reste de son corps."
 
 # game/3_akarsha.rpy:476
 translate french meetingStart_e47d28aa:
@@ -904,7 +904,7 @@ translate french meetingStart_72aa0e3f:
 translate french meetingStart_d57d0ee5:
 
     # Liz "Hey guys! We have a few announcements to make."
-    Liz "Hey les gens ! Nous avons quelques annonces à faire."
+    Liz "Salut les meufs ! Nous avons quelques annonces à faire."
 
 # game/3_akarsha.rpy:489
 translate french meetingStart_a376e1b9:
@@ -922,19 +922,19 @@ translate french meetingStart_b41a4345:
 translate french meetingStart_3083b4cf:
 
     # Liz "And this time, please have a real parental guardian sign it."
-    Liz "Et cette fois fait le signer par un vrai responsable légal."
+    Liz "Et cette fois, fait le signer par un vrai responsable légal s'il te plaît."
 
 # game/3_akarsha.rpy:495
 translate french meetingStart_fd103a6b:
 
     # Min "I don't know what you're talking about."
-    Min "Je vois pas de quoi tu parles."
+    Min "J'vois pas d'quoi tu parles."
 
 # game/3_akarsha.rpy:497
 translate french meetingStart_1f9bc0cd:
 
     # Chryssa "She forged it? How can you tell?"
-    Chryssa "Il a forgé la signature ? Comment tu peux le savoir ?"
+    Chryssa "Elle a imité la signature ? Comment tu peux savoir ?"
 
 # game/3_akarsha.rpy:499
 translate french meetingStart_696a61cf:
@@ -964,31 +964,31 @@ translate french meetingStart_cc45e768:
 translate french meetingStart_0b6185a3:
 
     # Chryssa "There's nowhere to run!" with sshake
-    Chryssa "Tu as nul part où fuir !" with sshake
+    Chryssa "Tu as nulle part où fuir !" with sshake
 
 # game/3_akarsha.rpy:509
 translate french meetingStart_72c48c93:
 
     # Chryssa "You dumb kid!"
-    Chryssa "Espèce de gosse idiot !"
+    Chryssa "Sale gosse !"
 
 # game/3_akarsha.rpy:515
 translate french meetingStart_66d55b38:
 
     # "...It sounds an awful lot like Min ran into the door again."
-    "... On dirait que Min a encore foncé dans la porte vu le vacarme."
+    "... On dirait que Min s'est encore pris la porte au vu du bruit."
 
 # game/3_akarsha.rpy:517
 translate french meetingStart_f828e8c7:
 
     # Liz "Everyone else's forms look fine, though!"
-    Liz "Le formulaire de tout les autres m’ont l'air bon !"
+    Liz "Les formulaires de tous les autres m’ont l'air bons !"
 
 # game/3_akarsha.rpy:518
 translate french meetingStart_95bc1cce:
 
     # Liz "So good job, guys. If you forged it too, I couldn't tell."
-    Liz "Alors bravo, si vous avez forgé la signature, j'ai pas pu le deviner."
+    Liz "Alors bravo, si vous avez imité la signature, j'ai pas pu le deviner."
 
 # game/3_akarsha.rpy:520
 translate french meetingStart_0d7bd93b:
@@ -1000,7 +1000,7 @@ translate french meetingStart_0d7bd93b:
 translate french meetingStart_d93d8eb0:
 
     # "Chryssa has returned, dragging a defeated Min behind her."
-    "Chryssa est de retour en trainant dèrrière elle un Min vaincu."
+    "Chryssa est de retour, traînant derrière elle une Min abattue."
 
 # game/3_akarsha.rpy:525
 translate french meetingStart_9b071eb0:
@@ -1012,97 +1012,97 @@ translate french meetingStart_9b071eb0:
 translate french meetingStart_6922f576:
 
     # Liz "We're playing against an actual team today!"
-    Liz "Aujourd’hui nous allons jouer contre une craie équipe !"
+    Liz "Aujourd’hui, on va jouer contre une vraie équipe !"
 
 # game/3_akarsha.rpy:528
 translate french meetingStart_260e9e2b:
 
     # Ester "What?! Who?"
-    Ester "QUOI ?! Qui ça ?"
+    Ester "Quoi ?! Qui ça ?"
 
 # game/3_akarsha.rpy:530
 translate french meetingStart_41bcce86:
 
     # Liz "We invited the team at Niles over."
-    Liz "On a invité l'équipe de l'université de Niles."
+    Liz "On a invité l'équipe de Niles."
 
 # game/3_akarsha.rpy:531
 translate french meetingStart_0b72ee6d:
 
     # Liz "They should be here soon."
-    Liz "Ils devraient arriver bientôt."
+    Liz "Ils devraient bientôt arriver."
 
 # game/3_akarsha.rpy:535
 translate french meetingStart_a3e40430:
 
     # Sumi "Are we going to be okay? Our team is made up of 4 baseball players, 2 nerds, and 3 weebs."
-    Sumi "Tu penses qu'on va s'en sortir ? Notre équipe est composée de 4 joueurs de baseball, 2 intello et 3 weebs."
+    Sumi "On va vraiment s'en sortir ? On a juste 4 vraies joueuses de baseball, 2 intellos et 3 weebs dans notre équipe."
 
 # game/3_akarsha.rpy:537
 translate french meetingStart_d5962360:
 
     # Akarsha "Wait, did you count me as a nerd? I'm a hybrid, I'm a weeb too."
-    Akarsha "Attends, tu m'as compté comme une intello ? Je suis une hybreide, je suis aussi une weeb."
+    Akarsha "Attends, tu m'as compté comme une intello ? Chuis une hybride, chuis aussi une weeb."
 
 # game/3_akarsha.rpy:540
 translate french meetingStart_88218f90:
 
     # Chryssa "Guys, we'll be fine."
-    Chryssa "Les amies, calmez-vous, ca va aller."
+    Chryssa "Les meufs, c'est bon, ça va le faire."
 
 # game/3_akarsha.rpy:541
 translate french meetingStart_f626d578:
 
     # Chryssa "...Maybe."
-    Chryssa "... Peut-être."
+    Chryssa "... Probablement."
 
 # game/3_akarsha.rpy:543
 translate french meetingStart_24a65733:
 
     # Noelle "The \"maybe\" was too honest." with sshake
-    Noelle "Le \"peut-être\" était un peu trop honnête." with sshake
+    Noelle "Le \"probablement\" était un peu trop honnête." with sshake
 
 # game/3_akarsha.rpy:546
 translate french meetingStart_0b3218a0:
 
     # Liz "Don't worry, it's seriously super casual."
-    Liz "Ne vous inquiétez pas, c'est vraiment un match super amical."
+    Liz "Vous inquiétez pas, c'est vraiment super tranquille."
 
 # game/3_akarsha.rpy:547
 translate french meetingStart_d6bd7dab:
 
     # Liz "They aren't bringing their coaches or anything. It's just nine of them driving over in their cars."
-    Liz "Ils ne viennent pas avec leurs entraîneurs ou autres. Ils sont que neufs à se ramener en voiture."
+    Liz "Ils viennent pas avec leurs entraîneurs, et tout ça. Ils sont que neufs à se ramener en voiture."
 
 # game/3_akarsha.rpy:548
 translate french meetingStart_4f36ec3b:
 
     # Liz "Just relax and have fun."
-    Liz "Détends-toi, et amuse-toi."
+    Liz "Détendez-vous, et amusez-vous."
 
 # game/3_akarsha.rpy:550
 translate french meetingStart_210a9c74:
 
     # Chryssa "This isn't really important, but they have a cool mascot. It's Killer Whales."
-    Chryssa "Ce n'est pas très important, mais ils ont une mascotte super cool. Ce sont les Orques."
+    Chryssa "Juste pour info, c'est pas très important, mais ils ont une mascotte trop cool. C'est un orque."
 
 # game/3_akarsha.rpy:552
 translate french meetingStart_29e7409f:
 
     # Min "What's our team name? Do we get a mascot too?"
-    Min "C'est quoi le nom de notre équipe ? On a pas une mascotte aussi ?"
+    Min "C'est quoi le nom d'notre équipe ? On a une mascotte aussi ?"
 
 # game/3_akarsha.rpy:554
 translate french meetingStart_4bb91d29:
 
     # Chryssa "Read your damn shirt. It's Monarchs."
-    Chryssa "Lis ton putain de t-shirt. Nous sommes les Monarques."
+    Chryssa "Lis ton putain de t-shirt. On est les Monarques."
 
 # game/3_akarsha.rpy:556
 translate french meetingStart_d2a06ad8:
 
     # Akarsha "That's so bland..."
-    Akarsha "Ca craint..."
+    Akarsha "Ça craint..."
 
 # game/3_akarsha.rpy:559
 translate french meetingStart_704cce99:
@@ -1126,13 +1126,13 @@ translate french meetingStart_437aab1e:
 translate french meetingStart_c1b09292:
 
     # Diya "Bagels."
-    Diya "Beignets."
+    Diya "Bagels."
 
 # game/3_akarsha.rpy:569
 translate french meetingStart_f538700f:
 
     # Min "The way you think is so damn cute."
-    Min "La manière dont tu l'as dit est tellement mimi."
+    Min "Ta façon de penser est trop putain d'mignonne."
 
 # game/3_akarsha.rpy:571
 translate french meetingStart_2231d76b:
@@ -1144,13 +1144,13 @@ translate french meetingStart_2231d76b:
 translate french meetingStart_b941418c:
 
     # Chryssa "Bagels is so simple, I kind of like it."
-    Chryssa "Bagels est simple, ça me plaît bien."
+    Chryssa "Bagels c'est simple, ça me plaît presque."
 
 # game/3_akarsha.rpy:575
 translate french meetingStart_d3d9898c:
 
     # Sumi "Yeah, I'd honestly be okay if it ended up like that."
-    Sumi "Ouais, honnêtement, ça me conviendrait bien si on s'appelait comme ça. "
+    Sumi "Ouais, honnêtement, ça m'irait bien si on s'appelait comme ça. "
 
 # game/3_akarsha.rpy:586
 translate french meetingStart_396a56c1:
@@ -1162,7 +1162,7 @@ translate french meetingStart_396a56c1:
 translate french meetingStart_a3cf3cf0:
 
     # Min "We should be something stronger than killer whales to assert our dominance."
-    Min "On devrait être quelque chose de plus puissant que les orques, pour affirmer notre domination."
+    Min "On devrait être un truc plus puissant que des orques, pour affirmer notre domination."
 
 # game/3_akarsha.rpy:590
 translate french meetingStart_c55d0a4e:
@@ -1174,13 +1174,13 @@ translate french meetingStart_c55d0a4e:
 translate french meetingStart_0b03c24a:
 
     # Noelle "Humans keep killer whales in captivity."
-    Noelle "Les Humains gardent les orques en captivité."
+    Noelle "Les humains gardent des orques en captivité."
 
 # game/3_akarsha.rpy:593
 translate french meetingStart_79c34f25:
 
     # Min "But if it was, like, 1 v 1, a killer whale would tear a guy to shreds."
-    Min "Mais en 1 contre 1, une orque déchirerait un mec en lambeaux."
+    Min "Mais genre, en 1 contre 1, un orque déchirerait n'importe quel mec en lambeaux."
 
 # game/3_akarsha.rpy:594
 translate french meetingStart_fb7d4b98:
@@ -1192,31 +1192,31 @@ translate french meetingStart_fb7d4b98:
 translate french meetingStart_d1334b56:
 
     # Noelle "Like what? Global warming?"
-    Noelle "Comme quoi ? Réchauffement climatique ?"
+    Noelle "Comme quoi ? Le réchauffement climatique ?"
 
 # game/3_akarsha.rpy:598
 translate french meetingStart_adddd48d:
 
     # Akarsha "Oh my god?? That's actually a hilarious name."
-    Akarsha "Mon Dieu ! Mais c'est super marrant comme nom en fait !"
+    Akarsha "Oh mon Dieu ?? Mais c'est super marrant comme nom en fait."
 
 # game/3_akarsha.rpy:599
 translate french meetingStart_3c275a6d:
 
     # Akarsha "No matter who we're up against, they'll pretty much just automatically lose."
-    Akarsha "Peu importe qui nous affrontons, ils sont quasi sûrs de perdre automatiquement."
+    Akarsha "Peu importe qui on a contre nous, ils sont quasi sûrs de perdre à tous les coups."
 
 # game/3_akarsha.rpy:601
 translate french meetingStart_4bf5ae09:
 
     # Akarsha "Like, Tigers vs. Global Warming. Who do you think's gonna win?"
-    Akarsha "Comme : les Tigres contre Réchauffement Climatique. Qui gagne, selon vous ?"
+    Akarsha "Genre : les Tigres vs. le Réchauffement Climatique. Vous pensez que c'est qui qui gagne ?"
 
 # game/3_akarsha.rpy:604
-translate french meetingStart_9b4fbd79: 
+translate french meetingStart_9b4fbd79:
 
     # Liz "Our motto can be \"Underestimate us and the world will be destroyed.\""
-    Liz "Notre slogan pourrait être \"Sous-estimez-nous et le monde sera détruit !.\""
+    Liz "On pourrait avoir un slogan comme \"Sous-estimez-nous et le monde sera détruit.\""
 
 # game/3_akarsha.rpy:606
 translate french meetingStart_3a0671a8:
@@ -1228,13 +1228,13 @@ translate french meetingStart_3a0671a8:
 translate french meetingStart_78376876:
 
     # Akarsha "I'm still kind of impressed Noelle came up that."
-    Akarsha "Je suis assez impressionnée que Noelle ait trouvé un truc pareil."
+    Akarsha "Je suis encore sur le cul que Noelle ait trouvé un truc pareil."
 
 # game/3_akarsha.rpy:611
 translate french meetingStart_d8020066:
 
     # Noelle "What kind of name did you think I'd come up with?"
-    Noelle "Et quel genre de nom tu pensais que j'allais trouver hein ?"
+    Noelle "Mais quel genre de nom tu pensais que j'allais trouver ?"
 
 # game/3_akarsha.rpy:613
 translate french meetingStart_f98631f9:
@@ -1246,13 +1246,13 @@ translate french meetingStart_f98631f9:
 translate french meetingStart_64f99b44:
 
     # Akarsha "Something nerdy that you thought sounded cool, but was actually really cringy."
-    Akarsha "Un truc d'intello qui sonne cool, mais qui est en fait hyper malaisant."
+    Akarsha "Un truc d'intello qui sonnerait cool pour toi, mais qui serait en fait hyper malaisant."
 
 # game/3_akarsha.rpy:616
 translate french meetingStart_ec0fdaea:
 
     # Akarsha "Like \"The Algorithms\"."
-    Akarsha "Comme\"Les Algorithmes\"."
+    Akarsha "Genre \"Les Algorithmes\"."
 
 # game/3_akarsha.rpy:619
 translate french meetingStart_2eb91c91:
@@ -1270,7 +1270,7 @@ translate french meetingStart_5d5750ae:
 translate french meetingStart_31f7ead6:
 
     # Noelle "SHUT UP!! I NEVER SUGGESTED THAT!" with sshake
-    Noelle "LA FERME !! J'AI JAMAIS SUGGERE CA !" with sshake
+    Noelle "LA FERME !! J'AI JAMAIS SUGGÉRÉ ÇA !" with sshake
 
 # game/3_akarsha.rpy:625
 translate french meetingStart_c549d0cf:
@@ -1282,19 +1282,19 @@ translate french meetingStart_c549d0cf:
 translate french meetingStart_a23b2fc3:
 
     # Noelle "How is it not threatening enough? It's irreversible and will devastate generations to come."
-    Noelle "Comment ça, pas assez menaçant ? C'est irréversible, et ça dévastera les générations futures !"
+    Noelle "Comment ça, pas assez menaçant ? C'est irréversible, et ça dévastera des générations et des générations à venir."
 
 # game/3_akarsha.rpy:629
 translate french meetingStart_94cee39b:
 
     # Min "But it's not a...thing! Like a real thing!"
-    Min "Mais c'est même pas un...truc ! Enfin, un vrai truc."
+    Min "Mais c'est même pas un... truc ! Enfin, un vrai truc !"
 
 # game/3_akarsha.rpy:631
 translate french meetingStart_50a94a1b:
 
     # Noelle "Are you saying you don't believe in global warming?!"
-    Noelle "Tu dis que tu ne crois pas au réchauffement climatique ?"
+    Noelle "Tu dis que tu crois pas au réchauffement climatique ?"
 
 # game/3_akarsha.rpy:633
 translate french meetingStart_65025103:
@@ -1312,43 +1312,43 @@ translate french meetingStart_b29651b9:
 translate french meetingStart_80cf84f6:
 
     # Min "We should be something that sounds like it could rip our enemies from limb to limb."
-    Min "On devrait être un truc qui donne l'impression de déchirer le corps des ennemis."
+    Min "On devrait être un truc qui donne l'impression qu'il peut déchirer nos ennemis membre par membre."
 
 # game/3_akarsha.rpy:638
 translate french meetingStart_10ca1a09:
 
     # Min "Like...Death Machine."
-    Min "Comme... Machine de la mort ?"
+    Min "Comme... Machine Mortelle ?"
 
 # game/3_akarsha.rpy:640
 translate french meetingStart_80bf4529:
 
     # Chryssa "Are we forming a heavy metal band?"
-    Chryssa "Parce qu'on crée un groupe de heavy metal ?"
+    Chryssa "On crée un groupe de heavy metal maintenant ?"
 
 # game/3_akarsha.rpy:648
 translate french meetingStart_eb1fbc76:
 
     # Diya "Death Bagels."
-    Diya "Les beignets de la mort."
+    Diya "Les Bagels Mortels."
 
 # game/3_akarsha.rpy:650
 translate french meetingStart_126ad793:
 
     # Liz "That's...better? I think?"
-    Liz "C'est .. Mieux ?  J'imagine ?"
+    Liz "C'est... Mieux ? J'imagine ?"
 
 # game/3_akarsha.rpy:651
 translate french meetingStart_5eb6989b:
 
     # "Death Bagels is dramatically cuter, but Min is too pleased that Diya combined their suggestions to complain."
-    "Les beignets de la mort c'est tellement plus mignon, mais Min est bien trop contente que Diya ait mixé leur proposition pour râler."
+    "Les Bagels Mortels c'est dramatiquement plus mignon, mais Min est bien trop contente que Diya ait mixé leurs propositions pour râler."
 
 # game/3_akarsha.rpy:662
 translate french meetingStart_58be93e4:
 
     # Akarsha "Wait! I just thought of a name too."
-    Akarsha "Attends ! J'ai une idée aussi."
+    Akarsha "Attends ! J'viens d'penser à un nom aussi."
 
 # game/3_akarsha.rpy:664
 translate french meetingStart_d62ea32a:
@@ -1360,85 +1360,85 @@ translate french meetingStart_d62ea32a:
 translate french meetingStart_9a53d3f8:
 
     # Noelle "NO."
-    Noelle "Non"
+    Noelle "NON."
 
 # game/3_akarsha.rpy:669
 translate french meetingStart_e9e906c1:
 
     # Liz "Wh...what is that?"
-    Liz "Heu... Qu'est ce que c'est?"
+    Liz "Heu... C'est quoi ça ?"
 
 # game/3_akarsha.rpy:671
 translate french meetingStart_d4e3d471:
 
     # Sumi "In yaoi, the seme is the dominant guy in the couple."
-    Sumi "Dans les Yaoi, le seme est le dominant du couple."
+    Sumi "Dans les yaoi, le seme est le mec dominant du couple."
 
 # game/3_akarsha.rpy:673
 translate french meetingStart_ff234369:
 
     # Liz "What is \"yaoi\"?"
-    Liz "What is \"yaoi\"?"
+    Liz "C'est quoi le \"yaoi\" ?"
 
 # game/3_akarsha.rpy:675
 translate french meetingStart_662add80:
 
     # Ester "You don't want to know!"
-    Ester "Tu veux pas savoir!"
+    Ester "Tu veux pas savoir !"
 
 # game/3_akarsha.rpy:690
 translate french meetingStart_ecc2dac8:
 
     # Grace "Usually only teen girls who like anime know what it means, so maybe that's good?"
-    Grace "Habituellement, seules les filles ados qui aiment les animés savent ce que ca veut dire, du coup ca vous va?"
+    Grace "Normalement, y'a que les filles prépubères qui aiment les animes qui vont savoir ce que ça veut dire, du coup c'est peut-être pas si mal ?"
 
 # game/3_akarsha.rpy:691
 translate french meetingStart_60036fd0:
 
     # Grace "Most normal people will be totally oblivious."
-    Grace "La plupart des gens ne comprendront pas."
+    Grace "La plupart des gens normaux ne vont rien capter."
 
 # game/3_akarsha.rpy:693
 translate french meetingStart_84ee2909:
 
     # Akarsha "Yeah. The only reason Noelle knows is because I corrupted her."
-    Akarsha "Ouais. Noelle sait ce que ca veut dire uniquement parce que je l'ai corrompue."
+    Akarsha "Ouais. Noelle sait ce que ça veut dire uniquement parce que je l'ai corrompue."
 
 # game/3_akarsha.rpy:696
 translate french meetingStart_5b84c344:
 
     # Noelle "Let me reiterate that this is a bad idea."
-    Noelle "Laissez moi vous répéter que c'est une mauvaise idée."
+    Noelle "Permettez-moi de réitérer : c'est une mauvaise idée."
 
 # game/3_akarsha.rpy:697
 translate french meetingStart_650a5e7f:
 
     # Noelle "We're going to have to make up a fake definition when our parents ask what it means."
-    Noelle "Il va falloir qu'on invente une fausse définition quand nos parents nous demanderons ce que ca veut dire."
+    Noelle "On va être obligées d'inventer une fausse définition pour quand nos parents nous demanderons ce que ça veut dire."
 
 # game/3_akarsha.rpy:699
 translate french meetingStart_0ba35d70:
 
     # Akarsha "Worth."
-    Akarsha "Ca me va."
+    Akarsha "Ça en vaut laaaargement la peine."
 
 # game/3_akarsha.rpy:701
 translate french meetingStart_6b88fea1:
 
     # Noelle "How is that worth it?"
-    Noelle "Comment ça peut valoir le coup?"
+    Noelle "Et en quoi ça en vaut la peine ?"
 
 # game/3_akarsha.rpy:703
 translate french meetingStart_b2cf29cb:
 
     # Chryssa "Okay, we'll settle this the fair way, which is a vote."
-    Chryssa "OK, on va regler ca d'une manière civilisée : un vote."
+    Chryssa "OK, on va régler ça d'une manière civilisée : un vote."
 
 # game/3_akarsha.rpy:704
 translate french meetingStart_15838b60:
 
     # Chryssa "Everyone, write your vote down on a piece of paper."
-    Chryssa "Ecrivez tous votre vote sur un bout de papier."
+    Chryssa "Écrivez toutes votre vote sur un bout de papier."
 
 # game/3_akarsha.rpy:708
 translate french meetingStart_fab5c2a6:
@@ -1474,7 +1474,7 @@ translate french meetingStart_79a02449:
 translate french meetingStart_76dfc5fd:
 
     # Akarsha "Name status: Sick!!!"
-    Akarsha "Statut du nom : Génial !!! "
+    Akarsha "Statut du nom : Trop ouf !!! "
 
 # game/3_akarsha.rpy:737
 translate french meetingStart_55f97255:
@@ -1486,13 +1486,13 @@ translate french meetingStart_55f97255:
 translate french meetingStart_b390cb61:
 
     # Ester "I don't get it. What's so great about bagels?"
-    Ester "Je comprends pas. Qu'est ce qu'il y a de bien avec les beignets?"
+    Ester "Je comprends pas. C'est quoi le délire avec les Bagels?"
 
 # game/3_akarsha.rpy:740
 translate french meetingStart_6ac7aa5e:
 
     # "Diya is giving her a very judgmental look."
-    "Diya la regarde mal."
+    "Diya lui lance un regard plein de jugement."
 
 # game/3_akarsha.rpy:742
 translate french meetingStart_c0058c1a:
@@ -1504,7 +1504,7 @@ translate french meetingStart_c0058c1a:
 translate french meetingStart_80f4a74c:
 
     # Akarsha "That...didn't explain anything."
-    Akarsha "Ca... n'explique rien du tout"
+    Akarsha "Ça... n'explique rien du tout."
 
 # game/3_akarsha.rpy:747
 translate french meetingStart_c65d4242:
@@ -1522,25 +1522,25 @@ translate french meetingStart_55f97255_1:
 translate french meetingStart_b324fe27:
 
     # Ester "I don't get it. What's so great about chicken nuggets?"
-    Ester "Je ne comprends pas. Qu'est ce qu'il y a de si génial avec les nuggets de poulet?"
+    Ester "Je ne comprends pas. Y'a quoi de si génial avec les nuggets de poulet ?"
 
 # game/3_akarsha.rpy:754
 translate french meetingStart_6ac7aa5e_1:
 
     # "Diya is giving her a very judgmental look."
-    "Diya la regarde mal."
+    "Diya lui lance un regard plein de jugement."
 
 # game/3_akarsha.rpy:756
 translate french meetingStart_7af28398:
 
     # Diya "They're on sale at McDonald's. You can buy 20 for $4.99."
-    Diya "Ca se vent au Mcdo. Tu peux en acheter 20 pour 5€."
+    Diya "Ça se vend au McDo. Tu peux en acheter 20 pour 4,99 $."
 
 # game/3_akarsha.rpy:758
 translate french meetingStart_a95b2ccb:
 
     # Noelle "What are you, a walking McDonald's advertisement?"
-    Noelle "Qu'es tu? Une pub ambulante de Mcdonald?"
+    Noelle "Non, mais, t'es une pub ambulante pour McDonalds ou quoi ?"
 
 # game/3_akarsha.rpy:762
 translate french meetingStart_36a92679:
@@ -1552,37 +1552,37 @@ translate french meetingStart_36a92679:
 translate french meetingStart_aa632a03:
 
     # Liz "I guess the one downside is, we only sound threatening to people who believe in it."
-    Liz "Le problème, c'est qu'on va faire peur seulement à ceux qui y croient."
+    Liz "J'imagine que le problème, c'est qu'on va juste faire peur à ceux qui y croient."
 
 # game/3_akarsha.rpy:767
 translate french meetingStart_ab7fc3a7:
 
     # Noelle "That's fine."
-    Noelle "Ca me va."
+    Noelle "Ça ira."
 
 # game/3_akarsha.rpy:768
 translate french meetingStart_e8179e1f:
 
     # Noelle "Even if they're too ignorant to accept scientific fact, that doesn't erase the reality that we'll annihilate them."
-    Noelle "Même si ils sont trop ignorants pour accepter les faits scientifiques, ça n'enlève pas le fait que nous allons les annihiler."
+    Noelle "Même si ils sont trop ignorants pour accepter les faits scientifiques, ça ne change rien à la dure réalité qu'on va les annihiler."
 
 # game/3_akarsha.rpy:770
 translate french meetingStart_92a86a83:
 
     # Min "Big words for someone who couldn't catch a ball if it had Elmer's glue on it."
-    Min "Ca en fait des mots savants pour quelqu'un qui n'est pas capable d'attraper une balle quand elle est remplie de colle."
+    Min "Ça en fait des mots savants pour quelqu'un qui n'est pas foutu d'attraper une balle même si elle était couverte de glue."
 
 # game/3_akarsha.rpy:772
 translate french meetingStart_aed590e3:
 
     # Noelle "You shut up."
-    Noelle "Tais-toi."
+    Noelle "Tais-toi, toi."
 
 # game/3_akarsha.rpy:774
 translate french meetingStart_9e0cd69c:
 
     # Chryssa "Alright guys, be nice..."
-    Chryssa "Sois sympa..."
+    Chryssa "Hé les filles, soyez bon esprit..."
 
 # game/3_akarsha.rpy:778
 translate french meetingStart_27c49944:
@@ -1594,25 +1594,25 @@ translate french meetingStart_27c49944:
 translate french meetingStart_c203b76e:
 
     # Akarsha "Yes!"
-    Akarsha "Oui !"
+    Akarsha "Si !"
 
 # game/3_akarsha.rpy:783
 translate french meetingStart_bfb75860:
 
     # Ester "Have you guys no shame at all?!"
-    Ester "Vous n'avez vraiment aucune honte?"
+    Ester "Les meufs, vous n'avez vraiment aucune honte ?"
 
 # game/3_akarsha.rpy:785
 translate french meetingStart_e949f230:
 
     # Sumi "Come on. Don't pretend you didn't vote for it."
-    Sumi "Allez. Fais pas comme si tu n'avais pas voté pour ça."
+    Sumi "Allez. Fais pas comme si t'avais pas voté pour ça."
 
 # game/3_akarsha.rpy:787
 translate french meetingStart_9319a5a3:
 
     # Ester "I didn't vote for it!"
-    Ester "Je n'ai pas voté pour ça !"
+    Ester "J'ai pas voté pour ça !"
 
 # game/3_akarsha.rpy:802
 translate french diyaMissing_5cb0ef76:
@@ -1624,7 +1624,7 @@ translate french diyaMissing_5cb0ef76:
 translate french diyaMissing_b13502c3:
 
     # Chryssa "The other team is on their way. They're parking right now."
-    Chryssa "L'autre équipe est en route. Ils sont sur le parking là."
+    Chryssa "L'autre équipe est en route. Ils sont sur le parking, là."
 
 # game/3_akarsha.rpy:806
 translate french diyaMissing_d055da5f:
@@ -1642,13 +1642,13 @@ translate french diyaMissing_2f8984c5:
 translate french diyaMissing_1a5186cd:
 
     # Chryssa "Focus on your breathing and calm your mind."
-    Chryssa "Concentrez vous sur votre respiration et calmez vos esprits."
+    Chryssa "Concentrez-vous sur votre respiration et calmez vos esprits."
 
 # game/3_akarsha.rpy:826
 translate french diyaMissing_20ebd2a3:
 
     # "Suddenly, Noelle whirls around, looking frantic. "
-    "Tout à coups, Noelle se retourne, l'air frénétique."
+    "Tout à coup, Noelle se retourne, l'air inquiète."
 
 # game/3_akarsha.rpy:828
 translate french diyaMissing_afd05065:
@@ -1666,19 +1666,19 @@ translate french diyaMissing_57ee5dd2:
 translate french diyaMissing_787e69c2:
 
     # Liz "Huh? She didn't follow us out?"
-    Liz "Heu? Elle nous a pas suivie?"
+    Liz "Hein ? Elle nous a pas suivi ?"
 
 # game/3_akarsha.rpy:834
 translate french diyaMissing_0a01603d:
 
     # "Indeed, Diya is nowhere in sight..."
-    "Effectivement, je ne la vois pas..."
+    "Effectivement, Diya n'est visible nulle part..."
 
 # game/3_akarsha.rpy:836
 translate french diyaMissing_b3454fc1:
 
     # Liz "Holy shit. She's so quiet I didn't even notice she was gone."
-    Liz "Et merde. Elle est tellement discrète que j'avais pas remarqué qu'elle était partie."
+    Liz "Et mince. Elle est tellement discrète que j'avais même pas remarqué qu'elle était plus là."
 
 # game/3_akarsha.rpy:838
 translate french diyaMissing_701b1492:
@@ -1690,7 +1690,7 @@ translate french diyaMissing_701b1492:
 translate french diyaMissing_165c8d4a:
 
     # Akarsha "OH MY GOD..."
-    Akarsha "HO PUTAIN...."
+    Akarsha "OH MON DIEU..."
 
 # game/3_akarsha.rpy:841
 translate french diyaMissing_3688ef2c:
@@ -1702,19 +1702,19 @@ translate french diyaMissing_3688ef2c:
 translate french diyaMissing_9eae69be:
 
     # Noelle "THAT'S IMPOSSIBLE." with sshake
-    Noelle "CE N'EST PAS POSSIBLE." with sshake
+    Noelle "C'EST PAS POSSIBLE." with sshake
 
 # game/3_akarsha.rpy:846
 translate french diyaMissing_8f63e742:
 
     # Chryssa "Min told me she was going to the bathroom on the way out."
-    Chryssa "Min m'a dit qu'il allait aux toilettes en sortant."
+    Chryssa "Min m'a dit qu'elle allait aux toilettes en sortant."
 
 # game/3_akarsha.rpy:848
 translate french diyaMissing_d8df6928:
 
     # Chryssa "But that was, like, 15 minutes ago. She should be back by now."
-    Chryssa "Mais c'était genre, il y a 15min. Elle devrait être revenue."
+    Chryssa "Mais c'était genre, il y a 15 minutes. Elle devrait être revenue."
 
 # game/3_akarsha.rpy:850
 translate french diyaMissing_78def13a:
@@ -1726,31 +1726,31 @@ translate french diyaMissing_78def13a:
 translate french diyaMissing_8eed80c0:
 
     # Akarsha "AUGGGHHH!!!" with sshake
-    Akarsha "HAAAAAAA!!!!!!!!!!!!!" with sshake
+    Akarsha "HAAAAAAA !!!!!!!!!!!!!" with sshake
 
 # game/3_akarsha.rpy:863
 translate french diyaMissing_6084cb07:
 
     # Noelle "What?!" with sshake
-    Noelle "Quoi?!" with sshake
+    Noelle "Quoi ?!" with sshake
 
 # game/3_akarsha.rpy:865
 translate french diyaMissing_7924b35b:
 
     # Akarsha "Nothing. I was just randomly screaming."
-    Akarsha "Rien. Je voulais juste crier."
+    Akarsha "Rien. J'ai juste eu envie de crier."
 
 # game/3_akarsha.rpy:870
 translate french diyaMissing_6c694ac2:
 
     # Chryssa "Looks like Diya and Min aren't here."
-    Chryssa "Il semblerait que Diya et Min ne sont pas là."
+    Chryssa "On dirait que Diya et Min ne sont pas là."
 
 # game/3_akarsha.rpy:871
 translate french diyaMissing_443077bc:
 
     # Chryssa "And the girls' bathroom is empty."
-    Chryssa "Les toilettes des filles sont vides."
+    Chryssa "Et les toilettes des filles sont vides."
 
 # game/3_akarsha.rpy:873
 translate french diyaMissing_422376f6:
@@ -1768,25 +1768,25 @@ translate french diyaMissing_65821bd0:
 translate french diyaMissing_6fb680ae:
 
     # Chryssa "We'll get picked off one by one."
-    Chryssa "On va disparaitre une par une."
+    Chryssa "On va disparaître une par une."
 
 # game/3_akarsha.rpy:878
 translate french diyaMissing_9f6557a3:
 
     # Noelle "What is this, a horror movie?"
-    Noelle "Qu'est ce que c'est? Un film d'horreur?"
+    Noelle "Non mais tu nous fais quoi, un film d'horreur ?"
 
 # game/3_akarsha.rpy:880
 translate french diyaMissing_625c7e4b:
 
     # Liz "The Killer Whales will be here any minute. We don't have time to comb the school slowly together."
-    Liz "Les Tueurs de Balaines seront la d'une minute à l'autre. On a pas le temps de ratisser l'école toutes ensemble."
+    Liz "Les Orques seront là d'une minute à l'autre. On a pas le temps de ratisser l'école en un seul groupe."
 
 # game/3_akarsha.rpy:881
 translate french diyaMissing_4ed7b17b:
 
     # Liz "Besides, we already lost the main problem children. The rest of them aren't the type to just randomly wander off like this."
-    Liz "De plus, on a deja passé le probleme des enfants. Elles ne sont pas du genre à s'égarer au hasard. "
+    Liz "Et puis, on a déjà perdu les enfants à problèmes. Les autres ne sont pas du genre à se perdre comme ça."
 
 # game/3_akarsha.rpy:883
 translate french diyaMissing_31f51f0d:
@@ -1798,19 +1798,19 @@ translate french diyaMissing_31f51f0d:
 translate french diyaMissing_35e22379:
 
     # Chryssa "Fine. Disperse, [teamName]!"
-    Chryssa "Bien. Dispersion, [teamName] !"
+    Chryssa "Bien. [teamName], dispersion !"
 
 # game/3_akarsha.rpy:885
 translate french diyaMissing_5af8d0f7:
 
     # Chryssa "Meet back at the field in 10 minutes, whether you find them or not."
-    Chryssa "On se retrouve sur le terrain dans 10min, qu'on les trouve ou pas."
+    Chryssa "On se retrouve sur le terrain dans 10 minutes, qu'on les trouve ou pas."
 
 # game/3_akarsha.rpy:887
 translate french diyaMissing_9a49c0a6:
 
     # Akarsha "Roger that!"
-    Akarsha "Bien reçu!"
+    Akarsha "Bien reçu !"
 
 # game/3_akarsha.rpy:891
 translate french diyaMissing_494b083c:
@@ -1822,7 +1822,7 @@ translate french diyaMissing_494b083c:
 translate french diyaMissing_c1befb57:
 
     # Noelle "I still don't want to be called that!"
-    Noelle "Je ne veux toujours pas qu'on s'appelle comme ca!"
+    Noelle "Je ne veux toujours pas qu'on s'appelle comme ca !"
 
 # game/3_akarsha.rpy:895
 translate french diyaMissing_ed95c096:
@@ -1840,13 +1840,13 @@ translate french diyaMissing_240a1c94:
 translate french diyaMissing_79c58629:
 
     # "She smiles as Akarsha comes closer."
-    "Elle souris quand Akarsha s'approche."
+    "Elle sourit quand Akarsha s'approche."
 
 # game/3_akarsha.rpy:919
 translate french diyaMissing_26273870:
 
     # Noelle "I can't stand here all day, you're cut off."
-    Noelle "Je ne vais pas rester là toute la journée, t'abuses."
+    Noelle "Je ne vais pas rester là toute la journée, débrouille-toi."
 
 # game/3_akarsha.rpy:922
 translate french diyaMissing_14a60419:
@@ -1858,7 +1858,7 @@ translate french diyaMissing_14a60419:
 translate french diyaMissing_23c38217:
 
     # Akarsha "Oh my god????"
-    Akarsha "Ho mon dieu???"
+    Akarsha "Ho mon Dieu ???"
 
 # game/3_akarsha.rpy:933
 translate french diyaMissing_073fad39:
@@ -1876,85 +1876,85 @@ translate french diyaMissing_48ef1f29:
 translate french diyaMissing_0cf73a6c:
 
     # Akarsha "Where should we look?"
-    Akarsha "On cherche où?"
+    Akarsha "On cherche où ?"
 
 # game/3_akarsha.rpy:939
 translate french diyaMissing_88bdc1aa:
 
     # Noelle "I don't know."
-    Noelle "Je ne sais pas."
+    Noelle "Je sais pas."
 
 # game/3_akarsha.rpy:940
 translate french diyaMissing_345b26ee:
 
     # Noelle "If it was just Diya, I'd have guesses, but it's likely Min-seo forced her to go somewhere."
-    Noelle "Si ca avait été juste Diya, j'aurai pu deviner, mais c'est comme si Min-seo l'avait forcer à aller quelque part."
+    Noelle "Si ça avait été juste Diya, j'aurais pu deviner, mais c'est probable que Min-seo l'ait forcée à aller quelque part."
 
 # game/3_akarsha.rpy:942
 translate french diyaMissing_e81be261:
 
     # Akarsha "...You realize Diya is like, a foot taller and 100 pounds heavier than Min, right?"
-    Akarsha "... Tu te rends compte que Diya est une armoire par rapport à Min quand même?"
+    Akarsha "...Tu te rends compte que Diya est une armoire à glace par rapport à Min quand même ?"
 
 # game/3_akarsha.rpy:943
 translate french diyaMissing_90a6c6cd:
 
     # Akarsha "Min can't \"force\" Diya to do anything. If she took her somewhere, it's because Diya let her."
-    Akarsha "Min ne peux pas \"forcer\" Diya à faire quoi que ce soit. Si elle l'a emmenée quelque part, c'est que Diya l'a bien voulu."
+    Akarsha "Min ne peut pas \"forcer\" Diya à faire quoi que ce soit. Si elle l'a emmenée quelque part, c'est que Diya l'a bien voulu."
 
 # game/3_akarsha.rpy:946
 translate french diyaMissing_4b942b2c:
 
     # Noelle "Fine, forced was too strong of a word. Coerced."
-    Noelle "Bien, forcé etait un mot trop fort. Obligé alors."
+    Noelle "Bien, forcée était un mot trop fort. Obligée alors."
 
 # game/3_akarsha.rpy:953
 translate french diyaMissing_40b9a01e:
 
     # Akarsha "Dude, chill. You're so neurotic when it comes to Diya."
-    Akarsha "Calmes toi ma grande. Tu deviens tellement hystérique quand on parle de Diya."
+    Akarsha "Calme-toi ma grande. Tu deviens hystérique quand il s'agît de Diya."
 
 # game/3_akarsha.rpy:954
 translate french diyaMissing_eae15c99:
 
     # Akarsha "Can't you just trust her judgment?"
-    Akarsha "Tu peux pas juste te fier à son jugement?"
+    Akarsha "Tu peux pas juste te fier à son jugement ?"
 
 # game/3_akarsha.rpy:959
 translate french diyaMissing_cbcd83a2:
 
     # Noelle "In kindergarten, I asked Diya what she wanted to be when she grew up and she answered \"A police dog.\""
-    Noelle "Au jardin d'enfants, j'ai demandé à Diya ce qu'elle voudrait faire plus grande et elle m'a repondue \"Chien de police.\""
+    Noelle "À la maternelle, j'ai demandé à Diya ce qu'elle voulait faire plus grande et elle m'a répondu \"Chien de police.\""
 
 # game/3_akarsha.rpy:961
 translate french diyaMissing_51cf79bf:
 
     # Akarsha "Well, it WAS kindergarten."
-    Akarsha "Bah, c'était au jardin d'ENFANTS."
+    Akarsha "Bah, c'était à la MATERNELLE."
 
 # game/3_akarsha.rpy:963
 translate french diyaMissing_32c98c06:
 
     # Noelle "Even in kindergarten I understood that becoming another species wasn't an option..."
-    Noelle "Même au jardin d'enfants, j'ai compris que devenir une autre espece était une necessité..."
+    Noelle "Même à la maternelle, j'avais déjà compris que devenir une autre espèce était pas une option..."
 
 # game/3_akarsha.rpy:1066
 translate french bathroom_8aaa59cd:
 
     # "Akarsha looks inside the girls' bathroom. Just as Chryssa said, it's empty."
-    "Akarsha regarde dans les toilettes des filles. Comme dit Chryssa, c'est vide."
+    "Akarsha regarde dans les toilettes des filles. Comme l'avait dit Chryssa, c'est vide."
 
 # game/3_akarsha.rpy:1068
 translate french bathroom_9e80fadc:
 
     # Akarsha "Darn. I thought Min might be having a diarrhea catastrophe or something."
-    Akarsha "Merde. J' imaginais bien Min avoir une diarrhée de l'espace ou quelque chose comme ca. "
+    Akarsha "Merde. J'imaginais bien Min avoir une diarrhée de l'espace ou quelque chose comme ca. "
 
 # game/3_akarsha.rpy:1071
 translate french bathroom_565c4d10:
 
     # Noelle "Are you trying to make me throw up?"
-    Noelle "T'essaie de me faire vomir?"
+    Noelle "T'essaies de me faire vomir ?"
 
 # game/3_akarsha.rpy:1074
 translate french bathroom_5b930582:
@@ -1966,67 +1966,67 @@ translate french bathroom_5b930582:
 translate french bathroom_ea25bc7e:
 
     # Noelle "You know, sometimes I wonder why I bother with you."
-    Noelle "Tu sais, des fois je me demande pourquoi je m’embête avec toi."
+    Noelle "Tu sais, y'a des fois où j'me demande pourquoi j'm'embête avec toi."
 
 # game/3_akarsha.rpy:1080
 translate french bathroom_d2be0513:
 
     # Akarsha "Because you love me."
-    Akarsha "Parce que tu m'aime."
+    Akarsha "C'est parce que tu m'kiffes."
 
 # game/3_akarsha.rpy:1083
 translate french bathroom_e161cc8e:
 
     # Noelle "No, I don't."
-    Noelle "Non, c'est faux."
+    Noelle "Non."
 
 # game/3_akarsha.rpy:1086
 translate french bathroom_168310cd:
 
     # Akarsha "Yes, you do."
-    Akarsha "Si c'est vrai"
+    Akarsha "Si."
 
 # game/3_akarsha.rpy:1089
 translate french bathroom_e161cc8e_1:
 
     # Noelle "No, I don't."
-    Noelle "Non c'est faux."
+    Noelle "Non."
 
 # game/3_akarsha.rpy:1092
 translate french bathroom_168310cd_1:
 
     # Akarsha "Yes, you do."
-    Akarsha "Oui c'est vrai."
+    Akarsha "Si."
 
 # game/3_akarsha.rpy:1095
 translate french bathroom_1ccd15b7:
 
     # Noelle "This is stupid. Knock it off."
-    Noelle "C'est stupide. Arrête ça."
+    Noelle "C'est stupide. Arrête."
 
 # game/3_akarsha.rpy:1098
 translate french bathroom_59043f5e:
 
     # Akarsha "You didn't deny it that time! CONFIRMED."
-    Akarsha "Tu n'as pas dit non cette fois ! CONFIRMÉ"
+    Akarsha "Ah, t'as pas dit \"non\" ! LA PREUVE."
 
 # game/3_akarsha.rpy:1101
 translate french bathroom_73a151ce:
 
     # Noelle "NOT CONFIRMED. That's not how it works." with sshake
-    Noelle "PAS CONFIRMÉ. C'est pas comme ça que ça marche." with sshake
+    Noelle "PREUVE DE RIEN DU TOUT. Ça marche pas comme ça." with sshake
 
 # game/3_akarsha.rpy:1222
 translate french track_38ceb667:
 
     # AkarshaT "Hey, that's...!"
-    AkarshaT "Hé, c'est... !"
+    AkarshaT "Hé, mais c'est... !"
 
 # game/3_akarsha.rpy:1226
 translate french track_aa3cc43d:
 
     # "Diya is sprinting around the track at top speed!"
-    "Diya court autour de la piste à toute vitesse !"
+    "Diya sprinte autour de la piste à toute vitesse !"
 
 # game/3_akarsha.rpy:1228
 translate french track_39d9ec61:
@@ -2044,13 +2044,13 @@ translate french track_03d651fd:
 translate french track_c2ab6bcb:
 
     # "Once Diya rounds a bend, Noelle and Akarsha flag her down."
-    "Après que Diya ait passée le virage, Noelle et Akarsha lui font signe."
+    "Une fois que Diya a passé le virage, Noelle et Akarsha lui font signe."
 
 # game/3_akarsha.rpy:1236
 translate french track_5be552a7:
 
     # "She's completely drenched in sweat."
-    "Elle est couverte de sueur."
+    "Elle est complémentement trempée de sueur."
 
 # game/3_akarsha.rpy:1240
 translate french track_b4f18a79:
@@ -2062,13 +2062,13 @@ translate french track_b4f18a79:
 translate french track_0dc60100:
 
     # Diya "I got nervous, so I ran 3 miles."
-    Diya "J'étais nerveuse alors j'ai couru 5km."
+    Diya "J'étais nerveuse, alors j'ai couru 5 km."
 
 # game/3_akarsha.rpy:1245
 translate french track_4b790cf2:
 
     # Diya "Feel better now."
-    Diya "Je me sens mieux là."
+    Diya "J'me sens mieux là."
 
 # game/3_akarsha.rpy:1247
 translate french track_51219dfa:
@@ -2080,7 +2080,7 @@ translate french track_51219dfa:
 translate french track_c0c5fbe5:
 
     # Akarsha "Why didn't you say anything?"
-    Akarsha "Pourquoi tu nous a rien dit ?"
+    Akarsha "Pourquoi tu nous as rien dit ?"
 
 # game/3_akarsha.rpy:1252
 translate french track_19b72e4a:
@@ -2092,19 +2092,19 @@ translate french track_19b72e4a:
 translate french track_631dc7ed:
 
     # Diya "Stressful. I don't like to bother people."
-    Diya "Le stress. J'aime pas déranger les gens."
+    Diya "C'est stressant. J'aime pas déranger les gens."
 
 # game/3_akarsha.rpy:1255
 translate french track_a0addba0:
 
     # Akarsha "Dude, you know that not communicating just makes most situations even MORE stressful, right??"
-    Akarsha "Tu sais que ne rien dire rend la plupart des situations encore PLUS stressante hein ??"
+    Akarsha "Meuf, tu sais que rien dire rend la plupart des situations encore PLUS stressantes hein ??"
 
 # game/3_akarsha.rpy:1260
 translate french track_d9dd4afc:
 
     # Noelle "Where's Min?"
-    Noelle "Où est Min ?"
+    Noelle "Elle est où Min ?"
 
 # game/3_akarsha.rpy:1263
 translate french track_9fa2cfca:
@@ -2122,13 +2122,13 @@ translate french track_b08fe291:
 translate french track_5e95c3fa:
 
     # Akarsha "Huh. I guess you went missing separately."
-    Akarsha "Ah. J'en déduis que vous avez pas disparus ensemble."
+    Akarsha "Ah. J'en déduis que vous avez disparu séparément."
 
 # game/3_akarsha.rpy:1267
 translate french track_610b51f4:
 
     # Akarsha "Never mind. Just go back to the diamond then."
-    Akarsha "Laisse tomber. Retourne sur le terrain."
+    Akarsha "Bon, peu importe. Retourne sur le terrain."
 
 # game/3_akarsha.rpy:1269
 translate french track_fa2a45d8:
@@ -2140,55 +2140,55 @@ translate french track_fa2a45d8:
 translate french track_82369481:
 
     # Akarsha "That way Chryssa and Liz will know where you are."
-    Akarsha "Comme ca Chryssa et Liz savent où tu es."
+    Akarsha "Comme ça, Chryssa et Liz savent où tu es."
 
 # game/3_akarsha.rpy:1274
 translate french track_cb3be339:
 
     # "Diya nods and trots off."
-    "Diya acquiesce et part en trotinant."
+    "Diya acquiesce et part en trottinant."
 
 # game/3_akarsha.rpy:1279
 translate french track_2336aed8:
 
     # Akarsha "We found both of them."
-    Akarsha "On à trouvé les deux."
+    Akarsha "On les a trouvées toutes les deux."
 
 # game/3_akarsha.rpy:1282
 translate french track_be8d0937:
 
     # Noelle "Yes."
-    Noelle "Oui."
+    Noelle "Ouaip."
 
 # game/3_akarsha.rpy:1284
 translate french track_4bb6904f:
 
     # Akarsha "Once again, I'm a hero!"
-    Akarsha "Encore une fois je suis un héro."
+    Akarsha "Et une fois de plus, je suis une héroïne."
 
 # game/3_akarsha.rpy:1287
 translate french track_5a0fec90:
 
     # Noelle "YOU'RE NOT A HERO."
-    Noelle "TU N'ES PAS UN HÉROS."
+    Noelle "TU N'ES PAS UNE HÉROÏNE."
 
 # game/3_akarsha.rpy:1289
 translate french track_a0fce640:
 
     # Noelle "Let's head back to the field, too."
-    Noelle "Retournons sur le terrain nous aussi."
+    Noelle "Bon, retournons sur le terrain nous aussi."
 
 # game/3_akarsha.rpy:1371
 translate french lookAlarm2_b5cba684:
 
     # Akarsha "Bad memories looking at this now."
-    Akarsha "J'ai des mauvais souvenirs qui remontent en voyant ca."
+    Akarsha "Ouh là, j'ai de mauvais souvenirs en voyant ca."
 
 # game/3_akarsha.rpy:1373
 translate french lookAlarm2_8da4d756:
 
     # Akarsha "I was an idiot."
-    Akarsha "J'étais idiote."
+    Akarsha "J'étais conne."
 
 # game/3_akarsha.rpy:1376
 translate french lookAlarm2_a5a151e8:
@@ -2218,13 +2218,13 @@ translate french lookAlarm2_79c251c2_1:
 translate french lookAlarm2_1b41d038:
 
     # Noelle "If you're waiting for me to disagree, we're going to be here all day."
-    Noelle "Si tu attends que je dise que tu as tort, on va pouvoir attendre longtemps."
+    Noelle "Si tu attends de moi que je sois en désaccord, on risque de rester plantées là toute la journée."
 
 # game/3_akarsha.rpy:1397
 translate french lookPoster2_656a56ba:
 
     # "The poster says \"Reduce stress!\""
-    "Le poster dit \"Réduis le stress !\""
+    "Il y a un poster avec marqué dessus : \"Diminuez votre stress !\""
 
 # game/3_akarsha.rpy:1401
 translate french lookPoster2_655a1055:
@@ -2236,13 +2236,13 @@ translate french lookPoster2_655a1055:
 translate french lookPoster2_0aceba5d:
 
     # AkarshaT "How exactly do they expect us to do that?"
-    AkarshaT "Comment ils veulent qu'on fasse ca exactement ?"
+    AkarshaT "Et comment ils veulent qu'on fasse ça, exactement ?"
 
 # game/3_akarsha.rpy:1403
 translate french lookPoster2_81cbde51:
 
     # AkarshaT "Not go to school?{w=0.26} Get rid of our parents?"
-    AkarshaT "Ne pas aller à l'école ? {w=0.26} Se débarasser de nos parents ?"
+    AkarshaT "En n'allant pas à l'école ? {w=0.26} En se débarassant de nos parents ?"
 
 # game/3_akarsha.rpy:1413
 translate french lookBush2_bbb27231:
@@ -2260,7 +2260,7 @@ translate french lookBush2_9d73f57c:
 translate french lookBush2_2a42d072:
 
     # Akarsha "THIS IS...THIS IS A BUSH!!!!!!!!"
-    Akarsha "C'EST... C'EST UN BUISSON !!!!"
+    Akarsha "C'EST... C'EST UN BUISSON !!!!!!!!"
 
 # game/3_akarsha.rpy:1420
 translate french lookBush2_588540e7:
@@ -2278,7 +2278,7 @@ translate french lookBush2_f5a3cd1f:
 translate french lookBush2_beb8360c:
 
     # Akarsha "Let's keep staring at this instead of doing something more useful!"
-    Akarsha "Continuons de regarder ca plutôt que de faire quelque chose de productif."
+    Akarsha "Continuons de le regarder, plutôt que de faire des choses productives !"
 
 # game/3_akarsha.rpy:1437
 translate french library_64d977ea:
@@ -2290,19 +2290,19 @@ translate french library_64d977ea:
 translate french library_743acd3c:
 
     # Noelle "Why the library?"
-    Noelle "Pourquoi la librairie ?"
+    Noelle "Pourquoi la bibliothèque ?"
 
 # game/3_akarsha.rpy:1441
 translate french library_faf1d5c2:
 
     # Noelle "You think Min-seo is going to read a book?"
-    Noelle "Tu penses que Min-Seo est allée lire un livre ?"
+    Noelle "Tu penses vraiment que Min-Seo irait lire un bouquin ?"
 
 # game/3_akarsha.rpy:1444
 translate french library_ef6c137d:
 
     # Akarsha "Doesn't hurt to be thorough, right?"
-    Akarsha "Ca fait pas de mal d'être rigoureux, non ?"
+    Akarsha "Ca fait pas de mal de vérifier partout, non ?"
 
 # game/3_akarsha.rpy:1448
 translate french library_79a3c576:
@@ -2314,61 +2314,61 @@ translate french library_79a3c576:
 translate french library_77784f5f:
 
     # "The book scanner alarms go off!" with sshake
-    "Les alarmes du scanner de livre s'arrêtent!" with sshake
+    "Les alarmes de l'entrée se déclenchent !" with sshake
 
 # game/3_akarsha.rpy:1452
 translate french library_ca08010c:
 
     # "Everyone in the library turns to look at her!" with sshake
-    "Tous les yeux se tournent vers elle!" with sshake
+    "Toute le monde dans la bibliothèque se retourne vers elle pour la regarder !" with sshake
 
 # game/3_akarsha.rpy:1455
 translate french library_58cb1981:
 
     # Akarsha "OH SHIT???!!!!" with sshake
-    Akarsha "OH MERDE???!!!!" with sshake
+    Akarsha "OH MERDE ???!!!!" with sshake
 
 # game/3_akarsha.rpy:1456
 translate french library_1507e5e5:
 
     # Akarsha "*weird shriek*" with sshake
-    Akarsha "crie étrangement" with sshake
+    Akarsha "*crie de manière bizarre*" with sshake
 
 # game/3_akarsha.rpy:1458
 translate french library_992a24ec:
 
     # "Akarsha panics and bolts back out the door!"
-    "Akarsha panique et referme la porte."
+    "Akarsha panique et file par la porte !"
 
 # game/3_akarsha.rpy:1473
 translate french library_b5351005:
 
     # Akarsha "Hoo!!! Good thing no one chased after us."
-    Akarsha "Hooo!!! Heureusement que personne ne nous poursuit."
+    Akarsha "Hooo !!! Heureusement que personne nous a poursuivi."
 
 # game/3_akarsha.rpy:1474
 translate french library_cb707ff4:
 
     # Akarsha "What even just happened?"
-    Akarsha "Qu'est ce qu'il vient de se passer?"
+    Akarsha "Il vient d'se passer quoi, là ?"
 
 # game/3_akarsha.rpy:1477
 translate french library_d42cc6ca:
 
     # Noelle "I don't know. How odd."
-    Noelle "Je ne sais pas. C'était malaisant."
+    Noelle "J'sais pas. C'était bizarre."
 
 # game/3_akarsha.rpy:1479
 translate french library_3666dfb4:
 
     # Akarsha "I don't even have any books in my backpack. Why did it go off???"
-    Akarsha "J'ai même pas de livre dans mon sac. Pourquoi ca s'est arrêté???"
+    Akarsha "J'ai même pas de livre dans mon sac. Pourquoi ça a sonné ???"
 
 # game/3_akarsha.rpy:1481
 translate french library_7bd95729:
 
     # Noelle "Maybe it was a fluke. You should try again."
-    Noelle "C'était peut etre un hasard. Tu devrais réessayer."
+    Noelle "Peut-être que c'était le hasard. Tu devrais réessayer."
 
 # game/3_akarsha.rpy:1483
 translate french library_cc7e5036:
@@ -2380,97 +2380,97 @@ translate french library_cc7e5036:
 translate french reflection_f395400a:
 
     # "Akarsha admires her own reflection in the window."
-    "Akarsha admire son reflet dans la vitre."
+    "Akarsha admire son propre reflet dans la vitre."
 
 # game/3_akarsha.rpy:1546
 translate french reflection_41f7a6d1:
 
     # AkarshaT "I hate myself, but in a fun way where I'll still check myself out."
-    AkarshaT "Je me déteste, mais d'une certaine façon, je m'en sors toujours."
+    AkarshaT "Je me déteste, mais bon... c'est drôle, parce que je continue d'admirer mon visage."
 
 # game/3_akarsha.rpy:1549
 translate french reflection_8c3b4e81:
 
     # AkarshaT "Dat me."
-    AkarshaT "Moi quoi."
+    AkarshaT "C'est moi, quoi."
 
 # game/3_akarsha.rpy:1553
 translate french reflection_c6ce0a98:
 
     # AkarshaT "It's the 21st century. Why is acne still a thing?"
-    AkarshaT "On est au 21e siècle. Pourquoi l'acné est toujours d'actualité?"
+    AkarshaT "On est au 21ème siècle. Alors pourquoi l'acné existe encore ?"
 
 # game/3_akarsha.rpy:1556
 translate french reflection_d6471baa:
 
     # AkarshaT "Technology has literally advanced to the point where we can shoot LASER BEAMS at your eyes to improve your vision. "
-    AkarshaT "Je veux dire, la technologie a tellement évolué qu'on peut te foutre un rayon laser dans les yeux pour améliorer ta vision."
+    AkarshaT "J'veux dire, la technologie a tellement évolué, à un point où on peut même te foutre un rayon laser dans les yeux pour améliorer ta vue."
 
 # game/3_akarsha.rpy:1557
 translate french reflection_87a0fef0:
 
     # AkarshaT "You'd think we would've found a cure for bad skin by now."
-    AkarshaT "J'pensais qu'on aurait trouvé un remède pour les problèmes de peau."
+    AkarshaT "Je pensais qu'on aurait aussi trouvé un remède pour les problèmes de peau quand même."
 
 # game/3_akarsha.rpy:1558
 translate french reflection_da65699b:
 
     # AkarshaT "Like, dude, I don't even want to be pretty. I just want to look average, and not gross all the time."
-    AkarshaT "Genre, je demande même pas à être jolie. Je veux juste être dans la moyenne, et pas dégueu tout le temps."
+    AkarshaT "Genre, j'demande même pas à être belle. Je veux juste être dans la moyenne, et pas dégueu en permanence."
 
 # game/3_akarsha.rpy:1559
 translate french reflection_4c28ba4a:
 
     # AkarshaT "It's hard being a weird goblin that no one has a crush on."
-    AkarshaT "C'est dur d'être un gobelin chelou qui n'attire personne."
+    AkarshaT "C'est dur d'être un gobelin chelou qui attire personne."
 
 # game/3_akarsha.rpy:1563
 translate french reflection_97aa21b6:
 
     # AkarshaT "I wonder what it's like to be attractive."
-    AkarshaT "Je me demande ce que ca fait d'être attirante."
+    AkarshaT "J'me demande ce que ça fait d'être attirante."
 
 # game/3_akarsha.rpy:1566
 translate french reflection_7c5b226c:
 
     # AkarshaT "Like, Diya could be wearing a garbage bag and still look better than I ever will in my entire life."
-    AkarshaT "Diya par exemple, elle pourrait porter qu'un sac poubelle quelle serait toujours plus sexy que je le serai de toute ma vie."
+    AkarshaT "Diya, par exemple, même habillée avec un sac poubelle, elle sera toujours plus sexy que j'le serai de toute ma vie."
 
 # game/3_akarsha.rpy:1568
 translate french reflection_95f36e1f:
 
     # AkarshaT "I asked her what she washes her face with, and she said she just splashes water on it. Can you imagine being blessed with genes that good?"
-    AkarshaT "Je lui ai demandé avec quoi elle lave son visage, elle m'a juste repondu de balancer de l'eau dessus. T'imagines si j'avais pu avoir les mêmes gènes parfaits?"
+    AkarshaT "Je lui ai demandé avec quoi elle lave son visage, et elle m'a répondu qu'elle balance juste de l'eau dessus. T'imagines avoir des gènes aussi parfaits ?"
 
 # game/3_akarsha.rpy:1571
 translate french reflection_89001933:
 
     # AkarshaT "It's okay, though. I'm over it."
-    AkarshaT "Mais bon, c'est pas grave. Je me suis habituée."
+    AkarshaT "Mais bon, c'est pas grave. J'me suis habituée."
 
 # game/3_akarsha.rpy:1572
 translate french reflection_769eb104:
 
     # AkarshaT "Being ugly builds character."
-    AkarshaT "Etre moche ca forge le caractère."
+    AkarshaT "Être moche, ça forge le caractère."
 
 # game/3_akarsha.rpy:1586
 translate french auditorium_5f2ef79d:
 
     # Akarsha "It's dead quiet in here."
-    Akarsha "C'est le calme plat là dedans."
+    Akarsha "C'est d'un calme plat, là-dedans..."
 
 # game/3_akarsha.rpy:1588
 translate french auditorium_561f3fcc:
 
     # Akarsha "If I farted, you could hear it from a mile away."
-    Akarsha "Si je pétais, tu pourrais l'entendre à 1km."
+    Akarsha "Si j'pétais, tu pourrais l'entendre à 1 km de distance."
 
 # game/3_akarsha.rpy:1591
 translate french auditorium_56f69006:
 
     # Noelle "Please don't."
-    Noelle "S'il te plait non."
+    Noelle "Euh, s'il te plait, retiens-toi."
 
 # game/3_akarsha.rpy:1601
 translate french gymChoice_3c00b6de:
@@ -2482,91 +2482,91 @@ translate french gymChoice_3c00b6de:
 translate french gymChoice_1d086b69:
 
     # "Akarsha's shrieking echoes in the empty hall for several seconds."
-    "Akarsha écoute l'echo de son cri pendant plusieurs secondes."
+    "Akarsha écoute l'écho de son cri pendant plusieurs secondes."
 
 # game/3_akarsha.rpy:1605
 translate french gymChoice_da930e58:
 
     # Akarsha "...Wow, the acoustics in here are great."
-    Akarsha "...Wow, l'accoustique est super bonne ici."
+    Akarsha "...Wow, l’acoustique est super bonne ici."
 
 # game/3_akarsha.rpy:1607
 translate french gymChoice_73cd7e12:
 
     # Noelle "I realize there's nothing I can do to prevent you from doing this, so I will wait outside and pretend not to know you."
-    Noelle "Je réalise que je ne peux rien faire pour t'empêcher de faire ça, donc je vais t'attendre dehors et faire comme si je ne te connaissais pas."
+    Noelle "Je réalise que je peux rien faire pour t'empêcher de faire ça, donc je vais t'attendre dehors et faire comme si je te connaissais pas."
 
 # game/3_akarsha.rpy:1609
 translate french gymChoice_1c2f4ea2:
 
     # "Noelle leaves the auditorium."
-    "Noelle quitte la salle."
+    "Noelle quitte l'auditorium."
 
 # game/3_akarsha.rpy:1614
 translate french gymChoice_92cd80bd:
 
     # Akarsha "SASsssssUKEeeeEEEE!!!!!!" with sshake
-    Akarsha "SASsssssUKEeeeEEEE!!!!!!" with sshake
+    Akarsha "SASsssssUKEeeeEEEE !!!!!" with sshake
 
 # game/3_akarsha.rpy:1623
 translate french beatbox_21a1dea9:
 
     # Akarsha "*beatboxing* Stressed out!"
-    Akarsha "*beatbox* Arrête de stresser!"
+    Akarsha "*en faisant du beatbox* J'suis stressée !"
 
 # game/3_akarsha.rpy:1624
 translate french beatbox_a032ceb8:
 
     # Akarsha "*beatboxing* Stop asking about college!"
-    Akarsha "*beatbox* Arrête de poser des questions sur l'université!"
+    Akarsha "*en faisant du beatbox* Arrête de poser des questions sur l'université !"
 
 # game/3_akarsha.rpy:1625
 translate french beatbox_1a0aee15:
 
     # Akarsha "*beatboxing* Stop asking about majors and my career! Stop asking about my future!"
-    Akarsha "*beatbox* Arrête de poser des questions sur les intellos, sur ma carrière. Arrête de me parler de mon futur."
+    Akarsha "*en faisant du beatbox* Arrête de poser des questions sur mes études et ma carrière ! Arrête de parler de mon futur !"
 
 # game/3_akarsha.rpy:1628
 translate french beatbox_da6f6c06:
 
     # Akarsha "I DON'T KNOW OKAY!! I DON'T KNOW!!!!" with sshake
-    Akarsha "JE NE SAIS PAS D'ACCORD. JE NE SAIS PAS !!!!" with sshake
+    Akarsha "J'SAIS PAS, D'ACCORD ?! J'SAIS PAS !!!!" with sshake
 
 # game/3_akarsha.rpy:1629
 translate french beatbox_ce45d28f:
 
     # Akarsha "I'M NOT GOOD AT ANYTHING!"
-    Akarsha "JE NE SUIS BONNE EN RIEN!"
+    Akarsha "J'SUIS BONNE A RIEN !"
 
 # game/3_akarsha.rpy:1630
 translate french beatbox_89ba91e0:
 
     # Akarsha "I'M A FRAUD! I DON'T KNOW WHAT I'M DOING!! I'M NOT THAT SMART!"
-    Akarsha "JE FAIS SEMBLANT! JE NE SAIS PAS CE QUE JE FAIS!!! JE NE SUIS PAS SI INTELLIGENTE!!!"
+    Akarsha "J'SUIS UNE ESCROC ! J'SAIS PAS CE QUE J'FAIS !!! J'SUIS PAS SI INTELLIGENTE !!!"
 
 # game/3_akarsha.rpy:1631
 translate french beatbox_5d7e248d:
 
     # Akarsha "I'M SO AFRAID OF FAILURE THAT EVERYTHING I DO HAS TO BE FUNNY! BECAUSE IF I'M NOT SERIOUS, IT'S NOT LIKE I WAS REALLY TRYING!"
-    Akarsha "J'AI TELLEMENT PEUR DE TOUT FOIRER QUE JE SUIS OBLIGEE D'EN RIRE! PARCE QUE SI JE NE SUIS PAS SERIEUSE, C'EST COMME SI JE N'ESSAYAIS PAS VRAIMENT."
+    Akarsha "J'AI TELLEMENT PEUR DE TOUT FOIRER QUE TOUT CE QUE JE FAIS DOIT ÊTRE MARRANT ! PARCE QUE SI J'SUIS PAS SÉRIEUSE , C'EST COMME SI J'FAISAIS PAS VRAIMENT D'EFFORT."
 
 # game/3_akarsha.rpy:1632
 translate french beatbox_5a63b2fb:
 
     # Akarsha "I'M SO UNHAPPY!! GOOD THING I DISGUISE IT AS A SERIES OF JOKES SO NO ONE NOTICES THE GAPING CHASM OF DARKNESS I LIVE ON THE EDGE OF!!!"
-    Akarsha "JE SUIS TELLEMENT MALHEUREUSE!! JE CACHE CA AVEC DES BLAGUES COMME CA PERSONNE NE VOIT LE COTE SOMBRE AVEC LEQUEL JE FLIRTE"
+    Akarsha "J'SUIS TELLEMENT MALHEUREUSE !! ENCORE HEUREUX QUE JE LE CACHE AVEC DES BLAGUES, COMME CA PERSONNE NE REMARQUE QUE JE SUIS AU BORD DU GOUFFRE !!!"
 
 # game/3_akarsha.rpy:1633
 translate french beatbox_2bc34cdb:
 
     # Akarsha "I WANNA DIE!!! KILL ME!!!!!"
-    Akarsha "JE VEUX MOURIR !!! TUEZ MOI!!!"
+    Akarsha "J'VEUX MOURIR !!! TUEZ-MOI !!!!!"
 
 # game/3_akarsha.rpy:1638
 translate french beatbox_8071f618:
 
     # Min "What're you doing?"
-    Min "Qu'est ce que tu fous?"
+    Min "Mais tu fous quoi bordel ?"
 
 # game/3_akarsha.rpy:1641
 translate french beatbox_4a9b9a1f:
@@ -2578,19 +2578,19 @@ translate french beatbox_4a9b9a1f:
 translate french beatbox_819d2d4b:
 
     # Akarsha "Why're you here?! Weren't you supposed to be going to the bathroom?"
-    Akarsha "Mais pourquoi t'es là? T'étais pas censée aller aux chiottes?"
+    Akarsha "Mais pourquoi t'es là ? T'étais pas censée aller aux chiottes ?"
 
 # game/3_akarsha.rpy:1645
 translate french beatbox_a336d2b6:
 
     # Min "I was. There's a family bathroom over there."
-    Min "Si si, il y a des chiottes \"famille\" par là bas."
+    Min "Ouais, j'y étais. Y'a des chiottes neutres là-bas."
 
 # game/3_akarsha.rpy:1646
 translate french beatbox_3f65d763:
 
     # "She points to a door at the far end of the auditorium."
-    "Elle montre du doigt le fin fond de la salle."
+    "Elle montre du doigt le fond de la salle."
 
 # game/3_akarsha.rpy:1648
 translate french beatbox_35b135f1:
@@ -2602,13 +2602,13 @@ translate french beatbox_35b135f1:
 translate french beatbox_e5c5eb5b:
 
     # Min "Anyone can use it. It doesn't matter whether you're a boy or girl."
-    Min "Tout le monde peut les utiliser. On s'en tape que tu sois un garçon ou une fille."
+    Min "Tout le monde peut les utiliser. On s'en tape que tu sois un mec ou une meuf."
 
 # game/3_akarsha.rpy:1653
 translate french beatbox_7db5b18b:
 
     # Akarsha "...Right."
-    Akarsha ".... Bien."
+    Akarsha "... Bien."
 
 # game/3_akarsha.rpy:1655
 translate french beatbox_dc547d3a:
@@ -2626,19 +2626,19 @@ translate french beatbox_79c251c2:
 translate french beatbox_2d03e2cd:
 
     # "Min looks relieved that Akarsha let the topic drop."
-    "Min à l'air soulagée qu'Akarsha laisse tomber le sujet."
+    "Min a l'air soulagée qu'Akarsha laisse tomber le sujet."
 
 # game/3_akarsha.rpy:1663
 translate french beatbox_d81e781a:
 
     # Akarsha "So where's Diya?"
-    Akarsha "Et où est Diya?"
+    Akarsha "Alors... elle est où Diya?"
 
 # game/3_akarsha.rpy:1666
 translate french beatbox_69701cb6:
 
     # Min "How should I know? Isn't she with the rest of you guys?"
-    Min "Pourquoi je saurais? Elle est pas avec tout le monde?"
+    Min "Pourquoi j'le saurais ? Elle est pas avec tout le monde ?"
 
 # game/3_akarsha.rpy:1668
 translate french beatbox_ff6c5b7f:
@@ -2656,55 +2656,55 @@ translate french beatbox_1808c769:
 translate french beatbox_be0dbee3:
 
     # Akarsha "Naw man, I'd never actively try to off myself."
-    Akarsha "Nope meuf, jamais j'essaierai de me débarrasser de moi volontairement."
+    Akarsha "Nan meuf, jamais j'essaierai d'me débarrasser de moi volontairement."
 
 # game/3_akarsha.rpy:1675
 translate french beatbox_30f9b75f:
 
     # Akarsha "It's more like...if I was crossing the street and a car came barreling toward me, I'm not sure I'd get out of the way."
-    Akarsha "C'était plutôt du style... Si je traversais la route, et qu'une voiture fonçait vers moi, je ne suis pas certaine de m'en sortir."
+    Akarsha "C'est plutôt genre... si j'traversais la route, et qu'une voiture fonçait vers moi, j'suis pas sûre que je l'éviterais."
 
 # game/3_akarsha.rpy:1678
 translate french beatbox_7b15b2cc:
 
     # Min "Then I'll hit the car out of the way."
-    Min "Alors je buterai la bagnole hors de la route."
+    Min "Alors j'buterai la bagnole hors de la route."
 
 # game/3_akarsha.rpy:1680
 translate french beatbox_acfb14e2:
 
     # Akarsha "You'll...hit it? What?"
-    Akarsha "Tu la... buteras ? Quoi ?"
+    Akarsha "Tu la... buteras ? Hein ?"
 
 # game/3_akarsha.rpy:1683
 translate french beatbox_a5febb10:
 
     # Min "With my own car. I'll ram into the one driving toward you."
-    Min "Avec ma propre caisse. Je percuterai le mec qui fonce vers toi."
+    Min "Avec ma propre caisse. J'défoncerai le mec qui fonce vers toi."
 
 # game/3_akarsha.rpy:1685
 translate french beatbox_1b682d71:
 
     # Akarsha "Your car'll get crushed."
-    Akarsha "Ta voiture sera défoncée."
+    Akarsha "Ta voiture sera niquée."
 
 # game/3_akarsha.rpy:1688
 translate french beatbox_86c75c51:
 
     # Min "No, it won't. My car will be stronger."
-    Min "Nope, elle ne le sera pas. Ma caisse sera plus forte."
+    Min "Trop pas. Ma caisse s'ra plus forte."
 
 # game/3_akarsha.rpy:1690
 translate french beatbox_72cb1a5d:
 
     # Min "You think I'm gonna own some weak shrimpy-ass car?"
-    Min "Tu pensais que j'allais avoir une faiblarde crevette de caisse ?"
+    Min "Tu pensais que j'allais avoir une caisse de faiblard de merde ?"
 
 # game/3_akarsha.rpy:1692
 translate french beatbox_b1e868ad:
 
     # Min "That other car is as good as dead."
-    Min "Cette autre bagnole est aussi bonne que morte."
+    Min "C't'autre bagnole est déjà morte."
 
 # game/3_akarsha.rpy:1695
 translate french beatbox_031765e0:
@@ -2716,7 +2716,7 @@ translate french beatbox_031765e0:
 translate french beatbox_17529efb:
 
     # AkarshaT "She's serious! She'd deadass try to save me by crashing into another car!"
-    AkarshaT "Elle est sérieuse là ! Elle essaierait de me sauver en percutant une autre voiture !"
+    AkarshaT "Elle est sérieuse là ! Elle essaierait carrément de me sauver en percutant une autre voiture !"
 
 # game/3_akarsha.rpy:1698
 translate french beatbox_be70498a:
@@ -2728,7 +2728,7 @@ translate french beatbox_be70498a:
 translate french beatbox_179d5fee:
 
     # "She's holding an emo Linkin Park skateboard under one arm."
-    "Elle tient un skate Linkin Park emo sous son bras."
+    "Elle tient un skate Linkin Park d'émo sous son bras."
 
 # game/3_akarsha.rpy:1701
 translate french beatbox_a4c18a78:
@@ -2740,25 +2740,25 @@ translate french beatbox_a4c18a78:
 translate french beatbox_903a0f32:
 
     # Akarsha "Those aren't allowed at school, you know."
-    Akarsha "C'est pas permis au lycée, tu sais."
+    Akarsha "Ces trucs là sont pas autorisés au lycée, tu sais."
 
 # game/3_akarsha.rpy:1706
 translate french beatbox_3ae36a46:
 
     # Min "Rules are made to be broken."
-    Min "Les règles sont faites pour être enfreintes."
+    Min "Les règles sont faites pour être brisées."
 
 # game/3_akarsha.rpy:1707
 translate french beatbox_c4d4ccad:
 
     # Min "Are you a square or a triangle?"
-    Min "T'es un carré ou un triangle ?"
+    Min "Il faut penser en dehors des chemins."
 
 # game/3_akarsha.rpy:1709
 translate french beatbox_08760b18:
 
     # Akarsha "I'm pretty sure that's not how the saying goes."
-    Akarsha "Je suis quasi sure que ça ne se dit pas comme ça."
+    Akarsha "J'suis quasi sûre que ça se dit pas comme ça."
 
 # game/3_akarsha.rpy:1712
 translate french beatbox_b2579c2a:
@@ -2770,7 +2770,7 @@ translate french beatbox_b2579c2a:
 translate french beatbox_92df6c89:
 
     # Min "Here, I'll show you something cool."
-    Min "Là, j'vais te montrer un truc cool."
+    Min "Viens, j'vais te montrer un truc cool."
 
 # game/3_akarsha.rpy:1728
 translate french beatbox_4364116a:
@@ -2794,7 +2794,7 @@ translate french beatbox_7d4fa8c5:
 translate french beatbox_c1850fa0:
 
     # Min "Don't make this weird."
-    Min "Rends pas le truc chelou."
+    Min "Rends pas l'truc chelou."
 
 # game/3_akarsha.rpy:1738
 translate french beatbox_3429c559:
@@ -2806,7 +2806,7 @@ translate french beatbox_3429c559:
 translate french beatbox_0f4f688a:
 
     # Min "WHAT DID I JUST SAY YOU USELESS HOE?!" with sshake
-    Min "QU'EST-CE QUE JE VIENS DE DIRE CRETINE DE SALOPE !" with sshake
+    Min "J'VIENS DE DIRE QUOI GROSSE SALOPE ?!" with sshake
 
 # game/3_akarsha.rpy:1745
 translate french beatbox_47cfedda:
@@ -2818,19 +2818,19 @@ translate french beatbox_47cfedda:
 translate french beatbox_a8bf3625:
 
     # Akarsha "WE'RE SOARIN...FLYIN..."
-    Akarsha "ON S'ELEVE... ON VOLE..."
+    Akarsha "M'ENVOLER... SANS REGRETS..."
 
 # game/3_akarsha.rpy:1764
 translate french beatbox_746c7336:
 
     # Akarsha "Something something...breaking free..."
-    Akarsha "Quelque chose... mmh... un truc se libère... "
+    Akarsha "NanaNanana... briser mes chaînes... "
 
 # game/3_akarsha.rpy:1765
 translate french beatbox_d3f94c30:
 
     # Min "I haven't watched High School Musical. I don't know the rest of the lyrics."
-    Min "J'ai pas vu cette comédie musicale, j'connais pas les autres paroles."
+    Min "J'ai pas vu High School Musical, j'connais pas les paroles."
 
 # game/3_akarsha.rpy:1766
 translate french beatbox_f698f803:
@@ -2842,25 +2842,25 @@ translate french beatbox_f698f803:
 translate french beatbox_a8bf3625_1:
 
     # Akarsha "WE'RE SOARIN...FLYIN..."
-    Akarsha "ON S'ELEVE... ON VOLE..."
+    Akarsha "M'ENVOLER... SANS REGRETS..."
 
 # game/3_akarsha.rpy:1768
 translate french beatbox_21e01727:
 
     # Min "WE'RE SOARIN...FLYIN..."
-    Min "ON S'ELEVE... ON VOLE..."
+    Min "M'ENVOLER... SANS REGRETS..."
 
 # game/3_akarsha.rpy:1777
 translate french beatbox_876ab6c9:
 
     # Min "Feel better now?"
-    Min "Ca va mieux là ?"
+    Min "Tu t'sens mieux ?"
 
 # game/3_akarsha.rpy:1808
 translate french beatbox_2014b3f8:
 
     # Akarsha "Yeah, I'm fine."
-    Akarsha "Ouais, je vais bien."
+    Akarsha "Ouais, j'vais mieux."
 
 # game/3_akarsha.rpy:1809
 translate french beatbox_c7c9f970:
@@ -2878,7 +2878,7 @@ translate french beatbox_aefecd17:
 translate french beatbox_1e5e58c8:
 
     # AkarshaT "Time to make a joke."
-    AkarshaT "Il est temps de faire une blague."
+    AkarshaT "Temps de faire une blagounette."
 
 # game/3_akarsha.rpy:1815
 translate french beatbox_30c2837f:
@@ -2890,13 +2890,13 @@ translate french beatbox_30c2837f:
 translate french beatbox_c44bf48e:
 
     # Akarsha "$3 bills. They should put my face on it."
-    Akarsha "Des billets de 3 dollars. Ils devraient mettre mon visage dessus."
+    Akarsha "Des billets de 3 dollars. Avec mon visage dessus."
 
 # game/3_akarsha.rpy:1835
 translate french beatbox_f31f7de8:
 
     # "Min ribs her in the arm."
-    "Min la frappe doucement dans son bras."
+    "Min la frappe doucement dans le bras."
 
 # game/3_akarsha.rpy:1837
 translate french beatbox_8e4032d4:
@@ -2908,13 +2908,13 @@ translate french beatbox_8e4032d4:
 translate french beatbox_d3b1e5dd:
 
     # Akarsha "Mean!" with sshake
-    Akarsha "Vache !" with sshake
+    Akarsha "Dur !" with sshake
 
 # game/3_akarsha.rpy:1849
 translate french beatbox_f7306144:
 
     # "Akarsha ribs her back."
-    "Akarsha la frappe délicatement en retour."
+    "Akarsha la frappe en retour."
 
 # game/3_akarsha.rpy:1851
 translate french beatbox_9bdd17ec:
@@ -2926,7 +2926,7 @@ translate french beatbox_9bdd17ec:
 translate french beatbox_c2ad181d:
 
     # AkarshaT "Oops, that was a bit harder than I expected."
-    AkarshaT "Oups, c'était un peu plus fort que ce à quoi je m'attendais !"
+    AkarshaT "Oups, c'était un peu plus fort que c'que je pensais !"
 
 # game/3_akarsha.rpy:1863
 translate french beatbox_9efdb6c8:
@@ -2938,7 +2938,7 @@ translate french beatbox_9efdb6c8:
 translate french beatbox_bbf90e74:
 
     # "Akarsha retaliates by spitting on her own knuckles!"
-    "Akarsha réplique en crachant sur ses doigts !"
+    "Akarsha réplique en crachant sur ses poings !"
 
 # game/3_akarsha.rpy:1866
 translate french beatbox_ce9b0af2:
@@ -2950,7 +2950,7 @@ translate french beatbox_ce9b0af2:
 translate french beatbox_3f4775dc:
 
     # "It turned into a fist fight!"
-    "Ca s'est transformé en combat de poings !"
+    "C'est devenu un combat à mains nues !"
 
 # game/3_akarsha.rpy:1877
 translate french beatbox_4ce519fa:
@@ -2962,7 +2962,7 @@ translate french beatbox_4ce519fa:
 translate french beatbox_8e3fac3e:
 
     # Noelle "Chryssa! Look what they're doing!!!" with sshake
-    Noelle "Chryssa ! Regarde ce qu'elles sont en train de faire !!!" with sshake
+    Noelle "Chryssa ! Regarde ce qu'elles font !!!" with sshake
 
 # game/3_akarsha.rpy:1884
 translate french beatbox_6bcd37df:
@@ -2980,7 +2980,7 @@ translate french beatbox_7075246e:
 translate french beatbox_2336aed8:
 
     # Akarsha "We found both of them."
-    Akarsha "Nous avons trouvé les deux."
+    Akarsha "On a trouvé les deux."
 
 # game/3_akarsha.rpy:1942
 translate french beatbox_be8d0937:
@@ -2992,13 +2992,13 @@ translate french beatbox_be8d0937:
 translate french beatbox_4bb6904f:
 
     # Akarsha "Once again, I'm a hero!"
-    Akarsha "Une fois de plus, je suis une héroïne !"
+    Akarsha "Une fois de plus, c'est moi l'héroïne !"
 
 # game/3_akarsha.rpy:1947
 translate french beatbox_5a0fec90:
 
     # Noelle "YOU'RE NOT A HERO."
-    Noelle "TU N'ES PAS UNE HEROÏNE."
+    Noelle "TU N'ES PAS UNE HÉROÏNE."
 
 # game/3_akarsha.rpy:1949
 translate french beatbox_a0fce640:
@@ -3010,7 +3010,7 @@ translate french beatbox_a0fce640:
 translate french genderNeutral_759a63c8:
 
     # "Akarsha goes into the family bathroom."
-    "Akarsha va dans les toilettes."
+    "Akarsha va dans les toilettes neutres."
 
 # game/3_akarsha.rpy:1997
 translate french genderNeutral_e7226348:
@@ -3022,19 +3022,19 @@ translate french genderNeutral_e7226348:
 translate french genderNeutral_1530ef4e:
 
     # Akarsha "It's so clean?!"
-    Akarsha "C'est tellement propre ?"
+    Akarsha "Mais c'est trop propre ici ?!"
 
 # game/3_akarsha.rpy:2001
 translate french genderNeutral_4d05df8a:
 
     # Akarsha "Where's the pee on the toilet seat?? Where's the poo and blood stains like in the girls bathroom?"
-    Akarsha "Où est la pisse sur la lunette des toilettes ? Où est la merde et les taches de sang comme dans les toilettes des filles ? "
+    Akarsha "Elle est où la pisse sur la lunette des toilettes ?? Elle est où est la merde et les taches de sang comme dans les toilettes des filles ? "
 
 # game/3_akarsha.rpy:2002
 translate french genderNeutral_a15c197f:
 
     # Akarsha "It must be this pristine because no one else knows about it."
-    Akarsha "Personne d'autre ne doit connaître cet endroit, pour qu'il soit si immaculé."
+    Akarsha "Personne d'autre doit connaître cet endroit pour qu'il soit si immaculé."
 
 # game/3_akarsha.rpy:2003
 translate french genderNeutral_8a7ced42:
@@ -3046,7 +3046,7 @@ translate french genderNeutral_8a7ced42:
 translate french akarsha2_696a9703:
 
     # Liz "Finally! Everyone's here."
-    Liz "Enfin ! Tout le monde est ici."
+    Liz "Enfin ! Tout le monde est là."
 
 # game/3_akarsha.rpy:2016
 translate french akarsha2_8c12e3e1:
@@ -3058,25 +3058,25 @@ translate french akarsha2_8c12e3e1:
 translate french akarsha2_cd7d1371:
 
     # Chryssa "[teamName], assemble!"
-    Chryssa "[teamName], regroupez-vous !"
+    Chryssa "[teamName], groupir !"
 
 # game/3_akarsha.rpy:2019
 translate french akarsha2_9765752f:
 
     # "The other team is warming up on the field."
-    "L'autre équipe se chauffe sur le terrain."
+    "L'autre équipe s'échauffe sur le terrain."
 
 # game/3_akarsha.rpy:2024
 translate french akarsha2_4e283631:
 
     # "Two of them break from the rest of the group and rush up to Diya."
-    "Deux d'entre eux se séparent du reste du groupe, et se précipitent sur Diya."
+    "Deux d'entre eux se détachent du reste du groupe et se précipitent vers Diya."
 
 # game/3_akarsha.rpy:2025
 translate french akarsha2_cf2035de:
 
     # "Diya rears back in fear and hides behind Noelle for a moment before she appears to recognize them."
-    "Diya se cabre de peur, et se cache derrière Noelle pendant un instant, avant qu'elle ne semble les reconnaître."
+    "Diya se redresse de peur, et se cache derrière Noelle pendant un instant, avant d'apparemment les reconnaître."
 
 # game/3_akarsha.rpy:2027
 translate french akarsha2_799a9992:
@@ -3094,49 +3094,49 @@ translate french akarsha2_8356b4b2:
 translate french akarsha2_f4738cb7:
 
     # "Diya high fives him with a brutally excessive amount of force. Their palms meet with a deafening clap."
-    "Diya en tape cinq avec une force brutalement excessive. Leurs paumes se rencontrent avec un claquement assourdissant."
+    "Diya lui en tape cinq avec une force extrêmement excessive. Leurs paumes se rencontrent avec un claquement assourdissant."
 
 # game/3_akarsha.rpy:2039
 translate french akarsha2_a28b1f12:
 
     # "The victim swears and flaps the affected hand, as if to shake off the stinging."
-    "La victime jure et secoue sa main affectée, comme pour se débarasser d'une piqûre. "
+    "La victime jure et secoue sa main endolorie, comme pour se débarrasser de la douleur d'une piqûre. "
 
 # game/3_akarsha.rpy:2040
 translate french akarsha2_c28c3102:
 
     # "He's trying valiantly to smile, but there are tears of pain in his eyes."
-    "Il essaie vaillamment de sourire, mais des larmes de douleur coulent de ses yeux. "
+    "Il essaie vaillamment de sourire, mais des larmes de douleur coulent de ses yeux."
 
 # game/3_akarsha.rpy:2042
 translate french akarsha2_640b1101:
 
     # Jun "We made our team accept the match when we heard you were here."
-    Jun "Nous avons fait accepter le match à notre équipe, lorsque nous avions appris que vous étiez ici."
+    Jun "On a fait accepter le match à notre équipe quand on a appris que vous étiez ici."
 
 # game/3_akarsha.rpy:2044
 translate french akarsha2_ada9e989:
 
     # Diya "You look different from Min now. Can't believe this."
-    Diya "T'as l'air différent de Min là. J'arrive pas à y croire."
+    Diya "Tu ressembles plus du tout à Min maintenant. J'arrive pas à y croire."
 
 # game/3_akarsha.rpy:2046
 translate french akarsha2_975c1f4a:
 
     # Jun "Wouldn't it be more unbelievable if we still looked the same after all this time?"
-    Jun "Est-ce que ça ne serait pas plus incroyable si nous étions encore pareils, après tout ce temps ?"
+    Jun "Ca serait pas plus incroyable si on était encore pareils après tout ce temps ?"
 
 # game/3_akarsha.rpy:2047
 translate french akarsha2_8c1f075f:
 
     # "Diya raises her hand for another high five."
-    "Diya lève sa main pour en taper une autre."
+    "Diya lève sa main pour en taper cinq avec Jun."
 
 # game/3_akarsha.rpy:2049
 translate french akarsha2_252a7753:
 
     # Jun "No! No no I don't want it!" with sshake
-    Jun "Non ! Non non, je ne veux pas !" with sshake
+    Jun "Non ! Non non, ça ira !" with sshake
 
 # game/3_akarsha.rpy:2051
 translate french akarsha2_bffed9b1:
@@ -3148,7 +3148,7 @@ translate french akarsha2_bffed9b1:
 translate french akarsha2_dbb4853c:
 
     # Min "We know Hayden from elementary school, and Jun's my twin."
-    Min "On connaît Hayden depuis l'école primaire, et Jun est mon frère jumeau."
+    Min "On connaît Hayden depuis la primaire, et Jun c'est mon frère jumeau."
 
 # game/3_akarsha.rpy:2056
 translate french akarsha2_9c669f37:
@@ -3166,43 +3166,43 @@ translate french akarsha2_649828af:
 translate french akarsha2_1218d463:
 
     # Jun "What're you doing here??"
-    Jun "Qu'est-ce que tu fais là ??"
+    Jun "Mais qu'est-ce que tu fais là ??"
 
 # game/3_akarsha.rpy:2062
 translate french akarsha2_f6fee9b6:
 
     # Min "Same thing as you. Baseball."
-    Min "La même chose que toi. Baseball."
+    Min "La même chose que toi. Du baseball."
 
 # game/3_akarsha.rpy:2064
 translate french akarsha2_e0f085ac:
 
     # Jun "Do Mom and Dad know you're doing this?"
-    Jun "Maman et papa savent que t'en fais ?"
+    Jun "Maman et Papa savent que t'en fais ?"
 
 # game/3_akarsha.rpy:2066
 translate french akarsha2_623b57d1:
 
     # Min "Do you even need to ask?"
-    Min "T'as vraiment besoin de demander ?"
+    Min "T'as vraiment besoin de d'mander ?"
 
 # game/3_akarsha.rpy:2068
 translate french akarsha2_a1097f9b:
 
     # "Jun sighs. He seems really used to this."
-    "Jun soupire. Il a l'air bien habitué à ces répliques."
+    "Jun soupire. Il a l'air bien habitué à ce genre de situation."
 
 # game/3_akarsha.rpy:2088
 translate french akarsha2_7fa7af2b:
 
     # Liz "Now that everyone's here, let's get started."
-    Liz "Maintenant que tout le monde est là, nous pouvons commencer."
+    Liz "Maintenant que tout le monde est là, on peut commencer."
 
 # game/3_akarsha.rpy:2188
 translate french akarsha2_40a79bee:
 
     # AkarshaT "Since we're the home team, we're defending first."
-    AkarshaT "Puisque nous sommes l'équipe d'accueil, nous défendrons les premiers."
+    AkarshaT "Comme on est l'équipe d'accueil, nous défendrons en premier."
 
 # game/3_akarsha.rpy:2197
 translate french akarsha2_cc571e46:
@@ -3220,25 +3220,25 @@ translate french akarsha2_6a9c95ff:
 translate french akarsha2_1b79c489:
 
     # Liz "We have rosin! To help improve your grip."
-    Liz "Nous avons de la colophane ! Pour vous aider à améliorer votre adhérence."
+    Liz "Tiens, de la colophane ! Ça t'aidera à améliorer ton adhérence."
 
 # game/3_akarsha.rpy:2202
 translate french akarsha2_ca5f46e7:
 
     # Min "Wow! Real rosin!!"
-    Min "Waouh ! D'la colophane !"
+    Min "Waouh ! D'la vrai colophane !"
 
 # game/3_akarsha.rpy:2203
 translate french akarsha2_0cc4ce35:
 
     # "Min is so excited that she accidentally inhales a bunch of the powder."
-    "Min est tellement excitée, qu'elle inhale accidentellement de la poudre."
+    "Min est tellement excitée qu'elle inhale accidentellement de la poudre."
 
 # game/3_akarsha.rpy:2205
 translate french akarsha2_ad56e609:
 
     # Min "*cough!!!*{w=0.26} *hack!!!*{w=0.26} *wheeze!!!*" with sshake
-    Min "*éternue !!!*{w=0.26} *tousse sans arrêt !!!*{w=0.26} *respire bruyamment !!!*" with sshake
+    Min "*éternue !!!*{w=0.26} *tousse !!!*{w=0.26} *respire bruyamment !!!*" with sshake
 
 # game/3_akarsha.rpy:2207
 translate french akarsha2_1386c66b:
@@ -3262,13 +3262,13 @@ translate french akarsha2_849468c3:
 translate french akarsha2_62c9f4c0:
 
     # "Hayden is the lead-off hitter."
-    "Hayden est le premier frappeur."
+    "Hayden est le premier batteur."
 
 # game/3_akarsha.rpy:2219
 translate french akarsha2_476d6b2f:
 
     # "Min spits on the ground for dramatic effect."
-    "Min crache sur le sol, pour un effet dramatique."
+    "Min crache sur le sol pour un effet dramatique."
 
 # game/3_akarsha.rpy:2221
 translate french akarsha2_60e73e82:
@@ -3280,7 +3280,7 @@ translate french akarsha2_60e73e82:
 translate french akarsha2_d6c239d5:
 
     # Liz "Min, that's gross. Don't do that again."
-    Liz "Min, c'est dégoûtant. Ne fais plus jamais ça."
+    Liz "Min, c'est dégueu. Fais plus jamais ça."
 
 # game/3_akarsha.rpy:2227
 translate french akarsha2_382d4430:
@@ -3292,49 +3292,49 @@ translate french akarsha2_382d4430:
 translate french akarsha2_7a384c23:
 
     # "As an afterthought, she points her index finger down at the ground. Min smugly nods back and straightens up on the mound."
-    "Après coup, elle pointe son index vers le sol. Min secoue la tête en arrière, et se redresse sur le monticule."
+    "Après coup, elle pointe son index vers le sol. Min acquiesce et se redresse sur le monticule."
 
 # game/3_akarsha.rpy:2230
 translate french akarsha2_c8193470:
 
     # Liz "Since when do you two have signs?"
-    Liz "Depuis quand avez-vous vos propres signaux, vous deux ? "
+    Liz "Depuis quand vous avez vos propres signaux, vous deux ? "
 
 # game/3_akarsha.rpy:2232
 translate french akarsha2_961be24c:
 
     # Min "Oh, they don't mean anything."
-    Min "Oh, ils ne veulent rien dire."
+    Min "Oh, ils veulent rien dire."
 
 # game/3_akarsha.rpy:2234
 translate french akarsha2_b65f6f03:
 
     # Min "We're just doing it because it looks cool."
-    Min "On fait ça, juste parce que c'est cool."
+    Min "On fait ça juste parce que c'est cool."
 
 # game/3_akarsha.rpy:2241
 translate french akarsha2_1c738fc6:
 
     # "Min winds up and throws."
-    "Min s'enroule et jette la balle."
+    "Min se cambre et jette la balle."
 
 # game/3_akarsha.rpy:2242
 translate french akarsha2_ef8e1154:
 
     # "The ball comes in chest high, perfectly spinless. If someone had written a message on it, you could read it."
-    "La balle arrive à hauteur de poitrine, parfaitement, sans rotation. Si quelqu'un avait écrit un message sur elle, il serait tout à fait possible de le lire."
+    "La balle arrive vers le haut de la poitrine du batteur, sans aucune rotation. Si quelqu'un avait écrit un message dessus, il serait tout à fait possible de le lire."
 
 # game/3_akarsha.rpy:2245
 translate french akarsha2_225ec78f:
 
     # "Then it does what looks like a double dip and drops into Diya's glove."
-    "La balle tombe ensuite comme un double plongeon et tombe dans le gant de Diya."
+    "La balle fait ensuite comme un double plongeon et tombe dans le gant de Diya."
 
 # game/3_akarsha.rpy:2246
 translate french akarsha2_afc4fddc:
 
     # "Hayden swings at it, but he's way off."
-    "Hayden se lance, mais il est très loin."
+    "Hayden balance sa batte, mais rate totalement."
 
 # game/3_akarsha.rpy:2251
 translate french akarsha2_f45d0205:
@@ -3346,19 +3346,19 @@ translate french akarsha2_f45d0205:
 translate french akarsha2_85f1a1d2:
 
     # Jun "Was the scream really necessary?"
-    Jun "Est-ce que le cri était vraiment nécessaire ?"
+    Jun "C'était vraiment nécessaire ce cri ?"
 
 # game/3_akarsha.rpy:2261
 translate french akarsha2_19142ae1:
 
     # "Hayden manages to skim the next pitch. It bounces up about an inch above the bat and plops down in front of the plate."
-    "Hayden parvient à réaliser le lancer suivant. La balle bondit quelques centimètres au dessus du bâton, et atterrit devant le marbre."
+    "Hayden parvient à effleurer le lancer suivant. La balle bondit quelques centimètres au dessus de la batte, et atterrit devant le marbre."
 
 # game/3_akarsha.rpy:2262
 translate french akarsha2_bd6f9cb7:
 
     # "Diya pounces on it and throws him out."
-    "Diya se jette dessus, et l'éjecte dehors."
+    "Diya se jette dessus et l'éjecte dehors."
 
 # game/3_akarsha.rpy:2264
 translate french akarsha2_ae68ce54:
@@ -3370,31 +3370,31 @@ translate french akarsha2_ae68ce54:
 translate french akarsha2_099dd45a:
 
     # Jun "A knuckleball. It's like a trick pitch."
-    Jun "Une balle papillon. C'est comme lancer astucieux."
+    Jun "Une balle papillon. C'est genre, un lancer vicieux."
 
 # game/3_akarsha.rpy:2268
 translate french akarsha2_5eb882f2:
 
     # Hayden "I don't trust it."
-    Hayden "Je n'y crois pas."
+    Hayden "J'y crois pas."
 
 # game/3_akarsha.rpy:2269
 translate french akarsha2_c8f85582:
 
     # Hayden "Cursed."
-    Hayden "Maudit."
+    Hayden "Malédiction."
 
 # game/3_akarsha.rpy:2271
 translate french akarsha2_3a096eb5:
 
     # Jun "It's not cursed. It's like that because of physics."
-    Jun "C'est pas de la malédiction. C'est comme ça, à cause de la physique."
+    Jun "C'est pas une malédiction. C'est de la physique."
 
 # game/3_akarsha.rpy:2273
 translate french akarsha2_e59f36d6:
 
     # Hayden "...Cursed."
-    Hayden "... Maudit."
+    Hayden "... Malédiction."
 
 # game/3_akarsha.rpy:2277
 translate french akarsha2_549316e5:
@@ -3412,7 +3412,7 @@ translate french akarsha2_1a4f19b5:
 translate french akarsha2_28aac3ff:
 
     # Chryssa "See! I told you I wasn't making it up!"
-    Chryssa "Tu vois ! Je vous ai dit que je n'inventais pas !"
+    Chryssa "Vous voyez ! Je vous l'avais dit que j'inventais rien !"
 
 # game/3_akarsha.rpy:2282
 translate french akarsha2_f8b3393c:
@@ -3424,13 +3424,13 @@ translate french akarsha2_f8b3393c:
 translate french akarsha2_e4f8ef03:
 
     # Chryssa "Come on!"
-    Chryssa "Voyons !"
+    Chryssa "Nan mais sérieusement !"
 
 # game/3_akarsha.rpy:2287
 translate french akarsha2_12975eb3:
 
     # "The next batter swings helplessly at three knucklers and sits down."
-    "Le lanceur suivant frappe, impuissant, les trois balles papillon, puis s'assoit."
+    "Le batteur suivant rate, impuissant, les trois balles papillon, puis s'assoit."
 
 # game/3_akarsha.rpy:2291
 translate french akarsha2_a37b6363:
@@ -3442,7 +3442,7 @@ translate french akarsha2_a37b6363:
 translate french akarsha2_62f05f4c:
 
     # "Min winds up and lets another knuckler go."
-    "Min s'enroule et envoie une autre balle papillon."
+    "Min se cambre et envoie une autre balle papillon."
 
 # game/3_akarsha.rpy:2299
 translate french akarsha2_9fef7740:
@@ -3460,13 +3460,13 @@ translate french akarsha2_edad1e57:
 translate french akarsha2_cdaa3e9b:
 
     # AkarshaT "I can't reach it with my hand!"
-    AkarshaT "Je ne peux pas l'atteindre avec ma main !'"
+    AkarshaT "J'peux pas l'atteindre avec ma main !"
 
 # game/3_akarsha.rpy:2322
 translate french akarsha2_f33b24f0:
 
     # "Akarsha kicked the ball!"
-    "Akarsha frappe la balle !"
+    "Akarsha donne un coup de pied à la balle !"
 
 # game/3_akarsha.rpy:2324
 translate french akarsha2_829f2e0d:
@@ -3484,25 +3484,25 @@ translate french akarsha2_c0610b0f:
 translate french akarsha2_0a37d233:
 
     # Min "You fucking dumbass!! Why didn't you just catch it?!"
-    Min "Putain de conne !! Pourquoi tu l'as pas attrapé ?"
+    Min "Putain de débile !! Pourquoi tu l'as pas attrapée ?!"
 
 # game/3_akarsha.rpy:2331
 translate french akarsha2_36668392:
 
     # Sumi "Don't mind!"
-    Sumi "Ne fais pas gaffe !"
+    Sumi "Don't mind !"
 
 # game/3_akarsha.rpy:2333
 translate french akarsha2_3bc705ee:
 
     # Min "What?"
-    Min "Quoi ?"
+    Min "Hein ?"
 
 # game/3_akarsha.rpy:2335
 translate french akarsha2_50991441:
 
     # Sumi "Don't mind. They say that in sport anime when someone screws up."
-    Sumi "Fais pas gaffe. Ils disent ça quand quelqu'un chie dans la colle, dans les anime sportifs."
+    Sumi "Don't mind. Ils disent ça quand quelqu'un chie dans la colle, dans les anime sportifs."
 
 # game/3_akarsha.rpy:2337
 translate french akarsha2_a35ccade:
@@ -3520,43 +3520,43 @@ translate french akarsha2_26c0377b:
 translate french akarsha2_f433dc12:
 
     # Ester "We're already called Semes! How much more are we gonna embarrass ourselves?!"
-    Ester "On s'appelle déjà les Semes ! A quel point allons-nous nous embarrasser davantage ?!"
+    Ester "On s'appelle déjà les Semes ! A quel point on va encore s'embarrasser ?!"
 
 # game/3_akarsha.rpy:2344
 translate french akarsha2_26c76147:
 
     # Liz "Don't be rude. We should support our teammates' interests."
-    Liz "Ne sois pas insolente. On devrait soutenir les intérêts de l'équipe."
+    Liz "Sois pas désobligeante. Il faut qu'on soutienne les centres d'intérêts de l'équipe."
 
 # game/3_akarsha.rpy:2346
 translate french akarsha2_13b5f35e:
 
     # Ester "At what cost?!"
-    Ester "A quel coût ?!"
+    Ester "Mais à quel prix ?!"
 
 # game/3_akarsha.rpy:2350
 translate french akarsha2_935fba8f:
 
     # "The ball bounces back toward home plate. Diya scoops up the ball and hurls it to first."
-    "La balle rebondit vers le marbre. Diya ramasse la basse, et la lance au premier."
+    "La balle rebondit vers le marbre. Diya la ramasse, et la lance à la première base."
 
 # game/3_akarsha.rpy:2352
 translate french akarsha2_1d3f7afe:
 
     # NPC "Out!"
-    NPC "RETRAIT !"
+    NPC "Out !"
 
 # game/3_akarsha.rpy:2354
 translate french akarsha2_824fdc7d:
 
     # Liz "What the! That actually worked!"
-    Liz "Mais non! Ca a vraiment marché!"
+    Liz "Hein mais ?! Ca a vraiment marché !"
 
 # game/3_akarsha.rpy:2356
 translate french akarsha2_a9d53cb0:
 
     # Akarsha "Yes!! I'm a certified genius!"
-    Akarsha "Oui !! Je suis définitivement un génie."
+    Akarsha "Oui !! J'suis une génie confirmée."
 
 # game/3_akarsha.rpy:2357
 translate french akarsha2_01641ec5:
@@ -3568,43 +3568,43 @@ translate french akarsha2_01641ec5:
 translate french akarsha2_59557b81:
 
     # Noelle "You're not getting a Nobel Prize for kicking a ball instead of catching it the right way."
-    Noelle "Tu ne vas pas avoir de prix Nobel pour avoir tapé une balle plutôt que de la rattraper normalement."
+    Noelle "On reçoit pas un prix Nobel pour avoir frappé une balle au lieu de la rattraper de la bonne manière."
 
 # game/3_akarsha.rpy:2373
 translate french akarsha2_e0398057:
 
     # Ester "Aw, we don't have real dugouts? There's just a little bench for each side."
-    Ester "Ho, on a pas de vrai abris de touche ? Il y a juste un petit banc pour chaque équipe."
+    Ester "Meeeh, on a pas de vrais abris de touche ? Y'a juste un petit banc pour chaque côté."
 
 # game/3_akarsha.rpy:2375
 translate french akarsha2_62398159:
 
     # Liz "What were you expecting? The school doesn't have an official baseball team, so we're lucky to even have this."
-    Liz "Qu'est ce que tu t'imaginais? L'école n'a pas d'équipe de baseball officielle, donc on a même de la chance d'avoir des bancs déjà."
+    Liz "Tu t'imaginais quoi ? Le lycée a même pas d'équipe de baseball officielle, alors on a déjà de la chance d'avoir des bancs."
 
 # game/3_akarsha.rpy:2377
 translate french akarsha2_025b6456:
 
     # Chryssa "I never got why dugouts need to be half underground like that."
-    Chryssa "Je n'ai jamais su pourquoi les abris avant besoin d'être en contrebas comme ca."
+    Chryssa "J'ai jamais compris pourquoi les abris avaient besoin d'être en contrebas comme ça."
 
 # game/3_akarsha.rpy:2378
 translate french akarsha2_6b52220d:
 
     # Chryssa "Like, it's not a freakin' bomb shelter. Stop being so dramatic."
-    Chryssa "C'est pas un abri anti atomique non plus. Arrêtes d'être aussi dramatique."
+    Chryssa "Genre, y'a pas besoin d'en faire un abri antiatomique non plus hein. Faut arrêter le drama."
 
 # game/3_akarsha.rpy:2381
 translate french akarsha2_5ad00257:
 
     # "The team takes a seat on the bench except Diya, who's still taking off the catcher's gear."
-    "L'équipe s'installe sur le banc, sauf Diya, qui était encore en train de retirer son équipement de receveur."
+    "L'équipe s'installe sur le banc, sauf Diya qui retire encore son équipement de receveur."
 
 # game/3_akarsha.rpy:2383
 translate french akarsha2_4d460c99:
 
     # "The [teamName] take their seats on the bench except Diya, who's still taking off the catcher's gear."
-    "[teamName] s'installe sur le banc, sauf Diya, qui était encore en train de retirer son équipement de receveur."
+    "[teamName] s'installe sur le banc, sauf Diya qui retire encore son équipement de receveur."
 
 # game/3_akarsha.rpy:2398
 translate french akarsha2_86b00aab:
@@ -3616,61 +3616,61 @@ translate french akarsha2_86b00aab:
 translate french akarsha2_402434f4:
 
     # "Left standing, Diya hovers uncertainly beside them."
-    "Restée debout, Diya se tient de manière incertaine avec elle."
+    "Restée debout, Diya se tient avec incertitude à côté des autres."
 
 # game/3_akarsha.rpy:2401
 translate french akarsha2_cad52ab9:
 
     # Diya "There's not enough room."
-    Diya "Il n'y a pas assez de pièces."
+    Diya "Y'a pas assez de place."
 
 # game/3_akarsha.rpy:2403
 translate french akarsha2_460a0e5e:
 
     # Min "Then you can sit in my lap."
-    Min "Tu peux t'assoir sur mes genoux."
+    Min "Alors tu peux t'asseoir sur mes genoux."
 
 # game/3_akarsha.rpy:2405
 translate french akarsha2_6276c5a5:
 
     # Diya "................"
-    Diya "............"
+    Diya "................"
 
 # game/3_akarsha.rpy:2408
 translate french akarsha2_84bcfe52:
 
     # Akarsha "Shouldn't it be the other way around?"
-    Akarsha "Ca devrait être plutôt l'inverse?"
+    Akarsha "Ca devrait plutôt être l'inverse, nan ?"
 
 # game/3_akarsha.rpy:2411
 translate french akarsha2_0d89f5a4:
 
     # Min "Why the hell would it be the other way around?"
-    Min "Et pourquoi putain de merde?"
+    Min "Et pourquoi ça putain de merde?"
 
 # game/3_akarsha.rpy:2413
 translate french akarsha2_bf908654:
 
     # Akarsha "You're the smaller one??"
-    Akarsha "Parce que t'es la plus petite??"
+    Akarsha "Bah parce que t'es la plus petite??"
 
 # game/3_akarsha.rpy:2421
 translate french akarsha2_093c4404:
 
     # Akarsha "OW??!" with sshake
-    Akarsha "OH??" with sshake
+    Akarsha "AÏE ??!" with sshake
 
 # game/3_akarsha.rpy:2423
 translate french akarsha2_57782484:
 
     # "Min kicked Akarsha really hard under the bench!"
-    "Min frappe Akarsha très fort sous le banc!"
+    "Min frappe Akarsha très fort sous le banc !"
 
 # game/3_akarsha.rpy:2424
 translate french akarsha2_5c79a351:
 
     # "Diya and Noelle both startle at Akarsha's yelp. Neither of them saw the kick."
-    "Diya et Noelle sursautent toutes les deux au cri d'Akarsha. Aucun d'eux n'a vu le coup de pied."
+    "Diya et Noelle sursautent toutes les deux au cri d'Akarsha. Aucune d'elle n'a vu le coup de pied."
 
 # game/3_akarsha.rpy:2426
 translate french akarsha2_f5b40de9:
@@ -3682,19 +3682,19 @@ translate french akarsha2_f5b40de9:
 translate french akarsha2_475de7bd:
 
     # Noelle "What's wrong with you?"
-    Noelle "C'est quoi ton problème?"
+    Noelle "Mais qu'est-ce qui t'arrive encore ?"
 
 # game/3_akarsha.rpy:2430
 translate french akarsha2_cd2045ac:
 
     # Min "............."
-    Min "........."
+    Min "............."
 
 # game/3_akarsha.rpy:2432
 translate french akarsha2_88e63f5f:
 
     # AkarshaT "She's glaring at me with a murderous look in her eyes..."
-    AkarshaT "Elle me regarde avec un regard meurtrier..."
+    AkarshaT "Elle me regarde avec un air meurtrier..."
 
 # game/3_akarsha.rpy:2434
 translate french akarsha2_59037bfe:
@@ -3706,7 +3706,7 @@ translate french akarsha2_59037bfe:
 translate french akarsha2_8ddbf5ed:
 
     # Akarsha "I was trying to cover up the sound."
-    Akarsha "J'essayais de couvrir le son."
+    Akarsha "J'essayais de couvrir le bruit."
 
 # game/3_akarsha.rpy:2438
 translate french akarsha2_bb188d77:
@@ -3718,13 +3718,13 @@ translate french akarsha2_bb188d77:
 translate french akarsha2_e3d09156:
 
     # AkarshaT "Crap. I don't think she buys it."
-    AkarshaT "Merde. Je pense qu'elle va pas y croire."
+    AkarshaT "Merde. J'pense pas qu'elle va pas y croire."
 
 # game/3_akarsha.rpy:2442
 translate french akarsha2_13f8f2f9:
 
     # Noelle "That's inconsistent with your past behavior."
-    Noelle "Ce n'est pas très cohérent avec tes précédents agissements."
+    Noelle "C'est pas cohérent avec ton comportement passé."
 
 # game/3_akarsha.rpy:2443
 translate french akarsha2_26511cf2:
@@ -3736,7 +3736,7 @@ translate french akarsha2_26511cf2:
 translate french akarsha2_5556379d:
 
     # Noelle "Why go through such lengths to mask a single fart now?"
-    Noelle "Ducoup, pourquoi passer autant de temps à cacher un simple pet maintenant?"
+    Noelle "Du coup, pourquoi faire tout ça maintenant juste pour cacher un simple pet ?"
 
 # game/3_akarsha.rpy:2445
 translate french akarsha2_a43ba400:
@@ -3754,19 +3754,19 @@ translate french akarsha2_2e73da2d:
 translate french akarsha2_5b8ffb3d:
 
     # Akarsha "*bloodcurdling scream*" with sshake
-    Akarsha "*cri sanglant*" with sshake
+    Akarsha "*cri à glacer le sang*" with sshake
 
 # game/3_akarsha.rpy:2454
 translate french akarsha2_aaeb990e:
 
     # Noelle "SHUT UP!!! STOP SCREAMING!!!" with sshake
-    Noelle "LA FERME!!!! ARRETE DE CRIER!!!!" with sshake
+    Noelle "MAIS TA GUEULE !!! ARRÊTE DE CRIER !!!" with sshake
 
 # game/3_akarsha.rpy:2456
 translate french akarsha2_0b4816ed:
 
     # Min "You're screaming too."
-    Min "Tu cries aussi."
+    Min "Tu cries aussi, là."
 
 # game/3_akarsha.rpy:2458
 translate french akarsha2_3fa76ed8:
@@ -3778,55 +3778,55 @@ translate french akarsha2_3fa76ed8:
 translate french akarsha2_af71438c:
 
     # "Min immediately wraps an arm around Diya's waist."
-    "Min tends immédiatement le bras autour de Diya."
+    "Min enveloppe immédiatement Diya dans son bras."
 
 # game/3_akarsha.rpy:2461
 translate french akarsha2_93212e9d:
 
     # Diya "............."
-    Diya "..........."
+    Diya "............."
 
 # game/3_akarsha.rpy:2463
 translate french akarsha2_345de730:
 
     # Min "I have to do this so we don't lose our balance!"
-    Min "Je suis obligée de faire ca sinon on va perdre notre équilibre."
+    Min "J'suis obligée de faire ça, sinon on va perdre notre équilibre."
 
 # game/3_akarsha.rpy:2464
 translate french akarsha2_975d85f8:
 
     # Min "Yeah!!!!!!" with sshake
-    Min "Ouais!!!!" with sshake
+    Min "Ouais !!!!!!" with sshake
 
 # game/3_akarsha.rpy:2467
 translate french akarsha2_5076e967:
 
     # Akarsha "Better watch out, Diya. Min's probably thinking about doing bad things to you."
-    Akarsha "Fais gaffe, Diya. Min songe probablement à te faire de mauvaises choses."
+    Akarsha "Fais gaffe, Diya. Min envisage probablement de te faire de vilaines choses."
 
 # game/3_akarsha.rpy:2470
 translate french akarsha2_712fab24:
 
     # Min "I wanna do bad things to you, Akarsha."
-    Min "Je vais te faire du mal à toi, Akarsha."
+    Min "C'est à toi que j'vais faire de vilaines choses, Akarsha."
 
 # game/3_akarsha.rpy:2472
 translate french akarsha2_22b6e509:
 
     # Akarsha "Really?? Like what?"
-    Akarsha "Vraiment ?? Comme quoi?"
+    Akarsha "Ah, vraiment ?? Comme quoi?"
 
 # game/3_akarsha.rpy:2475
 translate french akarsha2_8f6216bb:
 
     # Min "Like snap your fucking neck."
-    Min "Comme claquer ta nuque."
+    Min "Comme briser ta nuque."
 
 # game/3_akarsha.rpy:2477
 translate french akarsha2_9766ded6:
 
     # Akarsha "How mean!!!"
-    Akarsha "Tellement méchante!!!!"
+    Akarsha "Comme c'est vilain !!!"
 
 # game/3_akarsha.rpy:2497
 translate french akarsha2_70a55e7f:
@@ -3844,25 +3844,25 @@ translate french akarsha2_474fa72c:
 translate french akarsha2_ee1df9a9:
 
     # "His throws look a lot faster than Min's. He strikes Ester out with ease."
-    "Ses lancers semblent beaucoup plus rapides que ceux de Min. Il élimine Ester avec facilité."
+    "Ses lancers semblent beaucoup plus rapides que ceux de Min. Il élimine Ester avec aisance."
 
 # game/3_akarsha.rpy:2502
 translate french akarsha2_1d3f7afe_1:
 
     # NPC "Out!"
-    NPC "Out!"
+    NPC "Out !"
 
 # game/3_akarsha.rpy:2505
 translate french akarsha2_f705ab11:
 
     # "Liz is keeping score with a pencil and paper. She dutifully marks the strikeout with a \"K.\""
-    "Liz marque le score avec un papier et un crayon. Elle note consciencieusement l'élimination par un \"B\""
+    "Liz suit le score avec un papier et un crayon. Elle note consciencieusement l'élimination par un \"B.\""
 
 # game/3_akarsha.rpy:2507
 translate french akarsha2_c9cf96b9:
 
     # Noelle "Why isn't a strikeout S or SO? Why K?"
-    Noelle "Pourquoi tu ne mets pas un E ? Pourquoi un B?"
+    Noelle "Pourquoi tu ne mets pas un S pour \"sortie\" ? Pourquoi un B ?"
 
 # game/3_akarsha.rpy:2509
 translate french akarsha2_26c027a7:
@@ -3874,13 +3874,13 @@ translate french akarsha2_26c027a7:
 translate french akarsha2_a39bbcc5:
 
     # Noelle "That can't be it."
-    Noelle "Ca ne peut pas être ca."
+    Noelle "Ca peut pas être ça."
 
 # game/3_akarsha.rpy:2513
 translate french akarsha2_fa7b3f22:
 
     # Liz "It's because S is already used for sacrifice."
-    Liz "Le E est déjà utilisé pour Envoi."
+    Liz "Le S est déjà utilisé pour sacrifice."
 
 # game/3_akarsha.rpy:2514
 translate french akarsha2_054eba91:
@@ -3892,13 +3892,13 @@ translate french akarsha2_054eba91:
 translate french akarsha2_5fdd4013:
 
     # Sumi "That's a lame reason."
-    Sumi "C'est une raison boiteuse."
+    Sumi "C'est bancal."
 
 # game/3_akarsha.rpy:2518
 translate french akarsha2_0017b9e4:
 
     # Akarsha "Agreed. I like Min's reason better."
-    Akarsha "C'est vrai. Je préfère l'explication de Min."
+    Akarsha "J'avoue. J'préfère l'explication de Min."
 
 # game/3_akarsha.rpy:2524
 translate french akarsha2_54e32a4e:
@@ -3916,79 +3916,79 @@ translate french akarsha2_84bb50ff:
 translate french akarsha2_966cce60:
 
     # Hayden " I got it!"
-    Hayden "Je l'ai!"
+    Hayden "J'ai !"
 
 # game/3_akarsha.rpy:2532
 translate french akarsha2_42e7b5d4:
 
     # "He chases the ball into foul territory and dives for it."
-    "il poursuit la balle en territoire ennemie et plonge pour l'avoir."
+    "Il poursuit la balle en territoire ennemi et plonge pour l'avoir."
 
 # game/3_akarsha.rpy:2535
 translate french akarsha2_1d3f7afe_2:
 
     # NPC "Out!"
-    NPC "Out!"
+    NPC "Out !"
 
 # game/3_akarsha.rpy:2542
 translate french akarsha2_43bb0b1d:
 
     # Akarsha "This situation sucks. If we were even able to get to first base, we could steal or do some weird shit, but nope..."
-    Akarsha "Cette situation pue du cul. Si on arrive à atteindre la première base, on pourrait tenter un but volé, ou faitre un truc chelou, mais non..."
+    Akarsha "Cette situation pue du cul. Si encore on arrivait à atteindre la première base, on pourrait tenter de voler une base, ou un autre truc bien chelou, mais non..."
 
 # game/3_akarsha.rpy:2545
 translate french akarsha2_c8ab1d80:
 
     # Noelle "Actually, I did some research on that. In most cases, attempting to steal has a much higher chance of having a negative result than a positive one."
-    Noelle "En fait, j'ai fait quelques recherches là dessus. Dans la plupart des cas, essayer de faire un but volé a plus de probabilité d'avoir un impact négatif que positif."
+    Noelle "En fait, j'ai fait quelques recherches là-dessus. Dans la plupart des cas, essayer de voler une base a plus de probabilités d'avoir un impact négatif que positif."
 
 # game/3_akarsha.rpy:2546
 translate french akarsha2_4829fd86:
 
     # Noelle "Since most of us aren't that confident in our stealing skills, it would be better for us not to try it."
-    Noelle "Et puisque la plupart d'entre nous n'est pas à l'aise avec ce coup, il serait préférable d'éviter d'essayer."
+    Noelle "Et comme la plupart d'entre nous sommes pas à l'aise avec ce coup, ça serait préférable d'éviter d'essayer."
 
 # game/3_akarsha.rpy:2548
 translate french akarsha2_fff43daa:
 
     # Min "What the hell are you saying? Stealing is important."
-    Min "Putain mais qu'est ce que tu racontes? Voler c'est super important."
+    Min "Putain mais qu'est ce que tu racontes ? Voler c'est super important."
 
 # game/3_akarsha.rpy:2550
 translate french akarsha2_af953cc4:
 
     # Noelle "No, it objectively has little value and is often actually detrimental."
-    Noelle "Non, cela a objectivement peu de valeur et est souvent, en fait, préjudiciable."
+    Noelle "Non, ça a objectivement peu de valeur et c'est souvent préjudiciable, en fait."
 
 # game/3_akarsha.rpy:2551
 translate french akarsha2_f257ca24:
 
     # Noelle "For steal attempts to be NOT detrimental, you have to succeed around 70 percent of the time. That's the point where you break even."
-    Noelle "Pour que les tentatives de vol ne soit PAS préjudiciable, tu dois réussir plus de 70%% du temps. C'est à ce moment la que tu atteints le seuil de rentabilité."
+    Noelle "Pour que les tentatives de vol ne soient PAS préjudiciables, tu dois réussir environ plus de 70 pourcent du temps. C'est à ce moment là que t'atteins le seuil de rentabilité."
 
 # game/3_akarsha.rpy:2552
 translate french akarsha2_679269e6:
 
     # Noelle "The exact number depends on the situation, but it's always around that range."
-    Noelle "Le chiffre exact dépend de chaque situation, mais c'est toujours autour de ce chiffre."
+    Noelle "Le nombre exact dépend de chaque situation, mais c'est toujours dans à peu près ça."
 
 # game/3_akarsha.rpy:2553
 translate french akarsha2_611be636:
 
     # Noelle "For instance, for a runner on first with no outs, getting caught stealing will lose a team two-thirds of a run, on average, and a successful steal gains a third of a run."
-    Noelle "Par exemple, pour un coureur à la première base sans Out, se faire prendre en train de voler fera perdre à l'équipe les deux tiers d'un tour, en moyenne, et un vol réussi en gagnera un tiers."
+    Noelle "Par exemple, pour un coureur à la première base sans sortie : se faire prendre en train de voler fera perdre à l'équipe les deux tiers d'un tour, en moyenne, et un vol réussi en gagnera un tiers."
 
 # game/3_akarsha.rpy:2554
 translate french akarsha2_cb5b4cbd:
 
     # Noelle "So for every three steal attempts, you need to convert at least two, or the only thing you're stealing is runs from your team."
-    Noelle "Donc pour chaque essai de vol, tu as besoin d'en convertir au  moins deux, sinon, la seule chose que tu vas voler, c'est des tours à ton équipe."
+    Noelle "Donc pour chaque essai de vol, t'as besoin d'en convertir au moins deux, sinon, la seule chose que tu vas voler, c'est des tours à ton équipe."
 
 # game/3_akarsha.rpy:2555
 translate french akarsha2_50a110cb:
 
     # Noelle "Do you succeed that often? If not, you are actually hurting the team's chances."
-    Noelle "Tu reussis aussi souvent? Si non, tu viens entraver les chances de ton équipe."
+    Noelle "Tu penses réussir aussi souvent ? Si c'est pas le cas, t'es en fait en train d'entraver les chances de l'équipe."
 
 # game/3_akarsha.rpy:2557
 translate french akarsha2_e3c5653e:
@@ -4000,19 +4000,19 @@ translate french akarsha2_e3c5653e:
 translate french akarsha2_a40bef14:
 
     # Min "Shut your hell up, you...lamp post!"
-    Min "Fermez vos gueules bande de... lampadaires!"
+    Min "Ferme ta gueule espèce de... lampadaire !"
 
 # game/3_akarsha.rpy:2561
 translate french akarsha2_b9ab5849:
 
     # Akarsha "Shut your hell up..."
-    Akarsha "Fermez vos gueules bande de... "
+    Akarsha "Ferme ta gueule espèce de..."
 
 # game/3_akarsha.rpy:2564
 translate french akarsha2_9fce13df:
 
     # Noelle "Lamp post..."
-    Noelle "Lampadaires...."
+    Noelle "Lampadaire...."
 
 # game/3_akarsha.rpy:2566
 translate french akarsha2_170e80ee:
@@ -4030,13 +4030,13 @@ translate french akarsha2_20127819:
 translate french akarsha2_f51fb149:
 
     # "She uses a stick to scratch a formula into the dirt:\nSBP = SB(SB+CS) x 100%%"
-    "Elle utilise un baton pour dessiner une formule dans la poussière: \nSBP = SB(SB+CS) x 100%%"
+    "Elle utilise un bâton pour dessiner une formule dans la terre: \nSBP = SB(SB+CS) x 100%%"
 
 # game/3_akarsha.rpy:2572
 translate french akarsha2_43a6edf4:
 
     # "Min quickly stomps out the formula."
-    "Min efface rapidement la formule"
+    "Min efface rapidement la formule."
 
 # game/3_akarsha.rpy:2573
 translate french akarsha2_d6f866d3:
@@ -4048,7 +4048,7 @@ translate french akarsha2_d6f866d3:
 translate french akarsha2_e2ce966b:
 
     # Min "Those equations are just a bunch of word games. They're not real."
-    Min "Ces equations sont juste un tas de jeux de mots. C'est pas du vrai."
+    Min "Ces équations c'est juste un tas de jeux de mots. Rien de réel."
 
 # game/3_akarsha.rpy:2577
 translate french akarsha2_333ae1e5:
@@ -4066,25 +4066,25 @@ translate french akarsha2_9e749706:
 translate french akarsha2_5cae5833:
 
     # Min "There are things you can't see!"
-    Min "Il y des choses que tu ne peux pas voir!"
+    Min "Y'a des choses que tu peux pas voir !"
 
 # game/3_akarsha.rpy:2582
 translate french akarsha2_1e94e2df:
 
     # Noelle "Like what? Your feelings? The power of friendship?"
-    Noelle "Comme quoi? Tes sentiments? Le pouvoir de l'amitié?"
+    Noelle "Comme quoi ? Tes sentiments ? Le pouvoir de l'amitié ?"
 
 # game/3_akarsha.rpy:2583
 translate french akarsha2_2d98443f:
 
     # Noelle "Does it not occur to you that perhaps your enemies have those things too?"
-    Noelle "Tu ne te dis pas que, peut être, tes ennemis pourraient avoir ces choses la aussi?"
+    Noelle "Tu ne te dis pas que, peut être, tes adversaires pourraient avoir ces choses là aussi ?"
 
 # game/3_akarsha.rpy:2584
 translate french akarsha2_fd740bef:
 
     # Noelle "They're on both sides of the equation, so they cancel each other out."
-    Noelle "Ils sont de chaque coté de l'équation, ducoup ils s'annulent."
+    Noelle "Ils sont de chaque coté de l'équation, du coup, ils s'annulent."
 
 # game/3_akarsha.rpy:2586
 translate french akarsha2_c70f5f68:
@@ -4096,19 +4096,19 @@ translate french akarsha2_c70f5f68:
 translate french akarsha2_76aeb062:
 
     # Noelle "But this isn't rocket science. This is basic algebra."
-    Noelle "Ce n'est pas de la science spatiale. C'est de l'algèbre de base."
+    Noelle "C'est pas de la science spatiale. C'est de l'algèbre de base."
 
 # game/3_akarsha.rpy:2590
 translate french akarsha2_1a10d481:
 
     # Akarsha "Bro, give it up. Noelle hates being wrong."
-    Akarsha "Abandonne Frère. Noelle déteste avoir tord."
+    Akarsha "Lâche l'affaire, meuf. Noelle déteste avoir tort."
 
 # game/3_akarsha.rpy:2593
 translate french akarsha2_b853684d:
 
     # Noelle "Actually, I wouldn't know. I'm not familiar with the sensation."
-    Noelle "En fait, je sais pas. Je ne suis pas habituée à cette sensation. "
+    Noelle "En fait, j'en sais rien. J'suis pas habituée avec cette sensation."
 
 # game/3_akarsha.rpy:2595
 translate french akarsha2_b03e81d5:
@@ -4132,25 +4132,25 @@ translate french akarsha2_e39c4c2e:
 translate french akarsha2_4d43cbb5:
 
     # AkarshaT "We're down two outs, so I better not screw this up."
-    AkarshaT "On a déjà deux OUT, j'ai intérêt à pas merder."
+    AkarshaT "On a déjà deux sorties, j'ai pas intérêt à merder."
 
 # game/3_akarsha.rpy:2604
 translate french akarsha2_c68b5a12:
 
     # "Akarsha picks a bat and heads to the plate."
-    "Akarsha attrape une batte et se dirige avec l'emplacement."
+    "Akarsha attrape une batte et se dirige vers l'emplacement."
 
 # game/3_akarsha.rpy:2614
 translate french akarsha2_5a1337b4:
 
     # "Akarsha slowly does a taichi pose while maintaining eye contact with Jun-seo."
-    "Akarsha effectue lentement une posture taichi en maintenant une contact visuel avec Jun-seo."
+    "Akarsha effectue lentement une posture de taïchi, en gardant un contact visuel avec Jun-seo."
 
 # game/3_akarsha.rpy:2616
 translate french akarsha2_18088ce0:
 
     # Akarsha "This is the form, \"Grasp the bird's tail.\""
-    Akarsha "C'est la forme, \"Attrape la queue de l'oiseau.\""
+    Akarsha "C'est la posture, \"Attrape la queue de l'oiseau.\""
 
 # game/3_akarsha.rpy:2618
 translate french akarsha2_56a25d5b:
@@ -4168,37 +4168,37 @@ translate french akarsha2_77476b57:
 translate french akarsha2_bd625fc7:
 
     # Akarsha "Wait for it. I got this."
-    Akarsha "Attends, je vais y arriver."
+    Akarsha "Attends, j'vais y arriver."
 
 # game/3_akarsha.rpy:2625
 translate french akarsha2_2b416c0c:
 
     # "She tries it again. This time she manages to land on the balls of her feet, but doesn't have muscle to pull herself up."
-    "Elle essaie une deuxieme fois. Cette fois ci, elle arrive sur ses pieds, mais n'a pas les muscles pour se relever."
+    "Elle essaie une deuxième fois. Cette fois-ci, elle retombe sur ses pieds, mais n'a pas suffisamment de force pour se relever."
 
 # game/3_akarsha.rpy:2627
 translate french akarsha2_be7f9993:
 
     # "Defeated, she lands back on her butt." with sshake
-    "Vaincue, elle s'écroule sur le cul." with sshake
+    "Vaincue, elle s'écroule ses fesses." with sshake
 
 # game/3_akarsha.rpy:2629
 translate french akarsha2_41647c3d:
 
     # Chryssa "Akarsha, cut it out."
-    Chryssa "Akarsha, vas y."
+    Chryssa "Akarsha, arrête tes conneries."
 
 # game/3_akarsha.rpy:2631
 translate french akarsha2_892d6f63:
 
     # "Jun-seo doesn't look intimidated at all. He winds up and throws the ball."
-    "Jun-seo n'a pas l'air intimidé du tout. Il se redresse et lance la balle."
+    "Jun-seo n'a pas du tout l'air intimidé. Il se redresse et lance la balle."
 
 # game/3_akarsha.rpy:2637
 translate french akarsha2_c2064993:
 
     # Akarsha "You're not invited to my birthday party anymore."
-    Akarsha "T'es plus invité à mes anniversaires."
+    Akarsha "Tu seras plus invité à mes anniversaires."
 
 # game/3_akarsha.rpy:2640
 translate french akarsha2_433a0f52:
@@ -4210,19 +4210,19 @@ translate french akarsha2_433a0f52:
 translate french akarsha2_f33fd0f8:
 
     # Akarsha "This is my special technique: Verbal Smoke Bomb."
-    Akarsha "C'est ma technique : Bombe de fumée verbale."
+    Akarsha "C'est ma technique spéciale : Bombe de Fumée Verbale."
 
 # game/3_akarsha.rpy:2644
 translate french akarsha2_7596db6b:
 
     # Akarsha "My remark brought up so many questions that he's been thrown into confusion."
-    Akarsha "Ma remarque a soulevé tellement de questions qu'il a plongé dans la confusion."
+    Akarsha "Ma remarque soulève tellement de questions, qu'il est plongé dans la confusion."
 
 # game/3_akarsha.rpy:2647
 translate french akarsha2_41647c3d_1:
 
     # Chryssa "Akarsha, cut it out."
-    Chryssa "Akarsha, vas y."
+    Chryssa "Akarsha, arrête tes conneries."
 
 # game/3_akarsha.rpy:2650
 translate french akarsha2_6df45324:
@@ -4234,13 +4234,13 @@ translate french akarsha2_6df45324:
 translate french akarsha2_fa5c9e34:
 
     # "Akarsha isn't experienced enough to distinguish balls from strikes, so she randomly decides whether or not to swing."
-    "Akarsha n'est pas assez expérimentée pour distinguer le type de lancer, elle décide aléatoirement d'effectuer un swing ou pas."
+    "Akarsha n'est pas assez expérimentée pour distinguer le type de lancer, elle décide aléatoirement sa façon de battre."
 
 # game/3_akarsha.rpy:2653
 translate french akarsha2_b2a2e9ae:
 
     # "Unsurprisingly, she racks up three strikes in an instant."
-    "Sans surprise, elle enchaine trois frappes en un instant."
+    "Sans surprise, elle loupe trois frappes en un instant."
 
 # game/3_akarsha.rpy:2655
 translate french akarsha2_0e2f6fa6:
@@ -4252,7 +4252,7 @@ translate french akarsha2_0e2f6fa6:
 translate french akarsha2_325f7f07:
 
     # Chryssa "How about you practice more instead of using your special technique?"
-    Chryssa "Et si tu t'entrainais plus plutôt que d'utiliser ta technique spéciale?"
+    Chryssa "Et si tu t'entraînais plus plutôt que d'utiliser ta technique spéciale ?"
 
 # game/3_akarsha.rpy:2660
 translate french akarsha2_a899290e:
@@ -4288,43 +4288,43 @@ translate french akarsha2_1a5caa2c:
 translate french akarsha2_2aabbb00:
 
     # Akarsha "The truth is, I'm a double agent."
-    Akarsha "La vérité, c'est que je suis un agent double."
+    Akarsha "La vérité, c'est que j'suis un agent double."
 
 # game/3_akarsha.rpy:2679
 translate french akarsha2_3558942d:
 
     # Noelle "JUST ADMIT YOU MESSED UP ALREADY."
-    Noelle "ADMET JUSTE QUE TU T'ES FOIREE."
+    Noelle "ADMETS JUSTE QUE TU T'ES FOIRÉE."
 
 # game/3_akarsha.rpy:2685
 translate french akarsha2_34c8d17c:
 
     # "The Killer Whales have one out and a runner on first. The runner takes off as Jun-seo bunts the ball."
-    "Les Tueurs de Balaines ont un Out et un coureur d'avance. Le coureur s'élance alors que Jun-seo frappe la balle."
+    "Les Orques ont une sortie et un coureur d'avance. Le coureur s'élance alors que Jun-seo frappe la balle."
 
 # game/3_akarsha.rpy:2687
 translate french akarsha2_1f2cb660:
 
     # "It rolls slowly all the way down the left foul line; Diya follows it closely, hovering over it like a hawk."
-    "Elle roule lentement tout le long de la ligne de faute gauche; Diya la suit de près, planant dessus comme un faucon."
+    "Elle route lentement tout le long de la ligne de faute gauche ; Diya suit la balle de près, planant au-dessus d'elle, tel un faucon."
 
 # game/3_akarsha.rpy:2689
 translate french akarsha2_c8278a48:
 
     # Akarsha "What's she doing?"
-    Akarsha "Qu'est ce qu'elle fout?"
+    Akarsha "Qu'est-ce qu'elle fout ?"
 
 # game/3_akarsha.rpy:2692
 translate french akarsha2_b74bb4e6:
 
     # Liz "If Diya can grab it when it's on the left side of the line, it'll count as foul."
-    Liz "Si Diya l'attrape du coté gauche de la ligne, ca compterait comme une faute."
+    Liz "Si Diya l'attrape du côté gauche de la ligne, ça comptera comme une faute."
 
 # game/3_akarsha.rpy:2693
 translate french akarsha2_2a126e6d:
 
     # Liz "You can't run on foul balls, so the runner will have to return to first."
-    Liz "Les coureurs ne peuvent pas courir quand la balle est fausse. Le coureur devra revenir à la premiere base."
+    Liz "Les coureurs ne peuvent pas courir quand la balle est fausse. Le coureur devra revenir à la première base."
 
 # game/3_akarsha.rpy:2695
 translate french akarsha2_223c5a8d:
@@ -4336,13 +4336,13 @@ translate french akarsha2_223c5a8d:
 translate french akarsha2_e3929082:
 
     # "Akarsha runs ahead of the ball and drags her foot in the dirt to make a path curving to the right."
-    "Akarsha cours à l'avant de la balle et trace un trait dans la poussière pour dévier la balle vers la droite."
+    "Akarsha court à l'avant de la balle et trace un trait dans la poussière pour dévier la balle vers la droite."
 
 # game/3_akarsha.rpy:2699
 translate french akarsha2_ceb307ab:
 
     # Jun "Hey!"
-    Jun "Hey!"
+    Jun "Eh !"
 
 # game/3_akarsha.rpy:2701
 translate french akarsha2_a9f5aaf4:
@@ -4360,19 +4360,19 @@ translate french akarsha2_e412c8c7:
 translate french akarsha2_dc263611:
 
     # Noelle "You can't just change allegiances to match whether or not you messed up."
-    Noelle "Tu ne peux pas changer d'équipe pour corroborer avec tes loupés."
+    Noelle "Tu peux pas changer d'équipe pour corroborer tes loupés."
 
 # game/3_akarsha.rpy:2714
 translate french akarsha2_eba2693e:
 
     # "Min throws the next pitch for a strike."
-    "Min fait le prochain lancer pour une prise"
+    "Min fait le prochain lancer pour un strike."
 
 # game/3_akarsha.rpy:2717
 translate french akarsha2_16516954:
 
     # Chryssa "Nice work! Time to switch sides again."
-    Chryssa "Beau travail ! Il est temps de changer de côté à nouveau."
+    Chryssa "Beau travail ! Maintenant on change encore de côté."
 
 # game/3_akarsha.rpy:2719
 translate french akarsha2_bd77b78a:
@@ -4384,31 +4384,31 @@ translate french akarsha2_bd77b78a:
 translate french akarsha2_5f252702:
 
     # Chryssa "That's good. It means Min's knuckleball is working."
-    Chryssa "C'est une bonne chose. Ça veut dire que la balle papillon de Min fonctionne."
+    Chryssa "C'est bien. Ça veut dire que la balle papillon de Min marche."
 
 # game/3_akarsha.rpy:2725
 translate french akarsha2_a834bd11:
 
     # Akarsha "We should give it a special name."
-    Akarsha "Nous devrions lui donner un nom spécial."
+    Akarsha "On devrait lui donner un nom spécial."
 
 # game/3_akarsha.rpy:2726
 translate french akarsha2_5cafea9f:
 
     # Akarsha "Like...Knuckles."
-    Akarsha "Like...Knuckles."
+    Akarsha "Comme... Knuckles."
 
 # game/3_akarsha.rpy:2729
 translate french akarsha2_175ad25b:
 
     # Min "I'm not calling it a damn Sonic character."
-    Min "Je n'appelle pas ça un putain de personnage de Sonic."
+    Min "Je l'appelle pas comme un putain de personnage de Sonic."
 
 # game/3_akarsha.rpy:2731
 translate french akarsha2_d8b90870:
 
     # Liz "It can be butterfly related, since they flutter."
-    Liz "Cela peut être lié aux papillons, puisqu'ils volent."
+    Liz "Ca peut être lié aux papillons, puisqu'ils volent."
 
 # game/3_akarsha.rpy:2733
 translate french akarsha2_68219856:
@@ -4420,19 +4420,19 @@ translate french akarsha2_68219856:
 translate french akarsha2_48f47235:
 
     # Akarsha "Butterfly from Hell's Anus."
-    Akarsha "Papillon de l'anus de l'enfer"
+    Akarsha "Papillon de l'Anus de l'Enfer."
 
 # game/3_akarsha.rpy:2737
 translate french akarsha2_65d3a3e2:
 
     # Noelle "The \"anus\" part wasn't necessary."
-    Noelle "Le \"anus\" n'était pas nécessaire"
+    Noelle "L'\"anus\" c'était pas nécessaire."
 
 # game/3_akarsha.rpy:2751
 translate french akarsha2_e7bfb3b0:
 
     # Liz "Noelle, you're up to bat!"
-    Liz "Noelle, t'es prête à te battre !"
+    Liz "Noelle, à toi de battre !"
 
 # game/3_akarsha.rpy:2755
 translate french akarsha2_8b66a720:
@@ -4462,13 +4462,13 @@ translate french akarsha2_f85b4781:
 translate french akarsha2_a1ec8409:
 
     # "A swing and a miss."
-    "Un swing et un raté"
+    "Un swing et un raté."
 
 # game/3_akarsha.rpy:2779
 translate french akarsha2_ada5c4ef:
 
     # Akarsha "I wonder if Noelle enjoys this?"
-    Akarsha "Je me demande si Noëlle aime ça ?"
+    Akarsha "Je me demande si Noelle aime ça ?"
 
 # game/3_akarsha.rpy:2782
 translate french akarsha2_def4f46e:
@@ -4480,25 +4480,25 @@ translate french akarsha2_def4f46e:
 translate french akarsha2_c04b5457:
 
     # Akarsha "She's scowling as she swings the bat."
-    Akarsha "Elle se renfrogne en balançant la batte."
+    Akarsha "Elle fait une tête bizarre quand elle bat."
 
 # game/3_akarsha.rpy:2787
 translate french akarsha2_493cadd9:
 
     # Diya "That's just her personality. If she disliked it, she would've quit by now."
-    Diya "C'est juste sa personnalité. Si elle n'aimait pas ça, elle aurait déjà démissionné."
+    Diya "Elle est juste comme ça. Si elle aimait pas ça, elle serait déjà partie."
 
 # game/3_akarsha.rpy:2793
 translate french akarsha2_a196d839:
 
     # "Noelle strikes out."
-    "Noelle est éliminée"
+    "Noelle est éliminée."
 
 # game/3_akarsha.rpy:2797
 translate french akarsha2_8c3bd456:
 
     # Liz "Diya, you're next."
-    Liz "Diya, tu es la prochaine."
+    Liz "Diya, t'es la prochaine."
 
 # game/3_akarsha.rpy:2805
 translate french akarsha2_8cfbebbc:
@@ -4510,55 +4510,55 @@ translate french akarsha2_8cfbebbc:
 translate french akarsha2_a9b48700:
 
     # "Jun throws it into his mitt."
-    "Jun le jette dans sa mitaine."
+    "Jun la jette dans son gant."
 
 # game/3_akarsha.rpy:2810
 translate french akarsha2_e627a175:
 
     # Chryssa "It's an intentional walk."
-    Chryssa "C'est une marche intentionnelle."
+    Chryssa "Il a fait exprès."
 
 # game/3_akarsha.rpy:2812
 translate french akarsha2_6ec861ad:
 
     # Sumi "Right off the bat? They haven't even seen her hit yet."
-    Sumi "Dès le départ ? Ils ne l'ont même pas encore vue frapper."
+    Sumi "Dès le départ ? Ils l'ont même pas encore vue frapper."
 
 # game/3_akarsha.rpy:2814
 translate french akarsha2_e89dcc95:
 
     # Min "They're scared of her. Hayden knows how strong she is, from when we were little."
-    Min "Ils ont peur d'elle. Hayden sait combien elle est forte, depuis qu'on est petite."
+    Min "Ils ont peur d'elle. Hayden sait à quel point elle est forte, depuis qu'on est petite."
 
 # game/3_akarsha.rpy:2815
 translate french akarsha2_31828f41:
 
     # Min "They probably figure it's fine to let her have first since no one else on the team can get a hit."
-    Min "Ils se disent probablement que c'est bien de lui laisser la première place puisque personne d'autre dans l'équipe ne peut obtenir un coup sûr."
+    Min "Ils pensent sûrement que c'est ok de la laisser aller à la première base comme personne d'autre dans l'équipe arrive à réceptionner."
 
 # game/3_akarsha.rpy:2818
 translate french akarsha2_b93a528b:
 
     # Akarsha "That's smart. It'll be hard for us to score without her."
-    Akarsha "C'est intelligent. Ça va être dur pour nous de marquer sans elle."
+    Akarsha "C'est malin. Ça va être dur pour nous de marquer sans elle."
 
 # game/3_akarsha.rpy:2823
 translate french akarsha2_0dc2c63e:
 
     # "Once they've thrown four balls, Diya throws the bat to the side and trots to first."
-    "Une fois qu'ils ont lancé quatre balles, Diya jette la batte sur le côté et trotte vers la première."
+    "Une fois qu'ils ont lancé quatre balles, Diya jette la batte sur le côté et trotte vers la première base."
 
 # game/3_akarsha.rpy:2826
 translate french akarsha2_18a169f3:
 
     # "It looks like he made the right call, because after Diya's walk, the team accumulates two more outs in an instant."
-    "Il semble qu'il ait fait le bon choix, car après la marche de Diya, l'équipe accumule deux sorties supplémentaires en un instant."
+    "Il semble qu'il ait fait le bon choix, car après le parcours de Diya, l'équipe accumule deux sorties de plus en un instant."
 
 # game/3_akarsha.rpy:2829
 translate french akarsha2_2d3621bd:
 
     # "It looks like he made the right call, because after Diya's walk, the [teamName] accumulate two more outs in an instant."
-    "Il semble qu'il ait fait le bon choix, car après la promenade de Diya, l'[équipeNom] accumule deux autres sorties en un instant."
+    "Il semble qu'il ait fait le bon choix, car après le parcours de Diya, les [teamName] deux sorties de plus en un instant."
 
 # game/3_akarsha.rpy:2830
 translate french akarsha2_480b68ba:
@@ -4576,31 +4576,31 @@ translate french akarsha2_6c738716:
 translate french akarsha2_8d56e6a1:
 
     # "Diya is still getting walked at each at-bat, and the others aren't skilled enough to reliably hit the enemy's pitches."
-    "Diya se fait toujours marcher dessus à chaque coup, et les autres ne sont pas assez habiles pour frapper de manière fiable les lancers de l'ennemi."
+    "Diya se fait toujours envoyer balader, et les autres ne sont pas assez habiles pour bien frapper les lancers de l'ennemi."
 
 # game/3_akarsha.rpy:2842
 translate french akarsha2_38308173:
 
     # "Diya is still getting walked at each at-bat, and the other [teamName] aren't skilled enough to reliably hit the enemy's pitches."
-    "Diya se fait toujours marcher dessus à chaque coup, et les autres membres de l'[équipe] ne sont pas assez habiles pour frapper de manière fiable les lancers de l'ennemi."
+    "Diya se fait toujours envoyer balader, et les autres membres de [teamName] ne sont pas assez habiles pour bien frapper les lancers de l'ennemi."
 
 # game/3_akarsha.rpy:2844
 translate french akarsha2_f47bd85c:
 
     # "A few people manage to get hits off Min's knuckleball by chance, but no one's made it home yet."
-    "Quelques personnes parviennent par hasard à tirer des coups sur la balle papillon de Min, mais personne n'est encore parvenu à rentrer chez lui."
+    "Quelques personnes arrivent par hasard à frapper la balle papillon de Min, mais personne n'est encore revenu à la base."
 
 # game/3_akarsha.rpy:2845
 translate french akarsha2_f34d3e34:
 
     # "By the 7th inning, though, some of Min's luck starts to run out."
-    "A la 7ème manche, cependant, la chance de Min commence à s'épuiser."
+    "A la 7ème manche, cependant, la chance de Min commence à la quitter."
 
 # game/3_akarsha.rpy:2857
 translate french akarsha2_f06202cc:
 
     # "Min's next pitch comes in high and inside, but instead of dropping, it soars up into the air."
-    "Le prochain lancer de Min est haut et intérieur, mais au lieu de tomber, il s'élève dans les airs."
+    "Le lancer suivant de Min est haut et vers l'intérieur, mais au lieu de tomber, il s'élève dans les airs."
 
 # game/3_akarsha.rpy:2860
 translate french akarsha2_410bfbcd:
@@ -4612,67 +4612,67 @@ translate french akarsha2_410bfbcd:
 translate french akarsha2_eb3a7bb7:
 
     # "That's the fourth ball; the batter throws his bat aside and jogs to first base. The bases are loaded with no outs."
-    "C'est la quatrième balle ; le frappeur jette sa batte de côté et se dirige en courant vers la première base. Les bases sont remplies et il n'y a aucune sortie."
+    "C'est la quatrième balle ; le frappeur jette sa batte de côté et court vers la première base. Les bases sont pleines et il n'y a aucune sortie."
 
 # game/3_akarsha.rpy:2867
 translate french akarsha2_14cf3fdc:
 
     # Noelle "This is terrible. They're probably going to score at least one goal."
-    Noelle "C'est terrible. Ils vont probablement marquer au moins un but."
+    Noelle "C'est terrible. Ils vont probablement marquer un but au moins."
 
 # game/3_akarsha.rpy:2869
 translate french akarsha2_844662b9:
 
     # Akarsha "Did you just say \"goal\"??"
-    Akarsha "Est-ce que tu viens de dire \"but\" ??"
+    Akarsha "C'est moi où tu viens de dire \"but\"??"
 
 # game/3_akarsha.rpy:2873
 translate french akarsha2_322c4b4a:
 
     # "The next batter is a buff looking fellow."
-    "Le batteur suivant est un type qui a l'air costaud."
+    "Le batteur suivant est un gars a l'air costaud."
 
 # game/3_akarsha.rpy:2878
 translate french akarsha2_e426351f:
 
     # "He smashes the pitch straight into right field, where Noelle is."
-    "Il envoie le ballon directement dans le champ droit, où se trouve Noelle."
+    "Il frappe la balle directement dans le champ droit, là où est Noelle."
 
 # game/3_akarsha.rpy:2880
 translate french akarsha2_bef7d850:
 
     # Akarsha "No! That's the worst possible person he could've hit it to!"
-    Akarsha "Non ! C'est la pire personne à qui il aurait pu le frapper !"
+    Akarsha "Non ! C'est la pire personne vers qui frapper !"
 
 # game/3_akarsha.rpy:2883
 translate french akarsha2_647a0fd7:
 
     # "It's so far out that the ball is like a speck in the clouds."
-    "C'est tellement loin que la balle est comme une tache dans les nuages."
+    "La balle part tellement loin qu'elle n'est plus qu'une tâche dans les nuages."
 
 # game/3_akarsha.rpy:2884
 translate french akarsha2_81d901f0:
 
     # "Noelle is apprehensively backing up with her glove out, squinting up at sky."
-    "Noëlle recule avec appréhension, le gant sorti, en plissant les yeux vers le ciel."
+    "Noelle recule avec appréhension, gant levé, en plissant les yeux vers le ciel."
 
 # game/3_akarsha.rpy:2885
 translate french akarsha2_ff715fba:
 
     # "She plants her feet firmly shoulders' width apart, reaches up, and claps her free hand decisively over the glove."
-    "Elle place fermement ses pieds à la largeur des épaules, tend le bras et frappe sa main libre sur le gant de manière décisive."
+    "Elle enfonce fermement ses pieds à une largeur d'épaules, tend le bras et frappe avec assurance sa main libre sur le gant."
 
 # game/3_akarsha.rpy:2889
 translate french akarsha2_e0ec35e4:
 
     # Akarsha "She caught it?!" with sshake
-    Akarsha "Elle l'a attrapé ?!" with sshake
+    Akarsha "Elle l'a attrapée ?!" with sshake
 
 # game/3_akarsha.rpy:2892
 translate french akarsha2_18ac5214:
 
     # Chryssa "She caught it!" with sshake
-    Chryssa "Elle l'a attrapé !" with sshake
+    Chryssa "Elle l'a attrapée !" with sshake
 
 # game/3_akarsha.rpy:2895
 translate french akarsha2_c2272380:
@@ -4684,7 +4684,7 @@ translate french akarsha2_c2272380:
 translate french akarsha2_1fa99505:
 
     # "The runners all skid and scramble to reverse direction. They all need to tag up on their former bases now or they're out."
-    "Les coureurs dérapent et s'efforcent d'inverser la direction. Ils doivent tous rejoindre leur ancienne base maintenant ou ils sont éliminés."
+    "Les coureurs dérapent et changent de direction. Ils doivent tous rejoindre leur ancienne base maintenant ou ils sont éliminés."
 
 # game/3_akarsha.rpy:2899
 translate french akarsha2_5e40d8d5:
@@ -4702,19 +4702,19 @@ translate french akarsha2_39803623:
 translate french akarsha2_f0730252:
 
     # "There's a loud slap noise as Liz covers her glove with her hand, preventing the ball from bouncing out."
-    "Il y a un grand bruit de claquement lorsque Liz couvre son gant avec sa main, empêchant la balle de rebondir."
+    "Il y a un grand claquement quand Liz pose sa main sur son gant, empêchant la balle de rebondir."
 
 # game/3_akarsha.rpy:2907
 translate french akarsha2_55b716c8:
 
     # "She easily tags the bag before Hayden can return to it."
-    "Elle marque facilement le sac avant que Hayden puisse y retourner."
+    "Elle fait un tag out à Hayden avant qu'il puisse retourner à la base."
 
 # game/3_akarsha.rpy:2909
 translate french akarsha2_5beb7914:
 
     # AkarshaT "That's two outs! Just one more!"
-    AkarshaT "ça fait 2 sorties ! Plus qu'une !"
+    AkarshaT "Ca fait 2 sorties ! Plus qu'une !"
 
 # game/3_akarsha.rpy:2911
 translate french akarsha2_fe9ca742:
@@ -4738,13 +4738,13 @@ translate french akarsha2_f49f9ff0:
 translate french akarsha2_f3b852ea:
 
     # "Akarsha pretends to catch it in her glove and tags first base before Jun reaches it."
-    "Akarsha prétend de l'attraper dans son gant et marque le premier but avant que Jun ne l'atteigne."
+    "Akarsha prétend de l'attraper dans son gant et marque la première base avant que Jun ne l'atteigne."
 
 # game/3_akarsha.rpy:2918
 translate french akarsha2_1d3f7afe_3:
 
     # NPC "Out!"
-    NPC "RETRAIT !"
+    NPC "Out !"
 
 # game/3_akarsha.rpy:2920
 translate french akarsha2_927c46c2:
@@ -4768,7 +4768,7 @@ translate french akarsha2_083e7958:
 translate french akarsha2_559c9c8f:
 
     # Jun "Wait a minute! She's not holding anything."
-    Jun "Attendez une minute ! Elle n'a rien dans sa main !"
+    Jun "Attends une minute ! Elle a rien dans sa main !"
 
 # game/3_akarsha.rpy:2927
 translate french akarsha2_e69ab54b:
@@ -4780,7 +4780,7 @@ translate french akarsha2_e69ab54b:
 translate french akarsha2_b54f45e9:
 
     # Hayden " What?? Where's the ball, then?"
-    Hayden "Quoi ?? Où est la balle alors ?"
+    Hayden "Quoi ?? Elle est où la balle alors ?"
 
 # game/3_akarsha.rpy:2932
 translate french akarsha2_047adfa2:
@@ -4792,7 +4792,7 @@ translate french akarsha2_047adfa2:
 translate french akarsha2_119412bd:
 
     # Jun "How do you guys not know??"
-    Jun "Comment ça, vous ne savez pas ?"
+    Jun "Comment ça, tu sais pas ?"
 
 # game/3_akarsha.rpy:2939
 translate french akarsha2_5ed839da:
@@ -4804,13 +4804,13 @@ translate french akarsha2_5ed839da:
 translate french akarsha2_99759072:
 
     # "Chryssa plucks the missing ball from the grass in right field, where it's been this entire time."
-    "Chryssa récupère la balle perdue dans l'herbe du terrain de droite, où elle était resté durant tout ce temps."
+    "Chryssa récupère la balle perdue dans l'herbe du champ droit, où elle était restée durant tout ce temps."
 
 # game/3_akarsha.rpy:2941
 translate french akarsha2_164bfef4:
 
     # Chryssa "Noelle didn't even catch it in the first place."
-    Chryssa "Noelle ne l'avait même pas attrapé dès le départ."
+    Chryssa "Noelle l'avait même pas attrapée dès le départ."
 
 # game/3_akarsha.rpy:2943
 translate french akarsha2_4853722f:
@@ -4822,19 +4822,19 @@ translate french akarsha2_4853722f:
 translate french akarsha2_af0d225e:
 
     # Hayden " So we're not out after all!"
-    Hayden "Alors nous ne sommes pas exclus après tout !"
+    Hayden "Alors on est pas out au final !"
 
 # game/3_akarsha.rpy:2948
 translate french akarsha2_49c5bd35:
 
     # Noelle "No, you're all still out."
-    Noelle "Non, vous êtes toujours sur le banc."
+    Noelle "Non, vous êtes toujours out."
 
 # game/3_akarsha.rpy:2949
 translate french akarsha2_43e552c2:
 
     # Noelle "The rulebook states that if a runner abandons his effort to run the bases, he's out."
-    Noelle "Les règles stipulent que si le coureur abandonne ses efforts en courant vers les buts, il est exclu."
+    Noelle "Les règles stipulent que si le coureur abandonne sa course vers les bases, il est out."
 
 # game/3_akarsha.rpy:2950
 translate french akarsha2_7f24852b:
@@ -4852,7 +4852,7 @@ translate french akarsha2_0e588ef9:
 translate french akarsha2_3d6ee929:
 
     # Min "You son of a bitch..."
-    Min "Quelle pétasse..."
+    Min "Quelle petite pétasse..."
 
 # game/3_akarsha.rpy:2955
 translate french akarsha2_7626e124:
@@ -4876,13 +4876,13 @@ translate french akarsha2_2164d397:
 translate french akarsha2_cbc59335:
 
     # Ester "This feels kind of like an asshole move, though."
-    Ester "Ca ressemble quand même à une saloperie là."
+    Ester "Ca ressemble quand même à un coup de pute là."
 
 # game/3_akarsha.rpy:2963
 translate french akarsha2_8004bb8d:
 
     # Akarsha "On what planet do you guys live on where Noelle isn't an asshole?"
-    Akarsha "Sur quelle planète tu vis, où Noelle n'est pas une salope ?"
+    Akarsha "Mais tu vis sur quelle planète, pour penser que Noelle n'est pas une petite pute ?"
 
 # game/3_akarsha.rpy:2966
 translate french akarsha2_803db7a9:
@@ -4894,7 +4894,7 @@ translate french akarsha2_803db7a9:
 translate french akarsha2_e988972b:
 
     # Chryssa "It's not cheating. You guys deserve a freakin' Academy Award for that performance just now."
-    Chryssa "Ce n'est pas de la triche. Vous méritez tous un putain d'Oscar pour la performance que vous venez de nous offrir."
+    Chryssa "C'est pas de la triche. Vous méritez tous un putain d'Oscar pour la performance que vous venez de nous offrir."
 
 # game/3_akarsha.rpy:2969
 translate french akarsha2_d195e878:
@@ -4906,13 +4906,13 @@ translate french akarsha2_d195e878:
 translate french akarsha2_5e024261:
 
     # Noelle "Shut up. Don't praise me like I'm a little kid."
-    Noelle "La ferme. Ne me récompense pas comme une petite fille."
+    Noelle "La ferme. Me félicite pas comme une gamine."
 
 # game/3_akarsha.rpy:2973
 translate french akarsha2_a6016f8e:
 
     # Chryssa "Are you crying?!" with sshake
-    Chryssa "Tu pleures ?" with sshake
+    Chryssa "Hé, tu pleures ?" with sshake
 
 # game/3_akarsha.rpy:2976
 translate french akarsha2_6efadde4:
@@ -4924,73 +4924,73 @@ translate french akarsha2_6efadde4:
 translate french akarsha2_a000254d:
 
     # Liz "By the way, when you act like the ball is somewhere it's not, that's called a deke— short for \"decoy.\""
-    Liz "Au fait, quand tu prétends que la balle est quelque part, alors qu'elle n'y est pas, ça s'appelle du bluff."
+    Liz "Au fait, quand tu prétends que la balle est quelque part, alors qu'elle y est pas, ça s'appelle un bluff ou \"deke\", un raccourci pour \"decoy\" en anglais."
 
 # game/3_akarsha.rpy:2980
 translate french akarsha2_78db8ec4:
 
     # Liz "Dekes an important part of infield play, like a feint."
-    Liz "Les bluffs sont une part importante du jeu de terrain, comme les feintes."
+    Liz "Les bluffs sont une part importante du jeu, comme les feintes."
 
 # game/3_akarsha.rpy:2981
 translate french akarsha2_039b6ae1:
 
     # Liz "They're rarely as elaborate as the three-way deke we just pulled off, but it's the same idea."
-    Liz "Ils sont rarement autant élaborés que les bluffs de triple-jeu que nous venons de relever, mais ils sont de la même trempe."
+    Liz "Ils sont rarement aussi élaborés que le triple-jeu que l'on vient de faire, mais c'est la même idée."
 
 # game/3_akarsha.rpy:2983
 translate french akarsha2_cb92d4ab:
 
     # Akarsha "WE THE DEKE SQUAD."
-    Akarsha "NOUS SOMMES L'EQUIPE DES BLUFFS."
+    Akarsha "ON EST L'EQUIPE DES DEKES."
 
 # game/3_akarsha.rpy:2984
 translate french akarsha2_e7b679b0:
 
     # Akarsha "Get it?"
-    Akarsha "Tu comprends ?"
+    Akarsha "Z'avez capté ?"
 
 # game/3_akarsha.rpy:2987
 translate french akarsha2_0dcba81e:
 
     # Min "Oh my god. It's like Dick Squad, but Deke."
-    Min "Mon dieu. Bluff, c'est comme l'équipe des bites."
+    Min "Mon dieu. C'est comme la Dyke Squad, mais Deke."
 
 # game/3_akarsha.rpy:2989
 translate french akarsha2_75840b17:
 
     # Akarsha "Deke Squad."
-    Akarsha "L'équipe des bluffs."
+    Akarsha "Dyke Squad."
 
 # game/3_akarsha.rpy:2991
 translate french akarsha2_003e0e2a:
 
     # Min "Deke Squad."
-    Min "L'équipe des bluffs."
+    Min "Dyke Squad."
 
 # game/3_akarsha.rpy:2994
 translate french akarsha2_2afedfff:
 
     # NPC2 "*chanting* DEKE SQUAD! DEKE SQUAD!"
-    NPC2 "*scandant* L'EQUIPE DES BLUFFS ! L'EQUIPE DES BLUFFS !"
+    NPC2 "*scandant* DYKE SQUAD ! DYKE SQUAD !"
 
 # game/3_akarsha.rpy:2997
 translate french akarsha2_ef49f063:
 
     # Chryssa "I bet the teachers always separate you two in class."
-    Chryssa "Je parie que les profs vous placent toujours dans deux classes séparées."
+    Chryssa "Je parie que les profs vous séparent toujours en classe."
 
 # game/3_akarsha.rpy:2999
 translate french akarsha2_289b7499:
 
     # Chryssa "You bring out the worst in each other."
-    Chryssa "Vous faîtes ressortir le pire l'un de l'autre."
+    Chryssa "Vous faîtes ressortir le pire l'une de l'autre."
 
 # game/3_akarsha.rpy:3009
 translate french akarsha2_f1adeb89:
 
     # "It's Akarsha's turn to bat again. There's already two outs and no one on base."
-    "C'est à nouveau au tour d'Akarsha de frapper. Il y en a déjà deux out, et personne sur le but."
+    "C'est à nouveau au tour d'Akarsha de frapper. Il y a déjà deux out, et personne sur à la base."
 
 # game/3_akarsha.rpy:3012
 translate french akarsha2_8af2e794:
@@ -5002,7 +5002,7 @@ translate french akarsha2_8af2e794:
 translate french akarsha2_b54c3b4f:
 
     # "The game is still tied, 0 - 0."
-    "Le jeu est toujorus à égalité, 0 - 0."
+    "Le jeu est toujours à égalité, 0 - 0."
 
 # game/3_akarsha.rpy:3017
 translate french akarsha2_f1e20d98:
@@ -5026,13 +5026,13 @@ translate french akarsha2_00189917:
 translate french akarsha2_2316c176:
 
     # Hayden " What's wrong with it?"
-    Hayden "Qu'est-ce qui cloche ?"
+    Hayden "Qu'est-ce qui va pas ?"
 
 # game/3_akarsha.rpy:3024
 translate french akarsha2_4b9a4d81:
 
     # Jun "I think I got dust under the lens."
-    Jun "Je crois que j'ai de la poussière en dessous."
+    Jun "Je crois que j'ai de la poussière dessous."
 
 # game/3_akarsha.rpy:3026
 translate french akarsha2_9d7a4e73:
@@ -5050,19 +5050,19 @@ translate french akarsha2_923a3205:
 translate french akarsha2_5b48bc80:
 
     # Jun "It's for taking out contact lens."
-    Jun "C'est pour retirer la lentille de contact."
+    Jun "C'est pour retirer les lentilles."
 
 # game/3_akarsha.rpy:3033
 translate french akarsha2_32c68860:
 
     # Hayden " You're going to play without it on?? You can't pitch like that."
-    Hayden "Tu vas jouer sans lentille ? Tu peux pas lancer comme ça."
+    Hayden "Tu vas jouer sans lentilles ?? Tu peux pas lancer comme ça."
 
 # game/3_akarsha.rpy:3035
 translate french akarsha2_d2e14134:
 
     # Jun "Hayden, didn't you say you wanted to try pitching?"
-    Jun "Hayden, tu n'as pas dit que tu voudrais t'essayer au lancer ?"
+    Jun "Hayden, t'as pas dit que tu voudrais t'essayer au lancer ?"
 
 # game/3_akarsha.rpy:3037
 translate french akarsha2_78708fa5:
@@ -5074,7 +5074,7 @@ translate french akarsha2_78708fa5:
 translate french akarsha2_db76adc9:
 
     # Jun "Why not? There's a first time for everything."
-    Jun "Pourquoi pas ? Il y a une première fois à tout."
+    Jun "Pourquoi pas ? Y'a une première fois à tout."
 
 # game/3_akarsha.rpy:3041
 translate french akarsha2_ad003642:
@@ -5086,19 +5086,19 @@ translate french akarsha2_ad003642:
 translate french akarsha2_c50a6474:
 
     # Hayden " Okay. Here goes nothing!"
-    Hayden "D'accord. Plus rien ne va ici !"
+    Hayden "Bon. Je promets rien !"
 
 # game/3_akarsha.rpy:3049
 translate french akarsha2_71da367f:
 
     # Akarsha "I go to baseball games."
-    Akarsha "Je vais aux matchs de baseball."
+    Akarsha "Quand je vais voir des matchs de baseball."
 
 # game/3_akarsha.rpy:3050
 translate french akarsha2_95dd0a73:
 
     # Akarsha "I eat the baseballs."
-    Akarsha "Je mange les balles de baseball."
+    Akarsha "Je mange les balles."
 
 # game/3_akarsha.rpy:3053
 translate french akarsha2_99bf1f31:
@@ -5122,13 +5122,13 @@ translate french akarsha2_7caee034:
 translate french akarsha2_502e392c:
 
     # "Everyone is so used to her antics by now that no one reacts."
-    "Tout le monde est tellement habitué à ses singeries, que personne ne réagit maintenant."
+    "Tout le monde est tellement habitué à ses singeries, que plus personne ne réagit maintenant."
 
 # game/3_akarsha.rpy:3063
 translate french akarsha2_7969af25:
 
     # Chryssa "Akarsha, stop screwing around and get up."
-    Chryssa "Akarsha, arrête de déconner et lève-toi."
+    Chryssa "Akarsha, arrête tes conneries et lève-toi."
 
 # game/3_akarsha.rpy:3065
 translate french akarsha2_1c0ba623:
@@ -5140,7 +5140,7 @@ translate french akarsha2_1c0ba623:
 translate french akarsha2_aca821f1:
 
     # Akarsha "That's so mean! The shock put me into cardiac arrest!"
-    Akarsha "C'est tellement méchant ! Le choc m'a mis en arrêt cardiaque !"
+    Akarsha "C'est tellement méchant ! Le choc m'a mise en arrêt cardiaque !"
 
 # game/3_akarsha.rpy:3071
 translate french akarsha2_f88fb20a:
@@ -5164,25 +5164,25 @@ translate french akarsha2_dff1e63e:
 translate french akarsha2_e68f4658:
 
     # Liz "Fine. Die then."
-    Liz "Tant mieux. Bah crève, alors."
+    Liz "Très bien. Bah meurs."
 
 # game/3_akarsha.rpy:3084
 translate french akarsha2_f67e8d04:
 
     # "Hayden pitches the ball. Akarsha gets up just in time to take a wild swing at it."
-    "Hayden lance la balle. Akarsha se lève juste à temps pour se lancer dans la course."
+    "Hayden lance la balle. Akarsha se lève juste à temps pour essayer de la frapper."
 
 # game/3_akarsha.rpy:3086
 translate french akarsha2_2b1e609c:
 
     # AkarshaT "I somehow hit it!"
-    AkarshaT "Je l'ai frappé, d'une certaine façon !"
+    AkarshaT "Je l'ai frappée, j'sais pas comment !"
 
 # game/3_akarsha.rpy:3091
 translate french akarsha2_b04fcc2e:
 
     # "Through sheer luck, it's heading toward Jun, who's squinting up at it with his good eye."
-    "Par pure chance, la balle se dirige droit sur Jun, qui plisse les yeux pour voir avec son bon oeil."
+    "Par chance, la balle se dirige droit sur Jun, qui plisse les yeux pour voir avec son bon oeil."
 
 # game/3_akarsha.rpy:3093
 translate french akarsha2_e449a898:
@@ -5200,7 +5200,7 @@ translate french akarsha2_7f718d95:
 translate french akarsha2_e8439954:
 
     # "Akarsha makes it to second base in the confusion."
-    "Akarsha arrive sur le deuxième but, confuse."
+    "Akarsha arrive sur la deuxième base, confuse."
 
 # game/3_akarsha.rpy:3107
 translate french akarsha2_cd42d7b0:
@@ -5212,19 +5212,19 @@ translate french akarsha2_cd42d7b0:
 translate french akarsha2_908b5773:
 
     # Chryssa "Finally...for the first time this entire game, someone's on already on base when Diya is up."
-    Chryssa "Enfin... pour la première fois de toute la partie, quelqu'un est déjà sur le but, quand Diya est debout."
+    Chryssa "Enfin... pour la première fois de toute la partie, quelqu'un est déjà sur une base quand Diya entre en jeu."
 
 # game/3_akarsha.rpy:3119
 translate french akarsha2_b9d5713d:
 
     # "Even though Hayden is just walking Diya, he looks really scared to be pitching against her."
-    "Même si Hayden ne fait que de marcher vers Diya, il a l'air d'être vraiment terrorisé à l'idée de lui lancer la balle."
+    "Même si Hayden ne fait que laisser passer Diya, il a l'air d'être vraiment terrorisé à l'idée de lui lancer la balle."
 
 # game/3_akarsha.rpy:3121
 translate french akarsha2_fdc3069f:
 
     # "He throws the next pitch."
-    "Il lance la prochaine."
+    "Il lance la balle suivante."
 
 # game/3_akarsha.rpy:3124
 translate french akarsha2_75f8de77:
@@ -5248,7 +5248,7 @@ translate french akarsha2_88850c0d:
 translate french akarsha2_1ffabc16:
 
     # Noelle "Don't name errors after me!" with sshake
-    Noelle "Ne nomme pas les erreurs d'après moi !" with sshake
+    Noelle "Ne donne pas mon nom à n'importe quoi !" with sshake
 
 # game/3_akarsha.rpy:3133
 translate french akarsha2_1ec0bac3:
@@ -5260,7 +5260,7 @@ translate french akarsha2_1ec0bac3:
 translate french akarsha2_4fba1a4e:
 
     # Hayden " SHUT UP! IT SLIPPED OUT OF MY HAND!"
-    Hayden "TA GUEULE ! ELLE A GLISSE DE MA MAIN !"
+    Hayden "TA GUEULE ! ELLE A GLISSÉE DE MA MAIN !"
 
 # game/3_akarsha.rpy:3140
 translate french akarsha2_249622e5:
@@ -5272,7 +5272,7 @@ translate french akarsha2_249622e5:
 translate french akarsha2_3f80e107:
 
     # "He accidentally throws it straight at Diya's head."
-    "Il la jette accidentellement droit dans la tête de Diya."
+    "Il la jette accidentellement droit vers la tête de Diya."
 
 # game/3_akarsha.rpy:3145
 translate french akarsha2_2eb1ca0b:
@@ -5302,7 +5302,7 @@ translate french akarsha2_988a3fdf:
 translate french akarsha2_4c321017:
 
     # "Min and Noelle have stormed to the mound and are now bashing Hayden together."
-    "Min et Noelle ont pris d'assaut le monticule et attaquent maintenant Hayden ensemble."
+    "Min et Noelle prennent d'assaut le monticule et attaquent Hayden ensemble."
 
 # game/3_akarsha.rpy:3157
 translate french akarsha2_2bd2fa45:
@@ -5350,31 +5350,31 @@ translate french akarsha2_42db33cf:
 translate french akarsha2_c7e008ef:
 
     # Chryssa "Noelle, put the phone down! No one's getting arrested!" with sshake
-    Chryssa "Noelle, raccroche ce téléphone ! Personne ne va être arrêté !" with sshake
+    Chryssa "Noelle, raccroche ce téléphone ! Personne ne va arrêter personne !" with sshake
 
 # game/3_akarsha.rpy:3172
 translate french akarsha2_55a33cfc:
 
     # Chryssa "MIN, WHERE DID YOU GET MORE KNIVES?"
-    Chryssa "MIN, OÙ AS-TU RECUPERE DAVANTAGE DE COUTEAUX ?"
+    Chryssa "MIN, TU LES AS RÉCUPÉRÉ OÙ CES COUTEAUX ?"
 
 # game/3_akarsha.rpy:3183
 translate french akarsha2_433a42ad:
 
     # "Diya steps back up to the plate as Min and Noelle are dragged back to the bench."
-    "Diya revient sur le marbre, alors que Min et Noelle sont forcées de revenir sur le banc."
+    "Diya revient sur le marbre, alors que Min et Noelle sont trainées vers le banc."
 
 # game/3_akarsha.rpy:3184
 translate french akarsha2_db73f662:
 
     # "They're both glowering in the corner, darkly muttering to one another..."
-    "Elles rayonnent toutes les deux dans leur coin, marmonnant sombrement des choses l'une à l'autre."
+    "Elles fulminent toutes les deux dans leur coin, marmonnant de manière menaçante des choses l'une à l'autre."
 
 # game/3_akarsha.rpy:3186
 translate french akarsha2_561cf731:
 
     # Noelle "There is no justice in the world."
-    Noelle "Il n'y a aucune justice dans ce monde."
+    Noelle "Y'a aucune justice dans ce monde."
 
 # game/3_akarsha.rpy:3188
 translate french akarsha2_05e49dbd:
@@ -5386,43 +5386,43 @@ translate french akarsha2_05e49dbd:
 translate french akarsha2_cc175608:
 
     # "Hayden winds up and throws the ball."
-    "Hayden s'enroule et lance la balle."
+    "Hayden enroule son bras et lance la balle."
 
 # game/3_akarsha.rpy:3197
 translate french akarsha2_10c5e3f7:
 
     # "It's not far enough outside! Diya lunged out at it and made contact. "
-    "Elle n'est pas partie assez loin à l'extérieur ! Diya s'est précipitée dessus et a fait contact."
+    "Elle ne part pas assez vers l'extérieur ! Diya s'est précipitée dessus et l'a frappée."
 
 # game/3_akarsha.rpy:3200
 translate french akarsha2_245ef004:
 
     # Min "She got a hit off the intentional walk attempt!"
-    Min "Elle a eu un succès grâce à la tentative de marche intentionnelle !"
+    Min "Elle a eue la balle grâce à cette tentative de la faire passer intentionnellement !"
 
 # game/3_akarsha.rpy:3204
 translate french akarsha2_3a591715:
 
     # "She hammers it straight into right field, right at Jun-seo again."
-    "Elle le martèle directement dans le champ droit, à nouveau sur Jun-seo."
+    "Elle l'envoie directement dans le champ droit, à nouveau sur Jun-seo."
 
 # game/3_akarsha.rpy:3206
 translate french akarsha2_7254e5fa:
 
     # Jun "I got this! I got this!"
-    Jun "Je l'ai ! Je l'ai !"
+    Jun "J'ai ! J'ai !"
 
 # game/3_akarsha.rpy:3208
 translate french akarsha2_57900a8e:
 
     # "The ball rolls through his legs."
-    "La balle roule entre ses jambes "
+    "La balle roule entre ses jambes."
 
 # game/3_akarsha.rpy:3212
 translate french akarsha2_90c73b29:
 
     # "Diya and Akarsha cross home plate to win the game."
-    "Diya and Akarsha ont croisé le marbre pour gagner la partie."
+    "Diya et Akarsha retournent sur le base de départ pour gagner la partie."
 
 # game/3_akarsha.rpy:3215
 translate french akarsha2_ba251b14:
@@ -5434,85 +5434,85 @@ translate french akarsha2_ba251b14:
 translate french akarsha2_24dd42b6:
 
     # Liz "I can't believe it! We won!" with sshake
-    Liz "J'arrive pas à le croire ! On a gagné !" with sshake
+    Liz "J'arrive pas à y croire ! On a gagné !" with sshake
 
 # game/3_akarsha.rpy:3221
 translate french akarsha2_3b77cd22:
 
     # Ester "You don't have to look so blatantly shocked."
-    Ester "Tu n'es pas obligé d'être aussi choquée que ça;"
+    Ester "T'es pas obligée d'être aussi choquée que ça."
 
 # game/3_akarsha.rpy:3228
 translate french akarsha2_92a5a5bd:
 
     # "The Niles team is departing."
-    "La team Niles s'apprête à partir."
+    "La team de Niles s'apprête à partir."
 
 # game/3_akarsha.rpy:3229
 translate french akarsha2_10387da6:
 
     # "Min and Noelle glare at Hayden as he goes into the van they arrived in."
-    "Min and Noelle observent Hayden rentrant dans le même car dans lequel elles sont arrivées"
+    "Min et Noelle observent Hayden rentrant dans le même van avec lequel ils sont arrivés."
 
 # game/3_akarsha.rpy:3232
 translate french akarsha2_2d26a4ea:
 
     # Akarsha "Are you guys still plotting revenge?"
-    Akarsha "Vous cherchez toujours vous venger ?"
+    Akarsha "Vous voulez toujours vous venger, les filles ?"
 
 # game/3_akarsha.rpy:3233
 translate french akarsha2_fa9d7f39:
 
     # Akarsha "I'll help. I love drama."
-    Akarsha "Je vais vous aider. J'adore le drama."
+    Akarsha "Je vais aider. J'adore le drama."
 
 # game/3_akarsha.rpy:3236
 translate french akarsha2_1816884d:
 
     # Min "Are you still on your period?"
-    Min "Tu es toujours dans la période de tes règles ?"
+    Min "T'as toujours tes règles ?"
 
 # game/3_akarsha.rpy:3237
 translate french akarsha2_334a80df:
 
     # Min "Maybe you can touch him with your cursed period blood hand again."
-    Min "Tu peux tenter de le toucher avec ta main couverte de tes règles maudites encore."
+    Min "Tu peux tenter d'le toucher avec ta main couverte de règles de l'enfer comme la dernière fois."
 
 # game/3_akarsha.rpy:3239
 translate french akarsha2_972ab769:
 
     # Akarsha "Too late, man. The blood's brown now. They might think it's mud. "
-    Akarsha "Trop tard Min. Le sang a viré au marron maintenant. On va pense que c'est de la boue"
+    Akarsha "Trop tard Min. Le sang a viré au marron maintenant. Ils vont penser que c'est de la boue."
 
 # game/3_akarsha.rpy:3241
 translate french akarsha2_c1ebe807:
 
     # Akarsha "There's 9 of us, though, so there's probably 2.25 other girls on their periods."
-    Akarsha "On est 9 donc il y a probablement 2.25 filles qui ont leurs règles."
+    Akarsha "On est 9 donc y'a statistiquement 2,25 filles qui ont leurs règles."
 
 # game/3_akarsha.rpy:3242
 translate french akarsha2_8eb86090:
 
     # Akarsha "What if we got all of them to run at the boys' team from different directions? That'd be like a nightmare."
-    Akarsha "Et si nous nous servons d'elles pour poursuivre les garçons dans toute les directions ? Ça serait comme un cauchemar"
+    Akarsha "Et si on se servait d'elles pour poursuivre les garçons dans toutes les directions ? Ça serait un cauchemar pour eux."
 
 # game/3_akarsha.rpy:3245
 translate french akarsha2_d1a4df51:
 
     # Noelle "I doubt anyone but you would agree to that plan."
-    Noelle "A part toi, ça m'étonnerait que ton idée intéresse les autres. "
+    Noelle "Ça m'étonnerait que ton idée intéresse les autres."
 
 # game/3_akarsha.rpy:3246
 translate french akarsha2_da375ca2:
 
     # Noelle "Honestly, the guys would probably freak out even if you just threw a clean pad at them."
-    Noelle "A mon avis, les garçons vont surement flipper même si tu leur jettes un serviette propre"
+    Noelle "A mon avis, les garçons flipperaient même si tu leur jetais une serviette hygiénique."
 
 # game/3_akarsha.rpy:3250
 translate french akarsha2_9692d8fe:
 
     # Akarsha "Oh my gosh...You're right!"
-    Akarsha "Putain... tu as tellement raison!"
+    Akarsha "Putain... mais t'as tellement raison !"
 
 # game/3_akarsha.rpy:3251
 translate french akarsha2_e5f398b3:
@@ -5530,13 +5530,13 @@ translate french akarsha2_7cef8f77:
 translate french akarsha2_46f3a649:
 
     # Noelle "Don't do this. I refuse to be involved in this."
-    Noelle "Ne faites pas ça ! Je ne veux pas être impliquée dedans."
+    Noelle "Fais pas ça ! Je veux pas être impliquée là-dedans."
 
 # game/3_akarsha.rpy:3258
 translate french akarsha2_4e0161a5:
 
     # Akarsha "This is friendship goals, Frenchman. If we go down, we all go down together."
-    Akarsha "C'est le principe de lamitié la Française. Si on se foire, on se foire tous ensemble."
+    Akarsha "C'est le principe de l'amitié, la française. Si on tombe, on tombe toutes ensemble."
 
 # game/3_akarsha.rpy:3261
 translate french akarsha2_333505e5:
@@ -5548,19 +5548,19 @@ translate french akarsha2_333505e5:
 translate french akarsha2_191e4a0e:
 
     # "Akarsha pulls a pad from her backpack and rips the wrapper open with a loud crinkle."
-    "Akarsha sort un tampon de son sac à dos et déchire l'emballage avec un pli bruyant."
+    "Akarsha sort une serviette hygiénique de son sac à dos et déchire l'emballage avec un gros bruit."
 
 # game/3_akarsha.rpy:3265
 translate french akarsha2_c6ec75cc:
 
     # Noelle "I don't get why they make the sound so conspicuous."
-    Noelle "Je comprends pas pourquoi ils font un son si remarquable."
+    Noelle "Je comprends pas pourquoi ils font un son aussi peu discret."
 
 # game/3_akarsha.rpy:3269
 translate french akarsha2_0d69c216:
 
     # Akarsha "I know, right? The only way they could make it more obvious is if they added firecrackers."
-    Akarsha "Mais trop! Ils devraient ajouter des feux d'artifices pour que tout le monde sache bien."
+    Akarsha "Mais trop ! Ils devraient ajouter des feux d'artifices pour que tout le monde sache bien."
 
 # game/3_akarsha.rpy:3271
 translate french akarsha2_eb343f57:
@@ -5572,31 +5572,31 @@ translate french akarsha2_eb343f57:
 translate french akarsha2_518e52f6:
 
     # Chryssa "Who's opening a pad out here?"
-    Chryssa "Qui est ce qui ouvre un tampon?"
+    Chryssa "Qui est-ce qui ouvre une serviette ici ?"
 
 # game/3_akarsha.rpy:3277
 translate french akarsha2_57537cff:
 
     # Diya "....!"
-    Diya "......!"
+    Diya "....!"
 
 # game/3_akarsha.rpy:3278
 translate french akarsha2_2b991fdb:
 
     # "Noelle quickly moves about 15 feet away and pretends not to know them."
-    "Noelle se déplace rapidement pour prétendre qu'elle ne les connait pas."
+    "Noelle se dégage rapidement et prétends qu'elle ne sait pas ce qui se tramme."
 
 # game/3_akarsha.rpy:3280
 translate french akarsha2_25334ce9:
 
     # Akarsha "We gotta make this quick!"
-    Akarsha "On va faire ça vite."
+    Akarsha "Il faut faire ça vite !"
 
 # game/3_akarsha.rpy:3283
 translate french akarsha2_95504912:
 
     # Min "We should soak it with something to make it more unknown."
-    Min "On devrait le foutre dans quelque chose pour qu'il soit plus discret."
+    Min "On devrait verser quelque chose dessus pour que ça fasse encore plus bizarre."
 
 # game/3_akarsha.rpy:3285
 translate french akarsha2_e8f56f18:
@@ -5608,7 +5608,7 @@ translate french akarsha2_e8f56f18:
 translate french akarsha2_306db486:
 
     # Akarsha "What flavor?"
-    Akarsha "Quel gout?"
+    Akarsha "Quel goût ?"
 
 # game/3_akarsha.rpy:3289
 translate french akarsha2_18164215:
@@ -5620,13 +5620,13 @@ translate french akarsha2_18164215:
 translate french akarsha2_d9112960:
 
     # Akarsha "YES..."
-    Akarsha "OUI...."
+    Akarsha "OUI..."
 
 # game/3_akarsha.rpy:3294
 translate french akarsha2_cb696e95:
 
     # Noelle "I hate that I know you well enough to discern that you want it to look like pee."
-    Noelle "Je déteste le fait que je te connais assez pour savoir que tu voudrais que ca ressemble à du pipi."
+    Noelle "Je déteste le fait que je te connais assez pour savoir que tu voudrais que ca ressemble à de la pisse."
 
 # game/3_akarsha.rpy:3297
 translate french akarsha2_f04131ed:
@@ -5638,25 +5638,25 @@ translate french akarsha2_f04131ed:
 translate french akarsha2_1add43ab:
 
     # "Akarsha pours a splash of the Gatorade on it."
-    "Akarsha met du Powerade sur le tampon."
+    "Akarsha met du Powerade sur la serviette."
 
 # game/3_akarsha.rpy:3300
 translate french akarsha2_9930b5e4:
 
     # Akarsha "I feel like I'm doing one of those absorbency demonstrations in commercials."
-    Akarsha "J'ai l'impression de faire une démonstration commerciale d'absorption."
+    Akarsha "J'ai l'impression de faire une démonstration d'absorption comme dans les pubs."
 
 # game/3_akarsha.rpy:3303
 translate french akarsha2_0e12891b:
 
     # Diya "Our liquid is the wrong color, though. It's always blue."
-    Diya "Notre liquide n'est pas de la bonne couleur pour ça. C'est toujours bleu."
+    Diya "Notre liquide est pas de la bonne couleur pour ça. C'est toujours bleu."
 
 # game/3_akarsha.rpy:3305
 translate french akarsha2_def6af5a:
 
     # Min "Those cowards. They should use red like blood."
-    Min "Ces ptites bites. Ils devraient utiliser du rouge comme du sang."
+    Min "Ces p'tites bites. Ils devraient utiliser du rouge comme le sang."
 
 # game/3_akarsha.rpy:3306
 translate french akarsha2_416e87f4:
@@ -5668,13 +5668,13 @@ translate french akarsha2_416e87f4:
 translate french akarsha2_e523dc10:
 
     # Akarsha "I'm gonna throw it now."
-    Akarsha "Je vais le jeter."
+    Akarsha "Je vais la jeter maintenant."
 
 # game/3_akarsha.rpy:3309
 translate french akarsha2_dc87cac5:
 
     # Akarsha "Should I?"
-    Akarsha "Non?"
+    Akarsha "Je le fais ?"
 
 # game/3_akarsha.rpy:3312
 translate french akarsha2_9a53d3f8:
@@ -5686,79 +5686,79 @@ translate french akarsha2_9a53d3f8:
 translate french akarsha2_2f93b5b4:
 
     # Min "Do it!"
-    Min "Fais le !"
+    Min "Fais-le !"
 
 # game/3_akarsha.rpy:3318
 translate french akarsha2_12dab449:
 
     # "Akarsha flings the pad like a frisbee into the van!"
-    "Akarsha lance le tampon comme un frisbee dans le van!"
+    "Akarsha lance la serviette dans le van comme si elle lançait un frisbee !"
 
 # game/3_akarsha.rpy:3326
 translate french akarsha2_13ce4e8e:
 
     # "It hits Jun-seo in the shoulder."
-    "Ca touche l'épaule de Jun-seo."
+    "Elle atterit sur l'épaule de Jun-seo."
 
 # game/3_akarsha.rpy:3329
 translate french akarsha2_0d9542bd:
 
     # Hayden " WHAT IS THAT??!" with sshake
-    Hayden "MAIS QU'EST CE QUE C'EST QUE CA?" with sshake
+    Hayden "MAIS C'EST QUOI CA ?" with sshake
 
 # game/3_akarsha.rpy:3332
 translate french akarsha2_7b3f3e5a:
 
     # Jun "AAAAaaaAAAAaAAAA!!!!" with sshake
-    Jun "AAAAaaaAAAAaAAAA!!!!" with sshake
+    Jun "AAAAaaaAAAAaAAAA !!!!" with sshake
 
 # game/3_akarsha.rpy:3334
 translate french akarsha2_ffd9412f:
 
     # "Jun goes down!"
-    "Jun tombe dans les pommes!"
+    "Jun tombe dans les pommes !"
 
 # game/3_akarsha.rpy:3335
 translate french akarsha2_dc38ea46:
 
     # "Screams fill the van as though a grenade was thrown in."
-    "Les cris provenant du van laisse penser qu'une grenade vient d'y atterrir."
+    "Des cris remplissent le van, comme si une grenade venait d'y débarquer."
 
 # game/3_akarsha.rpy:3336
 translate french akarsha2_aaa43a44:
 
     # "The team desperately scatters away from the deadly object."
-    "L'équipe s'écarte rapidement de cet objet mort."
+    "L'équipe s'écarte désespérément de l'objet mortel."
 
 # game/3_akarsha.rpy:3337
 translate french akarsha2_dbfdc42a:
 
     # "Someone is climbing out of the window."
-    "Quelqu'un escalade la fenêtre."
+    "Quelqu'un sort en escaladant la fenêtre."
 
 # game/3_akarsha.rpy:3342
 translate french akarsha2_c06bb2ca:
 
     # NPC "HAHAHAHA!!!!" with sshake
-    NPC "HAHAHAHA!!!!" with sshake
+    NPC "HAHAHAHA !!!!" with sshake
 
 # game/3_akarsha.rpy:3347
 translate french akarsha2_229c63f2:
 
     # Chryssa "WHAT DID YOU BRATS DO THIS TIME?!" with sshake
-    Chryssa "QU'AVEZ VOUS FAIT ENCORE?!" with sshake
+    Chryssa "VOUS AVEZ FAIT QUOI CETTE FOIS LES SALE GOSSES ?!" with sshake
 
 # game/3_akarsha.rpy:3349
 translate french akarsha2_56bfc018:
 
     # Diya "...!"
-    Diya "....!"
+    Diya "... !"
 
 # game/3_akarsha.rpy:3351
 translate french akarsha2_90e3b061:
 
     # Min "Run. Run!"
-    Min "Courez. Courez !"
+    Min "Courez. Barrez-vous !"
 
 # game/3_akarsha.rpy:3355
 translate french akarsha2_29e77f23:
@@ -5770,7 +5770,7 @@ translate french akarsha2_29e77f23:
 translate french akarsha2_8892d7f2:
 
     # NPC "GYyyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaAa!!!!!!!!!" with sshake
-    NPC "GYyyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaAa!!!!!!!!!" with sshake
+    NPC "GYyyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaAa !!!!!!!!!" with sshake
 
 # game/3_akarsha.rpy:3376
 translate french akarsha2_66517db0:
@@ -5782,7 +5782,7 @@ translate french akarsha2_66517db0:
 translate french akarsha2_e3e731e4:
 
     # Akarsha "Hello? Diya? Homie??"
-    Akarsha "Y'a quelqu'un ? Diya ? Les copines ?"
+    Akarsha "Y'a quelqu'un ? Diya ? Poto ??"
 
 # game/3_akarsha.rpy:3381
 translate french akarsha2_b5c466c5:
@@ -5806,19 +5806,19 @@ translate french akarsha2_662ea386:
 translate french akarsha2_05fd1d6f:
 
     # Diya "He's soup now, inside."
-    Diya "Il fait sa soupe maintenant là dedans."
+    Diya "Il est à l'état de soupe maintenant, à l'intérieur du cocon."
 
 # game/3_akarsha.rpy:3386
 translate french akarsha2_705adc16:
 
     # Akarsha "Isn't it crazy? Their whole body liquifies and has to rebuild itself."
-    Akarsha "C'est fou non? Son corps complet se liquéfie pour se reconstruire complétement. "
+    Akarsha "C'est fou non? Son corps complet se liquéfie pour se reconstruire complètement. "
 
 # game/3_akarsha.rpy:3387
 translate french akarsha2_f6bed146:
 
     # Akarsha "Imagine if growing up was that bad for us."
-    Akarsha "T'imagine si grandir était aussi horrible pour nous."
+    Akarsha "T'imagines si grandir était aussi horrible pour nous."
 
 # game/3_akarsha.rpy:3390
 translate french akarsha2_b1d971a1:
@@ -5830,13 +5830,13 @@ translate french akarsha2_b1d971a1:
 translate french akarsha2_be90ff7a:
 
     # Diya "I always worry something will go wrong in there, and they won't ever wake up."
-    Diya "J'ai toujours peur que quelque chose parte en sucette et qu'il ne se réveille jamais."
+    Diya "J'ai toujours peur que quelque chose parte en sucette et qu'il se réveille jamais."
 
 # game/3_akarsha.rpy:3392
 translate french akarsha2_47295836:
 
     # Diya "What if someone shakes it really hard? It'll stir the soup."
-    Diya "Qu'est ce qui se passerait si quelqu'un secouait ca super fort? Ca mélangerait toute la soupe."
+    Diya "Il se passerait quoi si quelqu'un secouait ça super fort? Ça mélangerait toute la soupe."
 
 # game/3_akarsha.rpy:3394
 translate french akarsha2_5549a667:
@@ -5848,31 +5848,31 @@ translate french akarsha2_5549a667:
 translate french akarsha2_866d6672:
 
     # Akarsha "Did you know its memory survives that?"
-    Akarsha "Tu savais que leur mémoire survivait à tous ça? "
+    Akarsha "Tu savais que leur mémoire survivait à tous ça ?"
 
 # game/3_akarsha.rpy:3396
 translate french akarsha2_6da3a5fc:
 
     # Akarsha "If you teach a caterpillar something, like to fear a certain smell or whatever, after it comes out of its cocoon as a butterfly it'll still remember."
-    Akarsha "Si tu apprends un tour à une chenille, comme avoir peur d'une certaine odeur. Le papillon qu'elle devient en aura toujours peur."
+    Akarsha "Si t'apprends un tour à une chenille, comme avoir peur d'une certaine odeur. Le papillon qu'elle devient en aura toujours peur."
 
 # game/3_akarsha.rpy:3398
 translate french akarsha2_4912e940:
 
     # Akarsha "Even though the outside's different, it's still the same Caterpilly on the inside, from beginning to end."
-    Akarsha "Même si sa forme change, c'est toujours la même chenille à l'intérieur, du début à la fin."
+    Akarsha "Même si sa forme change, c'est toujours la même chenillette à l'intérieur, du début à la fin."
 
 # game/3_akarsha.rpy:3402
 translate french akarsha2_0cd033b0:
 
     # Diya "Will he remember me?"
-    Diya "Il se rappellera de moi?"
+    Diya "Il se rappellera de moi ?"
 
 # game/3_akarsha.rpy:3404
 translate french akarsha2_05ab994e:
 
     # Akarsha "Sure, as much as an eating machine can."
-    Akarsha "Bien sur, autant qu'une machine sur patte le peut."
+    Akarsha "Bien sûr, autant qu'un estomac sur pattes le peut."
 
 # game/3_akarsha.rpy:3405
 translate french akarsha2_40d00e86:
@@ -5884,7 +5884,7 @@ translate french akarsha2_40d00e86:
 translate french akarsha2_d52b05c9:
 
     # Diya "................."
-    Diya "..............."
+    Diya "................."
 
 # game/3_akarsha.rpy:3418
 translate french akarsha2_da7667f7:
@@ -5896,13 +5896,13 @@ translate french akarsha2_da7667f7:
 translate french akarsha2_ea9e118e:
 
     # Akarsha "Ya?"
-    Akarsha "Ouaip?"
+    Akarsha "Ouaip ?"
 
 # game/3_akarsha.rpy:3424
 translate french akarsha2_ba8d14ce:
 
     # Diya "I need to tell you something. Noelle wouldn't understand."
-    Diya "Faut que je te raconte un truc. Noelle ne capterait pas."
+    Diya "Faut que je te raconte un truc. Noelle capterait pas."
 
 # game/3_akarsha.rpy:3426
 translate french akarsha2_caf4954b:
@@ -5926,7 +5926,7 @@ translate french akarsha2_b36a4eb9:
 translate french akarsha2_b49b59ce:
 
     # Diya "I like a girl. "
-    Diya "J'aime les filles."
+    Diya "J'aime une fille."
 
 # game/3_akarsha.rpy:3433
 translate french akarsha2_88decb06:
@@ -5938,13 +5938,13 @@ translate french akarsha2_88decb06:
 translate french akarsha2_1552629f:
 
     # Diya "........You're not surprised."
-    Diya "..... T'es pas surprise?"
+    Diya "..... T'es pas surprise ?"
 
 # game/3_akarsha.rpy:3438
 translate french akarsha2_e9a7b62d:
 
     # Akarsha "I mean, I can tell. "
-    Akarsha "Bin, pour tout te dire."
+    Akarsha "Bin, ça se voit."
 
 # game/3_akarsha.rpy:3439
 translate french akarsha2_1ec9d2e0:
@@ -5956,31 +5956,31 @@ translate french akarsha2_1ec9d2e0:
 translate french akarsha2_cf2f58eb:
 
     # Diya "??????????????????" with sshake
-    Diya "?????????????????" with sshake
+    Diya "??????????????????" with sshake
 
 # game/3_akarsha.rpy:3444
 translate french akarsha2_426b7251:
 
     # Akarsha "It's not a secret? I've literally hit on girls in front of you?"
-    Akarsha "C'est pas un secret tu sais. Je suis toujours en train de faire du rentre dedans avec les filles devant toi."
+    Akarsha "C'est pas un secret tu sais. Genre, j'ai déjà dragué des filles juste devant toi ?"
 
 # game/3_akarsha.rpy:3445
 translate french akarsha2_df736acf:
 
     # Akarsha "I've literally hit on you? "
-    Akarsha "Même avec toi."
+    Akarsha "Et puis, je t'ai déjà littéralement déjà fait du rentre dedans ?"
 
 # game/3_akarsha.rpy:3447
 translate french akarsha2_fb55a400:
 
     # Diya "You...What. "
-    Diya "Tu.... De quoi?"
+    Diya "Tu.... De quoi ?"
 
 # game/3_akarsha.rpy:3448
 translate french akarsha2_06c4e7dc:
 
     # Diya "But those were all jokes. I thought you were kidding. "
-    Diya "Mais c'était pour rigoler. Je pensais que tu blaguais."
+    Diya "Mais c'était que des blagues. Je pensais que tu blaguais."
 
 # game/3_akarsha.rpy:3450
 translate french akarsha2_e17b866d:
@@ -5998,7 +5998,7 @@ translate french akarsha2_816cf7d9:
 translate french akarsha2_a190c9de:
 
     # Akarsha "Also, you should tell Min. She likes you back. "
-    Akarsha "D'ailleurs, tu devrais en parler avec Min. Elle t'apprécie aussi."
+    Akarsha "D'ailleurs, tu devrais le dire à Min. Elle t'aime aussi, et pas qu'un peu."
 
 # game/3_akarsha.rpy:3456
 translate french akarsha2_325aac01:
@@ -6018,7 +6018,7 @@ translate french strings:
 
     # 3_akarsha.rpy:72
     old "Miles \"Tails\" Edgeworth"
-    new "Miles Edgeworth"
+    new "Benjamin Hunter"
 
     # 3_akarsha.rpy:248
     old "Talk to Diya"
@@ -6030,7 +6030,7 @@ translate french strings:
 
     # 3_akarsha.rpy:709
     old "Bagels"
-    new "Beignets"
+    new "Bagels"
 
     # 3_akarsha.rpy:709
     old "Chicken Nuggets"
@@ -6042,7 +6042,7 @@ translate french strings:
 
     # 3_akarsha.rpy:709
     old "Death Bagels"
-    new "Les beignets de la mort."
+    new "Les Bagels Mortels"
 
     # 3_akarsha.rpy:709
     old "Semes"
@@ -6054,15 +6054,15 @@ translate french strings:
 
     # 3_akarsha.rpy:2312
     old "Kick it"
-    new "Le frapper"
+    new "La frapper du pied"
 
     # 3_akarsha.rpy:2612
     old "Intimidate the enemy with an impressive entrance"
-    new "Intimider l'ennemie avec une entrée impressionnante."
+    new "Intimider l'ennemi avec une entrée impressionnante"
 
     # 3_akarsha.rpy:2612
     old "Use psychological warfare"
-    new "Utiliser la guerre psycologique"
+    new "Utiliser la guerre psychologique"
 
     # 3_akarsha.rpy:3046
     old "Intimidate him with your baseball expertise"
@@ -6070,7 +6070,7 @@ translate french strings:
 
     # 3_akarsha.rpy:3046
     old "Act weak so he goes easy on you"
-    new "Agir faiblement pour qu'il y aille doucement avec toi"
+    new "Avoir l'air faible pour qu'il y aille doucement avec toi"
 
 # TODO: Translation updated at 2019-04-20 16:10
 
@@ -6120,13 +6120,13 @@ translate french diyaMissing_22c78c32:
 translate french diyaMissing_65959af7:
 
     # Chryssa "Fine. Disperse, [teamName!t]!"
-    Chryssa "Bien. Dispersion, [teamName!t] !"
+    Chryssa "Bien. [teamName!t], dispersion !"
 
 # game/3_akarsha.rpy:1804
 translate french akarsha2_b7583191:
 
     # Chryssa "[teamName!t], assemble!"
-    Chryssa "[teamName!t], regroupez-vous !"
+    Chryssa "[teamName!t], groupir !"
 
 # game/3_akarsha.rpy:1961
 translate french akarsha2_42898f07:
@@ -6150,7 +6150,7 @@ translate french akarsha2_ebedcf53:
 translate french akarsha2_2a138ad6:
 
     # "The [teamName!t] take their seats on the bench except Diya, who's still taking off the catcher's gear."
-    "[teamName!t] s'installe sur le banc, sauf Diya, qui était encore en train de retirer son équipement de receveur."
+    "[teamName!t] s'installe sur le banc, sauf Diya, qui retire encore son équipement de receveur."
 
 # game/3_akarsha.rpy:2157
 translate french akarsha2_87e1e1ee:
@@ -6168,13 +6168,13 @@ translate french akarsha2_aba2ddd1:
 translate french akarsha2_d7c6094f:
 
     # "It looks like he made the right call, because after Diya's walk, the [teamName!t] accumulate two more outs in an instant."
-    "Il semble qu'il ait fait le bon choix, car après la marche de Diya, [teamName!t] accumule deux sorties supplémentaires en un instant."
+    "Il semble qu'il ait fait le bon choix, car après le parcours de Diya, [teamName!t] accumule deux sorties de plus en un instant."
 
 # game/3_akarsha.rpy:2490
 translate french akarsha2_130c3070:
 
     # "Diya is still getting walked at each at-bat, and the other [teamName!t] aren't skilled enough to reliably hit the enemy's pitches."
-    "Diya se fait toujours marcher dessus à chaque coup, et les autres de [teamName!t] ne sont pas assez habiles pour frapper de manière fiable les lancers de l'ennemi."
+    "Diya se fait toujours envoyer balader, et les autres de [teamName!t] ne sont pas assez habiles pour bien frapper les lancers de l'ennemi."
 
 # game/3_akarsha.rpy:2653
 translate french akarsha2_17aba127:
@@ -6206,7 +6206,7 @@ translate french strings:
 
     # 3_akarsha.rpy:930
     old "Go to the locker room"
-    new "Retourner aux vestiaires"
+    new "Aller aux vestiaires"
 
     # 3_akarsha.rpy:938
     old "Search the bathroom"
@@ -6218,7 +6218,7 @@ translate french strings:
 
     # 3_akarsha.rpy:954
     old "Go to the school library"
-    new "Aller au CDI"
+    new "Aller à la bibliothèque"
 
     # 3_akarsha.rpy:1023
     old "Search the field"
@@ -6238,7 +6238,7 @@ translate french strings:
 
     # 3_akarsha.rpy:1075
     old "Search the track"
-    new "Rechercher la piste"
+    new "Fouiller la piste d'athlétisme"
 
     # 3_akarsha.rpy:1083
     old "Return to locker room"
@@ -6266,7 +6266,7 @@ translate french strings:
 
     # 3_akarsha.rpy:1388
     old "Look at your reflection"
-    new "Regarder ton reflet"
+    new "Regarder son reflet"
 
     # 3_akarsha.rpy:1395
     old "Return to the courtyard"
@@ -6282,15 +6282,15 @@ translate french strings:
 
     # 3_akarsha.rpy:1767
     old "Look at fire alarm"
-    new "Chercher l'alarme incendie"
+    new "Regarder l'alarme incendie"
 
     # 3_akarsha.rpy:1775
     old "Check out family bathroom"
-    new "Chercher les toilettes"
+    new "Jeter un oeil aux toilettes neutres"
 
     # 3_akarsha.rpy:1808
     old "Killer Whale player"
-    new "Joueur de l'équipe des Orques"
+    new "Joueur des Orques"
 
     # 3_akarsha.rpy:1841
     old "Hayden"
@@ -6299,4 +6299,3 @@ translate french strings:
     # 3_akarsha.rpy:2980
     old "Akarsha and Min"
     new "Akarsha et Min"
-

@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2018-01-02 13:12
-
 # game/1_diya.rpy:126
+
 translate french beginning_5949963c:
 
     # "Once upon a time... "
@@ -10,7 +10,7 @@ translate french beginning_5949963c:
 translate french beginning_a814f8e6:
 
     # "There lived a princess called Min-seo. "
-    "Une princesse appelée Min-seo." 
+    "Une princesse appelée Min-seo."
 
 # game/1_diya.rpy:139
 translate french beginning_22f8ba04:
@@ -34,13 +34,13 @@ translate french beginning_517a7d67:
 translate french beginning_2f913f41:
 
     # "Still,{w=0.35} she was a lovely princess. {w=0.35}And tragically, {w=0.35}she was cursed to prick her finger on a spindle and die."
-    "Malgré tout ,{w=0.35} c'était une adorable princesse {w=0.35}Et tragiquement, {w=0.35}elle etait condamnée à se piquer le doigt sur un fuseau et mourir."
+    "Malgré tout,{w=0.35} c'était une adorable princesse. {w=0.35}Et tragiquement, {w=0.35}elle était condamnée à se piquer le doigt sur un fuseau et mourir."
 
 # game/1_diya.rpy:148
 translate french beginning_6789d7ab:
 
     # "Sure enough...One day, {w=0.2}like a total idiot,{w=0.2} she touched one."
-    "Et inévitablement... Un jour, {w=0.2}comme une grosse andouille, {w=0.2} elle en toucha un."
+    "Et inévitablement... Un jour, {w=0.2}comme une grosse andouille, {w=0.2}elle en toucha un."
 
 # game/1_diya.rpy:152
 translate french beginning_3cbf3421:
@@ -64,7 +64,7 @@ translate french beginning_a092d999:
 translate french beginning_c83ea856:
 
     # Min "{big=20}I'M ESCAPING!{/big}" with sshake
-    Min "{big=20}JE M'ECHAPPE !{/big}" with sshake
+    Min "{big=20}JE M'ÉCHAPPE !{/big}" with sshake
 
 # game/1_diya.rpy:164
 translate french beginning_5842a42d:
@@ -112,7 +112,7 @@ translate french beginning_f5025877:
 translate french beginning_05a83592:
 
     # Min "{big=+20}I MADE ONE OUT OF ROCKS!{/big}" with sshake
-    Min "{big=+20}J'EN AI FAIT UN AVEC DES CAILLOUX !{/big}" with sshake
+     Min "{big=+20}J'EN AI FAIT UN AVEC DES CAILLOUX !{/big}" with sshake
 
 # game/1_diya.rpy:181
 translate french beginning_78aff33f:
@@ -124,7 +124,7 @@ translate french beginning_78aff33f:
 translate french beginning_df665e81:
 
     # "The hero has arrived!{w=0.35}\nAs Min-seo's twin, he's trying to reason with her!"
-    "Le héro est arrivé !{w=0.35}\n En tant que jumeau de Min-seo, il essaye de la convaincre !"
+    "Le héros est arrivé !{w=0.35}\nEn tant que jumeau de Min-seo, il essaye de la convaincre !"
 
 # game/1_diya.rpy:190
 translate french beginning_2a185af2:
@@ -137,6 +137,7 @@ translate french beginning_8bac71d0:
 
     # Min "Who cares!"
     Min  "On s'en fout !"
+
 
 # game/1_diya.rpy:194
 translate french beginning_3044a76b:
@@ -190,7 +191,7 @@ translate french beginning_430c2ae3:
 translate french beginning_14f8456d:
 
     # Hayden "Fine. Diya does seem more like the princess type anyway."
-    Hayden "Ouais. De toute façon, Diya ressemble plus à une princesse que toi."
+    Hayden "D'accord. De toute façon, Diya ressemble plus à une princesse que toi."
 
 # game/1_diya.rpy:214
 translate french beginning_7e87e266:
@@ -202,7 +203,7 @@ translate french beginning_7e87e266:
 translate french beginning_491ee1e2:
 
     # Min "You're really pretty."
-    Min "Tu es vraiment jolie."
+    Min "T'es vraiment jolie."
 
 # game/1_diya.rpy:218
 translate french beginning_f2fa3540:
@@ -214,7 +215,7 @@ translate french beginning_f2fa3540:
 translate french beginning_7f4359c7:
 
     # Hayden "Uh, {w=0.35} I just meant that she's less violent."
-    Hayden "Euh, {w=0.35} je voulais juste dire qu'elle est moins violente."
+    Hayden "Euh,{w=0.35} je voulais juste dire qu'elle est moins violente."
 
 # game/1_diya.rpy:224
 translate french beginning_5d8ebf2c:
@@ -250,7 +251,7 @@ translate french beginning_44492aa3:
 translate french beginning_89e3ac4c:
 
     # "It wasn't that she had nothing to say. {w=0.35}It was more like..."
-    "Ce n'était pas qu'elle n'avait rien à dire. {w=0.35} Mais plutôt... "
+    "Ce n'était pas qu'elle n'avait rien à dire.{w=0.35} Mais plutôt... "
 
 # game/1_diya.rpy:257
 translate french beginning_5b7577e8:
@@ -280,13 +281,13 @@ translate french beginning_d2759316:
 translate french beginning_7413a035:
 
     # "Tragically,{w=0.35} despite how buff she was, {w=0.35} this princess was also cursed to touch a spindle and die."
-    "Tragiquement,{w=0.35} malgré son physique musclé, {w=0.35} cette princesse était aussi condamnée à toucher un fuseau et mourir."
+    "Tragiquement,{w=0.35} malgré son physique musclé,{w=0.35} cette princesse était aussi condamnée à toucher un fuseau et mourir."
 
 # game/1_diya.rpy:264
 translate french beginning_ea852c60:
 
     # "And one day, {w=0.2}like a total idiot,{w=0.2} she touched one."
-    "Et un jour, {w=0.2} comme une vraie andouille, elle en toucha un."
+    "Et un jour,{w=0.2} comme une vraie andouille, elle en toucha un."
 
 # game/1_diya.rpy:272
 translate french beginning_3cbf3421_1:
@@ -316,7 +317,7 @@ translate french beginning_04936f5e:
 translate french beginning_c482f07c:
 
     # Hayden "Hahah!!{w=0.35} Only the hero can wake her!"
-    Hayden "Hahah !!{w=0.35} Seul le héro peut la réveiller !"
+    Hayden "Hahah !!{w=0.35} Seul le héros peut la réveiller !"
 
 # game/1_diya.rpy:287
 translate french beginning_b537c59f:
@@ -327,8 +328,8 @@ translate french beginning_b537c59f:
 # game/1_diya.rpy:289
 translate french beginning_c8a3d327:
 
-    # Hayden "{cps=30}Wait,{w=0.35} no...?{/cps}{w=0.35}\nIt's supposed to be Jun-seo!"
-    Hayden "{cps=30}Attends,{w=0.35} non... ?{/cps}{w=0.35}\n C'est censé être Jun-seo !"
+    # Hayden "{cps=30}Wait,{w=0.35} no...?{/cps}{w=0.35}\n It's supposed to be Jun-seo!"
+    Hayden "{cps=30}Attends,{w=0.35} non... ?{/cps}{w=0.35}\nC'est censé être Jun-seo !"
 
 # game/1_diya.rpy:292
 translate french beginning_684c71c8:
@@ -340,7 +341,7 @@ translate french beginning_684c71c8:
 translate french beginning_5f04203c:
 
     # Jun "Huh?{w=0.35} But if you're the hero, {w=0.35}then what am I?"
-    Jun "Hein ?{w=0.35} Mais si t'es l'héroïne, {w=0.35} je suis quoi, moi, alors ?"
+    Jun "Hein ?{w=0.35} Mais si t'es l'héroïne, {w=0.35} je suis quoi moi alors ?"
 
 # game/1_diya.rpy:297
 translate french beginning_02900275:
@@ -388,7 +389,7 @@ translate french beginning_85c4a272:
 translate french beginning_b67ef62d:
 
     # Min "This is America! {w=0.35}Everyone has a gun!" with sshake
-    Min "C'est l'Amérique ici ! {w=0.35}Tout le monde a un flingue !" with sshake
+    Min "Ici c'est l'Amérique ! {w=0.35}Tout le monde a un flingue !" with sshake
 
 # game/1_diya.rpy:314
 translate french beginning_bd0bfb66:
@@ -412,7 +413,7 @@ translate french beginning_0debc5b4:
 translate french beginning_19746dea:
 
     # Diya "Dead."
-    Diya "Morte."
+    Diya "Mort."
 
 # game/1_diya.rpy:329
 translate french beginning_0debc5b4_1:
@@ -550,7 +551,7 @@ translate french beginning_902fc4ea:
 translate french beginning_c7d56ceb:
 
     # Min "DEAD."
-    Min "Morte."
+    Min "MORT."
 
 # game/1_diya.rpy:382
 translate french beginning_93ced5da:
@@ -586,7 +587,7 @@ translate french beginning_4e8516ac:
 translate french beginning_912b5935:
 
     # DiyaT "Yeah."
-    DiyaT "Yeah."
+    DiyaT "Ouais."
 
 # game/1_diya.rpy:397
 translate french niceTry_659e7536:
@@ -640,7 +641,7 @@ translate french niceTry_87e85c49:
 translate french niceTry_a8e61fe1:
 
     # Jun "Are you replacing me...?"
-    Jun "Tu me remplaces...?"
+    Jun "Tu me remplaces... ?"
 
 # game/1_diya.rpy:416
 translate french niceTry_f82cafa1:
@@ -652,19 +653,19 @@ translate french niceTry_f82cafa1:
 translate french niceTry_7984f326:
 
     # Min "BANG!{w=0.35} Dragon's dead!" with sshake
-    Min "BANG !{w=0.35} Le dragon est mort !" with sshake
+    Min "BANG !{w=0.35} Le dragon l'est mort !" with sshake
 
 # game/1_diya.rpy:420
 translate french niceTry_e76ce7b7:
 
     # Hayden "Uh, did you forget?{w=0.35} I'm bulletproof."
-    Hayden "Euh, t'as oublié ?{w=0.35} Je suis imperméable aux balles."
+    Hayden "Euh, t'as oublié ?{w=0.35} Chuis résistant aux balles."
 
 # game/1_diya.rpy:422
 translate french niceTry_d67a3dcd:
 
     # Min "But my gun didn't shoot a bullet!" with sshake
-    Min "Sauf que j'ai pas tiré de balle !" with sshake
+    Min "Sauf que j'ai pas tiré d'balle !" with sshake
 
 # game/1_diya.rpy:427
 translate french niceTry_e36bb257:
@@ -676,7 +677,7 @@ translate french niceTry_e36bb257:
 translate french niceTry_bd6af510:
 
     # Min "A SMALLER GUN!" with sshake
-    Min "UN PLUS PETIT FLINGUE !" with sshake
+    Min "UN PLUS P'TIT FLINGUE !" with sshake
 
 # game/1_diya.rpy:432
 translate french niceTry_799130c8:
@@ -700,13 +701,13 @@ translate french niceTry_78aff33f:
 translate french niceTry_e088a0fe:
 
     # Jun "{cps=25}...... {/cps}"
-    Jun "{cps=25}......{/cps}"
+    Jun "{cps=25}...... {/cps}"
 
 # game/1_diya.rpy:436
 translate french niceTry_ab20ef84:
 
     # Diya "{cps=25}...... {/cps}"
-    Diya "{cps=25}......{/cps}"
+    Diya "{cps=25}...... {/cps}"
 
 # game/1_diya.rpy:437
 translate french niceTry_8c44bf45:
@@ -724,7 +725,7 @@ translate french niceTry_f5e23e83:
 translate french niceTry_5d1783a4:
 
     # Jun "No, {w=0.2}but why couldn't the original gun shoot the knife?"
-    Jun "Mais, {w=0.2}pourquoi le premier pistolet ne pouvait-il pas lancer le couteau ?"
+    Jun "Mais, {w=0.2}pourquoi le premier pistolet ne pouvait pas lancer le couteau ?"
 
 # game/1_diya.rpy:440
 translate french niceTry_469239cd:
@@ -742,7 +743,7 @@ translate french niceTry_f6d0fdff:
 translate french niceTry_4f831f3f:
 
     # Jun "{cps=25}...never mind... {/cps}"
-    Jun "{cps=25}....laisse tomber va....{/cps}"
+    Jun "{cps=25}...laisse tomber va...{/cps}"
 
 # game/1_diya.rpy:448
 translate french niceTry_54a0615d:
@@ -802,7 +803,7 @@ translate french niceTry_ae5264e6:
 translate french niceTry_077cd6c1:
 
     # "The evil dragon feints to the right.{w=0.2} Min falls for it and he rushes past her,{w=0.2} back the way he came."
-    "Le dragon maléfique exécute une feinte.{w=0.2} Min tombe dans le panneau et il la percute, {w=0.2} retournant d'où il venait."
+    "Le dragon maléfique exécute une feinte sur la droite.{w=0.2} Min tombe dans le panneau et il passe à côté,{w=0.2} retournant d'où il venait."
 
 # game/1_diya.rpy:468
 translate french niceTry_fb72c537:
@@ -850,13 +851,13 @@ translate french niceTry_6276c5a5:
 translate french niceTry_13196a68:
 
     # "Diya throws him off the playground structure, too."
-    "Diya le dégage, lui aussi, hors du terrain."
+    "Diya le dégage, lui aussi, hors du jeu."
 
 # game/1_diya.rpy:492
 translate french niceTry_6c90069f:
 
     # "As he disappears over the edge, Min pulls herself back to her feet."
-    "Alors qu'il disparait par delà l'horizon, Min se relève."
+    "Alors qu'il tombe par dessus bord, Min se relève."
 
 # game/1_diya.rpy:494
 translate french niceTry_5304c5f6:
@@ -880,7 +881,7 @@ translate french niceTry_8e738b98:
 translate french niceTry_37aaa74a:
 
     # Min "Yeah!!!"
-    Min "Ouais!!!"
+    Min "Ouais !!!"
 
 # game/1_diya.rpy:503
 translate french niceTry_92efbd26:
@@ -898,7 +899,7 @@ translate french niceTry_985b08b1:
 translate french niceTry_2c1d44e8:
 
     # Min "Yeah!{w=0.35} I'm your hero!!" with sshake
-    Min "Ouais!{w=0.35} Je suis ta sauveuse !!" with sshake
+    Min "Ouais !{w=0.35} Je suis ta sauveuse !!" with sshake
 
 # game/1_diya.rpy:518
 translate french niceTry_9ea70234:
@@ -970,25 +971,25 @@ translate french niceTry_86b65723:
 translate french niceTry_c9adc14c:
 
     # DiyaT "Do you see that thing on her arm? {w=0.35} She drew a giant dagger on it with Sharpie,{w=0.35} like a tattoo."
-    DiyaT "Vous voyez ce truc sur son bras? {w=0.35} Elle s'est dessinée une dague géante à l'indélébile, {w=0.35} comme un tatoo."
+    DiyaT "Vous voyez ce truc sur son bras? {w=0.35} Elle s'est dessinée une dague géante à l'indélébile,{w=0.35} comme un tatouage."
 
 # game/1_diya.rpy:557
 translate french niceTry_4f702073:
 
     # DiyaT "And in class, she makes ninja stars out of binder paper and throws them at people."
-    DiyaT "Et dans sa classe, elle fait des étoiles de ninja avec des feuilles de classeur et les balance sur les autres."
+    DiyaT "Et en classe, elle fait des étoiles de ninja avec des feuilles de classeur et les balance sur les autres."
 
 # game/1_diya.rpy:559
 translate french niceTry_9cb9cae2:
 
     # DiyaT "She stamps them with staples so they hurt more."
-    DiyaT "Elle y ajoute des agrafes pour qu'elles fassent plus mal. "
+    DiyaT "Elle y ajoute des agrafes pour qu'elles fassent plus mal."
 
 # game/1_diya.rpy:560
 translate french niceTry_55bec2ad:
 
     # DiyaT "But she never throws them at me."
-    DiyaT "Mais à moi, elle ne m'en balance jamais."
+    DiyaT "Mais à moi, elle m'en balance jamais."
 
 # game/1_diya.rpy:563
 translate french niceTry_c1e6ee38:
@@ -1012,7 +1013,7 @@ translate french niceTry_a78ea675:
 translate french niceTry_9fb01397:
 
     # DiyaT "Watching the pros play baseball always makes me so jealous."
-    DiyaT "Regarder des pros jouer au baseball me rends toujours jalouse."
+    DiyaT "Regarder des pros jouer au baseball me rend toujours jalouse."
 
 # game/1_diya.rpy:589
 translate french niceTry_32fc9e1b:
@@ -1036,7 +1037,8 @@ translate french niceTry_e113acce:
 translate french niceTry_e7fcf2e9:
 
     # Min "Someday,{w=0.10} that's gonna be us."
-    Min "Un jour,{w=0.10} ça sera nous."
+    Min "Un jour,{w=0.10} ça s'ra nous."
+
 
 # game/1_diya.rpy:600
 translate french niceTry_9fa2cfca:
@@ -1048,19 +1050,19 @@ translate french niceTry_9fa2cfca:
 translate french niceTry_5c469137:
 
     # Diya "Wait,{w=0.10} what?{w=0.26} But how."
-    Diya "Attend, {w=0.10} Quoi ?{w=0.26} Comment ?"
+    Diya "Attend,{w=0.10} quoi ?{w=0.26} Comment ?"
 
 # game/1_diya.rpy:602
 translate french niceTry_2aebaf95:
 
     # Diya "Your parents won't even let you join my team 'cause you're a girl."
-    Diya "Tes parents ne te laissent même pas intégrer mon équipe sous prétexte que \"tu es une fille\"."
+    Diya "Tes parents te laissent même pas intégrer mon équipe sous prétexte que \"tu es une fille\"."
 
 # game/1_diya.rpy:603
 translate french niceTry_30f45e41:
 
     # Diya "Besides,{w=0.10} when I grow up I'll be a doctor or engineer."
-    Diya "En plus de ça, plus tard je serai docteur ou ingénieur."
+    Diya "En plus de ça, plus tard je serai docteure ou ingénieure."
 
 # game/1_diya.rpy:606
 translate french niceTry_f4a37c56:
@@ -1072,19 +1074,19 @@ translate french niceTry_f4a37c56:
 translate french niceTry_8eaa0ce5:
 
     # Diya "My parents said so."
-    Diya "C'est mes parents qui l'ont dit."
+    Diya "C'est mes parents qui ont dit."
 
 # game/1_diya.rpy:611
 translate french niceTry_55da0b37:
 
     # Min "So? {w=0.26}My parents said to pass my math test,{w=0.10} and I failed!"
-    Min "Et ? {w=0.26} Mes parents m'ont dit d'avoir la moyenne au contrôle de maths{w=0.10} et je l'ai raté !"
+    Min "Et ?{w=0.26} Mes parents m'ont dit d'avoir la moyenne au contrôle de maths{w=0.10} et je l'ai raté !"
 
 # game/1_diya.rpy:613
 translate french niceTry_89d23c36:
 
     # Diya "That's...{w=0.26}not something to be proud of."
-    Diya "C'est....{w=0.26}pas vraiment un truc dont tu devrais être fière."
+    Diya "C'est...{w=0.26} pas vraiment un truc dont tu devrais être fière."
 
 # game/1_diya.rpy:614
 translate french niceTry_56244b05:
@@ -1114,19 +1116,19 @@ translate french niceTry_f186c722:
 translate french niceTry_463590c1:
 
     # Diya "I don't know. That seems selfish."
-    Diya "J'sais pas. Ca me semble égoïste."
+    Diya "J'sais pas. Ça me semble égoïste."
 
 # game/1_diya.rpy:624
 translate french niceTry_8818ca30:
 
     # Min "It's not selfish to choose your own destiny."
-    Min "Choisir ta propre vie c'est pas égoïste."
+    Min "Choisir ta propre vie c'pas égoïste."
 
 # game/1_diya.rpy:637
 translate french niceTry_4642d1b5:
 
     # DiyaT "Right now, we're at the Oakland Coliseum with Min's dad and Jun."
-    DiyaT "A cet instant précis, on se trouve au Coliseum à Oakland, avec le père de Min et Jun." 
+    DiyaT "A cet instant précis, on se trouve au Coliseum à Oakland, avec le père de Min et Jun."
 
 # game/1_diya.rpy:639
 translate french niceTry_5c6aeb4b:
@@ -1150,7 +1152,7 @@ translate french niceTry_0995370d:
 translate french niceTry_927dfe32:
 
     # Min "...Hey, Diya."
-    Min ".... Hey, Diya."
+    Min "... Hey, Diya."
 
 # game/1_diya.rpy:647
 translate french niceTry_9fa2cfca_1:
@@ -1162,7 +1164,7 @@ translate french niceTry_9fa2cfca_1:
 translate french niceTry_763c395e:
 
     # Min "I have something I need to tell you. Something important."
-    Min "Il faut que je te dise un truc. Un truc important."
+    Min "Il faut que j'te dise un truc. Un truc important."
 
 # game/1_diya.rpy:663
 translate french niceTry_cd8fa362:
@@ -1180,7 +1182,7 @@ translate french niceTry_9ddc7c94:
 translate french niceTry_dff771f2:
 
     # Min "....Never mind.{w=0.26} Forget it."
-    Min "....Laisse tomber.{w=0.26} Oublie."
+    Min "...Laisse béton.{w=0.26} Oublie."
 
 # game/1_diya.rpy:668
 translate french niceTry_b224c1f9:
@@ -1192,31 +1194,31 @@ translate french niceTry_b224c1f9:
 translate french niceTry_abe36bfc:
 
     # Min "I SAID FORGET IT!{w=0.26} DON'T WORRY ABOUT IT!" with sshake
-    Min "J'AI DIT QUE C'ÉTAIT RIEN !{w=0.26} OUBLIE !" with sshake
+    Min "J'AI DIT Q'C'ÉTAIT RIEN !{w=0.26} OUBLIE !" with sshake
 
 # game/1_diya.rpy:674
 translate french niceTry_5a6605f3:
 
     # Min "Aren't you having fun right now?!{w=0.26} Are you hungry or anything?"
-    Min "Tu ne trouves pas le match super ?!{w=0.26} Tu veux un truc à manger ou autre ?"
+    Min "Tu trouves pas le match super ?!{w=0.26} Tu veux un truc à manger ou queqchose ?"
 
 # game/1_diya.rpy:677
 translate french niceTry_0d4e0c30:
 
     # Diya "Why are you changing the subject."
-    Diya "Pourquoi tu changes de sujet soudainement ?"
+    Diya "Pourquoi tu changes de sujet comme ça ?"
 
-# game/1_diya.rpy:678
+# game/1_diya.rpy:678autre
 translate french niceTry_55c4ba8f:
 
     # Diya "If you're trying to distract me,{w=0.10} it's not gonna work."
-    Diya "Si tu essaies de me distraire, {w=0.10} c'est voué à l'échec."
+    Diya "Si t'essaies de me distraire,{w=0.10} ça va pas marcher."
 
 # game/1_diya.rpy:681
 translate french niceTry_b01797bd:
 
     # Min "Let's go get popcorn and share!"
-    Min "Allons chercher des popcorns pour les partager."
+    Min "Viens on va chercher du popcorn pour s'le partager."
 
 # game/1_diya.rpy:683
 translate french niceTry_dc04f720:
@@ -1228,7 +1230,7 @@ translate french niceTry_dc04f720:
 translate french niceTry_a147e5b5:
 
     # DiyaT "Popcorn is great!{w=0.26} I like popcorn!"
-    DiyaT "Le popcorn c'est cool ! {w=0.26} J'aime le popcorn !"
+    DiyaT "Le popcorn c'est cool !{w=0.26} J'aime le popcorn !"
 
 # game/1_diya.rpy:686
 translate french niceTry_22cf5538:
@@ -1240,7 +1242,7 @@ translate french niceTry_22cf5538:
 translate french niceTry_80f7e495:
 
     # Min "Just tell me when you're ready to go!{w=0.26}\nThe popcorn guy is a few rows behind us."
-    Min "Dis-moi juste quand tu seras prête à y aller !{w=0.26}\n Le vendeur de popcorn n'est pas très loin."
+    Min "Dis-moi juste quand tu s'ras prête à y aller !{w=0.26}\nL'vendeur d'popcorn est pas très loin."
 
 # game/1_diya.rpy:698
 translate french niceTry_623a92a3:
@@ -1264,13 +1266,13 @@ translate french lookBaby_c5737a51:
 translate french lookBaby_7069bea3:
 
     # "Diya quickly jogs over to take a look."
-    "Diya va jeter un coup d'oeil rapidement."
+    "Diya va jeter un coup d'œil rapidement."
 
 # game/1_diya.rpy:821
 translate french lookBaby_73f9c404:
 
     # "To her severe disappointment, it's a baby."
-    "A sa grande déception, c'est un bébé."
+    "À sa grande déception, c'est un bébé."
 
 # game/1_diya.rpy:823
 translate french lookBaby_6276c5a5:
@@ -1306,7 +1308,7 @@ translate french eatPopcorn_4af3ac70:
 translate french eatPopcorn_20bae85c:
 
     # DiyaT "Most of it exploded out when the ball landed in the tub."
-    DiyaT "La plupart a valsé hors du pot quand la balle a atterrie dedans."
+    DiyaT "La plupart a valsé hors du pot quand la balle a atterri dedans."
 
 # game/1_diya.rpy:854
 translate french lookDiamondNothing_c2de4589:
@@ -1324,7 +1326,7 @@ translate french lookDiamondNothing_39a02ecc:
 translate french lookDiamond1_22a83fbd:
 
     # DiyaT "I think Min is going for the \"Loudest Sound In History\" World Record."
-    DiyaT "Je pense que Min concoure pour le record du monde de \"Plus Gros Son de l'Histoire\""
+    DiyaT "Je pense que Min concoure pour le record du monde du \"Plus Gros Bruit de l'Histoire\""
 
 # game/1_diya.rpy:873
 translate french lookDiamond1_d2200a15:
@@ -1336,7 +1338,7 @@ translate french lookDiamond1_d2200a15:
 translate french lookDiamond1_4fb69844:
 
     # Min "{big=+20}I HOPE THE PERSON YOU LIKE LIKES SOMEONE ELSE!!!{/big}" with sshake
-    Min "{big=+20}J'ESPERE QUE LA PERSONE QUE TU AIMES, AIME QUELQU'UN D'AUTRE !!!!!{/big}" with sshake
+    Min "{big=+20}J'ESPERE QUE LA PERSONE QUE T'AIMES, EH BAH ELLE AIME QUELQU'UN D'AUTRE !!!!!{/big}" with sshake
 
 # game/1_diya.rpy:876
 translate french lookDiamond1_6541c21a:
@@ -1354,7 +1356,7 @@ translate french lookDiamond1_ad56e609:
 translate french lookDiamond1_2819dc88:
 
     # Diya "{slow}...?{/slow}"
-    Diya "{slow}...?{/slow}"
+    Diya "{slow}... ?{/slow}"
 
 # game/1_diya.rpy:886
 translate french lookDiamond1_d036a6d9:
@@ -1366,7 +1368,7 @@ translate french lookDiamond1_d036a6d9:
 translate french lookDiamond1_46fde728:
 
     # "She looks absolutely mortified, {w=0.10}so Diya turns back to the diamond and pretends she didn't see anything..."
-    "Elle a l'air complètement mortifiée, {w=0.10}Diya détourne donc le regard en direction de l'avant champ du terrain et fait semblant de n'avoir rien vu..."
+    "Elle a l'air complètement mortifié, {w=0.10}Diya détourne donc le regard en direction de l'avant champ du terrain et fait semblant de n'avoir rien vu..."
 
 # game/1_diya.rpy:908
 translate french lookDiamond2_08a8b3a8:
@@ -1378,7 +1380,7 @@ translate french lookDiamond2_08a8b3a8:
 translate french lookDiamond2_2819dc88:
 
     # Diya "{slow}...?{/slow}"
-    Diya "{slow}...?{/slow}"
+    Diya "{slow}... ?{/slow}"
 
 # game/1_diya.rpy:912
 translate french lookDiamond2_edc1e66c:
@@ -1396,7 +1398,7 @@ translate french lookDiamond2_7701c4bc:
 translate french lookDiamond2_73fa86dd:
 
     # NPC "It's Tim Wakefield!{w=0.26} He's a knuckleball pitcher."
-    NPC "C'est Tim Wakefield!{w=0.26} C'est un lanceur de balle type papillon."
+    NPC "C'est Tim Wakefield !{w=0.26} C'est un lanceur de balle type papillon."
 
 # game/1_diya.rpy:916
 translate french lookDiamond2_a87ac58b:
@@ -1404,23 +1406,24 @@ translate french lookDiamond2_a87ac58b:
     # NPC "It's always fun watching these guys.{w=0.26} Knuckleballers are pretty rare."
     NPC "C'est toujours marrant de voir ces gars.{w=0.26} Les lanceurs papillons sont assez rares."
 
+
 # game/1_diya.rpy:917
 translate french lookDiamond2_623eeffd:
 
     # NPC "The movement on that pitch is nuts.{w=0.26} Like a butterfly with hiccups."
-    NPC "Ce mouvement de lancer est fou. {w=0.26} Comme un papillon qui aurait le hoquet."
+    NPC "Ce mouvement de lancer est fou.{w=0.26} Comme un papillon qui aurait le hoquet."
 
 # game/1_diya.rpy:919
 translate french lookDiamond2_1bd16b44:
 
     # DiyaT "Wow...{w=0.26}Some people actually talk to their parents on purpose...{w=0.26}Like,{w=0.10} for fun..."
-    DiyaT "Wow ... {w=0.26} Certaines personnes adressent volontairement la parole à leurs parents... {w=0.26} genre, {w=0.10}  pour avoir des conversations funs..."
+    DiyaT "Wow... {w=0.26} Certaines personnes parlent vraiment volontairement à leurs parents...{w=0.26} genre,{w=0.10} pour avoir des conversations funs..."
 
 # game/1_diya.rpy:923
 translate french lookDiamond2_fb828b3b:
 
     # DiyaT "I can't even imagine it. {w=0.26}Every time I talk to my parents,{w=0.10} it somehow turns into a lecture about something I did wrong."
-    DiyaT "Inimaginable pour moi.. {w=0.26} A chaque fois que je parle à mes parents,{w=0.10} ça finit en leçon de morale sur quelque chose que j'aurais fait de travers."
+    DiyaT "Inimaginable pour moi.. {w=0.26}A chaque fois que je parle à mes parents,{w=0.10} ça finit en leçon de morale sur quelque chose que j'aurais fait de travers."
 
 # game/1_diya.rpy:924
 translate french lookDiamond2_2a6f060c:
@@ -1432,25 +1435,25 @@ translate french lookDiamond2_2a6f060c:
 translate french lookDiamond2_3adb67d8:
 
     # NPC2 "How come they switched catchers,{w=0.10} too?"
-    NPC2 "Pourquoi ont ils changé {w=0.10} aussi de receveur ?"
+    NPC2 "Pourquoi ils ont changé de receveur {w=0.10}aussi ?"
 
 # game/1_diya.rpy:928
 translate french lookDiamond2_ea8080e9:
 
     # NPC "Because catching a knuckleball is really unpleasant and difficult."
-    NPC "Parce que rattraper une balle papillon est vraiment difficile."
+    NPC "Parce que rattraper une balle papillon, c'est vraiment désagréable et difficile."
 
 # game/1_diya.rpy:929
 translate french lookDiamond2_14af075f:
 
     # NPC "If you can do it reasonably well —{w=0.26} no one does it REALLY well — {w=0.26}that one skill can keep you on the team. "
-    NPC "Si t'es capable de l'attraper  à peu près —{w=0.26} personne n'y arrive VRAIMENT bien — {w=0.26}cette seule habilité peut te faire rester dans l'équipe."
+    NPC "Même si t'arrives à l'attraper à peu près —{w=0.26} personne n'y arrive VRAIMENT bien — {w=0.26} rien que savoir faire ça peut te faire garantir une place dans l'équipe."
 
 # game/1_diya.rpy:930
 translate french lookDiamond2_9be5ee51:
 
     # NPC "A lot of knuckleball pitchers end up having one catcher who specializes in catching that pitch just for them."
-    NPC "Beaucoup de lanceurs papillons finissent par avoir un receveur qui se spécialise dans la reception de ce genre de balle."
+    NPC "Beaucoup de lanceurs papillons finissent par être confrontés à un receveur qui se spécialise dans la réception de leurs balles."
 
 # game/1_diya.rpy:931
 translate french lookDiamond2_7837c201:
@@ -1462,7 +1465,7 @@ translate french lookDiamond2_7837c201:
 translate french lookDiamond2_64a25d06:
 
     # NPC "For instance,{w=0.10} J.C. Martin always caught Hoyt Wilhelm's knuckleball."
-    NPC "Par exemple,{w=0.10}  J.C. Martin rattrape toujours les balles papillons du lanceur Hoyt Wilhelm."
+    NPC "Par exemple,{w=0.10} J.C. Martin rattrape toujours les balles papillons du lanceur Hoyt Wilhelm."
 
 # game/1_diya.rpy:933
 translate french lookDiamond2_43ea5cfa:
@@ -1470,17 +1473,18 @@ translate french lookDiamond2_43ea5cfa:
     # NPC "And Doug Mirabelli always catches Tim Wakefield and his knuckleball for the Red Sox."
     NPC "Et Doug Mirabelli rattrape toujours celles de Tim Wakefield pour les Red Sox."
 
+
 # game/1_diya.rpy:934
 translate french lookDiamond2_eec5dc35:
 
     # NPC "The two of them even get traded together,{w=0.10} as a set."
-    NPC "Ces deux là ont même été transféré ensemble, {w=0.10} comme un lot de deux."
+    NPC "Ces deux là ont même été transférés ensemble,{w=0.10} comme un lot de deux."
 
 # game/1_diya.rpy:935
 translate french lookDiamond2_8ce9d51a:
 
     # NPC "It's like a weird baseball marriage."
-    NPC "C'est comme un speudo mariage de baseball."
+    NPC "C'est comme un pseudo mariage de baseball."
 
 # game/1_diya.rpy:937
 translate french lookDiamond2_5d8d9189:
@@ -1504,7 +1508,7 @@ translate french lookDiamond2_575df21a:
 translate french lookDiamond2_8d05013a:
 
     # Min "I should learn to throw knuckleball, {w=0.26} and you can catch it for me."
-    Min "Je devrais apprendre à lancer les balles papillons, {w=0.26} et tu pourrais les atrapper pour moi."
+    Min "J'devrais apprendre à lancer les balles papillons, {w=0.26} et tu pourrais les attraper pour moi."
 
 # game/1_diya.rpy:948
 translate french lookDiamond2_a1e4fa77:
@@ -1540,7 +1544,7 @@ translate french lookDiamond2_28449c5c:
 translate french lookDiamond2_0b0c3b3b:
 
     # Min "You've \"gotten lucky\" so many times I don't even know which one you're talking about."
-    Min "Tu as \"eu de la chance\" tellement de fois que je vois même pas de quand tu parles."
+    Min "T'as \"eu de la chance\" tellement d'fois que j'vois même pas de quand tu parles."
 
 # game/1_diya.rpy:962
 translate french lookDiamond2_bf6fc17c:
@@ -1552,7 +1556,7 @@ translate french lookDiamond2_bf6fc17c:
 translate french lookDiamond2_ccba4605:
 
     # Diya "They just happened by chance. I don't have a special technique or anything."
-    Diya "Ca arrive comme ça. Je n'ai pas de technique speciale ou quoi que ce soit."
+    Diya "Ca arrive comme ça. Je n'ai pas de technique spéciale ou quelque chose."
 
 # game/1_diya.rpy:966
 translate french lookDiamond2_5ef5200e:
@@ -1570,13 +1574,13 @@ translate french lookDiamond2_0c069f88:
 translate french lookDiamond2_68278656:
 
     # Diya "You're putting too much faith in me."
-    Diya "Tu mets trop d'espoir en moi."
+    Diya "Tu as trop foi en moi."
 
 # game/1_diya.rpy:971
 translate french lookDiamond2_c615a879:
 
     # Diya "I'm not that good."
-    Diya "Je ne suis pas si forte."
+    Diya "Je suis pas si forte."
 
 # game/1_diya.rpy:972
 translate french lookDiamond2_dcd538a0:
@@ -1588,7 +1592,7 @@ translate french lookDiamond2_dcd538a0:
 translate french lookDiamond2_ee9e8168:
 
     # Min "I'll never think that!"
-    Min "Je ne me dirai jamais ça !"
+    Min "Je me dirai jamais ça !"
 
 # game/1_diya.rpy:985
 translate french lookDiamond2_bb9a7e61:
@@ -1600,19 +1604,19 @@ translate french lookDiamond2_bb9a7e61:
 translate french lookDiamond2_971b4462:
 
     # Min "Why not? {w=0.26}The pitcher is the coolest."
-    Min "Pourquoi pas? {w=0.26} Le lanceur c'est le plus cool."
+    Min "Pourquoi pas ? {w=0.26}Le lanceur c'est le plus cool."
 
 # game/1_diya.rpy:991
 translate french lookDiamond2_3cc4f4d8:
 
     # Diya "You're so brave. {w=0.26}I hate pitching."
-    Diya "Je suis impressionnée. {w=0.26} Je déteste lancer."
+    Diya "T'es très courageuse. {w=0.26}Je déteste lancer."
 
 # game/1_diya.rpy:994
 translate french lookDiamond2_33d062e4:
 
     # Min "Why? {w=0.26}You get to stand on the mound and kick ass in front of everyone."
-    Min "Pourquoi? {w=0.26}T'as le droit de monter sur la petite butte, et t'es grave cool devant tout le monde."
+    Min "Pourquoi ? {w=0.26}T'as l'droit d'monter sur la p'tite butte, et t'es grave cool devant tout le monde."
 
 # game/1_diya.rpy:997
 translate french lookDiamond2_79599726:
@@ -1624,13 +1628,13 @@ translate french lookDiamond2_79599726:
 translate french lookDiamond2_2b46e446:
 
     # Diya "I don't want people watching every move I make."
-    Diya "Je ne veux pas que les gens regarde tout ce que je fais."
+    Diya "Je veux pas que les gens regardent tout ce que je fais."
 
 # game/1_diya.rpy:999
 translate french lookDiamond2_dce90ce8:
 
     # Diya "Especially if I'm the only girl. {w=0.26}If I mess up, {w=0.26}it'll look like all girls suck at baseball."
-    Diya "Surtout si je suis la seule fille. {w=0.26} Si je me foire, {w=0.26}c'est la réputation de toute les filles qui font du baseball qui prendra."
+    Diya "Surtout si je suis la seule fille. {w=0.26}Si je me foire, {w=0.26}c'est la réputation de toutes les filles qui font du baseball qui prendra."
 
 # game/1_diya.rpy:1003
 translate french lookDiamond2_b2a9a2a9:
@@ -1654,13 +1658,13 @@ translate french lookDiamond2_afbe4132:
 translate french lookDiamond2_713a990d:
 
     # Min "Anyway, {w=0.26}I'll be there with you."
-    Min "Bref, {w=0.26} Je serai là avec toi."
+    Min "Bref, {w=0.26}je serai là avec toi."
 
 # game/1_diya.rpy:1011
 translate french lookDiamond2_2ba8ad3c:
 
     # Min "If there's two of us,{w=0.26} we {i}both{/i} have to mess up for them to think that."
-    Min "Si on est deux, {w=0.26} alors il faudra qu'on foire {i}toutes les deux{/i} pour qu'ils pensent ça."
+    Min "Si on est deux, {w=0.26}alors il faudra qu'on foire {i}toutes les deux{/i} pour qu'ils pensent ça."
 
 # game/1_diya.rpy:1014
 translate french lookDiamond2_56bfc018:
@@ -1678,7 +1682,7 @@ translate french lookDiamond2_3ae0dff5:
 translate french lookDiamond2_7b63ab9f:
 
     # Min "I won't give up if you don't give up."
-    Min "Je n'abandonnerai pas si toi non plus."
+    Min "J'abandonnerai pas si t'abandonne pas non plus."
 
 # game/1_diya.rpy:1021
 translate french lookDiamond2_93212e9d:
@@ -1702,13 +1706,13 @@ translate french lookDiamond2_56b0e5cd:
 translate french lookDiamond2_7ba18817:
 
     # Min "It'll be you and me against the world!" with sshake
-    Min "Ce sera toi et moi contre le monde !" with sshake
+    Min "Ce s'ra toi et moi contre le monde !" with sshake
 
 # game/1_diya.rpy:1029
 translate french lookDiamond2_91bd24c3:
 
     # Diya "Okay.{w=0.26} Let's do it."
-    Diya "Ok. {w=0.26} Faisons ça !"
+    Diya "Ok. {w=0.26}On fera ça !"
 
 # game/1_diya.rpy:1036
 translate french lookDiamond3_b66d0b41:
@@ -1720,7 +1724,7 @@ translate french lookDiamond3_b66d0b41:
 translate french lookDiamond3_f933755a:
 
     # extend "{w=0.26} It pops up foul!"
-    extend "{w=0.26} Je le sens mal !"
+    extend "{w=0.26} Et c'est une faute !"
 
 # game/1_diya.rpy:1046
 translate french lookDiamond3_48d94a03:
@@ -1756,13 +1760,13 @@ translate french lookDiamond3_40e6881f:
 translate french lookDiamond3_3d48bad3:
 
     # Jun "Wow!{w=0.26} Diya,{w=0.10} that was— "
-    Jun "Ouah ! {w=0.26} Diya,{w=0.10} c'était — "
+    Jun "Ouah !{w=0.26} Diya,{w=0.10} c'était — "
 
 # game/1_diya.rpy:1067
 translate french lookDiamond3_90df30f0:
 
     # Min "{big=+20}SO COOL!!{w=0.26} YOU'RE SO COOL!!!{/big}" with sshake
-    Min "{big=+20}TROP OUF !! {w=0.26} T'ES TROP OUF !!!{/big}" with sshake
+    Min "{big=+20}TROP OUF !!{w=0.26} T'ES TROP OUF !!!{/big}" with sshake
 
 # game/1_diya.rpy:1073
 translate french lookDiamond3_7971ba1f:
@@ -1774,7 +1778,7 @@ translate french lookDiamond3_7971ba1f:
 translate french lookDiamond3_d1c41d76:
 
     # DiyaT "I better give this to Jun or Min. "
-    DiyaT "Je ferai mieux de donner ca à Jun ou Min."
+    DiyaT "Je ferais mieux de donner ca à Jun ou Min."
 
 # game/1_diya.rpy:1076
 translate french lookDiamond3_e1630739:
@@ -1786,7 +1790,7 @@ translate french lookDiamond3_e1630739:
 translate french lookDiamond3_fb56b73e:
 
     # "Min sits back down. {w=0.26}Apparently she had gotten up at some point to jump around and scream."
-    "Min se rassoie. {w=0.26}Elle s'était apparemment levée à un moment pour crier et sauter."
+    "Min se rassoit. {w=0.26}Elle s'était apparemment levée à un moment pour crier et sauter."
 
 # game/1_diya.rpy:1079
 translate french lookDiamond3_ac0160c5:
@@ -1834,7 +1838,7 @@ translate french giveJunseo_9d3caf55:
 translate french giveJunseo_1d0f37ea:
 
     # Jun "I don't like baseball that much,{w=0.10} but now I'll always have something to remember you by."
-    Jun "Je n'aime pas tant que ça le baseball,{w=0.10} mais maintenant j'aurai toujours de quoi me souvenir de toi."
+    Jun "J'aime pas tant que ça le baseball,{w=0.10} mais maintenant j'aurai toujours de quoi me souvenir de toi."
 
 # game/1_diya.rpy:1109
 translate french giveMin_b654fa26:
@@ -1852,7 +1856,7 @@ translate french giveMin_a5f1ea07:
 translate french giveMin_b2c9970d:
 
     # Min "I'll treasure it forever.{w=0.26} If anyone else touches it, I'll kill them."
-    Min "Je le chérirai pour toujours. {w=0.26} Si quelqu'un d'autre y touche, je le tue..."
+    Min "Ce s'ra mon trésor pour toujours.{w=0.26} Si quelqu'un d'autre y touche, j'le tue..."
 
 # game/1_diya.rpy:1119
 translate french giveMin_49a023a2:
@@ -1864,7 +1868,7 @@ translate french giveMin_49a023a2:
 translate french giveMin_02d4afe9:
 
     # Jun "It's a big deal,{w=0.10} though!{w=0.26} Now we'll always have something to remember you by."
-    Jun "Mais c'est une grosse affaire {w=0.10} ! Maintenant, {w=0.26} nous aurons toujours quelque chose pour nous souvenir de toi."
+    Jun "Mais c'est pas rien{w=0.10} ! Maintenant, {w=0.26} on aura toujours quelque chose pour se souvenir de toi."
 
 # game/1_diya.rpy:1126
 translate french rememberBy_9fa2cfca:
@@ -1876,13 +1880,13 @@ translate french rememberBy_9fa2cfca:
 translate french rememberBy_63a38157:
 
     # Diya "What do you mean,{w=0.10} remember me by."
-    Diya "Comment ça, se souvenir de moi {w=0.10} ?"
+    Diya "Comment ça,{w=0.10} se souvenir de moi ?"
 
 # game/1_diya.rpy:1128
 translate french rememberBy_1d49759b:
 
     # Diya "That makes it sound like I'm going to die or something. "
-    Diya "Ça me donne l'impression que je vais mourir. "
+    Diya "On dirait que tu dis que je vais mourir ou un truc du genre. "
 
 # game/1_diya.rpy:1133
 translate french rememberBy_23d010ae:
@@ -1894,7 +1898,7 @@ translate french rememberBy_23d010ae:
 translate french rememberBy_bd9974fd:
 
     # Jun "Did... {w=0.26}did Min not tell you!?" with sshake
-    Jun "Est-ce que... {w=0.26}Est-ce que Min ne tel'a pas dit ?" with sshake
+    Jun "Euh... {w=0.26}Min ne t'a rien dit ?" with sshake
 
 # game/1_diya.rpy:1139
 translate french rememberBy_de0769e3:
@@ -1912,25 +1916,25 @@ translate french rememberBy_d45df5f3:
 translate french rememberBy_a01b29b7:
 
     # Jun "We're—{w=0.26}{nw}"
-    Jun "On est—{w=0.26}{nw}"
+    Jun "On va—{w=0.26}{nw}"
 
 # game/1_diya.rpy:1146
 translate french rememberBy_254ba8e3:
 
     # Min "{cps=+60}{big=+20}SHUT THE HELL YOUR MOUTH!{/big}{/cps}" with bigShake
-    Min "{cps=+60}{big=+20}FERME-LA !{/big}{/cps}" with bigShake
+    Min "{cps=+60}{big=+20}FERME-LA TA GUEULE!{/big}{/cps}" with bigShake
 
 # game/1_diya.rpy:1148
 translate french rememberBy_ec8a6057:
 
     # DiyaT "What............. {w=0.26}what the heck........"
-    DiyaT "Quoi............. {w=0.26} merde........"
+    DiyaT "Quoi............. {w=0.26} mais de quoi il........"
 
 # game/1_diya.rpy:1156
 translate french rememberBy_8ce6c2bb:
 
     # Min "{cps=+60}{big=+20}IT'S NOTHING!!!{w=0.07} FUCK THE SHUT UP!!!{/big}{/cps}" with bigShake
-    Min "{cps=+60}{big=+20} C'EST RIEN!!!{w=0.07} PUTAIN, LA FERME ! !! {/big}{/cps}" with bigShake
+    Min "{cps=+60}{big=+20} C'EST RIEN !!!{w=0.07} PUTAIN, LA FERME !!! {/big}{/cps}" with bigShake
 
 # game/1_diya.rpy:1160
 translate french rememberBy_f4249266:
@@ -1948,13 +1952,13 @@ translate french rememberBy_11d2098a:
 translate french rememberBy_f76d4c84:
 
     # DiyaT "I've got to go after her!" with sshake
-    DiyaT "Je dois aller la chercher...!" with sshake
+    DiyaT "Il faut que je la suive !" with sshake
 
 # game/1_diya.rpy:1180
 translate french confession_99b65570:
 
     # "Diya chases Min up the steps and down the concourse they arrived through!"
-    "Diya poursuit Min en montant les marches et en descendant le hall par lequel elles sont arrivées !"
+    "Diya poursuit Min, monte les marches puis redescend dans le hall par lequel elles sont arrivées !"
 
 # game/1_diya.rpy:1193
 translate french confession_0bc34ca6:
@@ -1984,7 +1988,7 @@ translate french confession_136db9e2:
 translate french confession_5791ef83:
 
     # Diya "Are you oka—"
-    Diya "Est-ce que ça va...?"
+    Diya "Est-ce que ça v—"
 
 # game/1_diya.rpy:1224
 translate french confession_a645302e:
@@ -2026,7 +2030,7 @@ translate french confession_48d8630f:
 translate french confession_df13d28b:
 
     # Min "It wasn't sudden. I've known for a long time."
-    Min "C'était pas soudain. Je le sais depuis longtemps."
+    Min "C'était pas soudain. J'le sais depuis longtemps."
 
 # game/1_diya.rpy:1238
 translate french confession_3ad45c68:
@@ -2038,7 +2042,7 @@ translate french confession_3ad45c68:
 translate french confession_35401b85:
 
     # Min "I can't believe it failed!{w=0.26} Violence is always the answer!" with sshake
-    Min "Je ne peux pas croire que ça ait raté !{w=0.26} La violence est toujours la réponse !" with sshake
+    Min "J'peux pas croire que ça ait raté !{w=0.26} La violence est toujours la réponse !" with sshake
 
 # game/1_diya.rpy:1243
 translate french confession_21652c05:
@@ -2056,31 +2060,31 @@ translate french confession_f96398ef:
 translate french confession_16f6705f:
 
     # Min "There's nothing there except old people."
-    Min "Il n'y a rien d'autre que des personnes âgées."
+    Min "Y'a rien d'autre que des vieux."
 
 # game/1_diya.rpy:1249
 translate french confession_ecb9355c:
 
     # Diya "No, alligators live there, too. I saw on Animal Planet."
-    Diya "Non, les alligators aussi y vivent. J'ai vu ça sur Animal Planet."
+    Diya "Non, y'a des alligators aussi. J'ai vu ça à la télé."
 
 # game/1_diya.rpy:1251
 translate french confession_b12b817e:
 
     # Diya "So this is it?"
-    Diya "Alors, c'est comme ça ?"
+    Diya "Alors, c'est tout ?"
 
 # game/1_diya.rpy:1254
 translate french confession_a53c1cf7:
 
     # Min "This is it. Sorry."
-    Min "Ouaip. Désolée."
+    Min "Ouais. Désolée."
 
 # game/1_diya.rpy:1256
 translate french confession_4ad543ca:
 
     # Diya "But that's not fair."
-    Diya "Mais c'est pas juste"
+    Diya "Mais c'est pas juste."
 
 # game/1_diya.rpy:1257
 translate french confession_6b166787:
@@ -2092,25 +2096,25 @@ translate french confession_6b166787:
 translate french confession_c3a740c9:
 
     # Diya "I won't see you the rest of my life."
-    Diya "Je ne te verrai plus jamais de ma vie."
+    Diya "Je te verrai plus jamais de ma vie."
 
 # game/1_diya.rpy:1262
 translate french confession_58d34360:
 
     # Min "Hey, just because I'm moving doesn't mean we'll never meet again."
-    Min "Eh, c'est pas parce que je déménage qu'on se reverra jamais."
+    Min "Eh, c'est pas parce que je déménage qu'on se reverra plus jamais."
 
 # game/1_diya.rpy:1263
 translate french confession_1102bb06:
 
     # Min "If I want to see you and you want to see me, eventually it'll end up happening again, right?"
-    Min "Si je veux te voir et que tu veux me voir, ca arrivera forcement au bout d'un moment hein."
+    Min "Si j'veux te voir et qu'tu l'veux aussi ça finira forcement par arriver, hein ?"
 
 # game/1_diya.rpy:1266
 translate french confession_a67cb64b:
 
     # Diya "How do you know?"
-    Diya "Qu'est-ce que t'en sais ?"
+    Diya "Comment tu sais ?"
 
 # game/1_diya.rpy:1269
 translate french confession_229406b2:
@@ -2122,7 +2126,7 @@ translate french confession_229406b2:
 translate french confession_c348a683:
 
     # Diya "That's not a reason."
-    Diya "C'est pas un argument."
+    Diya "C'est pas une raison."
 
 # game/1_diya.rpy:1274
 translate french confession_77895885:
@@ -2140,13 +2144,13 @@ translate french confession_ddb3a117:
 translate french confession_082b31ec:
 
     # "Suddenly,{w=0.10} Min seizes Diya's arm!{w=0.26} She looks like she's had an epiphany!" with sshake
-    "Soudain, {w=0.10} Min saisit le bras de Diya ! On dirait qu'elle a eu une révélation !" with sshake
+    "Soudain,{w=0.10} Min saisit le bras de Diya !{w=0.26} On dirait qu'elle a eu une révélation !" with sshake
 
 # game/1_diya.rpy:1280
 translate french confession_bccabff1:
 
     # Min "If you say our names together,{w=0.10} it sounds like \"diamond\"!" with sshake
-    Min "Si on dit nos noms ensemble, ça ressemble à \"Diamant\" !" with sshake
+    Min "Si on dit nos noms ensemble,{w=0.10} ça ressemble à \"Diamant\" !" with sshake
 
 # game/1_diya.rpy:1282
 translate french confession_30c11479:
@@ -2164,31 +2168,31 @@ translate french confession_7287c910:
 translate french confession_c8b393bd:
 
     # Min "Diya-Min... {w=0.26}diamond... {w=0.26}see?"
-    Min "Diya-Min... {w=0.26}diamant... {w=0.26}tu vois ?"
+    Min "Diya-Min... {w=0.26}dia-mant... {w=0.26}tu vois ?"
 
 # game/1_diya.rpy:1286
 translate french confession_f34c83d9:
 
     # Min "It's even more like it if you say your name wrong,{w=0.2} like DIE-ya instead of Dee-ya."
-    Min "C'est encore plus vrai si on prononce mal ton nom {w=0.2}, comme Di-a au lieu de Daï-a."
+    Min "C'est encore plus vrai si on prononce mal ton nom {w=0.2}, comme Di-A au lieu de Di-ya."
 
 # game/1_diya.rpy:1288
 translate french confession_a4d617aa:
 
     # Diya "I'm not saying my name wrong just to make it sound like diamond."
-    Diya "Je dis pas mon nom de travers juste pour le faire sonner comme un diamant."
+    Diya "Je dirai pas mon nom de travers juste pour le faire sonner comme \"diamant\"."
 
 # game/1_diya.rpy:1291
 translate french confession_3174171e:
 
     # Min "But it's more equal like that! {w=0.26}My name got cut in half to make it work,{w=0.2} so I had to sacrifice something, too."
-    Min "Mais c'est plus égalitaire comme ça ! Mon nom a été coupé en deux pour que ça marche, alors j'ai dû sacrifier quelque chose aussi."
+    Min "Mais c'est plus juste comme ça ! Faut couper mon nom en deux pour qu'ça marche, alors j'ai dû sacrifier quelque chose aussi."
 
 # game/1_diya.rpy:1293
 translate french confession_5307c4ae:
 
     # Diya "I already call you Min.{w=0.26} No one says DIE-ya."
-    Diya "Je t'appelle déjà Min {w=0.26}. Personne ne dit Di-a."
+    Diya "Je t'appelle déjà Min {w=0.26}. Personne ne dit Di-A."
 
 # game/1_diya.rpy:1296
 translate french confession_c45d7d50:
@@ -2212,25 +2216,25 @@ translate french confession_1b62f8b4:
 translate french confession_231bc7a1:
 
     # Min "I was checking if our names sounded like anything good together,{w=0.10} like \"baseball.\""
-    Min "Je vérifiais si nos noms ressemblaient à quelque chose de bien ensemble, {w=0.10}comme \"baseball.\""
+    Min "Je vérifiais si nos noms ressemblaient à quelque chose de bien ensemble,{w=0.10} comme \"baseball.\""
 
 # game/1_diya.rpy:1304
 translate french confession_efa7c7e8:
 
     # Diya "How could it possibly sound like baseball?{w=0.26}\nOur parents would've had to name us \"Base\" and \"Ball\". "
-    Diya "Comment ça pourrait ressembler à baseball ?{w=0.26}\n Nos parents auraient dû nous appeler \"Base\" et \"Ball\". "
+    Diya "Comment ça pourrait ressembler à \"baseball.\" ?{w=0.26}\n Nos parents auraient dû nous appeler \"Base\" et \"Ball\". "
 
 # game/1_diya.rpy:1307
 translate french confession_ff4a9a1d:
 
     # Min "I know,{w=0.10} I know!"
-    Min "Je sais,{w=0.10} Je sais !"
+    Min "Je sais,{w=0.10} je sais !"
 
 # game/1_diya.rpy:1309
 translate french confession_5f9e76dc:
 
     # Min "But still,{w=0.10} it's pretty cool that we match at all,{w=0.10} right?!"
-    Min "Mais quand même,{w=0.10} c'est plutôt cool que nous soyons compatibles,{w=0.10} non ?!"
+    Min "Mais quand même,{w=0.10} c'est plutôt cool qu'on soit compatibles,{w=0.10} non ?!"
 
 # game/1_diya.rpy:1310
 translate french confession_0ef0394e:
@@ -2248,37 +2252,37 @@ translate french confession_48949483:
 translate french confession_69312404:
 
     # DiyaT "Whoa!! {w=0.26}I guess she's right!!!" with sshake
-    DiyaT "Wouaou!! {w=0.26}Je crois qu'elle a raison !!!" with sshake
+    DiyaT "Wouaou!! {w=0.26}Elle a raison en fait !!!" with sshake
 
 # game/1_diya.rpy:1318
 translate french confession_0794d298:
 
     # Min "We'll meet again no matter what!"
-    Min "Nous nous retrouverons quoi qu'il arrive !"
+    Min "On se r'trouvera quoi qu'il arrive !"
 
 # game/1_diya.rpy:1320
 translate french confession_8c433bb0:
 
     # Min "I'll bet you $100!!"
-    Min "Je te parie 100 dollars !"
+    Min "J'te parie 100 dollars !"
 
 # game/1_diya.rpy:1322
 translate french confession_8d246999:
 
     # Diya "Wait. But how are you going to give me the $100 if you lose?"
-    Diya "Attend, mais comment tu vas me filer 100 dollars si tu perds ?"
+    Diya "Attends, mais comment tu vas me filer 100 dollars si tu perds ?"
 
 # game/1_diya.rpy:1325
 translate french confession_5579f030:
 
     # Min "Huh? I just will."
-    Min "Hein ? Je le ferais."
+    Min "Hein ? J'le ferai."
 
 # game/1_diya.rpy:1327
 translate french confession_9d6e6b4d:
 
     # Diya "No, but if you're able to meet me, that means you won the bet."
-    Diya "Non, mais si tu es en mesure de me rencontrer, cela signifie que tu as gagné le pari."
+    Diya "Non, mais si tu peux me voir en vrai, ça veut dire que t'as gagné le pari."
 
 # game/1_diya.rpy:1330
 translate french confession_8b49c2b5:
@@ -2296,13 +2300,13 @@ translate french confession_8425f177:
 translate french confession_0a1f3f0c:
 
     # Min "Technically, I guess?"
-    Min "Techniquement, tu veux dire ?"
+    Min "Techniquement, j'imagine que ouais ?"
 
 # game/1_diya.rpy:1336
 translate french confession_d6240548:
 
     # Diya "There's nothing technical about it. You just straight up wouldn't pay me."
-    Diya "Il n'y a rien de technique là-dedans. Tu ne me payeras."
+    Diya "Y a rien de technique là-dedans. Tu me payeras pas."
 
 # game/1_diya.rpy:1339
 translate french confession_8425f177_1:
@@ -2320,7 +2324,7 @@ translate french confession_ccb911e5:
 translate french confession_0859ad32:
 
     # DiyaT "She still doesn't get it..."
-    DiyaT "Elle ne comprend toujours pas..."
+    DiyaT "Elle comprend toujours pas..."
 
 # game/1_diya.rpy:1345
 translate french confession_e6dce072:
@@ -2332,19 +2336,19 @@ translate french confession_e6dce072:
 translate french confession_3c21c3bc:
 
     # Min "{big=+20}YEAH, WHATEVER!{w=0.26} YOU KNOW WHAT I MEAN!!{/big}" with sshake
-    Min "{big=+20}OUAI, PEU IMPORTE !{w=0.26} TU VOIS CE QUE JE VEUX DIRE !!{/big}" with sshake
+    Min "{big=+20}OUAIS, PEU IMPORTE !{w=0.26} T'VOIS C'QUE J'VEUX DIRE !!{/big}" with sshake
 
 # game/1_diya.rpy:1352
 translate french confession_4387b76d:
 
     # Min "The point is,{w=0.10} this isn't the end!"
-    Min "Le fait est que{w=0.10} ce n'est pas la fin !"
+    Min "Le fait est que,{w=0.10} c'est pas la fin !"
 
 # game/1_diya.rpy:1354
 translate french confession_7b63ab9f:
 
     # Min "I won't give up if you don't give up."
-    Min "Je n'abandonnerai pas si tu n'abandonnes pas."
+    Min "J'abandonnerai pas si t'abandonnes pas."
 
 # game/1_diya.rpy:1355
 translate french confession_27590a2a:
@@ -2362,7 +2366,7 @@ translate french confession_fd841d5d:
 translate french confession_aa02bf34:
 
     # Diya "I won't give up if you don't give up."
-    Diya "Je n'abandonnerai pas si tu n'abandonnes pas."
+    Diya "J'abandonnerai pas si t'abandonnes pas."
 
 # game/1_diya.rpy:1360
 translate french confession_354c6f47:
@@ -2398,7 +2402,7 @@ translate french lookEmptySeat_5715f571:
 translate french lookEmptySeat_5ff5b51f:
 
     # DiyaT "I hope he didn't get lost."
-    DiyaT "J'espère qu'il ne s'est pas perdu."
+    DiyaT "J'espère qu'il s'est pas perdu."
 
 # game/1_diya.rpy:1410
 translate french lookEmptySeat_95609e89:
@@ -2428,25 +2432,25 @@ translate french softball_0db1259d:
 translate french softball_dbbea7b6:
 
     # Diya "If your parents won't let you play baseball, why don't you just play softball instead?"
-    Diya "Si tes parents ne te laissent pas jouer au base-ball, pourquoi ne pas jouer au softball à la place ?"
+    Diya "Si tes parents te laissent pas jouer au base-ball, pourquoi tu joues pas au softball à la place ?"
 
 # game/1_diya.rpy:1459
 translate french softball_63dc970e:
 
     # Min "Give me your hand. I'll show you."
-    Min "Donne moi ta main. Je vais te montrer."
+    Min "Donne-moi ta main. Je vais te montrer."
 
 # game/1_diya.rpy:1461
 translate french softball_9fa2cfca:
 
     # Diya "...?"
-    Diya "...?"
+    Diya "... ?"
 
 # game/1_diya.rpy:1463
 translate french softball_cefbd898:
 
     # "Diya offers Min her hand."
-    "Diya offre sa main à Min."
+    "Diya donne sa main à Min."
 
 # game/1_diya.rpy:1464
 translate french softball_4ba940ec:
@@ -2482,7 +2486,7 @@ translate french softball_21001510:
 translate french softball_4f7a8980:
 
     # Min "My hand is too small to grip a softball correctly."
-    Min "Ma main est trop petite pour tenir comme il faut une balle de softball."
+    Min "Ma main est trop p'tite pour tenir comme y faut une balle de softball."
 
 # game/1_diya.rpy:1474
 translate french softball_22db8932:
@@ -2494,7 +2498,7 @@ translate french softball_22db8932:
 translate french softball_9fa2cfca_1:
 
     # Diya "...?"
-    Diya "...?"
+    Diya "... ?"
 
 # game/1_diya.rpy:1477
 translate french softball_fb07044a:
@@ -2512,13 +2516,13 @@ translate french softball_1fb00b78:
 translate french softball_afe8ad7a:
 
     # Diya "But that makes no sense. Shouldn't guys play softball and girls play baseball then?"
-    Diya "Mais ça n'a aucun sens. Dans ce cas, les gars devraient jouer au softball et les filles au baseball, non ?"
+    Diya "Mais ça n'a aucun sens. Dans ce cas, les garçons devraient jouer au softball et les filles au baseball, non ?"
 
 # game/1_diya.rpy:1483
 translate french softball_9fb3444e:
 
     # Diya "Since guys usually have bigger hands."
-    Diya "Puisque les mecs ont généralement des plus grosses mains."
+    Diya "Puisque les garçons ont généralement des plus grosses mains."
 
 # game/1_diya.rpy:1484
 translate french softball_df3583a3:
@@ -2560,7 +2564,7 @@ translate french iWannaPlay_9fa2cfca:
 translate french iWannaPlay_38f04223:
 
     # Min "Never mind! Everything is fine!" with sshake
-    Min "En s'en fout ! Tout va très bien !" with sshake
+    Min "On s'en fout ! Tout va très bien !" with sshake
 
 # game/1_diya.rpy:1513
 translate french iWannaPlay_2f9561e7:
@@ -2614,7 +2618,7 @@ translate french iWannaPlay_a1f8b9a1:
 translate french iWannaPlay_4ce59591:
 
     # Diya "Are you sure everything is okay?"
-    Diya "Es-tu sûre que tout va bien ?"
+    Diya "T'es sûre que tout va bien ?"
 
 # game/1_diya.rpy:1542
 translate french iWannaPlay_869e15b2:
@@ -2626,13 +2630,13 @@ translate french iWannaPlay_869e15b2:
 translate french iWannaPlay_5708fffb:
 
     # DiyaT "I don't think I'm getting anywhere questioning her like this."
-    DiyaT "Je pense que je ne vais arriver à rien en la questionnant comme ça."
+    DiyaT "Je pense que je vais arriver à rien en la questionnant comme ça."
 
 # game/1_diya.rpy:1554
 translate french offerPopcorn_866f89c7:
 
     # "Diya holds out the popcorn bucket."
-    "Diya tend le pot à popcorn."
+    "Diya tend le pot de popcorn."
 
 # game/1_diya.rpy:1557
 translate french offerPopcorn_d3954095:
@@ -2680,7 +2684,7 @@ translate french walk1_00425d8a:
 translate french walk1_1b070f46:
 
     # Min "Look!!{w=0.26} There's so many white people here!!!" with sshake
-    Min "Regarde !!{w=0.26} Il y a tellement de blancs ici !!!" with sshake
+    Min "Regarde !!{w=0.26} Y'a tellement de blancs ici !!!" with sshake
 
 # game/1_diya.rpy:1589
 translate french walk1_9388d082:
@@ -2692,19 +2696,19 @@ translate french walk1_9388d082:
 translate french walk1_552ffd49:
 
     # DiyaT "It really is..."
-    DiyaT "Ça l'est vraiment..."
+    DiyaT "On dirait bien..."
 
 # game/1_diya.rpy:1593
 translate french walk1_c23b2dae:
 
     # DiyaT "The neighborhood we live in is so Asian that I used to think white people were really rare."
-    DiyaT "Le quartier où on habite est tellement asiatique que je pensais que les blancs étaient super rares."
+    DiyaT "Le quartier où on habite est tellement asiatique que j'pensais qu'les blancs étaient super rares."
 
 # game/1_diya.rpy:1596
 translate french walk1_6b9fea36:
 
     # DiyaT "Too bad all these people are in our way right now,{w=0.10} though."
-    DiyaT "Dommage que tout ce peuple nous bloque le chemin, là, maintenant,{w=0.10} en fait."
+    DiyaT "Dommage que tout ce monde nous bloque le chemin, là, maintenant,{w=0.10} en fait."
 
 # game/1_diya.rpy:1597
 translate french walk1_9672ba0d:
@@ -2764,7 +2768,7 @@ translate french walk1_fd841d5d:
 translate french walk1_af41d50f:
 
     # "Min grabs someone's baseball bat off the ground and starts hitting people with it!" with sshake
-    "Min ramasse par terre une qui traînait, et commence à taper des gens avec!" with sshake
+    "Min ramasse par terre une batte de baseball qui traînait, et commence à taper des gens avec !" with sshake
 
 # game/1_diya.rpy:1634
 translate french walk1_d6f0f2de:
@@ -2806,7 +2810,7 @@ translate french lookStrangers_2ba74e8b:
 translate french lookStrangers_3a571cd9:
 
     # DiyaT "Are they laughing at me?"
-    DiyaT "Ils se moquent de moi?"
+    DiyaT "Ils se moquent de moi ?"
 
 # game/1_diya.rpy:1690
 translate french lookStrangers_3067246a:
@@ -2824,7 +2828,7 @@ translate french lookStrangers_7fff4e87:
 translate french lookStrangers_5c6fade0:
 
     # DiyaT "I hope they're not saying bad stuff about me."
-    DiyaT "J'espère qu'ils ne disent pas des trucs trash sur moi."
+    DiyaT "J'espère qu'ils disent rien de méchant sur moi."
 
 # game/1_diya.rpy:1708
 translate french walk2_914dd5e7:
@@ -2836,7 +2840,7 @@ translate french walk2_914dd5e7:
 translate french walk2_42aa1863:
 
     # Min "{big=+15}MOVE OR I'LL KILL YOUR ENTIRE FAMILY!!{/big}" with sshake
-    Min "{big=+15}BOUGEZ-VOUS OU JE BUTE TOUTE VOTRE FAMILLE!!{/big}" with sshake
+    Min "{big=+15}BOUGEZ-VOUS OU J'BUTE TOUTE VOTRE FAMILLE !!{/big}" with sshake
 
 # game/1_diya.rpy:1727
 translate french walk2_c4689abf:
@@ -2848,7 +2852,7 @@ translate french walk2_c4689abf:
 translate french walk2_d2dc7930:
 
     # Min "{big=+15}I'LL THROW ALL YOUR FISH OUT INTO THE MIDDLE OF THE STREET SO CARS WILL RUN OVER THEM!!{/big}" with sshake
-    Min "{big=+15}JE VAIS BALANCER TOUS VOS POISSONS AU MILIEU DE LA ROUTE POUR QU'ILS SE FASSENT ROULER DESSUS PAR DES BAGNOLES !!{/big}" with sshake
+    Min "{big=+15}J'VAIS BALANCER TOUS VOS POISSONS AU MILIEU D'LA ROUTE POUR QU'ILS S'FASSENT ROULER DESSUS PAR DES BAGNOLES !!{/big}" with sshake
 
 # game/1_diya.rpy:1735
 translate french walk2_136db9e2:
@@ -2872,13 +2876,13 @@ translate french walk2_7d76a0ce:
 translate french walk2_f83d6d69:
 
     # DiyaT "And whenever I land on her space in Monopoly, she says I don't need to pay her."
-    DiyaT "Et à chaque fois que j'atteris chez elle au Monopoly, elle me dit que j'ai pas besoin de raquer."
+    DiyaT "Et à chaque fois que j'atterris chez elle au Monopoly, elle me dit que j'ai pas besoin de payer."
 
 # game/1_diya.rpy:1742
 translate french walk2_b3b7dcf2:
 
     # Min "{big=+15}DIEEEEEEEE!!!{/big}" with sshake
-    Min "{big=+15}CRÈÈÈÈÈÈÈÈÈÈVE!!!{/big}" with sshake
+    Min "{big=+15}CRÈÈÈÈÈÈÈÈÈÈVE !!!{/big}" with sshake
 
 # game/1_diya.rpy:1750
 translate french walk2_136db9e2_1:
@@ -2914,13 +2918,13 @@ translate french approach_ff560021:
 translate french approach_2c4ef634:
 
     # DiyaT "I give up.{w=0.26} Time to walk away."
-    DiyaT "J'abandonne.{w=0.26} C'est le moment de partir.."
+    DiyaT "J'abandonne.{w=0.26} Tant pis..."
 
 # game/1_diya.rpy:1802
 translate french approach_5e63cddd:
 
     # Min "HEY GRANDPA!! {w=0.26}GIVE US POPCORN OR ELSE!!" with sshake
-    Min "HÉ PAPY !! {w=0.26}FILE-NOUS DU POPCORN, SINON !!" with sshake
+    Min "HÉ PAPY !! {w=0.26}FILE-NOUS DU POPCORN, SINON..." with sshake
 
 # game/1_diya.rpy:1805
 translate french approach_9fa12acd:
@@ -2932,13 +2936,13 @@ translate french approach_9fa12acd:
 translate french approach_34d619c1:
 
     # NPC "Then you better pay up! {w=0.26}These are $10 a bucket!"
-    NPC "Ben t'as intérêt à payer ! {w=0.26}C'est 10 dollars le pot !"
+    NPC "Ben t'as intérêt à payer ! {w=0.26}C'est 10 dollars le seau !"
 
 # game/1_diya.rpy:1811
 translate french approach_84abafd6:
 
     # DiyaT "$10?!" with sshake
-    DiyaT "10 DOLLARS ?!" with sshake
+    DiyaT "10 dollars ?!" with sshake
 
 # game/1_diya.rpy:1815
 translate french approach_b9fe72a1:
@@ -2950,25 +2954,25 @@ translate french approach_b9fe72a1:
 translate french approach_969651b9:
 
     # "Min hit the man in the groin with her bat!" with sshake
-    "Min tape l'homme dans le pif avec sa batte." with sshake
+    "Min tape l'homme dans les couilles avec sa batte !" with sshake
 
 # game/1_diya.rpy:1824
 translate french approach_41ae48dc:
 
     # NPC "Oof!" with sshake
-    NPC "Oof!" with sshake
+    NPC "Oof !" with sshake
 
 # game/1_diya.rpy:1829
 translate french approach_03db8a35:
 
     # "The man sinks to the ground as if he's been shot!"
-    "L'homme s'effondre par terre comme s'il s'était pris une balle!"
+    "L'homme s'effondre par terre comme s'il s'était pris une balle !"
 
 # game/1_diya.rpy:1833
 translate french approach_d36b8805:
 
     # "Min grabs a popcorn bucket out of his tray!"
-    "Min chipe un pot à popcorn de son plateau!"
+    "Min chipe un seau à popcorn de son plateau !"
 
 # game/1_diya.rpy:1835
 translate french approach_17cf63b0_1:
@@ -2986,13 +2990,13 @@ translate french approach_7d308d8c:
 translate french lookPopcornGuy_bdf3cf70:
 
     # DiyaT "He's still curled up in pain."
-    DiyaT "Il est encore en plié de douleur."
+    DiyaT "Il est encore plié de douleur."
 
 # game/1_diya.rpy:1904
 translate french lookPopcornGuy_8629e93f:
 
     # DiyaT "We better go before he recovers and comes after us."
-    DiyaT "On a intérêt à se barrer avant qu'il récupère et nous courre après."
+    DiyaT "On a intérêt à se barrer avant qu'il récupère et nous coure après."
 
 # game/1_diya.rpy:1913
 translate french lookDog_56ffa532:
@@ -3004,13 +3008,13 @@ translate french lookDog_56ffa532:
 translate french lookDog_74972eba:
 
     # DiyaT "I want 5 dogs when I grow up.{w=0.26} It'll be like having 5 friends."
-    DiyaT "Je veux 5 chiens plus tard.{w=0.26} Ce sera comme avoir 5 amis.."
+    DiyaT "Je veux 5 chiens plus tard.{w=0.26} Ça sera comme avoir 5 amis."
 
 # game/1_diya.rpy:1917
 translate french lookDog_6e0da1c7:
 
     # DiyaT "Min will probably train them all into attack dogs,{w=0.10} though."
-    DiyaT "Min va sûrement tous les entraîner comme des chiens d'attaque,{w=0.10} ouais."
+    DiyaT "Min va sûrement tous les entraîner comme des chiens d'attaque,{w=0.10} par contre."
 
 # game/1_diya.rpy:1925
 translate french lookDog_70d5a326:
@@ -3034,13 +3038,13 @@ translate french lookDog_1ffdc7ed:
 translate french lookDog_5003b4bd:
 
     # DiyaT "It's a dog! Cute dog!"
-    DiyaT "C'est un chien ! Chien mignon !"
+    DiyaT "C'est un chien ! Un chien mignon !"
 
 # game/1_diya.rpy:1940
 translate french lookDog_13c8e8e1:
 
     # Min "It doesn't look very strong.{w=0.26} I bet I could kill it in one hit."
-    Min "Il a pas l'air très costaud.{w=0.26} J'parie que je pourrais le tuer en un coup."
+    Min "L'a pas l'air très costaud.{w=0.26} J'parie que j´pourrais l'tuer en un coup."
 
 # game/1_diya.rpy:1943
 translate french lookDog_60e74259:
@@ -3166,7 +3170,7 @@ translate french petDogChoice_d81d65fc:
 translate french petDogChoice_2ca1d1c3:
 
     # DiyaT "She's like a living rug."
-    DiyaT "Elle est comme une carpettte."
+    DiyaT "Elle est comme une carpette."
 
 # game/1_diya.rpy:2014
 translate french dogNameChoice_7451e0ee:
@@ -3202,7 +3206,7 @@ translate french dogNameChoice_94bacba0:
 translate french dogNameChoice_a4fbcd64:
 
     # Diya "It's short for \"Pomeranian\"."
-    Diya "C'est un diminutif pour \"Pomeranian\"."
+    Diya "C'est un diminutif pour \"Poméranien\"."
 
 # game/1_diya.rpy:2033
 translate french dogNameChoice_cc91b409:
@@ -3214,7 +3218,7 @@ translate french dogNameChoice_cc91b409:
 translate french dogNameChoice_9dce841a:
 
     # Diya "Then what would you name your dog,{w=0.10} Min?"
-    Diya "Alors tu l'appelerais comment ton chien,{w=0.10} Min ?"
+    Diya "Alors tu l'appellerais comment ton chien,{w=0.10} Min ?"
 
 # game/1_diya.rpy:2041
 translate french dogNameChoice_f41aaf8f:
@@ -3250,7 +3254,7 @@ translate french dogNameChoice_a781f4e0:
 translate french dogNameChoice_9dce841a_1:
 
     # Diya "Then what would you name your dog,{w=0.10} Min?"
-    Diya "Alors tu l'appelerais comment ton chien,{w=0.10} Min ?"
+    Diya "Alors tu l'appellerais comment ton chien,{w=0.10} Min ?"
 
 # game/1_diya.rpy:2062
 translate french dogNameChoice_16bbf723:
@@ -3310,7 +3314,7 @@ translate french dogNameChoice_91400afc:
 translate french dogHere_c0533c1c:
 
     # DiyaT "Wait. Why would I leave when there's a dog here."
-    DiyaT "Attend. Pourquoi est-ce que je partirais alors qu'il y a un chien ici."
+    DiyaT "Attends. Pourquoi est-ce que je partirais alors qu'il y a un chien ici."
 
 # game/1_diya.rpy:2102
 translate french dogHere_b86fea60:
@@ -3346,7 +3350,7 @@ translate french dogHere_5ae38731:
 translate french dogHere_86d0a0f7:
 
     # "Diya must've been frowning without knowing it, because Min speaks up."
-    "Diya a du froncer les sourcils sans s'en rendre compte, car Min le remarque."
+    "Diya a dû froncer les sourcils sans s'en rendre compte, car Min le remarque."
 
 # game/1_diya.rpy:2145
 translate french dogHere_b1f25d4e:
@@ -3400,7 +3404,7 @@ translate french dogHere_1afd7502:
 translate french dogHere_f68b73b3:
 
     # Min "{font=korean.ttf}...사랑해!{/font}"
-    Min "{font=korean.ttf}...사랑해!{/font}"
+    Min "{font=korean.ttf}...사랑해!{/font}(salanghae !)"
 
 # game/1_diya.rpy:2166
 translate french dogHere_af06d6ba:
@@ -3412,25 +3416,25 @@ translate french dogHere_af06d6ba:
 translate french dogHere_d465fcc0:
 
     # Min "{font=korean.ttf}사랑해.{/font}"
-    Min "{font=korean.ttf}사랑해.{/font}"
+    Min "{font=korean.ttf}사랑해.{/font}(salanghae.)"
 
 # game/1_diya.rpy:2172
 translate french dogHere_8cb17c51:
 
     # Diya "{font=korean.ttf}사랑해?{/font}"
-    Diya "{font=korean.ttf}사랑해?{/font}"
+    Diya "{font=korean.ttf}사랑해?{/font}(salanghae ?)"
 
 # game/1_diya.rpy:2175
 translate french dogHere_d465fcc0_1:
 
     # Min "{font=korean.ttf}사랑해.{/font}"
-    Min "{font=korean.ttf}사랑해.{/font}"
+    Min "{font=korean.ttf}사랑해.{/font}(salanghae.)"
 
 # game/1_diya.rpy:2178
 translate french dogHere_3a2190bc:
 
     # Diya "{font=korean.ttf}사랑해.{/font}"
-    Diya "{font=korean.ttf}사랑해.{/font}"
+    Diya "{font=korean.ttf}사랑해.{/font}(salanghae.)"
 
 # game/1_diya.rpy:2181
 translate french dogHere_6e530cad:
@@ -3448,7 +3452,7 @@ translate french dogHere_6c958e15:
 translate french dogHere_3864cdb4:
 
     # Min "Y-yeah!{w=0.26} That was good!"
-    Min "O-ouais !{w=0.26} C'était bien !"
+    Min "S-si !{w=0.26} C'était bien !"
 
 # game/1_diya.rpy:2189
 translate french dogHere_b94df18f:
@@ -3460,7 +3464,7 @@ translate french dogHere_b94df18f:
 translate french dogHere_f7c48022:
 
     # Min "N-no,{w=0.10} wait!{w=0.26} You can't say that to Jun."
-    Min "N-non,{w=0.10} attend !{w=0.26} Tu ne peux pas dire ça à Jun."
+    Min "N-non,{w=0.10} attends !{w=0.26} Tu peux pas dire ça à Jun."
 
 # game/1_diya.rpy:2195
 translate french dogHere_ede5c0f4:
@@ -3472,25 +3476,25 @@ translate french dogHere_ede5c0f4:
 translate french dogHere_bf86ea2a:
 
     # Min "Because...{w=0.26}uh...{w=0.26}It's a special kind of hello."
-    Min "Parc'que...{w=0.26}euh...{w=0.26}C'est un genre spécial de bonjour."
+    Min "Parc'que... {w=0.26}euh... {w=0.26}C'est un genre spécial de bonjour."
 
 # game/1_diya.rpy:2200
 translate french dogHere_3df0a205:
 
     # Min "You can only say it to........{w=0.26}certain people.{w=0.26} Like me."
-    Min "Tu peux juste le dire à........{w=0.26}certaines personnes.{w=0.26} Comme moi."
+    Min "Tu peux juste le dire à........ {w=0.26}certaines personnes.{w=0.26} Comme moi."
 
 # game/1_diya.rpy:2203
 translate french dogHere_64a3933b:
 
     # Diya "Oh.{w=0.26} Is it one of those things where if you use the wrong one,{w=0.10} it's really bad?"
-    Diya "Oh.{w=0.26} Est-ce que c'est un de ces trucs où tu utilises le mauvais,{w=0.10} ça tourne très mal ?"
+    Diya "Oh.{w=0.26} Est-ce que c'est un de ces trucs où si tu utilises le mauvais mot,{w=0.10} ça tourne très mal ?"
 
 # game/1_diya.rpy:2206
 translate french dogHere_243bd2ae:
 
     # Min "Y-yeah!{w=0.26} Something like that.{w=0.26} It's tough to explain."
-    Min "O-ouais !{w=0.26} Un truc comme ça.{w=0.26} C'est compliqué."
+    Min "O-ouais !{w=0.26} Un truc comme ça.{w=0.26} C'est compliqué à expliquer."
 
 # game/1_diya.rpy:2210
 translate french dogHere_90224df2:
@@ -3508,7 +3512,7 @@ translate french dogHere_b29651b9:
 translate french dogHere_0c1c4f51:
 
     # Min "So only say it to me.{w=0.26} Got it?"
-    Min "Donc ne le dis qu'à moi.{w=0.26} Kapiche ?"
+    Min "Donc tu le dis qu'à moi.{w=0.26} Kapiche ?"
 
 # game/1_diya.rpy:2218
 translate french dogHere_c45a45fc:
@@ -3526,67 +3530,67 @@ translate french dogHere_0f1b55a9:
 translate french dogHere_8ce35070:
 
     # Min "What about you?{w=0.26} How do you say \"Hi\"?"
-    Min "Et toi alors? {w=0.26} Comment tu dis \"Bonjour\"?"
+    Min "Et toi alors ?{w=0.26} Comment tu dis \"Bonjour\" ?"
 
 # game/1_diya.rpy:2225
 translate french dogHere_df62a743:
 
     # Min "{cps=0}What about you? How do you say \"Hi\"?{/cps}" nointeract
-    Min "{cps=0} Et toi alors? Comment tu dis \"Bonjour\"?{/cps}" nointeract
+    Min "{cps=0} Et toi alors? Comment tu dis \"Bonjour\" ?{/cps}" nointeract
 
 # game/1_diya.rpy:2233
 translate french dogHere_3bc51b0a:
 
     # Diya "{font=tamil.ttf}வணக்கம்.{/font}"
-    Diya "{font=tamil.ttf}வணக்கம்.{/font}"
+    Diya "{font=tamil.ttf}வணக்கம்.{/font} (Vaṇakkam.)"
 
 # game/1_diya.rpy:2238
 translate french dogHere_201ceb91:
 
     # Min "{font=tamil.ttf}வணக்கம்?{/font}"
-    Min "{font=tamil.ttf}வணக்கம்?{/font}"
+    Min "{font=tamil.ttf}வணக்கம்?{/font} (Vaṇakkam ?)"
 
 # game/1_diya.rpy:2242
 translate french dogHere_3bc51b0a_1:
 
     # Diya "{font=tamil.ttf}வணக்கம்.{/font}"
-    Diya "{font=tamil.ttf}வணக்கம்.{/font}"
+    Diya "{font=tamil.ttf}வணக்கம்.{/font} (Vaṇakkam.)"
 
 # game/1_diya.rpy:2246
 translate french dogHere_677f9015:
 
     # Min "{font=tamil.ttf}வணக்கம்!{/font}"
-    Min "{font=tamil.ttf}வணக்கம்!{/font}"
+    Min "{font=tamil.ttf}வணக்கம்!{/font} (Vaṇakkam !)"
 
 # game/1_diya.rpy:2255
 translate french dogHere_5195693e:
 
     # Diya "{font=tamil.ttf}நான் குசு விரும்புகிறேன்.{/font}"
-    Diya "{font=tamil.ttf}நான் குசு விரும்புகிறேன்.{/font}"
+    Diya "{font=tamil.ttf}நான் குசு விரும்புகிறேன்.{/font} (Nāṉ kucu virumpukiṟēṉ.)"
 
 # game/1_diya.rpy:2261
 translate french dogHere_ab3a0f66:
 
     # Min "What the...? That's so long!"
-    Min "De quoi..., Mais c'est tellement long ! "
+    Min "De quoi...? Mais c'est tellement long ! "
 
 # game/1_diya.rpy:2264
 translate french dogHere_5aed3d83:
 
     # Min "{font=tamil.ttf}நான் ...{/font}uh..."
-    Min "{font=tamil.ttf}நான் ...{/font} heu...."
+    Min "{font=tamil.ttf}நான் ...{/font} (Nāṉ...) heu...."
 
 # game/1_diya.rpy:2269
 translate french dogHere_5195693e_1:
 
     # Diya "{font=tamil.ttf}நான் குசு விரும்புகிறேன்.{/font}"
-    Diya "{font=tamil.ttf}நான் குசு விரும்புகிறேன்.{/font}"
+    Diya "{font=tamil.ttf}நான் குசு விரும்புகிறேன்.{/font} (Nāṉ kucu virumpukiṟēṉ.)"
 
 # game/1_diya.rpy:2275
 translate french dogHere_0f158bd8:
 
     # Min "{font=tamil.ttf}நான் குசு விரும்புகிறேன்!{/font}" with sshake
-    Min "{font=tamil.ttf}நான் குசு விரும்புகிறேன்!{/font}" with sshake
+    Min "{font=tamil.ttf}நான் குசு விரும்புகிறேன்!{/font} (Nāṉ kucu virumpukiṟēṉ !)" with sshake
 
 # game/1_diya.rpy:2281
 translate french dogHere_1d74dd58:
@@ -3598,7 +3602,7 @@ translate french dogHere_1d74dd58:
 translate french dogHere_44a9081e:
 
     # Min "What's so funny?"
-    Min "Qu'est ce qu'il y a de si drôle?"
+    Min "Qu'est-ce qu'il y'a de si drôle ?"
 
 # game/1_diya.rpy:2287
 translate french dogHere_3d0ef1b5:
@@ -3616,13 +3620,13 @@ translate french lookDad_de44f331:
 translate french lookDad_d87621a2:
 
     # DiyaT "Doesn't sound like he's using the phrase Min just taught me."
-    DiyaT "Ca ne ressemble pas à la phrase que Min m'a apprise."
+    DiyaT "Ca ressemble pas à la phrase que Min m'a apprise."
 
 # game/1_diya.rpy:2299
 translate french lookDad_ca40c670:
 
     # DiyaT "I guess there's not a lot of opportunities to say \"Hi\" in the middle of a conversation."
-    DiyaT "Je pense qu'il n'y a pas beaucoup de possibilité pour dire \"Bonjour\" en pleine conversation."
+    DiyaT "Je suppose qu'il y a pas beaucoup d'occasions de dire \"Bonjour\" en pleine conversation."
 
 # game/1_diya.rpy:2302
 translate french lookDad_153a8bcd:
@@ -3646,43 +3650,43 @@ translate french lookDad_2e7a6ecb:
 translate french sitBackDown_de9a3a22:
 
     # Jun "There you guys are!"
-    Jun "Vous êtes là!"
+    Jun "Vous êtes là !"
 
 # game/1_diya.rpy:2375
 translate french sitBackDown_fdd432e0:
 
     # Jun "Where'd you guys go?"
-    Jun "Vous étiez parties où?"
+    Jun "Vous étiez parties où ?"
 
 # game/1_diya.rpy:2378
 translate french sitBackDown_c35170df:
 
     # Diya "The dog."
-    Diya "Le chien"
+    Diya "Le chien."
 
 # game/1_diya.rpy:2381
 translate french sitBackDown_2b909633:
 
     # Jun "Diya,{w=0.10} that's... {w=0.26}really cryptic."
-    Jun "Diya, {w=0.10} je... {w=0.26} C'est un secret."
+    Jun "Diya,{w=0.10} c'est... {w=0.26}pas compréhensible quand tu parles."
 
 # game/1_diya.rpy:2383
 translate french sitBackDown_50a53869:
 
     # Diya "Is it?"
-    Diya "Vraiment?"
+    Diya "Vraiment ?"
 
 # game/1_diya.rpy:2387
 translate french sitBackDown_aff19c94:
 
     # Min "Here,{w=0.10} take this!"
-    Min "Tiens, {w=0.10} prends ca ! "
+    Min "Tiens,{w=0.10} prends ca !"
 
 # game/1_diya.rpy:2388
 translate french sitBackDown_2a95f751:
 
     # "Min gives Diya the popcorn bucket!"
-    "Min donne le sot de popcorn à Diya."
+    "Min donne le seau de popcorn à Diya !"
 
 # game/1_diya.rpy:2390
 translate french sitBackDown_5f87c877:
@@ -3694,79 +3698,79 @@ translate french sitBackDown_5f87c877:
 translate french sitBackDown_caca9fb6:
 
     # Jun "Min, where'd you get that bat...?"
-    Jun "Min, où as tu eu cette batte...?"
+    Jun "Min, où t'as eu cette batte... ?"
 
 # game/1_diya.rpy:2394
 translate french sitBackDown_f586f286:
 
     # Jun "Please don't tell me you did something bad..."
-    Jun "Allez, ne me dis pas que tu n'as jamais rien fait de mal...."
+    Jun "Me dis pas que t'as fait quelque chose de mal..."
 
 # game/1_diya.rpy:2396
 translate french sitBackDown_af12ffb8:
 
     # Min "Yeah! It was fun!"
-    Min "Ouais !! C'était cool ! "
+    Min "Ouais !! C'était cool !"
 
 # game/1_diya.rpy:2398
 translate french sitBackDown_7ee2d81e:
 
     # Jun "No! You have to stop stealing and threatening people!"
-    Jun "Non ! Il faut que t'arrètes de voler et de faire peur aux gens!"
+    Jun "Non ! Il faut que t'arrêtes de voler et de menacer les gens !"
 
 # game/1_diya.rpy:2399
 translate french sitBackDown_8c886d80:
 
     # Jun "It's dangerous! What if someone came after you?"
-    Jun "C'est dangeureux! Et si quelqu'un te poursuit?"
+    Jun "C'est dangereux ! Et si quelqu'un te poursuit ?"
 
 # game/1_diya.rpy:2401
 translate french sitBackDown_4919d1e4:
 
     # Min "I'd beat them!" with sshake
-    Min "Je le frappe!" with sshake
+    Min "J'le frappe !" with sshake
 
 # game/1_diya.rpy:2402
 translate french sitBackDown_25070432:
 
     # Min "Even if there was a bear, I'd kill it with my bare hands."
-    Min "Meme si c'était un ours, je le défoncerai à mains nues."
+    Min "Même si c'était un ours, j'le défoncerai à mains nues."
 
 # game/1_diya.rpy:2404
 translate french sitBackDown_9dbbf29d:
 
     # Jun "Min, that's impossible."
-    Jun "Min, ce n'est pas possible."
+    Jun "Min, c'est pas possible."
 
 # game/1_diya.rpy:2406
 translate french sitBackDown_1583baca:
 
     # Min "I'll punch it real hard in the head like {i}WHAM!!!{/i}" with sshake
-    Min "Je lui mets une bonne droite dans la tête en mode {i} BIM!!!!{/i}" with sshake
+    Min "J'lui mets une bonne droite dans la tête en mode {i}BIM!!!!{/i}" with sshake
 
 # game/1_diya.rpy:2408
 translate french sitBackDown_79937b81:
 
     # Min "Dead."
-    Min "Mort"
+    Min "Mort."
 
 # game/1_diya.rpy:2410
 translate french sitBackDown_26b1c8d9:
 
     # Jun "It's not that easy. You'll just get mauled."
-    Jun "C'est pas si simple. Tu te ferai juste écraser."
+    Jun "C'est pas si simple. Tu te ferais juste écraser."
 
 # game/1_diya.rpy:2412
 translate french sitBackDown_c1b06be4:
 
     # Min "Yeah, right. I'll dodge."
-    Min "Ouais, bin, ESQUIVE ! "
+    Min "Ouais, bin, J'ESQUIVE ! "
 
 # game/1_diya.rpy:2413
 translate french sitBackDown_c42079f8:
 
     # Min "I bet I can kill two different bears at once."
-    Min "J'te parie que je peux tuer deux ours en une seule fois."
+    Min "J'te parie que j'peux tuer deux ours en même temps."
 
 # game/1_diya.rpy:2415
 translate french sitBackDown_6b298942:
@@ -3778,13 +3782,13 @@ translate french sitBackDown_6b298942:
 translate french sitBackDown_73aef251:
 
     # DiyaT "It's useless. I don't think Min's brain even knows what fear is."
-    DiyaT "Tu perds ton temps. Je pense que le cerveau de Min ne sait même pas ce qu'est la peur."
+    DiyaT "Tu perds ton temps. Je pense que le cerveau de Min sait même pas ce que c''est que la peur."
 
 # game/1_diya.rpy:2420
 translate french sitBackDown_88dfdc84:
 
     # Min "Geez,{w=0.10} Jun. You really sound like Noelle sometimes."
-    Min "La vache, {w=0.10} Jun. Des fois tu parles vraiment comme Noelle."
+    Min "La vache,{w=0.10} Jun. Des fois tu parles vraiment comme Noelle."
 
 # game/1_diya.rpy:2422
 translate french sitBackDown_3bcf31f3:
@@ -3796,7 +3800,7 @@ translate french sitBackDown_3bcf31f3:
 translate french sitBackDown_caaa45ab:
 
     # DiyaT "She's the kid in class who goes,{w=0.10} \"But wait,{w=0.10} you forgot to collect our homework!\""
-    DiyaT "C'est celle qui quitte le cours, {w=0.10} \"Mais, {w=0.10} qui oublie de noter les devoirs!\""
+    DiyaT "C'est celle qui dit à la fin du cours,{w=0.10} \"Mais,{w=0.10} vous avez oublié de récupérer nos devoirs !\""
 
 # game/1_diya.rpy:2424
 translate french sitBackDown_2fc247ae:
@@ -3814,67 +3818,67 @@ translate french sitBackDown_a138bff2:
 translate french sitBackDown_547c0e03:
 
     # Min "Someday when Diya decides she doesn't like Noelle anymore, I'll kill her."
-    Min "Un jour, quand Diya décidera de ne plus être son amie, je la tuerai."
+    Min "Un jour, quand Diya décidera de plus être son amie, j'la tuerai."
 
 # game/1_diya.rpy:2431
 translate french sitBackDown_3f4c7d3b:
 
     # Min "I'll kill her to death."
-    Min "Je la tuerai jusque la mort."
+    Min "J'la tuerai jusqu'à la mort."
 
 # game/1_diya.rpy:2434
 translate french sitBackDown_da9cf075:
 
     # Diya "Don't do that."
-    Diya "Ne fais pas ça."
+    Diya "Fais pas ça."
 
 # game/1_diya.rpy:2437
 translate french sitBackDown_a05a0c65:
 
     # Min "Even though Noelle is taller than you,{w=0.10} someday I'll be the tallest!" with sshake
-    Min "Et même si Noelle est plus grande que toi, {w=0.10} je finirai par être la plus grande ! " with sshake
+    Min "Et même si Noelle est plus grande que toi,{w=0.10} j'finirai par être la plus grande ! " with sshake
 
 # game/1_diya.rpy:2438
 translate french sitBackDown_1af9ad32:
 
     # Min "I won't lose to her!" with sshake
-    Min "Je ne perdrai pas face à elle ! " with sshake
+    Min "J'perdrai pas face à elle !" with sshake
 
 # game/1_diya.rpy:2440
 translate french sitBackDown_a712a412:
 
     # Diya "What does that have to do with anything?"
-    Diya "C'est quoi le rapport?"
+    Diya "C'est quoi le rapport ?"
 
 # game/1_diya.rpy:2443
 translate french sitBackDown_c0edffa9:
 
     # Min "Also,{w=0.10} if I was peeling an orange for you,{w=0.10} I'd make sure to get all the white stringy stuff off,{w=0.10} too."
-    Min "Dailleurs, {w=0.10} si je devais éplucher une orange pour toi, {w=0.10} j'enleverai chaque petite peau blanche dessus, {w=0.10} aussi."
+    Min "D'ailleurs,{w=0.10} si j'devais éplucher une orange pour toi,{w=0.10} j'enlèverais chaque petit fil blanc dessus,{w=0.10} aussi."
 
 # game/1_diya.rpy:2444
 translate french sitBackDown_a5442306:
 
     # Min "I bet Noelle wouldn't do that."
-    Min "Je parie que Noelle ne ferait pas ça."
+    Min "J'parie que Noelle ferait pas ça pour toi."
 
 # game/1_diya.rpy:2448
 translate french sitBackDown_dd693dda:
 
     # Diya "What the heck kind of scenario is this?"
-    Diya "Mais d'où ça sort ça?"
+    Diya "Mais d'où ça sort ça ?"
 
 # game/1_diya.rpy:2449
 translate french sitBackDown_bedf9afb:
 
     # Diya "Why would you guys even be peeling oranges for me."
-    Diya "Pourquoi vous m'éplucheriez des oranges?"
+    Diya "Pourquoi vous m'éplucheriez des oranges ?"
 
 # game/1_diya.rpy:2452
 translate french sitBackDown_14b92556:
 
     # Min "Just because.{w=0.26} Forget it."
-    Min "Parceque, {w=0.26} Laisse tomber."
+    Min "Parc'que.{w=0.26} Laisse tomber."
 
 # game/1_diya.rpy:2472
 translate french talkJun_84a17ce2:
@@ -3886,7 +3890,7 @@ translate french talkJun_84a17ce2:
 translate french offerJPopcorn_866f89c7:
 
     # "Diya holds out the popcorn bucket."
-    "Diya tend le sot de popcorn."
+    "Diya tend le seau de popcorn."
 
 # game/1_diya.rpy:2499
 translate french offerJPopcorn_f09ff667:
@@ -3898,7 +3902,7 @@ translate french offerJPopcorn_f09ff667:
 translate french offerJPopcorn_ab6cd5d3:
 
     # "Jun-seo took a single piece of popcorn!"
-    "Jun-seo prend UN popcorn ! "
+    "Jun-seo prend UN popcorn !"
 
 # game/1_diya.rpy:2502
 translate french offerJPopcorn_f1e68ad0:
@@ -3910,49 +3914,49 @@ translate french offerJPopcorn_f1e68ad0:
 translate french offerJPopcorn_0222107f:
 
     # Jun "Really?{w=0.26} You're so nice!"
-    Jun "Vraiment? {w=0.26}  T'es trop sympa ! "
+    Jun "Vraiment ?{w=0.26} T'es trop sympa !"
 
 # game/1_diya.rpy:2505
 translate french offerJPopcorn_976b87f2:
 
     # "Jun-seo took another single piece of popcorn!"
-    "Jun-seo prends UN autre popcorn!"
+    "Jun-seo prend UN autre popcorn !"
 
 # game/1_diya.rpy:2512
 translate french havingFun_5043e3e2:
 
     # Diya "Is there something going on with Min?"
-    Diya "Il y a un problème avec Min?"
+    Diya "Y'a un problème avec Min ?"
 
 # game/1_diya.rpy:2514
 translate french havingFun_25d711a7:
 
     # Diya "Like,{w=0.10} did she do a felony?{w=0.26} Are the police after her?"
-    Diya "Genre, {w=0.10} elle aurait pas fait une connerie? {w=0.26} La police lui court après?"
+    Diya "Genre,{w=0.10} elle a pas fait une grosse bêtise ?{w=0.26} La police lui court après ?"
 
 # game/1_diya.rpy:2517
 translate french havingFun_454edf16:
 
     # Jun "Uh... {w=0.26}not that I know of?{w=0.26} Why?"
-    Jun "Heu... {w=0.26} Pas que je sache? {w=0.26} Pourquoi?"
+    Jun "Heu...{w=0.26} Pas que je sache ?{w=0.26} Pourquoi ?"
 
 # game/1_diya.rpy:2519
 translate french havingFun_ea4cbb0c:
 
     # Diya "She's been acting kinda weird all day. {w=0.26}It's like she's hiding something."
-    Diya "Elle a été louche tout la journée. {w=0.26} On dirait qu'elle cache quelque chose."
+    Diya "Elle a été louche tout la journée.{w=0.26} On dirait qu'elle cache quelque chose."
 
 # game/1_diya.rpy:2522
 translate french havingFun_6ebcf8d5:
 
     # Jun "Really?{w=0.26} I haven't noticed anything odd..."
-    Jun "Vraiment? {w=0.26} J'ai rien trouvé de bizarre..."
+    Jun "Vraiment ?{w=0.26} J'ai rien trouvé de bizarre..."
 
 # game/1_diya.rpy:2524
 translate french havingFun_ac8d13b0:
 
     # DiyaT "Huh.{w=0.26} I guess if even Jun-seo isn't concerned,{w=0.10} everything is fine."
-    DiyaT "Ah, {w=0.26} J'imagine que si même la grande Jun-seo n'a rien vu alors, {w=0.10} tout va bien."
+    DiyaT "Ah.{w=0.26} J'imagine que si même Jun-seo ne s'inquiète pas,{w=0.10} alors tout va bien."
 
 # game/1_diya.rpy:2525
 translate french havingFun_e4297f17:
@@ -3976,43 +3980,43 @@ translate french ch2_bcabdc9f:
 translate french ch2_aaf68681:
 
     # "Diya hits her alarms and flops face-first into bed."
-    "Diya eteint son alarme et cache sa tête dans l'oreiller."
+    "Diya éteint son alarme et cache sa tête dans l'oreiller."
 
 # game/1_diya.rpy:2644
 translate french ch2_7c831b81:
 
     # "Diya's morning routine includes lying in bed for 10 minutes thinking about how tired she is. "
-    "Le matin, Diya passe toujours 10min dans son lit à se dire qu'elle est fatiguée."
+    "Sa routine matinale consiste à rester allongée dans le lit pendant 10 minutes, et à réfléchir à quel point elle est fatiguée."
 
 # game/1_diya.rpy:2649
 translate french ch2_d02b883e:
 
     # DiyaT "Ghhhhgghghhhh...kkkgghhhhhh..."
-    DiyaT "Ghhhhgghghhhh...kkkgghhhhhh..."
+    DiyaT "Ghhhhgghghhhh... kkkgghhhhhh..."
 
 # game/1_diya.rpy:2650
 translate french ch2_47fbadfa:
 
     # DiyaT "I only got 2 hours of sleep..."
-    DiyaT "J'ai seulement dormis 2h..."
+    DiyaT "J'ai dormi juste 2 heures..."
 
 # game/1_diya.rpy:2652
 translate french ch2_b55d62d2:
 
     # DiyaT "Nnnnooooooooooooo......I don't wanna get up..."
-    DiyaT "Nooooooon.... Je veux pas me lever..."
+    DiyaT "Nooooooon... Je veux pas me lever..."
 
 # game/1_diya.rpy:2653
 translate french ch2_f28d8787:
 
     # DiyaT "Ugghhhhhghghhhghhh...Ggggggh..."
-    DiyaT "Ugghhhhhghghhhghhh...Ggggggh..."
+    DiyaT "Ugghhhhhghghhhghhh... Ggggggh..."
 
 # game/1_diya.rpy:2654
 translate french ch2_b21481ba:
 
     # "10 minutes pass like this."
-    "10 minutes passent comm ça."
+    "10 minutes passent comme ça."
 
 # game/1_diya.rpy:2655
 translate french ch2_2f422b95:
@@ -4024,19 +4028,19 @@ translate french ch2_2f422b95:
 translate french ch2_22edb1ea:
 
     # "After stretching for a few moments, she starts getting ready for school."
-    "Après s'être étirée rapidement, elle commence à être prête pour l'école."
+    "Après s'être étirée rapidement, elle commence à se préparer pour l'école."
 
 # game/1_diya.rpy:2669
 translate french ch2_9fa2cfca:
 
     # Diya "...?"
-    Diya "....."
+    Diya "...?"
 
 # game/1_diya.rpy:2670
 translate french ch2_c66f35de:
 
     # DiyaT "My classmate Akarsha messaged me."
-    DiyaT "Ma camarade de classe Akarsha m'a envoyé un message"
+    DiyaT "Ma camarade de classe Akarsha m'a envoyé un message."
 
 # game/1_diya.rpy:2686
 translate french ay_8e0ddc15:
@@ -4048,25 +4052,25 @@ translate french ay_8e0ddc15:
 translate french ay_5de121ba:
 
     # cAkarsha "ay"
-    cAkarsha "salut"
+    cAkarsha "slt"
 
 # game/1_diya.rpy:2689
 translate french ay_9266357c:
 
     # cSame "ay diya"
-    cSame "salut diya"
+    cSame "slt diya"
 
 # game/1_diya.rpy:2690
 translate french ay_076b730f:
 
     # cSame "ay"
-    cSame "salut"
+    cSame "slt"
 
 # game/1_diya.rpy:2692
 translate french ay_b771df90:
 
     # cSame "ayy"
-    cSame "salut"
+    cSame "sltt"
 
 # game/1_diya.rpy:2693
 translate french ay_15cc5fa6:
@@ -4084,7 +4088,7 @@ translate french ay_1acbd9bd:
 translate french ay_b874ec39:
 
     # cAkarsha "diya u like pringles, right?"
-    cAkarsha "diya, tu aimes les pringles, pas vrai ?"
+    cAkarsha "diya, t'm les pringles, nan ?"
 
 # game/1_diya.rpy:2696
 translate french ay_306af6ad:
@@ -4108,7 +4112,7 @@ translate french ay_c07c5669:
 translate french ay_44d60161:
 
     # cAkarsha "go outside"
-    cAkarsha "va dehors"
+    cAkarsha "sors dehors"
 
 # game/1_diya.rpy:2709
 translate french ay_a2bbef2c:
@@ -4120,7 +4124,7 @@ translate french ay_a2bbef2c:
 translate french ay_8642d046:
 
     # cNarrator "YAOI SEME has gone offline."
-    cNarrator "YAOI SEME s'est déconnecté"
+    cNarrator "YAOI SEME s'est déconnecté."
 
 # game/1_diya.rpy:2713
 translate french ay_76b2fe88:
@@ -4156,13 +4160,13 @@ translate french ay_e2a1e065:
 translate french ay_a7eee47e:
 
     # cSame "nvm then"
-    cSame "laisse tomber alors"
+    cSame "laisse béton alors"
 
 # game/1_diya.rpy:2729
 translate french ay_ba00fe5f:
 
     # cSame "just being random"
-    cSame "c'est bizarre"
+    cSame "j'dis ça comme ça"
 
 # game/1_diya.rpy:2730
 translate french ay_a2bbef2c_1:
@@ -4192,19 +4196,19 @@ translate french ay_cf977472_1:
 translate french ay_9ff1c71a:
 
     # DiyaT "I wonder what that was about."
-    DiyaT "Je me demande de quoi il s'agit"
+    DiyaT "Je me demande ce que c'était que ça."
 
 # game/1_diya.rpy:2765
 translate french ay_fdd5289a:
 
     # "Diya goes outside."
-    "Dia va dehors"
+    "Diya sort dehors."
 
 # game/1_diya.rpy:2769
 translate french ay_6d137593:
 
     # "There's a lone Pringle sitting on the ground."
-    "Il y a un Pringle seul assis sur le sol."
+    "Il y a un Pringle éseulé posé sur le sol."
 
 # game/1_diya.rpy:2772
 translate french ay_aba95152:
@@ -4216,31 +4220,31 @@ translate french ay_aba95152:
 translate french ay_fdd5289a_1:
 
     # "Diya goes outside."
-    "Diya va dehors"
+    "Diya sort dehors."
 
 # game/1_diya.rpy:2783
 translate french ay_107bdd12:
 
     # Akarsha "Ayyy!" with sshake
-    Akarsha "Saluuut !" with sshake
+    Akarsha "Saluuuut !" with sshake
 
 # game/1_diya.rpy:2792
 translate french ay_8ed976a6:
 
     # Akarsha "Sup, homie."
-    Akarsha "comment ça va, mon pote"
+    Akarsha "Quoi d'neuf, poto."
 
 # game/1_diya.rpy:2794
 translate french ay_fa8659d5:
 
     # DiyaT "This is Akarsha."
-    DiyaT "C'est Akarsha"
+    DiyaT "C'est Akarsha."
 
 # game/1_diya.rpy:2797
 translate french ay_ff486fb9:
 
     # DiyaT "She's the kind of person who doesn't give pencils back."
-    DiyaT "C'est le genre de personne qui ne rend pas les crayons"
+    DiyaT "C'est le genre de personne qui ne rend pas les crayons."
 
 # game/1_diya.rpy:2798
 translate french ay_5042c731:
@@ -4252,25 +4256,25 @@ translate french ay_5042c731:
 translate french ay_36cd7066:
 
     # DiyaT "Yeah.{w=0.26} That's us."
-    DiyaT "C'est nous"
+    DiyaT "Bah.{w=0.26} C'est nous."
 
 # game/1_diya.rpy:2800
 translate french ay_85e7dd78:
 
     # DiyaT "My parents are always saying I should be more outgoing like her, like that's something I can just change."
-    DiyaT "Mes parents me disent toujours que je devrais être plus extraverti comme elle, comme si c'était quelque chose que je pouvais changer."
+    DiyaT "Mes parents me disent toujours que je devrais être plus extravertie comme elle, comme si c'était quelque chose que je pouvais changer."
 
 # game/1_diya.rpy:2803
 translate french ay_286c673e:
 
     # Akarsha "Hey Diya,{w=0.10} you know what's the best weed?"
-    Akarsha "Salut Diya,{w=0.10}  tu sais quelle est la meilleure herbe ?"
+    Akarsha "Eh Diya,{w=0.10} tu connais l'histoire de Flip Flap la giraffe ?"
 
 # game/1_diya.rpy:2805
 translate french ay_ecc5034c:
 
     # Akarsha "It's when.... {w=0.26}I'm WEED you........"
-    Akarsha "C'est quand... {w=0.26} je te désherbe "
+    Akarsha "C'est une girafe qui se promène et il y a un hélicoptère qui passe.{w=0.26} Et Flip Flap la girafe !"
 
 # game/1_diya.rpy:2807
 translate french ay_73c5644b:
@@ -4288,67 +4292,67 @@ translate french ay_6734d1a1:
 translate french ay_e0300cc7:
 
     # Akarsha "Aw,{w=0.10} you're no fun."
-    Akarsha "oh ! {w=0.10} tu n'es pas fun"
+    Akarsha "Ooooh ! {w=0.10} t'es pas fun."
 
 # game/1_diya.rpy:2815
 translate french ay_014ca1e5:
 
     # Akarsha "Have it your way. {w=0.26}Burger King."
-    Akarsha "Faites comme bon vous semble. {w=0.26} Burger King"
+    Akarsha "Venez comme vous êtes.{w=0.26} Mc Donald's."
 
 # game/1_diya.rpy:2825
 translate french ay_7a79b8e2:
 
     # "Akarsha is half-jogging to keep up with Diya."
-    "Akarsha fait un demi-jogging pour suivre Diya."
+    "Akarsha fait un semi-jogging pour réussir à suivre Diya."
 
 # game/1_diya.rpy:2827
 translate french ay_5b8cfe81:
 
     # Akarsha "Hey Diya..."
-    Akarsha "Salut Diya..."
+    Akarsha "Eh Diya..."
 
 # game/1_diya.rpy:2829
 translate french ay_6421002c:
 
     # Akarsha "Did you know that your eye has something called \"immune privilege\"?"
-    Akarsha "La saviez-tu que ton oeil possède ce qu'on appelle un \"privilège immunitaire\" ?"
+    Akarsha "Tu savais que ton œil possède ce qu'on appelle un \"privilège immunitaire\" ?"
 
 # game/1_diya.rpy:2830
 translate french ay_8b3ca541:
 
     # Akarsha "This basically means that the outside of your eye prevents your immune system from knowing about the inside of your eye."
-    Akarsha "Cela signifie essentiellement que l'extérieur de ton œil empêche ton système immunitaire de connaître l'intérieur de ton oeil"
+    Akarsha "Ça veut dire en gros que l'extérieur de ton œil empêche ton système immunitaire de connaître l'intérieur de ton œil."
 
 # game/1_diya.rpy:2831
 translate french ay_2fcdd9ac:
 
     # Akarsha "If it didn't, your immune system would destroy your eyes."
-    Akarsha "Si ce n'était pas le cas, ton système immunitaire détruirait tes yeux."
+    Akarsha "Si c'était pas le cas, ton système immunitaire détruirait tes yeux."
 
 # game/1_diya.rpy:2834
 translate french ay_4fb5b405:
 
     # DiyaT "That doesn't sound right."
-    DiyaT "ça ne semble pas correct"
+    DiyaT "Ça a pas l'air vrai."
 
 # game/1_diya.rpy:2835
 translate french ay_78ba3367:
 
     # Diya "I don't believe you."
-    Diya "Je ne te crois pas"
+    Diya "Je te crois pas."
 
 # game/1_diya.rpy:2838
 translate french ay_f35afa93:
 
     # Akarsha "Why not?"
-    Akarsha "pourquoi pas ?"
+    Akarsha "Pourquoi pas ?"
 
 # game/1_diya.rpy:2848
 translate french ay_de05c49d:
 
     # Diya "Because you lie to me all the time."
-    Diya "Parce que tu me mens tout le temps"
+    Diya "Parce que tu me mens tout le temps."
 
 # game/1_diya.rpy:2849
 translate french ay_34d329f8:
@@ -4366,31 +4370,32 @@ translate french ay_8c9e7003:
 translate french ay_106e80c5:
 
     # Diya "When we first met you this year.{w=0.26} After you accused her of being a robot with artificially implanted human emotions."
-    Diya "Quand nous t'avons rencontré pour la première fois cette année.{w=0.26} Après l'avoir accusée d'être un robot avec des émotions humaines artificiellement implantées."
+    Diya "Quand on s'est rencontrées pour la première fois cette année.{w=0.26} Après l'avoir accusée d'être un robot avec des émotions artificielles."
 
 # game/1_diya.rpy:2859
 translate french ay_d25a81db:
 
     # Akarsha "Hey,{w=0.10} she got annoyed when I pressed a magnet to her head."
-    Akarsha "hé,{w=0.10} elle s'est énervée quand j'ai appuyé un aimant sur sa tête."
+    Akarsha "Eh,{w=0.10} elle s'est énervée quand j'ai appuyé un aimant sur sa tête."
+
 
 # game/1_diya.rpy:2860
 translate french ay_247b3d80:
 
     # Akarsha "That means she's a Replicant and it was messing with her circuits."
-    Akarsha "Ça veut dire qu'elle est une Androïde et que ça a perturbé ses circuits."
+    Akarsha "Ça veut dire que c'est une Réplicante et que ça a gêné ses circuits."
 
 # game/1_diya.rpy:2861
 translate french ay_3c8822a2:
 
     # Akarsha "Checkmate."
-    Akarsha "échec et mat"
+    Akarsha "Échec et mat."
 
 # game/1_diya.rpy:2864
 translate french ay_dbab3b7d:
 
     # Diya "No.{w=0.26} She was annoyed because you pressed a magnet to her head."
-    Diya "No.{w=0.26} Elle était ennuyée parce que tu avais appuyé un aimant sur sa tête."
+    Diya "Non.{w=0.26} Elle était ennuyée parce que t'avais appuyé un aimant sur sa tête."
 
 # game/1_diya.rpy:2867
 translate french ay_085126b7:
@@ -4402,91 +4407,91 @@ translate french ay_085126b7:
 translate french ay_a9a32185:
 
     # Akarsha "What's a girl to do?"
-    Akarsha "Que doit faire une fille ?"
+    Akarsha "Qu'est-ce que j'aurais bien pu faire d'autre ?"
 
 # game/1_diya.rpy:2872
 translate french ay_6386b438:
 
     # Diya "Not that."
-    Diya "Pas ça"
+    Diya "Pas ça."
 
 # game/1_diya.rpy:2875
 translate french ay_9d2c4eb3:
 
     # Akarsha "Poor me..."
-    Akarsha "Pauvre de moi"
+    Akarsha "Pauvre de moi..."
 
 # game/1_diya.rpy:2878
 translate french ay_f79054b3:
 
     # DiyaT "No one feels sorry for you!" with sshake
-    DiyaT "Personne ne se sent désolé pour toi" with sshake
+    DiyaT "Personne ne se sent désolé pour toi !" with sshake
 
 # game/1_diya.rpy:2888
 translate french ay_0c26a40c:
 
     # "There's a bunch of adults dressed in yellow at the intersection, waving signs."
-    "Il y a un groupe d'adultes habillés en jaune à l'intersection, brandissant des pancartes."
+    "Il y a un groupe d'adultes habillés en jaune au carrefour, brandissant des pancartes."
 
 # game/1_diya.rpy:2890
 translate french ay_57783b8b:
 
     # Diya "...What is that?"
-    Diya "Qu'est ce que c'est que ça ?"
+    Diya "...Qu'est-ce que c'est que ça ?"
 
 # game/1_diya.rpy:2893
 translate french ay_e8747723:
 
     # Akarsha "They're trying to take away gay marriage."
-    Akarsha "Ils essayent d'enlever le mariage gay"
+    Akarsha "Ils essayent d'empêcher le mariage gay."
 
 # game/1_diya.rpy:2896
 translate french ay_e5938483:
 
     # Diya "Gay marriage is allowed?"
-    Diya "le mariage gay est permis ?"
+    Diya "Le mariage gay est autorisé ?"
 
 # game/1_diya.rpy:2899
 translate french ay_3d701a78:
 
     # Akarsha "Dude, it's been legal for a few years now."
-    Akarsha "Mec, c'est légal depuis quelques années maintenant."
+    Akarsha "Meuf, c'est légal depuis quelques années maintenant."
 
 # game/1_diya.rpy:2902
 translate french ay_f4feb3a7:
 
     # Diya "Oh. Wasn't paying attention."
-    Diya "Oh. J'vais pas fait attention"
+    Diya "Oh. J'avais pas fait attention."
 
 # game/1_diya.rpy:2907
 translate french ay_6943ec15:
 
     # NPC "Protect marriage! Yes on Prop 8!"
-    NPC "Protéger le marriage ! Oui à la proposition 8 !"
+    NPC "Protégez le mariage ! Dites Oui à la proposition 8 !"
 
 # game/1_diya.rpy:2908
 translate french ay_836c2e0d:
 
     # NPC "Marriage equals 1 man and 1 woman!"
-    NPC "Le mariage c'est 1 homme et 1 femme "
+    NPC "Le mariage c'est un papa et une maman !"
 
 # game/1_diya.rpy:2909
 translate french ay_f5982c63:
 
     # "A smiling woman with a baby strapped to her back brandishes her sign as Diya and Akarsha walk past. "
-    "Une femme souriante, portant un bébé dans son dos, brandit sa pancarte au moment où Diya et Akarsha passent devant elle"
+    "Une femme souriante, portant un bébé sur son dos, brandit sa pancarte au moment où Diya et Akarsha passent devant elle."
 
 # game/1_diya.rpy:2910
 translate french ay_c280b0ad:
 
     # "It says:\nI <3 my Gay brother\nStill YES on 8!"
-    "ça dit:\nI <3 mon frère Gay \nToujours OUI à la Proposition 8"
+    "Sur la pancarte est écrit : \nI J'<3 mon frère Gay\n Mais OUI à la Proposition 8 !"
 
 # game/1_diya.rpy:2912
 translate french ay_6b0ad574:
 
     # Akarsha "What kind of cognitive dissonance..."
-    Akarsha "Quel genre de dissonance cognitive"
+    Akarsha "Quelle dissonance cognitive..."
 
 # game/1_diya.rpy:2925
 translate french ay_df3f6405:
@@ -4510,13 +4515,13 @@ translate french ay_3bc8dd9f:
 translate french eatHim_2bd7d207:
 
     # "Diya nods!"
-    "Diya hoche la tête"
+    "Diya hoche la tête."
 
 # game/1_diya.rpy:2945
 translate french eatHim_fe447c43:
 
     # Akarsha "Dang. {w=0.26}You wouldn't feel bad at all?"
-    Akarsha "Purée. {w=0.26} Tu ne te sentirais pas mal du tout ?"
+    Akarsha "Purée.{w=0.26} Tu te sentirais pas mal du tout ?"
 
 # game/1_diya.rpy:2946
 translate french eatHim_6f6dba11:
@@ -4528,13 +4533,13 @@ translate french eatHim_6f6dba11:
 translate french eatHim_6756638e:
 
     # Diya "But he tastes like Cheetos."
-    Diya "Mais il a le goût des Cheetos"
+    Diya "Mais il a le goût des Cheetos."
 
 # game/1_diya.rpy:2953
 translate french eatHim_109edaa3:
 
     # Akarsha "So? He's still a real dude,{w=0.10} man!" with sshake
-    Akarsha "Et alors ? C'est toujours un vrai mec ,{w=0.10} meuf !," with sshake
+    Akarsha "Et alors ? C'est toujours un vrai mec,{w=0.10} meuf !" with sshake
 
 # game/1_diya.rpy:2956
 translate french eatHim_5b60ef83:
@@ -4546,115 +4551,115 @@ translate french eatHim_5b60ef83:
 translate french eatHim_74b69117:
 
     # Diya "But he's only 2 inches tall."
-    Diya "Mais il ne mesure que 5 cm."
+    Diya "Mais il fait que 5 cm."
 
 # game/1_diya.rpy:2962
 translate french eatHim_2c02da21:
 
     # Akarsha "He's still a real dude,{w=0.10} man!{w=0.26} What are you,{w=0.10} some kinda short people hater?!" with sshake
-    Akarsha "C'est toujours un vrai mec ,{w=0.10} meuf !{w=0.26}, Qui es tu, {w=0.10}  une sorte de détracteur des personnes de petite taille ?" with sshake
+    Akarsha "C'est toujours un vrai mec,{w=0.10} meuf !{w=0.26}, Qui t'es,{w=0.10} une sorte de haineuse des personnes de petite taille ?" with sshake
 
 # game/1_diya.rpy:2965
 translate french eatHim_4b9ee2d9:
 
     # DiyaT "This is on a whole other level from \"short\"!){w=0.26}\n(His brain must be the size of a pea!" with sshake
-    DiyaT "C'est un tout autre niveau \"short\"!){w=0.26}\n( Son cerveau doit avoir la taille d'un petit pois" with sshake
+    DiyaT "C'est un tout autre niveau que \"petit\"!){w=0.26}\n( Son cerveau doit avoir la taille d'un petit pois !" with sshake
 
 # game/1_diya.rpy:2968
 translate french eatHim_501e7487:
 
     # Akarsha "Dude, imagine... {w=0.26}What if you were the tiny guy?"
-    Akarsha "Meuf, imagine... . {w=0.26} Et si tu étais le petit gars ?"
+    Akarsha "Meuf, imagine... {w=0.26} Et si t'étais le petit gars ?"
 
 # game/1_diya.rpy:2969
 translate french eatHim_98fe6971:
 
     # Akarsha "If I were him,{w=0.10} I'd go into a total panic."
-    Akarsha "Si j'étais lui, {w=0.10} je serais en panique totale"
+    Akarsha "Si j'étais lui, {w=0.10} je serais en panique totale."
 
 # game/1_diya.rpy:2971
 translate french eatHim_9113abc9:
 
     # Akarsha "I would scream and squirm. {w=0.26}I wouldn't wanna get eaten."
-    Akarsha "Je crirais et me tortillerais. {w=0.26} Je ne voudrais pas être mangé"
+    Akarsha "Je crierais et me tortillerais. {w=0.26} Je voudrais pas être mangée."
 
 # game/1_diya.rpy:2979
 translate french wouldntEat_a2dbca39:
 
     # Diya "No."
-    Diya "Non"
+    Diya "Non."
 
 # game/1_diya.rpy:2981
 translate french wouldntEat_a7da58b9:
 
     # Diya "He'd probably taste horrible."
-    Diya "Il aurait probablement un goût horrible"
+    Diya "Il aurait probablement un goût horrible."
 
 # game/1_diya.rpy:2983
 translate french wouldntEat_d129c49a:
 
     # Diya "People have so many bones. {w=0.26}It'd be like eating a fish."
-    Diya "Les gens ont trop d'os.  {w=0.26} Ce serait comme manger un poisson"
+    Diya "Les gens ont trop d'os.{w=0.26} Ce serait comme manger un poisson."
 
 # game/1_diya.rpy:2986
 translate french wouldntEat_c1ec2fb4:
 
     # Akarsha "That's the only reason you wouldn't do it?"
-    Akarsha "C'est la seule raison pour laquelle tu ne le ferais pas ?"
+    Akarsha "C'est la seule raison pour laquelle tu le ferais pas ?"
 
 # game/1_diya.rpy:2987
 translate french wouldntEat_35ee3896:
 
     # Akarsha "Are you sayin' you'd eat him if he was,{w=0.10} like,{w=0.10} a Cheeto?"
-    Akarsha "Es-tu en train de dire que tu le mangerais s'il était,{w=0.10} comme,{w=0.10} un Cheeto?"
+    Akarsha "T'es en train de dire que tu le mangerais s'il était,{w=0.10} genre,{w=0.10} un Cheeto?"
 
 # game/1_diya.rpy:2990
 translate french wouldntEat_b378766f:
 
     # Diya "What do you mean. {w=0.26}Like a talking Cheeto with human intelligence."
-    Diya "Que veux tu dire ? {w=0.26} Comme un Cheeto qui parle et qui a une intelligence humaine"
+    Diya "Tu veux dire quoi ? {w=0.26} Comme un Cheeto qui parle et qui a une intelligence humaine."
 
 # game/1_diya.rpy:2993
 translate french wouldntEat_94e371c0:
 
     # Akarsha "No,{w=0.10} like,{w=0.10} he's still a human dude but he somehow has the taste and texture of a Cheeto."
-    Akarsha "Non,{w=0.10} comme,{w=0.10} c'est toujours un humain, mais il a le goût et la texture d'un Cheeto. "
+    Akarsha "Non,{w=0.10} genre,{w=0.10} c'est toujours un humain, mais il a le goût et la texture d'un Cheeto. "
 
 # game/1_diya.rpy:2996
 translate french wouldntEat_13a1e7bf:
 
     # DiyaT "What the heck... {w=0.26}This is getting pretty abstract."
-    DiyaT "Mais qu'est ce que... {w=0.26} ça devient assez abstrait."
+    DiyaT "Mais qu'est-ce que...{w=0.26} ça devient assez abstrait."
 
 # game/1_diya.rpy:3005
 translate french wouldntEat2_57e599f4:
 
     # "Diya shakes her head."
-    "Diya secoue sa tête"
+    "Diya secoue sa tête."
 
 # game/1_diya.rpy:3008
 translate french wouldntEat2_159207a3:
 
     # Akarsha "Wow!{w=0.26} Now I know you're a true homie."
-    Akarsha "whoah !{w=0.26} Maintenant je sais que tu es une vraie pote"
+    Akarsha "Wouah !{w=0.26} Maintenant je sais que t'es une vraie pote."
 
 # game/1_diya.rpy:3012
 translate french wouldntEat2_b1883481:
 
     # DiyaT "Great..."
-    DiyaT "Bien"
+    DiyaT "Super..."
 
 # game/1_diya.rpy:3017
 translate french schoolIntro_752571b8:
 
     # DiyaT "Why are we even talking about this..."
-    DiyaT "Pourquoi est-ce qu'on se prend la tête là dessus..."
+    DiyaT "Pourquoi est-ce qu'on se prend la tête dessus..."
 
 # game/1_diya.rpy:3035
 translate french chapter3_c6091e4a:
 
     # DiyaT "We made it to school."
-    DiyaT "On est arrivé à l'école."
+    DiyaT "On est arrivées à l'école."
 
 # game/1_diya.rpy:3037
 translate french chapter3_4f90db5a:
@@ -4666,7 +4671,7 @@ translate french chapter3_4f90db5a:
 translate french chapter3_fe346ced:
 
     # "Suddenly, Akarsha takes off running."
-    "Tout à coup, Akarsha tappe un sprint."
+    "Tout à coup, Akarsha tape un sprint."
 
 # game/1_diya.rpy:3043
 translate french chapter3_d6b9f21f:
@@ -4678,7 +4683,7 @@ translate french chapter3_d6b9f21f:
 translate french chapter3_bd15b687:
 
     # Diya "Where are you going?"
-    Diya "Tu vas où comme ça?"
+    Diya "Tu vas où comme ça ?"
 
 # game/1_diya.rpy:3049
 translate french chapter3_c870b29a:
@@ -4690,7 +4695,7 @@ translate french chapter3_c870b29a:
 translate french chapter3_44c4a486:
 
     # Diya "Can you...not say things like that?"
-    Diya "T'as pas trouvé plus élégant comment façon de le dire?"
+    Diya "T'as pas trouvé plus élégant comme façon de le dire ?"
 
 # game/1_diya.rpy:3057
 translate french chapter3_2ed201c8:
@@ -4708,31 +4713,31 @@ translate french chapter3_c47e75c1:
 translate french chapter3_913a1dff:
 
     # DiyaT "She never takes a day off from being weird."
-    DiyaT "Chaque jour plus bizarre cette fille."
+    DiyaT "Chaque jour elle est plus bizarre cette fille."
 
 # game/1_diya.rpy:3152
 translate french lookBush_bbb27231:
 
     # Akarsha "OH MY GOD!!!! I DONT BELIEVE IT!!!!" with sshake
-    Akarsha "Ô LA VACHE!!!! J'Y CROIS PAS!!!!!" with sshake
+    Akarsha "OH LA VACHE !!!! J'Y CROIS PAS !!!!" with sshake
 
 # game/1_diya.rpy:3155
 translate french lookBush_f2fff244:
 
     # Diya "What?"
-    Diya "Quoi?"
+    Diya "Quoi ?"
 
 # game/1_diya.rpy:3158
 translate french lookBush_2a42d072:
 
     # Akarsha "THIS IS...THIS IS A BUSH!!!!!!!!"
-    Akarsha "C'EST....C'EST UN BUISSON!!!!!!!!"
+    Akarsha "C'EST... C'EST UN BUISSON !!!!!!!!"
 
 # game/1_diya.rpy:3159
 translate french lookBush_588540e7:
 
     # Akarsha "I never would've guessed!"
-    Akarsha "Tu m'en diras tant!"
+    Akarsha "J'aurais jamais deviné !"
 
 # game/1_diya.rpy:3162
 translate french lookBush_1612cdcc:
@@ -4744,25 +4749,25 @@ translate french lookBush_1612cdcc:
 translate french lookBush_f5a3cd1f:
 
     # Akarsha "FASCINATING!!!"
-    Akarsha "HALLUCINANT"
+    Akarsha "HALLUCINANT !!!"
 
 # game/1_diya.rpy:3167
 translate french lookBush_beb8360c:
 
     # Akarsha "Let's keep staring at this instead of doing something more useful!"
-    Akarsha "Je propose de passer les prochaines minutes à le contempler!"
+    Akarsha "Je propose de passer les prochaines minutes à le contempler !"
 
 # game/1_diya.rpy:3176
 translate french lookAlarm_a72d0f74:
 
     # Akarsha "Did you know these things are connected to the school's computer network?"
-    Akarsha "Est-ce que tu savais que ces choses étaient reliées au network de l'école?"
+    Akarsha "Est-ce que tu savais que ces choses étaient reliées au réseau de l'école?"
 
 # game/1_diya.rpy:3178
 translate french lookAlarm_232c2cf4:
 
     # Akarsha "There's a cat 5 coming out of it."
-    Akarsha "Y'a a câble ethernet qui dépasse."
+    Akarsha "Y'a un câble ethernet qui dépasse."
 
 # game/1_diya.rpy:3185
 translate french talkToStranger2_6ee1e34f:
@@ -4774,31 +4779,31 @@ translate french talkToStranger2_6ee1e34f:
 translate french talkToStranger2_228634c1:
 
     # DiyaT "Too scary."
-    DiyaT "Flippant."
+    DiyaT "Effrayant."
 
 # game/1_diya.rpy:3195
 translate french lookPoster_656a56ba:
 
     # "The poster says \"Reduce stress!\""
-    "Sur le poster on peut lire \"Relaxez vous!\""
+    "Sur le poster on peut lire \"Relaxez vous !\""
 
 # game/1_diya.rpy:3199
 translate french lookPoster_1eeb501c:
 
     # Akarsha "HahaHAH!!" with sshake
-    Akarsha "HahaHAH!!" with sshake
+    Akarsha "HahaHAH !!" with sshake
 
 # game/1_diya.rpy:3200
 translate french lookPoster_af616955:
 
     # Akarsha "How exactly do they expect us to do that?"
-    Akarsha "Comment ils veulent qu'on fasse ça au juste?"
+    Akarsha "Comment ils veulent qu'on fasse ça au juste ?"
 
 # game/1_diya.rpy:3202
 translate french lookPoster_b73af55a:
 
     # Akarsha "Not go to school?{w=0.26} Get rid of our parents?"
-    Akarsha "En séchant les cours?{w=0.26} En se débarrassant de nos parents?"
+    Akarsha "En séchant les cours ?{w=0.26} En se débarrassant de nos parents ?"
 
 # game/1_diya.rpy:3219
 translate french locker_0a2cc7a4:
@@ -4816,37 +4821,37 @@ translate french locker_5903542b:
 translate french locker_829b772d:
 
     # DiyaT "The school doesn't have enough lockers for everyone,{w=0.10} so freshmen share."
-    DiyaT "L'école n'a pas assez de casier pour tout le monde, {w=0.10} alors les petits nouveaux partagent."
+    DiyaT "L'école n'a pas assez de casiers pour tout le monde,{w=0.10} alors les petits nouveaux partagent."
 
 # game/1_diya.rpy:3225
 translate french locker_ce90170b:
 
     # DiyaT "And they're tiny.{w=0.10} I'm always surprised when high schoolers in movies have lockers big enough to fit people inside."
-    DiyaT "En plus ils sont riquiquis.{w=0.10}  "
+    DiyaT "En plus ils sont riquiquis.{w=0.10} Je suis toujours surprise dans les films quand les lycéens ont des casiers assez grands pour faire entrer des gens dedans."
 
 # game/1_diya.rpy:3286
 translate french getStuff_7ede1dce:
 
     # "Diya hefts her books and binders into her backpack."
-    "Diya fourres ses livres et classeurs dans son sac."
+    "Diya fourre ses livres et classeurs dans son sac."
 
 # game/1_diya.rpy:3289
 translate french getStuff_78ed7ffd:
 
     # DiyaT "Alright. {w=0.26}I can go to class now."
-    DiyaT "J'ai tout. {w=0.26} En avant pour les cours."
+    DiyaT "J'ai tout.{w=0.26} En avant pour les cours."
 
 # game/1_diya.rpy:3296
 translate french lunchbox_458f5d4c:
 
     # "Diya opens the lunchbox and peers inside."
-    "Diya ouvre sa boîte repas et jette un oeil à l'intérieur."
+    "Diya ouvre le panier-repas et jette un œil à l'intérieur."
 
 # game/1_diya.rpy:3297
 translate french lunchbox_39565c4c:
 
     # "There's a steel thermos and a plastic baggy of grapes."
-    "Elle contient une boîte en alu et un sachet de raisin."
+    "Il y a un plat isotherme en inox et un sachet plastique contenant des raisins."
 
 # game/1_diya.rpy:3299
 translate french lunchbox_ee4493f5:
@@ -4858,25 +4863,25 @@ translate french lunchbox_ee4493f5:
 translate french lunchbox_5a7fce13:
 
     # "Diya shovels half the grapes into her mouth before putting the lunchbox back."
-    "Diya fourre la moitié du raisin dans sa bouche avant de reposer son repas sur la table."
+    "Diya fourre la moitié du raisin dans sa bouche avant de reposer le panier-repas."
 
 # game/1_diya.rpy:3303
 translate french lunchbox_458f5d4c_1:
 
     # "Diya opens the lunchbox and peers inside."
-    "Diya ouvre la boîte repas et regarde son contenu."
+    "Diya ouvre le panier-repas et regarde son contenu."
 
 # game/1_diya.rpy:3304
 translate french lunchbox_e330c1ab:
 
     # "There's bittermelon in Noelle's stir-fry today."
-    "Noelle's a de la margose dans son riz sauté aujourd'hui. "
+    "Noelle a du melon amère dans son plat aujourd'hui. "
 
 # game/1_diya.rpy:3305
 translate french lunchbox_dc4f8ac1:
 
     # "Diya and Noelle both hate bittermelon. "
-    "Diya et Noelle détestent toutes les deux la margose."
+    "Diya et Noelle détestent toutes les deux le melon amère."
 
 # game/1_diya.rpy:3307
 translate french lunchbox_6276c5a5:
@@ -4888,7 +4893,7 @@ translate french lunchbox_6276c5a5:
 translate french rosin_d147eb49:
 
     # DiyaT "This is rosin for string instruments."
-    DiyaT "C'est un colophane pour les instruments à cordes."
+    DiyaT "C'est de la colophane pour les instruments à cordes."
 
 # game/1_diya.rpy:3316
 translate french rosin_8212b0ee:
@@ -4906,19 +4911,19 @@ translate french rosin_81ef55da:
 translate french rosin_3b5af64f:
 
     # DiyaT "It looks like you can eat it,{w=0.10} but you can't."
-    DiyaT "On dirait qu'on peut le manger,{w=0.10} mais en fait non."
+    DiyaT "On dirait qu'on peut la manger,{w=0.10} mais en fait non."
 
 # game/1_diya.rpy:3333
 translate french cantGo_2bbfb986:
 
     # DiyaT "I don't have all the stuff I need for class."
-    DiyaT "J'ai pas toutes les affaires dont j'ai besoin pour le cours."
+    DiyaT "J'ai pas toutes les affaires qu'il me faut pour les cours."
 
 # game/1_diya.rpy:3335
 translate french cantGo_39d58b8a:
 
     # DiyaT "I need to visit me and Noelle's locker first."
-    DiyaT "J'ai besoin d'aller à mon casier et celui de Noelle avant. "
+    DiyaT "J'ai besoin d'aller à mon casier partagé avec Noelle avant. "
 
 # game/1_diya.rpy:3365
 translate french p1_32d61905:
@@ -4948,19 +4953,19 @@ translate french p1_b62568a2:
 translate french p1_57996bb4:
 
     # Noelle "I can't open this water bottle."
-    Noelle "Je peux pas ouvrir cette bouteille d'eau."
+    Noelle "J'arrive pas à ouvrir cette bouteille d'eau."
 
 # game/1_diya.rpy:3377
 translate french p1_b8a544cd:
 
     # DiyaT "Noelle basically has noodles for arms."
-    DiyaT "En gros Noelle a des nouilles à la place des bras. "
+    DiyaT "Noelle a un peu des nouilles à la place des bras."
 
 # game/1_diya.rpy:3381
 translate french p1_fdb56a01:
 
     # "Diya takes the bottle out of Noelle's hands and twists the plastic sealed cap open."
-    "Diya, prends la bouteille des mains de Noelle et tourne le bouchon pour l'ouvrir."
+    "Diya prend la bouteille des mains de Noelle et tourne le bouchon pour l'ouvrir."
 
 # game/1_diya.rpy:3383
 translate french p1_c728b2c9:
@@ -4972,31 +4977,31 @@ translate french p1_c728b2c9:
 translate french p1_85c1f592:
 
     # Diya "How are you so weak? It's scary."
-    Diya "Comment peux-tu être si faible ? Ça fait peur."
+    Diya "Comment tu peux être aussi peu musclée ? Ça fait peur."
 
 # game/1_diya.rpy:3388
 translate french p1_71c747b7:
 
     # Noelle "It's the manufacturer's fault for making these seals so strong."
-    Noelle "C'est la faute du fabricant qui les avoir serrés si forts. "
+    Noelle "C'est la faute du fabricant qui les serre trop forts."
 
 # game/1_diya.rpy:3390
 translate french p1_a226b7b7:
 
     # Diya "What if you get lost in a desert and find a bottle of water?"
-    Diya "Et si tu te perds dans le désert et trouve une bouteille d'eau ?"
+    Diya "Et si tu te perds dans le désert et que t'y trouves une bouteille d'eau ?"
 
 # game/1_diya.rpy:3391
 translate french p1_0fb5d6c7:
 
     # Diya "You'll die because you can't open it."
-    Diya "Tu mourras parce que tu ne pourras pas l'ouvrir."
+    Diya "Tu mourras parce que tu pourras pas l'ouvrir."
 
 # game/1_diya.rpy:3394
 translate french p1_b0e0c0fc:
 
     # Noelle "No, I won't. You can open it for me."
-    Noelle "Non, je ne mourrai pas. Tu l'ouvriras pour moi."
+    Noelle "Non, je mourrai pas. Tu l'ouvriras pour moi."
 
 # game/1_diya.rpy:3396
 translate french p1_4c3b7564:
@@ -5014,13 +5019,13 @@ translate french p1_9dbda49f:
 translate french p1_328530d8:
 
     # Noelle "You wouldn't do that."
-    Noelle "Tu ne ferais pas ça."
+    Noelle "Tu ferais pas ça."
 
 # game/1_diya.rpy:3403
 translate french p1_e73fc293:
 
     # Diya "I'd make $1.25 per week. Can buy Cup Noodles from the student store."
-    Diya "Je me ferais 1,25 $ par semaine. Je peux acheter des nouilles instantanées à la cafète."
+    Diya "Je me ferais 1,25 $ par semaine. Je pourrais acheter des nouilles instantanées à la cafète."
 
 # game/1_diya.rpy:3408
 translate french p1_5782dd0c:
@@ -5080,13 +5085,13 @@ translate french p1_46c2f2cc:
 translate french p1_2e00fa89:
 
     # Diya "Are you okay though?{w=0.26} Shouldn't you go home?"
-    Diya "Mais tu vas bien ?{w=0.26} Tu ne devrais pas rentrer ?"
+    Diya "Enfin, tu es sûre que ça va ?{w=0.26} Tu devrais pas rentrer chez toi ?"
 
 # game/1_diya.rpy:3430
 translate french p1_5bfb029f:
 
     # Noelle "And what,{w=0.10} miss school?!" with sshake
-    Noelle "Et donc,{w=0.10} manquer l'école ?!" with sshake
+    Noelle "Hein quoi,{w=0.10} et manquer l'école ?!" with sshake
 
 # game/1_diya.rpy:3432
 translate french p1_00f43a48:
@@ -5098,7 +5103,7 @@ translate french p1_00f43a48:
 translate french p1_4e84fa75:
 
     # DiyaT "Even when Noelle had the stomach flu in middle school,{w=0.10} her parents made her come just for her math and science classes."
-    DiyaT "Même quand Noelle avait eu la grippe intestinale au collège,{w=0.10} ses parents l'ont fait venir juste pour les cours de maths et sciences."
+    DiyaT "Même quand Noelle avait eu la grippe intestinale au collège,{w=0.10} ses parents l'ont faite venir juste pour les cours de maths et sciences."
 
 # game/1_diya.rpy:3435
 translate french p1_529e46d5:
@@ -5116,7 +5121,7 @@ translate french p1_87868647:
 translate french p1_fc4d49b2:
 
     # Noelle "Where's Akarsha?"
-    Noelle "Où est Akarsha ?"
+    Noelle "Elle est où Akarsha ?"
 
 # game/1_diya.rpy:3443
 translate french p1_68c66fb7:
@@ -5128,13 +5133,13 @@ translate french p1_68c66fb7:
 translate french p1_a1d626bb:
 
     # Akarsha "It's pee-pee time."
-    Akarsha "C'est pause pipi."
+    Akarsha "C'est l'heure d'aller poser ma pêche."
 
 # game/1_diya.rpy:3455
 translate french p1_adac9e5d:
 
     # DiyaT "I am NOT saying that."
-    DiyaT "C'est PAS ce que je dis."
+    DiyaT "Je ne vais certainement PAS dire ça."
 
 # game/1_diya.rpy:3456
 translate french p1_93212e9d:
@@ -5164,7 +5169,7 @@ translate french p1_1f71e1c1:
 translate french p1_3c610cb8:
 
     # Noelle "I secretly sewed a library book security tag into the inside of Akarsha's backpack."
-    Noelle "J'ai secrètement collé un antivol dans le sac d'Akarsha."
+    Noelle "J'ai discrètement cousu un antivol de la bibliothèque dans la doublure du sac d'Akarsha."
 
 # game/1_diya.rpy:3469
 translate french p1_d8c7ced4:
@@ -5182,7 +5187,7 @@ translate french p1_19a8f544:
 translate french p1_5ca99b9c:
 
     # Noelle "Well, whatever. We'll have plenty of chances to see."
-    Noelle "Et bien, peu importe. On aura bien des occasions de le voir."
+    Noelle "Enfin, qu'importe. On aura bien des occasions de voir."
 
 # game/1_diya.rpy:3476
 translate french p1_68920cd7:
@@ -5200,25 +5205,25 @@ translate french p1_1cfd8e7d:
 translate french p1_df3a30ae:
 
     # "It's complete chaos. People are pushing and angling their way to the list with the fervor of Beliebers trying to touch Justin's hand."
-    "C'est le bordel total. Les gens te poussent pour atteindre le tableau avec la même ferveur qu'un Belieber qu'essaye de toucher la main de Justin."
+    "C'est le chaos complet. Les gens se poussent pour atteindre le tableau avec la même ferveur que des Beliebers qu'essaye de toucher la main de Justin."
 
 # game/1_diya.rpy:3487
 translate french p1_f70e351c:
 
     # NPC2 "If I get a B, my parents are throwing away my GameCube."
-    NPC2 "Si j'ai un 12, mes parents jettent mon GameCube."
+    NPC2 "Si j'ai un 12, mes parents jettent ma GameCube."
 
 # game/1_diya.rpy:3488
 translate french p1_9e92b29f:
 
     # NPC "Yikes...That's gotta be an empty threat, right?"
-    NPC "Oups... C'est peut-être une menace en l'air, non ?"
+    NPC "Ah... C'est peut-être une menace en l'air, non ?"
 
 # game/1_diya.rpy:3489
 translate french p1_5c98e267:
 
     # NPC2 "I {i}wish{/i}. They already threw away my cellphone."
-    NPC2 "Je {i}l'espère{/i}. Ils ont déjà jeté mon téléphone."
+    NPC2 "Si {i}seulement{/i}. Ils ont déjà balancé mon téléphone."
 
 # game/1_diya.rpy:3491
 translate french p1_136db9e2:
@@ -5242,19 +5247,19 @@ translate french p1_b7aed4ff:
 translate french p1_7ab32c7a:
 
     # Noelle "Asian failed? Or actually failed?"
-    Noelle "Les asiatiques échouent ? Vraiment ?"
+    Noelle "Genre, échoué comme une asiatique  ? Ou vraiment échoué ?"
 
 # game/1_diya.rpy:3499
 translate french p1_6da6d2d5:
 
     # Diya "Asian failed. C'mon, I'm not {i}that{/i} dumb."
-    Diya "Une asiatique qui échoue ? Allez, je suis pas bête {i}à ce point{/i}."
+    Diya "Échoué comme une asiatique ? Quand même, je suis pas bête {i}à ce point{/i}."
 
 # game/1_diya.rpy:3554
 translate french topScores_4c3c16b4:
 
     # DiyaT "This is a list of the top 10 scores across all periods."
-    DiyaT "C'est la liste du top 10 de tous les semestres."
+    DiyaT "C'est la liste du top 10 de toutes les classes."
 
 # game/1_diya.rpy:3555
 translate french topScores_882bd560:
@@ -5272,7 +5277,7 @@ translate french topScores_45934ce3:
 translate french topScores_b46fe40a:
 
     # DiyaT "By now, she's unbeatable. It's like her tragic superhero origin story."
-    DiyaT "Maintenant, elle est imbattable. C'est sa genèse de super-héroïne."
+    DiyaT "Maintenant, elle est imbattable. C'est sa tragique genèse de super-héroïne."
 
 # game/1_diya.rpy:3558
 translate french topScores_f4e37149:
@@ -5290,7 +5295,7 @@ translate french topScores_73bbda00:
 translate french topScores_b084ebeb:
 
     # DiyaT "General consensus is that she's cheating, but the teachers have never been able to catch her doing anything."
-    DiyaT "Tout le monde sait qu'elle triche, mais les profs ont jamais pu l'attraper en flag'."
+    DiyaT "Tout le monde pense qu'elle triche, mais les profs ont jamais pu l'attraper en flag'."
 
 # game/1_diya.rpy:3561
 translate french topScores_d5b5c795:
@@ -5314,19 +5319,19 @@ translate french topScores_c54b5455:
 translate french topScores_f1d24349:
 
     # Diya "Phew. Almost failed."
-    Diya "Pfiou. Presque raté."
+    Diya "Pfiou. Presque la catastrophe."
 
 # game/1_diya.rpy:3579
 translate french topScores_b2f666bc:
 
     # Noelle "Actually, you could've missed one more and still scraped an A-."
-    Noelle "En fait, tu pouvais en rater un de plus et avoir quand même un 14."
+    Noelle "En fait, tu pouvais rater une question de plus et avoir quand même un 16."
 
 # game/1_diya.rpy:3582
 translate french topScores_c01e4cf1:
 
     # DiyaT "Considering how many I guessed on, that's still cutting it pretty close."
-    DiyaT "Sachant combien j'en ai deviné au pif, ça reste juste."
+    DiyaT "Sachant combien j'en ai deviné au pif, ça reste juste juste."
 
 # game/1_diya.rpy:3583
 translate french topScores_e7fbee5f:
@@ -5356,7 +5361,7 @@ translate french enterClass_58cb6ad5:
 translate french enterClass_194bc507:
 
     # Akarsha "HOO!!!!!" with sshake
-    Akarsha "HO !!! " with sshake
+    Akarsha "HOO !!! " with sshake
 
 # game/1_diya.rpy:3612
 translate french enterClass_7476dfa1:
@@ -5374,19 +5379,19 @@ translate french enterClass_59b2f1de:
 translate french enterClass_b1236f8a:
 
     # "A garbage can drops from the ceiling!" with sshake
-    "Une poubelle tombe du plafond" with sshake
+    "Une poubelle tombe du plafond !" with sshake
 
 # game/1_diya.rpy:3621
 translate french enterClass_45c21280:
 
     # Noelle "NO!!!!!!!!!"
-    Noelle "NON!!!!!!!!!"
+    Noelle "NON !!!!!!!!!"
 
 # game/1_diya.rpy:3624
 translate french enterClass_d32aef0b:
 
     # Akarsha "HAHA {i}HAH!!!{/i}" with sshake
-    Akarsha "HAHA {i}HAH!!!{/i}" with sshake
+    Akarsha "HAHA {i}HAH !!!{/i}" with sshake
 
 # game/1_diya.rpy:3628
 translate french enterClass_88293899:
@@ -5398,7 +5403,7 @@ translate french enterClass_88293899:
 translate french enterClass_ada9334e:
 
     # DiyaT "It's their roundabout way of being friends."
-    DiyaT "C'est leur façon détournée d'être amis."
+    DiyaT "C'est leur façon détournée d'être amies."
 
 # game/1_diya.rpy:3638
 translate french enterClass_d95836eb:
@@ -5410,7 +5415,7 @@ translate french enterClass_d95836eb:
 translate french enterClass_0eee25f0:
 
     # Akarsha "If it isn't my favorite Frenchman, Noelle."
-    Akarsha "Si ce n'est pas ma française de service préférée, Noelle..."
+    Akarsha "Si c'est pas ma française de service préférée, Noelle..."
 
 # game/1_diya.rpy:3641
 translate french enterClass_52d9f166:
@@ -5422,13 +5427,13 @@ translate french enterClass_52d9f166:
 translate french enterClass_cc47203f:
 
     # Akarsha "Why're you speaking English, Noelle??"
-    Akarsha "Pourquoi parlez-vous anglais, Noëlle ? "
+    Akarsha "Pourquoi parlez-vous anglais, Noelle ? "
 
 # game/1_diya.rpy:3645
 translate french enterClass_90f650e7:
 
     # Akarsha "What kind of Frenchman are you??"
-    Akarsha "Mais quel genre de Française faites-vous ?? "
+    Akarsha "Mais quel genre de Française êtes-vous ?? "
 
 # game/1_diya.rpy:3647
 translate french enterClass_db10f87f:
@@ -5470,7 +5475,7 @@ translate french enterClass_45dc4300:
 translate french enterClass_a6159566:
 
     # DiyaT "So Akarsha just keeps acting dumber and dumber on purpose into infinity."
-    DiyaT "Donc Akarsha continue d'agir de plus en plus bêtement et volontairement à l'infini. "
+    DiyaT "Donc Akarsha continue volontairement d'agir de plus en plus infiniment bête."
 
 # game/1_diya.rpy:3662
 translate french enterClass_d1aae370:
@@ -5482,31 +5487,31 @@ translate french enterClass_d1aae370:
 translate french enterClass_3e5ddfc0:
 
     # Noelle "I can't believe you've done this. What happened to our truce?"
-    Noelle "Je n'arrive pas à croire que tu aies fait ça. Qu'est-il arrivé à notre trêve ? "
+    Noelle "J'arrive pas à croire que t'aies fait ça. Et notre trêve, alors ? "
 
 # game/1_diya.rpy:3666
 translate french enterClass_3104c5e2:
 
     # Akarsha "Truce?"
-    Akarsha "Une trêve ? "
+    Akarsha "Une trêve ? Quelle trêve ?"
 
 # game/1_diya.rpy:3668
 translate french enterClass_eb0bb6c1:
 
     # Noelle "From yesterday! You agreed to this!"
-    Noelle "D'hier ! Vous étiez d'accord avec ça ! "
+    Noelle "D'hier ! T'étais d'accord avec ça ! "
 
 # game/1_diya.rpy:3670
 translate french enterClass_6ca3dd51:
 
     # "Noelle pulls a sheet of binder paper from her book bag and brandishes it in front of Akarsha's face."
-    "Noëlle sort une feuille de papier de son cartable et la brandit devant le visage d'Akarsha. "
+    "Noelle sort une feuille de papier de son cartable et la brandit devant le visage d'Akarsha. "
 
 # game/1_diya.rpy:3673
 translate french enterClass_0380b5de:
 
     # Noelle "Look! This is your own signature at the bottom."
-    Noelle "Regardez ! C'est ta propre signature en bas."
+    Noelle "Regarde ! C'est bien ta signature en bas."
 
 # game/1_diya.rpy:3675
 translate french enterClass_2df16a64:
@@ -5518,7 +5523,7 @@ translate french enterClass_2df16a64:
 translate french enterClass_9127f483:
 
     # Akarsha "...Suddenly, I can't read."
-    Akarsha "Soudain, je sais plus lire ."
+    Akarsha "J'arrive plus à lire, soudainement."
 
 # game/1_diya.rpy:3680
 translate french enterClass_3d4ff50f:
@@ -5530,13 +5535,13 @@ translate french enterClass_3d4ff50f:
 translate french enterClass_25486c79:
 
     # "Noelle's scream sounds very weird and hoarse from her cold."
-    "Le son du cri de Noelle était bizarre et enroué a cause de sa maladie."
+    "A cause de son rhume, le cri de Noelle est étrangement rauque."
 
 # game/1_diya.rpy:3683
 translate french enterClass_c668c0c2:
 
     # Akarsha "...What's wrong with your voice today?"
-    Akarsha "Qu'est-ce qui ne va pas avec votre voix aujourd'hui ?"
+    Akarsha "...Qu'est-ce qui va pas avec ta voix aujourd'hui ?"
 
 # game/1_diya.rpy:3684
 translate french enterClass_acab0404:
@@ -5554,31 +5559,31 @@ translate french enterClass_17856c96:
 translate french enterClass_b9555eeb:
 
     # Akarsha "How about I punch you in the throat? It'll displace the mucus."
-    Akarsha "Et si je vous frappais à la gorge ? Ça déplacera le mucus."
+    Akarsha "Et si je te frappais à la gorge ? Ça déplacerait le mucus."
 
 # game/1_diya.rpy:3690
 translate french enterClass_7322b437:
 
     # Noelle "NO, IT WON'T." with sshake
-    Noelle "NON, ÇA NE LE SERA PAS." with sshake
+    Noelle "NON, ÇA NE VA PAS AIDER." with sshake
 
 # game/1_diya.rpy:3692
 translate french enterClass_ff36057d:
 
     # Akarsha "How do you know? Anything is possible."
-    Akarsha "Comment le savez-vous ? Tout est possible."
+    Akarsha "Comment tu peux savoir ? Tout est possible."
 
 # game/1_diya.rpy:3693
 translate french enterClass_57dd6d8a:
 
     # Akarsha "Trust me."
-    Akarsha "Fais-moi confiance."
+    Akarsha "Aie confiance."
 
 # game/1_diya.rpy:3694
 translate french enterClass_de54cdd8:
 
     # Akarsha "{i}{font=arial.ttf}♫{/font} I'm here! {w=0.26}Soba ni iru kara... {i}{font=arial.ttf}♫{/font}"
-    Akarsha "{i}{font=arial.ttf}♫{/font} Je suis là ! {w=0.26}Soba ni iru kara... {i}{font=arial.ttf}♫{/font}"
+    Akarsha "{i}{font=arial.ttf}♫{/font} I'm here ! {w=0.26}Soba ni iru kara... {i}{font=arial.ttf}♫{/font}"
 
 # game/1_diya.rpy:3696
 translate french enterClass_7e74b2c4:
@@ -5590,43 +5595,44 @@ translate french enterClass_7e74b2c4:
 translate french enterClass_67b9be96:
 
     # Noelle "You worthless scammer."
-    Noelle "Espèce d'escroc sans valeur."
+    Noelle "Espèce d'escroc sans vergogne."
 
 # game/1_diya.rpy:3699
 translate french enterClass_6a01c615:
 
     # Akarsha "Leave all your problems to me. {w=0.26}I'll solve them in a heartbeat."
-    Akarsha "Laisse-moi m'occuper de tous tes problèmes{w=0.26}. Je les resoudrai en un clin d'oeil. "
+    Akarsha "Laisse-moi m'occuper de tous tes problèmes. {w=0.26}Je les règlerai en un clin d'oeil. "
 
 # game/1_diya.rpy:3701
 translate french enterClass_9784ad65:
 
     # Noelle "That is unrealistic and accelerating that fast would destroy you even past your bone structure."
-    Noelle "C'est irréaliste et une accélération aussi rapide vous détruirait même au-delà de votre structure osseuse."
+    Noelle "C'est irréaliste et une accélération aussi rapide te détruirait jusqu'aux os."
 
 # game/1_diya.rpy:3703
 translate french enterClass_99c7e8f5:
 
     # Akarsha "Why're you being so mean? {w=0.26}I'm just trying to help you!"
-    Akarsha "Pourquoi es-tu si méchante ?{w=0.26}J'essaie juste de t'aider !"
+    Akarsha "Pourquoi t'es si méchante ? {w=0.26}J'essaie juste de t'aider !"
 
 # game/1_diya.rpy:3705
 translate french enterClass_20755470:
 
     # Noelle "HITTING ME ISN'T HELPING ME!!" with sshake
-    Noelle "ME FRAPPER NE M'AIDE PAS !!" with sshake
+    Noelle "ME FRAPPER NE M'AIDERA PAS !!" with sshake
 
 # game/1_diya.rpy:3708
 translate french enterClass_73a9b39a:
 
     # Akarsha "Wooooooooooow,{w=0.10} someone has anger management problems!"
-    Akarsha "Whooooooooooow,{w=0.10} quelqu'un a des problèmes de gestion de la colère ! "
+    Akarsha "Whooooooooooow,{w=0.10} quelqu'un a des petits soucis de gestion de la colère !"
 
 # game/1_diya.rpy:3710
 translate french enterClass_37ac40ce:
 
     # Akarsha "You gotta slow down and smell the flowers... {w=0.26}\nAppreciate life's miracles."
-    Akarsha "Tu dois ralentir et sentir les fleurs...{w=0.26}\nAppréciez les miracles de la vie. "
+    Akarsha "Tu devrais ralentir et sentir les fleurs... {w=0.26}\nApprécier les miracles de la vie."
+
 
 # game/1_diya.rpy:3713
 translate french enterClass_1cfceab6:
@@ -5644,31 +5650,31 @@ translate french enterClass_385abd51:
 translate french enterClass_5f1f382b:
 
     # Akarsha "I just don't understand...\nWhy is there so much hate in the world...?"
-    Akarsha "Je ne comprends pas... Pourquoi y a-t-il tant de haine dans le monde... ? "
+    Akarsha "Je ne comprends pas... \nPourquoi y a-t-il tant de haine dans le monde... ? "
 
 # game/1_diya.rpy:3722
 translate french enterClass_581a17cd:
 
     # Akarsha "If only we could open our hearts to love, there would be no wars..."
-    Akarsha "Si seulement nous pouvions ouvrir nos cœurs à l'amour, il n'y aurait pas de guerres... "
+    Akarsha "Si seulement on pouvait ouvrir nos cœurs à l'amour, il n'y aurait pas de guerres... "
 
 # game/1_diya.rpy:3724
 translate french enterClass_16c74243:
 
     # Akarsha "\"Peace begins with a smile.\" -Mother Theresa."
-    Akarsha "La paix commence par un sourire..\" -Mère Theresa."
+    Akarsha "\"La paix commence par un sourire.\" -Mère Theresa. "
 
 # game/1_diya.rpy:3726
 translate french enterClass_b063fa03:
 
     # "Noelle is struggling not to break character by laughing!"
-    "Noelle s'efforce de ne pas briser son personnage en riant !"
+    "Noelle se retient de rire pour ne pas sortir du personnage !"
 
 # game/1_diya.rpy:3731
 translate french enterClass_07037f16:
 
     # "The bell rings!{w=0.26} This concludes Noelle and Akarsha's daily morning scream fest."
-    "La cloche sonne !{w=0.26}Ceci conclut le festival quotidien de Noëlle et Akarsha. "
+    "La cloche sonne !{w=0.26} Ceci conclut le bruyant festival quotidien de Noelle et Akarsha. "
 
 # game/1_diya.rpy:3736
 translate french enterClass_5fe63c4b:
@@ -5680,7 +5686,7 @@ translate french enterClass_5fe63c4b:
 translate french enterClass_973c044c:
 
     # Akarsha "Guess what?"
-    Akarsha "Devinez quoi ?"
+    Akarsha "Devine quoi ?"
 
 # game/1_diya.rpy:3751
 translate french enterClass_9d73f57c:
@@ -5698,7 +5704,7 @@ translate french enterClass_5f09ff92:
 translate french enterClass_0133f6ff:
 
     # Noelle "You were arrested."
-    Noelle "Vous avez été arrêté."
+    Noelle "Tu t'es faite arrêter."
 
 # game/1_diya.rpy:3757
 translate french enterClass_851313c7:
@@ -5710,25 +5716,25 @@ translate french enterClass_851313c7:
 translate french enterClass_ddae83e5:
 
     # Noelle "You have a year left to live."
-    Noelle "Il vous reste un an à vivre."
+    Noelle "Il te reste un an à vivre."
 
 # game/1_diya.rpy:3761
 translate french enterClass_c22064b7:
 
     # Akarsha "What the?? Dude, why'd you always gotta jump to the worst possible conclusion? "
-    Akarsha "Qu'est-ce que... ? Mec, pourquoi tu dois toujours sauter à la pire conclusion possible ? "
+    Akarsha "Qu'est-ce que... ? Meuf, pourquoi tu dois toujours sauter à la pire conclusion possible ? "
 
 # game/1_diya.rpy:3763
 translate french enterClass_afae0fbd:
 
     # Noelle "It guarantees that I'm either right or pleasantly surprised. "
-    Noelle "Cela me garantit d'avoir raison ou d'être agréablement surpris. "
+    Noelle "Ca me garantit d'avoir raison ou d'être agréablement surprise. "
 
 # game/1_diya.rpy:3765
 translate french enterClass_fe8259d6:
 
     # Akarsha "You're a real piece of work, you know that? "
-    Akarsha "Tu es un vrai morceau de travail, tu sais ça ? "
+    Akarsha "T'es vraiment irrécupérable, tu le sais, ça ? "
 
 # game/1_diya.rpy:3766
 translate french enterClass_341ecb8a:
@@ -5740,13 +5746,13 @@ translate french enterClass_341ecb8a:
 translate french enterClass_f6b6366d:
 
     # Akarsha "Did you guys hear about the new girl who transferred here?"
-    Akarsha "Vous avez entendu parler de la nouvelle fille qui a été transférée"
+    Akarsha "Vous avez entendu parler de la nouvelle fille qui est arrivée dans notre école ?"
 
 # game/1_diya.rpy:3770
 translate french enterClass_2e09a2dd:
 
     # Akarsha "Apparently she's like,{w=0.10} a delinquent!{w=0.26} I heard she knifed someone."
-    Akarsha "Apparemment, elle est comme,{w=0.10} un délinquant !{w=0.26} j'ai entendu dire qu'elle avait poignardé quelqu'un. "
+    Akarsha "Apparemment, c'est genre,{w=0.10} une délinquante !{w=0.26} J'ai entendu dire qu'elle avait poignardé quelqu'un."
 
 # game/1_diya.rpy:3772
 translate french enterClass_8b43f123:
@@ -5770,13 +5776,13 @@ translate french enterClass_39e89731:
 translate french enterClass_e4a82990:
 
     # Akarsha "I can't wait to meet her."
-    Akarsha "Je suis impatient de la rencontrer."
+    Akarsha "Je suis impatiente de la rencontrer."
 
 # game/1_diya.rpy:3790
 translate french enterClass_e732b6f3:
 
     # Noelle "What for?{w=0.26} Do you want to get stabbed too?"
-    Noelle "Pour quoi faire ?{w=0.26} Tu veux être poignardé aussi ? "
+    Noelle "Pour quoi faire ?{w=0.26} Tu veux être poignardée aussi ? "
 
 # game/1_diya.rpy:3792
 translate french enterClass_c01be755:
@@ -5788,7 +5794,7 @@ translate french enterClass_c01be755:
 translate french enterClass_02fcffee:
 
     # "Noelle rolls her eyes and goes back to organizing her fried rice. She's picking all the sausage bits out so Diya can eat her leftovers."
-    "Noelle roule les yeux et retourne organiser son riz frit. Elle enlève tous les morceaux de saucisses pour que Diya puisse manger ses restes."
+    "Noelle roule les yeux et retourne à l'organisation de son riz poêlé. Elle enlève tous les morceaux de saucisses pour que Diya puisse les manger."
 
 # game/1_diya.rpy:3796
 translate french enterClass_6873d887:
@@ -5806,25 +5812,25 @@ translate french enterClass_ffaac62e:
 translate french enterClass_586bff2d:
 
     # Noelle "Really? Then I take it back."
-    Noelle "Vraiment ? Alors je retire."
+    Noelle "Vraiment ? Alors je retire ce que j'ai dit."
 
 # game/1_diya.rpy:3802
 translate french enterClass_5092c8c6:
 
     # Akarsha "WOW."
-    Akarsha "WOW"
+    Akarsha "WOW."
 
 # game/1_diya.rpy:3804
 translate french enterClass_068b6832:
 
     # "Noelle slides her thermos across the table at Diya."
-    "Noelle fait glisser sur la table son bento vers Diya."
+    "Noelle fait glisser son plat isotherme sur la table vers Diya."
 
 # game/1_diya.rpy:3806
 translate french enterClass_255916a2:
 
     # DiyaT "Fried rice!!!!!!!"
-    DiyaT "Riz frit !!!!!!!"
+    DiyaT "Du riz poêlé !!!!!!!"
 
 # game/1_diya.rpy:3809
 translate french enterClass_d5c5af2c:
@@ -5836,13 +5842,13 @@ translate french enterClass_d5c5af2c:
 translate french enterClass_202d6c38:
 
     # Akarsha "How many 2nd graders do you think you could beat up if they came at you in waves of 10, with a 5th grader boss coming every 5 waves?"
-    Akarsha "Combien d'élèves de CE1 pensez-vous pouvoir battre s'ils vous attaquent par vagues de 10, avec un boss de CM2 toutes les 5 vagues ?"
+    Akarsha "Combien d'élèves de CE1 penses-tu pouvoir battre s'ils t'attaquent par vagues de 10, avec un boss de CM2 toutes les 5 vagues ?"
 
 # game/1_diya.rpy:3814
 translate french enterClass_9618f280:
 
     # Akarsha "{cps=0}How many 2nd graders you think you could beat up if they came at you in waves of 10, with a 5th grader boss coming every 5 waves?{/cps}" nointeract
-    Akarsha "{cps=0}Combien d'élèves de CE1 pensez-vous pouvoir battre s'ils vous attaquent par vagues de 10, avec un boss de CM2 toutes les 5 vagues ?{/cps}" nointeract
+    Akarsha "{cps=0}Combien d'élèves de CE1 penses-tu pouvoir battre s'ils t'attaquent par vagues de 10, avec un boss de CM2 toutes les 5 vagues ?{/cps}" nointeract
 
 # game/1_diya.rpy:3819
 translate french enterClass_6ccd5ff9:
@@ -5854,13 +5860,13 @@ translate french enterClass_6ccd5ff9:
 translate french enterClass_7eb9f352:
 
     # Diya "Don't want to punch kids."
-    Diya "Je ne veux pas frapper les enfants."
+    Diya "J'veux pas frapper des enfants."
 
 # game/1_diya.rpy:3823
 translate french enterClass_ad5c1c6a:
 
     # Akarsha "But it's kill or be killed, man!"
-    Akarsha "Mais c'est tuer ou être tué, mec !"
+    Akarsha "Mais c'est tuer ou être tuée, meuf !"
 
 # game/1_diya.rpy:3825
 translate french enterClass_99efceb6:
@@ -5890,7 +5896,7 @@ translate french enterClass_f519fc81:
 translate french enterClass_a5e32000:
 
     # Akarsha "What! You're underestimating yourself, man."
-    Akarsha "Quoi ! Tu te sous-estimes, mec."
+    Akarsha "Quoi ! Tu te sous-estimes, meuf."
 
 # game/1_diya.rpy:3840
 translate french enterClass_1e24f8e3:
@@ -5914,7 +5920,7 @@ translate french enterClass_6eb12ee4:
 translate french enterClass_cc45fd2d:
 
     # Diya "At least a few dozen."
-    Diya "Au moins quelques dizaines."
+    Diya "Au moins quelques douzaines."
 
 # game/1_diya.rpy:3853
 translate french enterClass_eb1f87b4:
@@ -5926,7 +5932,7 @@ translate french enterClass_eb1f87b4:
 translate french enterClass_efc4552c:
 
     # Akarsha "You don't feel bad hitting little kids?"
-    Akarsha "Vous ne vous sentez pas mal de frapper des petits enfants ?"
+    Akarsha "Tu ne te sens pas mal de frapper des petits enfants ?"
 
 # game/1_diya.rpy:3858
 translate french enterClass_ea7da79f:
@@ -5938,13 +5944,13 @@ translate french enterClass_ea7da79f:
 translate french enterClass_70e6c4e3:
 
     # Diya "It they don't want to get hit, they shouldn't attack me."
-    Diya "S'ils ne veulent pas être frappés, il ne faut pas m'attaquer."
+    Diya "S'ils veulent pas être frappés, il faut pas m'attaquer."
 
 # game/1_diya.rpy:3862
 translate french enterClass_7ac58759:
 
     # "Noelle looks a bit left out by this conversation."
-    "Noëlle semble un peu laissée de côté par cette conversation."
+    "Noelle semble un peu laissée de côté par cette conversation."
 
 # game/1_diya.rpy:3864
 translate french enterClass_e39b280c:
@@ -5986,7 +5992,7 @@ translate french enterClass_3ad2465a:
 translate french enterClass_f923501e:
 
     # Diya "I want to show Akarsha. She hasn't seen this."
-    Diya "Je veux montrer à Akarsha. Elle n'a rien vu."
+    Diya "Je veux montrer à Akarsha. Elle a jamais vu."
 
 # game/1_diya.rpy:3887
 translate french enterClass_2df34b09:
@@ -6004,7 +6010,7 @@ translate french enterClass_0244c33f:
 translate french enterClass_23b3cae5:
 
     # Diya "I'll let you use both hands this time."
-    Diya "Je vous laisse utiliser vos deux mains cette fois."
+    Diya "Je te laisse utiliser tes deux mains cette fois."
 
 # game/1_diya.rpy:3893
 translate french enterClass_f0604e5a:
@@ -6052,7 +6058,7 @@ translate french enterClass_483c0b48:
 translate french enterClass_0fc249a4:
 
     # "With her free hand, Diya casually continues to eat fried rice."
-    "Avec sa main libre, Diya continue à manger du riz frit."
+    "Avec sa main libre, Diya continue à manger du riz poêlé."
 
 # game/1_diya.rpy:3907
 translate french enterClass_7f50cd2c:
@@ -6070,7 +6076,7 @@ translate french enterClass_be8a1b22:
 translate french enterClass_8f466f06:
 
     # Noelle "Stop toying with me!"
-    Noelle "Arrête de jouer avec moi !"
+    Noelle "Prends moi au sérieux !"
 
 # game/1_diya.rpy:3916
 translate french enterClass_e70dc065:
@@ -6082,7 +6088,7 @@ translate french enterClass_e70dc065:
 translate french enterClass_6431890b:
 
     # Noelle "You know what I mean."
-    Noelle "Tu vois ce que je veux dire."
+    Noelle "Tu sais bien ce que je veux dire."
 
 # game/1_diya.rpy:3921
 translate french enterClass_72641bfe:
@@ -6094,7 +6100,7 @@ translate french enterClass_72641bfe:
 translate french enterClass_d0412528:
 
     # Akarsha "Dang...This is like, some Fox and the Hound shit."
-    Akarsha "Bang... C'est un peu comme la merde de \"Rox et Rouky\"."
+    Akarsha "Wow... Ça fait penser à Rox et Rouky."
 
 # game/1_diya.rpy:3925
 translate french enterClass_1742f83a:
@@ -6106,7 +6112,7 @@ translate french enterClass_1742f83a:
 translate french enterClass_2315886f:
 
     # Akarsha "How did you two even end up friends?"
-    Akarsha "Comment avez-vous fini par être amies toutes les deux ?"
+    Akarsha "Comment vous avez fini par être amies toutes les deux ?"
 
 # game/1_diya.rpy:3929
 translate french enterClass_70d10510:
@@ -6136,13 +6142,13 @@ translate french enterClass_b2c314f4:
 translate french enterClass_8232b1ac:
 
     # Noelle "You had one bad ear, so you had a lot of trouble making sense of what anyone was saying."
-    Noelle "Tu entendais mal, donc tu avais beaucoup de mal à comprendre ce que les gens disaient."
+    Noelle "Tu entendais mal d'une oreille, donc tu avais beaucoup de mal à comprendre ce que les gens disaient."
 
 # game/1_diya.rpy:3940
 translate french enterClass_09f6395c:
 
     # Noelle "You'd just play wall ball against yourself or run laps on the track. "
-    Noelle "Tu jouais au wall ball contre toi-même ou tu faisais des tours de piste."
+    Noelle "Tu jouais contre un mur ou tu faisais des tours de piste."
 
 # game/1_diya.rpy:3943
 translate french enterClass_39ab426a:
@@ -6154,25 +6160,25 @@ translate french enterClass_39ab426a:
 translate french enterClass_74b6ebe0:
 
     # Noelle "One day, someone brought in Krispy Kreme donuts for their birthday. "
-    Noelle "Un jour, quelqu'un a apporté des donuts pour son anniversaire."
+    Noelle "Un jour, quelqu'un a apporté des donuts pour son anniversaire. "
 
 # game/1_diya.rpy:3947
 translate french enterClass_845beb03:
 
     # Noelle "I didn't like donuts, so I—"
-    Noelle "Je n'aimais pas les donuts, alors je..."
+    Noelle "J'aimais pas les donuts, alors je—"
 
 # game/1_diya.rpy:3949
 translate french enterClass_4a37e623:
 
     # Akarsha "You don't like donuts??"
-    Akarsha "Tu n'aimes pas les donuts ??"
+    Akarsha "T'aimes pas les donuts ??"
 
 # game/1_diya.rpy:3951
 translate french enterClass_69776640:
 
     # Noelle "I don't like donuts. They're disgusting."
-    Noelle "J'aime pas les donuts. C'est dégoûtants."
+    Noelle "J'aime pas les donuts. C'est dégoûtant."
 
 # game/1_diya.rpy:3954
 translate french enterClass_600cbe8e:
@@ -6196,7 +6202,7 @@ translate french enterClass_8c8713f8:
 translate french enterClass_76d41a03:
 
     # Noelle "You were a major inconvenience."
-    Noelle "Tu as été un désagrément majeur"
+    Noelle "Tu étais un désagrément majeur."
 
 # game/1_diya.rpy:3962
 translate french enterClass_51295b37:
@@ -6208,7 +6214,7 @@ translate french enterClass_51295b37:
 translate french enterClass_5e77bcc0:
 
     # Noelle "How do you not remember? You were so extreme. Whenever the teachers tried to separate us, you'd start crying."
-    Noelle "Comment se fait-il que tu ne te souviennes pas ? Tu étais si extrême. Chaque fois que les professeurs essayaient de nous séparer, tu te mettais à pleurer."
+    Noelle "Comment peux-tu ne pas te souvenir ? C'était extrême. Chaque fois que les professeurs essayaient de nous séparer, tu te mettais à pleurer."
 
 # game/1_diya.rpy:3968
 translate french enterClass_30a7f95d:
@@ -6274,7 +6280,7 @@ translate french enterClass_bb5be160:
 translate french p5_dbafdbf0:
 
     # Liz "Excuse me!" with sshake
-    Liz "Excuse moi !" with sshake
+    Liz "Excuse-moi !" with sshake
 
 # game/1_diya.rpy:4012
 translate french p5_d7c41c04:
@@ -6322,19 +6328,19 @@ translate french p5_4d88e3bc:
 translate french p5_c9389735:
 
     # DiyaT "Crap. {w=0.26}I can't really make out the words."
-    DiyaT "Putain. {w=0.26}Je comprends vraiment rien."
+    DiyaT "Zut. {w=0.26}J'arrive pas à saisir les mots."
 
 # game/1_diya.rpy:4026
 translate french p5_c82cbbba:
 
     # DiyaT "I'll just nod at appropriate times."
-    DiyaT "Je vais juste hocher la tête aux de temps en temps."
+    DiyaT "Je vais juste hocher la tête de temps en temps."
 
 # game/1_diya.rpy:4029
 translate french p5_5493b5a1:
 
     # Liz "We're collecting signatures to {incoherent}( ? ? ? ){/incoherent} approved!"
-    Liz "Nous collectons des signatures pour {incoherent}( ? ? ? ){/incoherent} approuvé !"
+    Liz "On collecte des signatures pour {incoherent}( ? ? ? ){/incoherent} approuvé !"
 
 # game/1_diya.rpy:4031
 translate french p5_5e04c7ac:
@@ -6364,7 +6370,7 @@ translate french p5_eae06f25:
 translate french p5_cb549d56:
 
     # DiyaT "Bye!!!" with sshake
-    DiyaT "Salut !!!" with sshake
+    DiyaT "À plus !!!" with sshake
 
 # game/1_diya.rpy:4054
 translate french p5_283087bd:
@@ -6382,13 +6388,13 @@ translate french p5_d0402b01:
 translate french p5_e3a5d758:
 
     # "The stranger left..."
-    "L'étranger est parti..."
+    "L'inconnue est partie..."
 
 # game/1_diya.rpy:4063
 translate french p5_f075d1bd:
 
     # DiyaT "Phew. {w=0.26}Glad that's over."
-    DiyaT "Ouf. {w=0.26}Content que ce soit terminé. "
+    DiyaT "Ouf. {w=0.26}Contente que ça soit fini. "
 
 # game/1_diya.rpy:4071
 translate french p5_bdf30f21:
@@ -6406,49 +6412,49 @@ translate french p6_7045a136:
 translate french p6_f3232605:
 
     # Akarsha "Time to reveal your hand in 3...2...1..."
-    Akarsha "Il est temps de révéler votre main dans 3...2...1..."
+    Akarsha "ITemps de révéler ta main dans 3...2...1..."
 
 # game/1_diya.rpy:4097
 translate french p6_166db472:
 
     # "Noelle and Akarsha flip their cards over!"
-    "Noëlle et Akarsha retournent leurs cartes !"
+    "Noelle et Akarsha retournent leurs cartes !"
 
 # game/1_diya.rpy:4099
 translate french p6_5923dc26:
 
     # Noelle "Why is there a Yu-Gi-Oh card?!" with sshake
-    Noelle "Pourquoi y a-t-il une carte Yu-Gi-Oh ? !" with sshake
+    Noelle "Pourquoi y'a une carte Yu-Gi-Oh ?!" with sshake
 
 # game/1_diya.rpy:4101
 translate french p6_863033ef:
 
     # "Akarsha taps it with her index finger."
-    "Akarsha le tapote avec son index."
+    "Akarsha la tapote de son index."
 
 # game/1_diya.rpy:4103
 translate french p6_858e87b4:
 
     # Akarsha "This is Exodia, the Forbidden One."
-    Akarsha "C'est Exodia, l'Interdit."
+    Akarsha "C'est Exodia, le Maudit."
 
 # game/1_diya.rpy:4105
 translate french p6_e9ab4af1:
 
     # Akarsha "Think outside the box. Taco Bell."
-    Akarsha "Sortez des sentiers battus. Taco Bell."
+    Akarsha "Think Different. Apple."
 
 # game/1_diya.rpy:4107
 translate french p6_0d198c8a:
 
     # Noelle "YOU CAN'T DO THIS!" with sshake
-    Noelle "VOUS NE POUVEZ PAS FAIRE ÇA !" with sshake
+    Noelle "TU PEUX PAS FAIRE ÇA !" with sshake
 
 # game/1_diya.rpy:4109
 translate french p6_798e18e3:
 
     # "Akarsha reaches across the desk and takes one of Noelle's cards."
-    "Akarsha traverse le bureau et prend une des cartes de Noelle."
+    "Akarsha s'étend par dessus la table et prend une des cartes de Noelle."
 
 # game/1_diya.rpy:4111
 translate french p6_b4f18a79:
@@ -6460,13 +6466,13 @@ translate french p6_b4f18a79:
 translate french p6_e1b40800:
 
     # Noelle "You said you were going to play this normally!"
-    Noelle "Vous avez dit que vous alliez jouer normalement !"
+    Noelle "Tu avais dit que tu allais jouer normalement !"
 
 # game/1_diya.rpy:4115
 translate french p6_12f9eee2:
 
     # Akarsha "There's no rule in Yu-Gi-Oh saying you can't eat the enemy's cards."
-    Akarsha "Il n'y a pas de règle dans Yu-Gi-Oh disant qu'on ne peut pas manger les cartes de l'ennemi."
+    Akarsha "Il n'y a pas de règle dans Yu-Gi-Oh disant qu'on peut pas manger les cartes de l'ennemi."
 
 # game/1_diya.rpy:4117
 translate french p6_41b940e6:
@@ -6478,61 +6484,61 @@ translate french p6_41b940e6:
 translate french p6_f72fd8f5:
 
     # Akarsha "There's no rule in poker saying you can't eat the enemy's cards."
-    Akarsha "Il n'y aucune régle au poker qui dit qu'on ne peut pas manger les cartes de l'ennemi. "
+    Akarsha "Il ny aucune règle au poker qui dit qu'on peut pas manger les cartes de l'ennemi. "
 
 # game/1_diya.rpy:4132
 translate french p6_382d2244:
 
     # "Class starts!{w=0.26} This concludes Noelle and Akarsha's daily afternoon struggle."
-    "La classe commence !{w=0.26} Ceci conclut la lutte quotidienne de Noëlle et Akarsha."
+    "Le cours commence !{w=0.26} Ceci conclut la lutte quotidienne de l'après-midi entre Noelle et Akarsha."
 
 # game/1_diya.rpy:4154
 translate french noelleSick_633784d7:
 
     # DiyaT "Alright. Just one more period before the day's over."
-    DiyaT "Très bien. Encore une période avant la fin de la journée."
+    DiyaT "Allez. Encore un cours avant la fin de la journée."
 
 # game/1_diya.rpy:4156
 translate french noelleSick_758b74e8:
 
     # "Looking flushed, Noelle wipes sweat off her brow."
-    "Rougissante, Noëlle essuie la sueur sur son front."
+    "L'air souffrante, Noelle essuie la sueur sur son front."
 
 # game/1_diya.rpy:4158
 translate french noelleSick_a37732d9:
 
     # Noelle "Why is it so hot?"
-    Noelle "Pourquoi fait-il si chaud ?"
+    Noelle "Pourquoi il fait si chaud ?"
 
 # game/1_diya.rpy:4160
 translate french noelleSick_aa635999:
 
     # Akarsha "Because I'm he—"
-    Akarsha "Parce que je suis..."
+    Akarsha "Parce que je suis l—"
 
 # game/1_diya.rpy:4162
 translate french noelleSick_44bb63ae:
 
     # Noelle "You shut up!" with sshake
-    Noelle "Tu la fermes ! " with sshake
+    Noelle "Toi, ferme-la ! " with sshake
 
 # game/1_diya.rpy:4165
 translate french noelleSick_be3221c5:
 
     # Akarsha "*loud, hurt gasp*"
-    Akarsha "*souffle fort et douloureux*"
+    Akarsha "*cri de peine indicible*"
 
 # game/1_diya.rpy:4166
 translate french noelleSick_c972954c:
 
     # Akarsha "My heart is exploding, my lungs are without air, my blood is boiling, my body is shaking, and tears are running down my face,"
-    Akarsha "Mon cœur explose, mes poumons n'ont plus d'air, mon sang est en ébullition, mon corps tremble et des larmes coulent sur mon visage"
+    Akarsha "Mon cœur explose, mes poumons n'ont plus d'air, mon sang est en ébullition, mon corps tremble et des larmes coulent sur mon visage,"
 
 # game/1_diya.rpy:4172
 translate french noelleSick_9fa2cfca:
 
     # Diya "...?"
-    Diya "?"
+    Diya "...?"
 
 # game/1_diya.rpy:4174
 translate french noelleSick_15838a1d:
@@ -6550,13 +6556,13 @@ translate french noelleSick_7084459b:
 translate french noelleSick_9b3021c6:
 
     # Noelle "I feel...extremely dizzy all of a sudden."
-    Noelle "Je me sens... extrêmement étourdi tout d'un coup."
+    Noelle "J'ai... la tête qui tourne d'un coup."
 
 # game/1_diya.rpy:4180
 translate french noelleSick_7dc9d58c:
 
     # Noelle "As a precaution, I will remain stationary until the symptoms—"
-    Noelle "Par précaution, je vais rester immobile jusqu'à ce que les symptômes... "
+    Noelle "Par précaution, je vais rester immobile jusqu'à ce que les symptômes—"
 
 # game/1_diya.rpy:4184
 translate french noelleSick_65ec3525:
@@ -6568,7 +6574,7 @@ translate french noelleSick_65ec3525:
 translate french noelleSick_cd917d4f:
 
     # DiyaT "Her entire body is burning up!"
-    DiyaT "Son corps entier est en train de brûler ! "
+    DiyaT "Son corps entier est brûlant ! "
 
 # game/1_diya.rpy:4187
 translate french noelleSick_a6fad549:
@@ -6580,43 +6586,43 @@ translate french noelleSick_a6fad549:
 translate french noelleSick_d7c4ea53:
 
     # Akarsha "We'll take you to the nurse's office, dude."
-    Akarsha "On va t'emmener à l'infirmerie, mec. "
+    Akarsha "On va t'emmener à l'infirmerie, meuf. "
 
 # game/1_diya.rpy:4192
 translate french noelleSick_7ba6ad3c:
 
     # Noelle "NO!"
-    Noelle "NON !"
+    Noelle "NON ! "
 
 # game/1_diya.rpy:4193
 translate french noelleSick_779bbd86:
 
     # Noelle "Don't you dare. I need to go to next period!"
-    Noelle "N'ose pas. Je dois aller à la prochaine période !"
+    Noelle "N'essaie même pas. Je dois aller au prochain cours !"
 
 # game/1_diya.rpy:4194
 translate french noelleSick_c587f3da:
 
     # Noelle "Attendance is 20 percent of my grade in Gym class."
-    Noelle "L'assiduité compte pour 20 pourcent de ma note en cours de gymanastique"
+    Noelle "L'assiduité compte pour 20 pourcent de ma note en cours de gym."
 
 # game/1_diya.rpy:4197
 translate french noelleSick_b98dedfa:
 
     # Akarsha "Missing one day can't hurt. Gym is like a freebie anyway."
-    Akarsha "Manquer un jour ne peut pas faire de mal. La gym, c'est gratuit de toute façon."
+    Akarsha "Manquer un jour peut pas faire de mal. La gym, c'est à l'aise de toute façon."
 
 # game/1_diya.rpy:4199
 translate french noelleSick_6ce6c928:
 
     # Noelle "No, you don't understand...It's my worst subject..."
-    Noelle "Non, tu ne comprends pas... C'est mon pire sujet..."
+    Noelle "Non, tu comprends pas... C'est mon pire cours..."
 
 # game/1_diya.rpy:4200
 translate french noelleSick_53b7f221:
 
     # Noelle "I can't afford to lose any more points when my mile time is 18 minutes every week..."
-    Noelle "Je ne peux pas me permettre de perdre d'autres points quand mon temps au kilomètre est de 18 minutes chaque semaine..."
+    Noelle "Je peux pas me permettre de perdre d'autres points quand mon temps au kilomètre est de 11 minutes chaque semaine..."
 
 # game/1_diya.rpy:4203
 translate french noelleSick_7e3a20de:
@@ -6628,19 +6634,19 @@ translate french noelleSick_7e3a20de:
 translate french noelleSick_7243d128:
 
     # DiyaT "So slow?!!!!! What the? ?? ? ? " with sshake
-    DiyaT "Si lent ? ! !!!! Qu'est-ce que le ? ? " with sshake
+    DiyaT "Si lent ?!!!!! Qu'est-ce que ?? " with sshake
 
 # game/1_diya.rpy:4207
 translate french noelleSick_43eaec2d:
 
     # Noelle "Don't make that face at me. I'm not you, Diy—"
-    Noelle "Ne me faites pas cette tête. Je ne suis pas toi, Diy..."
+    Noelle "Ne me fais pas cette tête. Je suis pas toi, Diy..."
 
 # game/1_diya.rpy:4212
 translate french noelleSick_900e895e:
 
     # "Noelle launches into a sneezing fit!" with sshake
-    "Noelle se lance dans une crise d'éternuement !" with sshake
+    "Noelle se lance dans une crise d'éternuements !" with sshake
 
 # game/1_diya.rpy:4214
 translate french noelleSick_c87da20e:
@@ -6652,25 +6658,25 @@ translate french noelleSick_c87da20e:
 translate french noelleSick_986b80c9:
 
     # Diya "It'll still ruin her GPA and valedictorian status. Her parents will yell at her and be really mean."
-    Diya "Ça va quand même ruiner sa moyenne et son statut de major de promotion. Ses parents vont lui crier dessus et être vraiment méchants."
+    Diya "Ça va quand même ruiner sa moyenne et son statut de major de promo. Ses parents vont lui crier dessus et être vraiment méchants."
 
 # game/1_diya.rpy:4218
 translate french noelleSick_00ae6db9:
 
     # DiyaT "What do we do?! If she gets a B because we took her to the nurse's office, it'll destroy her!"
-    DiyaT "Qu'est-ce qu'on fait ?! Si elle a un 14 parce qu'on l'a amenée à l'infirmerie ca va la "
+    DiyaT "Qu'est-ce qu'on fait ?! Si elle se tape un 14 parce qu'on la amenée à l'infirmerie, ça va la détruire !"
 
 # game/1_diya.rpy:4219
 translate french noelleSick_3afa1292:
 
     # DiyaT "But she's in no condition be working out, either! She can't even stand without me holding her up!"
-    DiyaT "Mais elle n'est pas en état de faire de la musculation non plus ! Elle ne peut même pas se tenir debout sans que je la soutienne !"
+    DiyaT "Mais elle est pas en état de faire de la muscu non plus ! Elle peut même pas tenir debout sans que je la soutienne !"
 
 # game/1_diya.rpy:4222
 translate french noelleSick_6e5ef48e:
 
     # Akarsha "Let's use our heads. There's gotta be way out of this."
-    Akarsha "Utilisons nos  têtes. Il doit y avoir un moyen de s'en sortir."
+    Akarsha "Utilisons nos têtes. Il doit y avoir un moyen de s'en sortir."
 
 # game/1_diya.rpy:4224
 translate french noelleSick_77fc4142:
@@ -6688,13 +6694,13 @@ translate french noelleSick_174107bd:
 translate french noelleSick_ab3ab064:
 
     # Akarsha "If a meteor hits Earth right now, no one will mind if Noelle skips Gym class."
-    Akarsha "Si un météore frappe la Terre en ce moment, personne ne s'opposera à ce que Noelle sèche le cours de gym."
+    Akarsha "Si un météore frappe la Terre maintenant, personne ne s'opposera à ce que Noelle sèche le cours de gym."
 
 # game/1_diya.rpy:4229
 translate french noelleSick_7b08b783:
 
     # Diya "Brilliant. If the world ends, we're saved."
-    Diya "Brillant. Si c'est la fin du monde, nous sommes sauvés."
+    Diya "Brillant. Si c'est la fin du monde, nous sommes sauvées."
 
 # game/1_diya.rpy:4231
 translate french noelleSick_0f06d06f:
@@ -6706,25 +6712,25 @@ translate french noelleSick_0f06d06f:
 translate french noelleSick_affe725d:
 
     # Akarsha "Hold that thought!" with sshake
-    Akarsha "Retenez cette pensée !" with sshake
+    Akarsha "Oh, attends, je sens que j'ai quelque chose !" with sshake
 
 # game/1_diya.rpy:4236
 translate french noelleSick_f8773c53:
 
     # Akarsha "If school is cancelled...If school is cancelled {i}right now{/}..."
-    Akarsha "Si l'école est annulée...Si l'école est annulée {i}à l'heure actuelle{/i}..."
+    Akarsha "Si l'école est annulée... Si l'école est annulée {i}là, tout de suite{/i}..."
 
 # game/1_diya.rpy:4238
 translate french noelleSick_981af952:
 
     # Akarsha "Snow day? But there's no snow."
-    Akarsha "Un jour de neige ? Mais il n'y a pas de neige."
+    Akarsha "Un jour de neige ? Mais y'a pas de neige."
 
 # game/1_diya.rpy:4239
 translate french noelleSick_350f07db:
 
     # Akarsha "Then how? As long as we make it so that no one goes to class, we win."
-    Akarsha "Alors comment ? Tant qu'on fait en sorte que personne n'aille en cours, on gagne."
+    Akarsha "Alors comment ? Tant qu'on fait en sorte que personne aille en cours, on gagne."
 
 # game/1_diya.rpy:4242
 translate french noelleSick_93212e9d:
@@ -6742,19 +6748,19 @@ translate french noelleSick_81431e71:
 translate french noelleSick_7f21152d:
 
     # Akarsha "...Dude!! I've got it!"
-    Akarsha "Mec ! Je l'ai eu !"
+    Akarsha "Meuf ! Je sais !"
 
 # game/1_diya.rpy:4251
 translate french noelleSick_bf280f11:
 
     # Akarsha "[diyaHomieName], you stay with Noelle while I...uh..."
-    Akarsha "[diyaHomieName],you stay with Noelle while I...Euh..."
+    Akarsha "Diya, reste avec Noelle pendant que je... Euh..."
 
 # game/1_diya.rpy:4253
 translate french noelleSick_dc65c973:
 
     # Akarsha "...Do some stuff."
-    Akarsha "Faites des choses."
+    Akarsha "Fais des trucs."
 
 # game/1_diya.rpy:4255
 translate french noelleSick_0a7d4b19:
@@ -6766,25 +6772,25 @@ translate french noelleSick_0a7d4b19:
 translate french noelleSick_f4b6bd6d:
 
     # Akarsha "Uh..."
-    Akarsha "EUH"
+    Akarsha "Euh..."
 
 # game/1_diya.rpy:4259
 translate french noelleSick_7c681d08:
 
     # Akarsha "You're not gonna like it."
-    Akarsha "Tu ne vas pas aimer ça."
+    Akarsha "Tu vas pas aimer."
 
 # game/1_diya.rpy:4261
 translate french noelleSick_628fdba7:
 
     # Akarsha "Before I tell you, you gotta promise not to get mad."
-    Akarsha "Avant que je te le dise ,tu dois me promettre de ne pas t'énerver."
+    Akarsha "Avant que je te le dise, tu dois me promettre de pas t'énerver."
 
 # game/1_diya.rpy:4263
 translate french noelleSick_6084cb07:
 
     # Noelle "What?!" with sshake
-    Noelle "Quoi ? " with sshake
+    Noelle "Quoi ?!" with sshake
 
 # game/1_diya.rpy:4266
 translate french noelleSick_6b3ace55:
@@ -6802,109 +6808,109 @@ translate french noelleSick_fd841d5d:
 translate french noelleSick_e75a53eb:
 
     # Noelle "Diya?! But what if it's something insane?!"
-    Noelle "Diya ? ! Mais que faire si c'est quelque chose de fou ? !"
+    Noelle "Diya ?! Et si c'était quelque chose d'insensé ?!"
 
 # game/1_diya.rpy:4276
 translate french noelleSick_51df96c1:
 
     # Diya "Then I'll just be annoyed internally."
-    Diya "Alors je serai juste ennuyé intérieurement."
+    Diya "Alors je serai juste embêtée intérieurement."
 
 # game/1_diya.rpy:4279
 translate french noelleSick_8c074b60:
 
     # Akarsha "I knew I could count on you! A true homie!!"
-    Akarsha "Je savais que je pouvais compter sur toi ! Un vrai homie !"
+    Akarsha "Je savais que je pouvais compter sur toi ! Un vrai poto !"
 
 # game/1_diya.rpy:4281
 translate french noelleSick_d293b7d8:
 
     # Akarsha "What about you, Frenchman?"
-    Akarsha "Et toi, le Français ?"
+    Akarsha "Et toi, la française ?"
 
 # game/1_diya.rpy:4283
 translate french noelleSick_01b50ad0:
 
     # Noelle "I can't promise not to get mad! Just tell us already!"
-    Noelle "Je ne peux pas promettre de ne pas m'énerver ! Dis-nous juste ce qu'il en est !"
+    Noelle "Je peux pas promettre de pas m'énerver ! Dis-nous juste !"
 
 # game/1_diya.rpy:4286
 translate french noelleSick_9c8281f1:
 
     # Akarsha "Nope! I'm not telling you, then."
-    Akarsha "Non ! Je ne te le dirai pas, alors."
+    Akarsha "Non ! Je le dirai pas, si c'est comme ça."
 
 # game/1_diya.rpy:4288
 translate french noelleSick_f8241b60:
 
     # Diya "But what about me? I agreed."
-    Diya "Mais qu'en est-il de moi ? J'ai accepté "
+    Diya "Mais et moi ? J'ai accepté."
 
 # game/1_diya.rpy:4291
 translate french noelleSick_b6a6fc6e:
 
     # Akarsha "Heck no. I know how it is with you two."
-    Akarsha "Oh non. Je sais comment c'est avec vous deux."
+    Akarsha "Ah ça non. Je sais comment c'est avec vous deux."
 
 # game/1_diya.rpy:4292
 translate french noelleSick_bef8400e:
 
     # Akarsha "If I tell you, you'll tell Noelle as soon as I'm gone."
-    Akarsha "Si je te le dis, tu le diras à Noelle dès que je serai parti."
+    Akarsha "Si je te le dis, tu le diras à Noelle dès que je serais partie."
 
 # game/1_diya.rpy:4294
 translate french noelleSick_dc9e0215:
 
     # DiyaT "...Damn. That's true."
-    DiyaT "Bon sang. C'est vrai."
+    DiyaT "... Zut. C'est pas faux."
 
 # game/1_diya.rpy:4304
 translate french noelleSick_a2dbca39:
 
     # Diya "No."
-    Diya "Non "
+    Diya "Non. "
 
 # game/1_diya.rpy:4307
 translate french noelleSick_46b10e85:
 
     # Noelle "That's right! How can we promise when we don't even know what it is yet?!"
-    Noelle "C'est vrai ! Comment pouvons-nous promettre alors que nous ne savons même pas encore ce que c'est ?"
+    Noelle "M'enfin ! Comment on peut promettre alors qu'on sait pas encore ce que c'est ?"
 
 # game/1_diya.rpy:4308
 translate french noelleSick_44eb1b79:
 
     # Noelle "Just tell us already!"
-    Noelle "Dites-le-nous !"
+    Noelle "Dis-le-nous juste, sapristi !"
 
 # game/1_diya.rpy:4311
 translate french noelleSick_de459d1e:
 
     # Akarsha "Too bad! I'm not telling you, then."
-    Akarsha "Dommage ! Je ne te le dirai pas, alors"
+    Akarsha "Dommage ! Je vous le dirai pas, alors."
 
 # game/1_diya.rpy:4315
 translate french noelleSick_4d41ac37:
 
     # Akarsha "Adios, amigos!"
-    Akarsha "Adieu amicaux!"
+    Akarsha "Adios, amigos !"
 
 # game/1_diya.rpy:4317
 translate french noelleSick_ef7e11b9:
 
     # Noelle "Wait! Where are you going?"
-    Noelle "Attends ! Où vas-tu ?"
+    Noelle "Attends ! Tu vas où, là ?"
 
 # game/1_diya.rpy:4320
 translate french noelleSick_77b10abc:
 
     # Akarsha "Shrek's swamp."
-    Akarsha "Le marais de Shrek"
+    Akarsha "Au marais de Shrek."
 
 # game/1_diya.rpy:4323
 translate french noelleSick_2ed201c8:
 
     # "Akarsha left..."
-    "Akarsha est parti.."
+    "Akarsha est partie..."
 
 # game/1_diya.rpy:4325
 translate french noelleSick_7146bd51:
@@ -6934,13 +6940,13 @@ translate french noelleSick_7c44bd42:
 translate french noelleSick_1aa66de8:
 
     # Noelle "Why does everything have to be some kind of weird mind game with her? It's exhausting."
-    Noelle "Pourquoi tout doit-il être une sorte de jeu d'esprit bizarre avec elle ? C'est épuisant."
+    Noelle "Pourquoi elle doit toujours nous retourner le cerveau comme ça ? C'est épuisant."
 
 # game/1_diya.rpy:4348
 translate french noelleSick_919dde2b:
 
     # DiyaT "She sounds so weak. She should rest on the bench."
-    DiyaT "Elle a l'air si faible. Elle devrait se reposer sur le banc"
+    DiyaT "Noelle a l'air si faible. Elle devrait se reposer sur le banc."
 
 # game/1_diya.rpy:4350
 translate french noelleSick_840760bf:
@@ -6952,13 +6958,13 @@ translate french noelleSick_840760bf:
 translate french noelleSick_39ad4c63:
 
     # DiyaT "Nothing we can do now but wait..."
-    DiyaT "On ne peut rien faire maintenant à part attendre..."
+    DiyaT "On peut rien faire maintenant à part attendre..."
 
 # game/1_diya.rpy:4355
 translate french noelleSick_e8ed866d:
 
     # Noelle "Do we really have to do this?"
-    Noelle "Devons-nous vraiment faire ça ?"
+    Noelle "On doit vraiment faire ça ?"
 
 # game/1_diya.rpy:4356
 translate french noelleSick_3c3f564c:
@@ -6970,25 +6976,25 @@ translate french noelleSick_3c3f564c:
 translate french noelleSick_f22e47a2:
 
     # Diya "Oh, come on."
-    Diya "Oh, allez."
+    Diya "Oh, fais pas de chichis."
 
 # game/1_diya.rpy:4360
 translate french noelleSick_eec6dd04:
 
     # Diya "I've seen you throw up in a trash can at Happy Fish Swim School because you were so bad at swimming that you inhaled half a gallon of water."
-    Diya "Je t'ai vu vomir dans une poubelle à l'école de natation Happy Fish parce que tu étais si mauvais en natation que tu as inhalé un demi gallon d'eau."
+    Diya "Je t'ai vu vomir dans une poubelle à la natation parce que tu nageais si mal que tu as inhalé un litre d'eau."
 
 # game/1_diya.rpy:4361
 translate french noelleSick_b61f5368:
 
     # Diya "Compared to that, this is like a 3."
-    Diya "Par rapport à cela, c'est comme un 3."
+    Diya "En comparaison, ça c'est genre un 3."
 
 # game/1_diya.rpy:4364
 translate french noelleSick_36ab93c4:
 
     # Noelle "But this is different. This right now is unnecessary."
-    Noelle "Mais c'est différent. Ce qui se passe en ce moment est inutile."
+    Noelle "Mais là, c'est différent. Ce qui se passe maintenant est inutile."
 
 # game/1_diya.rpy:4365
 translate french noelleSick_348caa12:
@@ -7006,7 +7012,7 @@ translate french noelleSick_2ea30a6f:
 translate french noelleSick_55e236d8:
 
     # Noelle "It wasn't a compliment."
-    Noelle "Ce n'était pas un compliment."
+    Noelle "C'était pas un compliment."
 
 # game/1_diya.rpy:4374
 translate french noelleSick_8367fe8f:
@@ -7018,13 +7024,13 @@ translate french noelleSick_8367fe8f:
 translate french noelleSick_ec6a0e3a:
 
     # Diya "Now we definitely have to do this."
-    Diya "Maintenant, nous devons absolument le faire."
+    Diya "Maintenant c'est absolument ce qu'il faut faire."
 
 # game/1_diya.rpy:4405
 translate french forehead_00d9a117:
 
     # "Diya presses her hand to Noelle's forehead."
-    "Diya appuie sa main sur le front de Noelle."
+    "Diya pose sa main sur le front de Noelle."
 
 # game/1_diya.rpy:4408
 translate french forehead_be6a3743:
@@ -7042,25 +7048,25 @@ translate french forehead_f3e3e4f2:
 translate french forehead_49f7964f:
 
     # DiyaT "Oh. Never mind, then."
-    DiyaT "Oh. Peu importe, alors."
+    DiyaT "Oh. Oublie, alors."
 
 # game/1_diya.rpy:4425
 translate french talkNoelleFever_8f5a68bb:
 
     # Diya "Get into shape."
-    Diya "Mettez-vous en forme."
+    Diya "Tu devrais faire de l'exercice."
 
 # game/1_diya.rpy:4427
 translate french talkNoelleFever_55bce8ae:
 
     # Diya "Even ignoring your Gym class grade, the way you are right now is just bad."
-    Diya "Même en ignorant ta note en classe de Gym, ta façon d'être en ce moment est juste mauvaise."
+    Diya "Même en ignorant ta note en classe de Gym, t'es en mauvais état en ce moment."
 
 # game/1_diya.rpy:4429
 translate french talkNoelleFever_bd21cfec:
 
     # Diya "You're like that Life Alert commercial. \nI've fallen and I can't get up."
-    Diya "Tu es comme cette pub pour Life Alert. \nJe suis tombé et je n'arrive pas à me relever."
+    Diya "Tu es comme cette pub pour Life Alert. \n\"I've fallen and I can't get up.\""
 
 # game/1_diya.rpy:4432
 translate french talkNoelleFever_ce4807be:
@@ -7072,19 +7078,19 @@ translate french talkNoelleFever_ce4807be:
 translate french talkNoelleFever_f243e5d7:
 
     # Diya "Then why don't you do something?"
-    Diya "Alors pourquoi ne faites-vous pas quelque chose ?"
+    Diya "Alors pourquoi t'y fais rien ?"
 
 # game/1_diya.rpy:4437
 translate french talkNoelleFever_b87e85a9:
 
     # Diya "What if there's a zombie apocalypse and I get bitten first. \nHow are you going to survive?"
-    Diya "Et s'il y a une apocalypse de zombies et que je suis mordu en premier. \nComment vas-tu survivre ?"
+    Diya "Imagine, y'a une apocalypse de zombies et je suis mordue en premier. \nComment tu vas survivre ?"
 
 # game/1_diya.rpy:4440
 translate french talkNoelleFever_a1b408fa:
 
     # Noelle "I can't help it! I don't have any time to work out."
-    Noelle "Je ne peux pas m'en empêcher ! Je n'ai pas le temps de faire de la musculation."
+    Noelle "J'y peux rien ! J'ai pas le temps de faire de la musculation."
 
 # game/1_diya.rpy:4441
 translate french talkNoelleFever_4d282b94:
@@ -7102,19 +7108,19 @@ translate french talkNoelleFever_da67aa01:
 translate french talkNoelleFever_850e18ec:
 
     # DiyaT "She'd be able to figure something out if her heart was in it."
-    DiyaT "Elle serait capable de trouver quelque chose si elle y mettait tout son cœur."
+    DiyaT "Elle serait capable de trouver une solution si elle y mettait un peu de cœur."
 
 # game/1_diya.rpy:4446
 translate french talkNoelleFever_962974bf:
 
     # DiyaT "If only there was a way to get Noelle to enjoy exercising..."
-    DiyaT "Si seulement il y avait un moyen de faire en sorte que Noelle aime faire de l'exercice..."
+    DiyaT "Si seulement il y avait un moyen de faire en sorte que Noelle aime faire du sport..."
 
 # game/1_diya.rpy:4452
 translate french talkNoelleFever_15c7abf2:
 
     # Diya "Did you know that in ancient China, they slept on rock pillows?"
-    Diya "Saviez-vous que dans la Chine ancienne, on dormait sur des oreillers en pierre ?"
+    Diya "Tu savais que dans la Chine ancienne, on dormait sur des oreillers en pierre ?"
 
 # game/1_diya.rpy:4454
 translate french talkNoelleFever_7e104566:
@@ -7126,25 +7132,25 @@ translate french talkNoelleFever_7e104566:
 translate french talkNoelleFever_f89095ff:
 
     # Noelle "This isn't making me feel any better!" with sshake
-    Noelle "Je ne me sens pas mieux !" with sshake
+    Noelle "Ça me fait pas me sentir mieux !" with sshake
 
 # game/1_diya.rpy:4460
 translate french talkNoelleFever_1fa314e9:
 
     # Diya "You're going back to your ancient roots."
-    Diya "Tu retournes à tes anciennes racines."
+    Diya "Tu retournes à tes racines ancestrales."
 
 # game/1_diya.rpy:4463
 translate french talkNoelleFever_a500aba6:
 
     # Noelle "I don't want to go back to my ancient roots!" with sshake
-    Noelle "Je ne veux pas retourner à mes anciennes racines !" with sshake
+    Noelle "Je veux pas retourner à mes racines ancestrales !" with sshake
 
 # game/1_diya.rpy:4470
 translate french talkNoelleFever_be026db8:
 
     # Diya "Would you eat a tiny 2-inch tall man for 100 million dollars?"
-    Diya "Tu mangerais un petit homme de 2 pouces pour 100 millions de dollars ?"
+    Diya "Tu mangerais un petit homme de 5 centimètres pour 100 millions de dollars ?"
 
 # game/1_diya.rpy:4472
 translate french talkNoelleFever_d95aeedd:
@@ -7156,7 +7162,7 @@ translate french talkNoelleFever_d95aeedd:
 translate french talkNoelleFever_e48a4842:
 
     # Noelle "Of course not. That's homicide, which is illegal."
-    Noelle "Bien sûr que non. C'est un homicide, ce qui est illégal."
+    Noelle "Bien sûr que non. C'est un homicide, c'est illégal."
 
 # game/1_diya.rpy:4478
 translate french talkNoelleFever_e629b0d2:
@@ -7174,13 +7180,13 @@ translate french talkNoelleFever_3a2b7982:
 translate french talkNoelleFever_9cbab985:
 
     # Diya "Yeah."
-    Diya "Oui."
+    Diya "Ouais."
 
 # game/1_diya.rpy:4491
 translate french talkNoelleFever_fba0b286:
 
     # Diya "How long do we have until class starts?"
-    Diya "Combien de temps avons-nous avant que le cours ne commence ?"
+    Diya "Combien de temps il reste avant que le cours commence ?"
 
 # game/1_diya.rpy:4494
 translate french talkNoelleFever_54a85d35:
@@ -7198,31 +7204,31 @@ translate french talkNoelleFever_e30f70b1:
 translate french talkNoelleFever_842aa3da:
 
     # DiyaT "No, it's fine. I run fast."
-    DiyaT "Non, c'est bon. Je cours vite."
+    DiyaT "Non, t'inquiète. Je cours vite."
 
 # game/1_diya.rpy:4509
 translate french hackedAlarms_95f1ab2a:
 
     # "Suddenly, Noelle tries to sit up!"
-    "Soudain, Noëlle essaie de s'asseoir !"
+    "Soudain, Noelle essaie de s'asseoir !"
 
 # game/1_diya.rpy:4511
 translate french hackedAlarms_be4cd5c3:
 
     # "Her abs are too weak, though, so she fails and flops back down."
-    "Mais ses abdominaux sont trop faibles, alors elle échoue et retombe par terre."
+    "Mais ses abdominaux sont trop faibles, alors elle échoue et retombe."
 
 # game/1_diya.rpy:4513
 translate french hackedAlarms_5692934d:
 
     # Diya "What're you doing."
-    Diya "Qu'est-ce que tu fais "
+    Diya "Qu'est-ce que tu fais. "
 
 # game/1_diya.rpy:4514
 translate french hackedAlarms_20a8ae42:
 
     # Diya "Becoming a fish?"
-    Diya "Devenir un poisson ?"
+    Diya "Tu te transformes en poisson ?"
 
 # game/1_diya.rpy:4517
 translate french hackedAlarms_1256eabb:
@@ -7234,7 +7240,7 @@ translate french hackedAlarms_1256eabb:
 translate french hackedAlarms_0a31b30f:
 
     # Noelle "You know how on Valentine's Day, you can pay the school to deliver roses to someone?"
-    Noelle "Tu sais que le jour de la Saint Valentin, tu peux payer l'école pour livrer des roses à quelqu'un."
+    Noelle "Tu sais, le jour de la Saint Valentin, tu peux payer l'école pour livrer des roses à quelqu'un ?"
 
 # game/1_diya.rpy:4521
 translate french hackedAlarms_9dffeaea:
@@ -7246,7 +7252,7 @@ translate french hackedAlarms_9dffeaea:
 translate french hackedAlarms_4301e184:
 
     # Diya "You could have them secretly send your crush candy grams for $5."
-    Diya "Tu pourrais leur demander d'envoyer secrètement à ton coup de foudre des grammes de bonbons pour 5 $."
+    Diya "Tu pouvais leur demander d'envoyer secrètement des boîtes de bonbons à ton crush pour 5 dollars."
 
 # game/1_diya.rpy:4525
 translate french hackedAlarms_0a62fa3b:
@@ -7258,25 +7264,25 @@ translate french hackedAlarms_0a62fa3b:
 translate french hackedAlarms_12779d31:
 
     # Noelle "Except here, we're more mature, so it's flowers."
-    Noelle "Sauf qu'ici, nous sommes plus matures, donc ce sont des fleurs."
+    Noelle "Sauf qu'ici, on est plus matures, donc ce sont des fleurs."
 
 # game/1_diya.rpy:4527
 translate french hackedAlarms_7fe139ee:
 
     # Noelle "We should send Akarsha one, with the message \"From your secret admirer.\""
-    Noelle "On devrait en envoyer un à Akarsha, avec le message \"De la part de ton admirateur secret.\""
+    Noelle "On devrait en envoyer une à Akarsha, avec le message \"De la part de ton admirateur secret.\""
 
 # game/1_diya.rpy:4529
 translate french hackedAlarms_2bfa6827:
 
     # Noelle "Imagine how confused she'll be!"
-    Noelle "Imaginez la confusion qu'elle va avoir !"
+    Noelle "Imagine sa confusion !"
 
 # game/1_diya.rpy:4530
 translate french hackedAlarms_571db5fa:
 
     # Noelle "And we can tease her relentlessly about it."
-    Noelle "Et nous pouvons la taquiner sans relâche à ce sujet."
+    Noelle "Et on pourra la taquiner sans relâche à ce sujet."
 
 # game/1_diya.rpy:4531
 translate french hackedAlarms_e49ab907:
@@ -7288,55 +7294,55 @@ translate french hackedAlarms_e49ab907:
 translate french hackedAlarms_dd6e2bb1:
 
     # Diya "Okay, that IS pretty funny."
-    Diya "Okay, that IS pretty funny."
+    Diya "Ok, j'avoue que ÇA ce serait drôle."
 
 # game/1_diya.rpy:4535
 translate french hackedAlarms_d96653f4:
 
     # Diya "It's not even that mean because she'll get free flowers out of it."
-    Diya "Ce n'est même pas si méchant, car elle aura des fleurs gratuites."
+    Diya "C'est même pas si méchant, comme elle aurait des fleurs gratuites."
 
 # game/1_diya.rpy:4536
 translate french hackedAlarms_eda28f8c:
 
     # Diya "The secret admirer part is the best."
-    Diya "La partie de l'admirateur secret est la meilleure."
+    Diya "Mais le côté \"admirateur secret\" est le meilleur."
 
 # game/1_diya.rpy:4537
 translate french hackedAlarms_22813dbf:
 
     # Diya "She'll drive herself nuts trying to figure out who it is."
-    Diya "Elle va se rendre folle en essayant de trouver qui c'est."
+    Diya "Elle va devenir dingue à essayer de trouver qui c'est."
 
 # game/1_diya.rpy:4540
 translate french hackedAlarms_55fa51b5:
 
     # Noelle "Alternatively, we can sign it with really common initials, like K.C."
-    Noelle "On peut aussi le signer avec des initiales vraiment communes, comme K.C."
+    Noelle "On pourrait aussi signer avec des initiales vraiment courantes, comme K.C."
 
 # game/1_diya.rpy:4541
 translate french hackedAlarms_c528fba8:
 
     # Noelle "She'll look up every guy with those initials at this school."
-    Noelle "Elle va chercher tous les gars avec ces initiales dans cette école."
+    Noelle "Elle va chercher tous les gars avec ces initiales dans l'école."
 
 # game/1_diya.rpy:4544
 translate french hackedAlarms_fac69226:
 
     # DiyaT "That's good too..."
-    DiyaT "C'est bien aussi..."
+    DiyaT "Oh c'est pas mal, ça aussi..."
 
 # game/1_diya.rpy:4547
 translate french hackedAlarms_d8928d61:
 
     # Noelle "I can't decide if it's funnier to have her conclude it's a random person, or for her to be constantly suspicious of everyone."
-    Noelle "Je n'arrive pas à décider si c'est plus drôle qu'elle conclue qu'il s'agit d'un inconnu, ou qu'elle se méfie constamment de tout le monde."
+    Noelle "J'arrive pas à décider si c'est plus drôle qu'elle conclue qu'il s'agit d'un illustre inconnu, ou qu'elle suspecte constamment tout le monde."
 
 # game/1_diya.rpy:4550
 translate french hackedAlarms_48379044:
 
     # Diya "Maybe we can do this every year."
-    Diya "Peut-être qu'on peut faire ça tous les ans."
+    Diya "Peut-être qu'on pourrait faire ça tous les ans."
 
 # game/1_diya.rpy:4551
 translate french hackedAlarms_219c068d:
@@ -7360,43 +7366,43 @@ translate french hackedAlarms_57f64609:
 translate french hackedAlarms_438eb47a:
 
     # Noelle "The first two years we don't give her any clues."
-    Noelle "Les deux premières années, on ne lui donne aucun indice."
+    Noelle "Les deux premières années, on lui donnerait aucun indice."
 
 # game/1_diya.rpy:4558
 translate french hackedAlarms_02c372b3:
 
     # Noelle "And then junior year, add the initials and encourage her to jump to the wrong conclusions."
-    Noelle "Et puis en première année, ajoutez les initiales et encouragez-la à tirer de mauvaises conclusions."
+    Noelle "Et puis en troisième année, on ajouterait les initiales et on l'encouragerait à tirer des conclusions claquées au sol."
 
 # game/1_diya.rpy:4559
 translate french hackedAlarms_1f221862:
 
     # Noelle "That way we'll get to see both."
-    Noelle "Comme ça, on pourra voir les deux."
+    Noelle "Comme ça, on pourrait voir les deux."
 
 # game/1_diya.rpy:4561
 translate french hackedAlarms_bd6ceccd:
 
     # "Noelle is in such a good mood that she lets out a creepy, evil laugh."
-    "Noelle est tellement de bonne humeur qu'elle laisse échapper un rire diabolique et effrayant"
+    "Noelle est tellement de bonne humeur qu'elle laisse échapper un rire diabolique et effrayant."
 
 # game/1_diya.rpy:4563
 translate french hackedAlarms_b08b51e4:
 
     # Noelle "We can also make the message a cipher. So she has to solve it."
-    Noelle "On peut aussi faire du message un code. Donc elle doit le résoudre."
+    Noelle "On pourrait aussi faire un message codé. Pour qu'elle aie à le résoudre."
 
 # game/1_diya.rpy:4566
 translate french hackedAlarms_52e1c2fb:
 
     # Diya "If you put too much math on it, she'll know it's you."
-    Diya "Si tu mets trop de maths dessus, elle saura que c'est toi."
+    Diya "Si tu mettais trop de maths dedans, elle saurait que c'est toi."
 
 # game/1_diya.rpy:4569
 translate french hackedAlarms_f23ffb47:
 
     # Noelle "Ciphers aren't math."
-    Noelle "Les codes ne sont pas des maths."
+    Noelle "Les codes c'est pas des maths."
 
 # game/1_diya.rpy:4572
 translate french hackedAlarms_18bdca62:
@@ -7408,73 +7414,73 @@ translate french hackedAlarms_18bdca62:
 translate french hackedAlarms_446393a5:
 
     # Noelle "Fair enough."
-    Noelle "C'est suffisant."
+    Noelle "Peut-être."
 
 # game/1_diya.rpy:4578
 translate french hackedAlarms_2645a991:
 
     # Diya "How much do the roses cost?"
-    Diya "Combien coûtent les roses ?"
+    Diya "Combien ça coûterait les roses ?"
 
 # game/1_diya.rpy:4581
 translate french hackedAlarms_238ec4b9:
 
     # Noelle "Probably around $12."
-    Noelle "Probablement autour de 12 $."
+    Noelle "Probablement autour de 12 dollars."
 
 # game/1_diya.rpy:4584
 translate french hackedAlarms_36073440:
 
     # DiyaT "$12..."
-    DiyaT "$12"
+    DiyaT "12 dollars..."
 
 # game/1_diya.rpy:4585
 translate french hackedAlarms_6152f458:
 
     # Diya "That's $6 per person."
-    Diya "C'est 6 dollars par personne."
+    Diya "Ça ferait 6 dollars par personne."
 
 # game/1_diya.rpy:4586
 translate french hackedAlarms_44bf87fe:
 
     # Diya "Don't really want to spend that much on a joke."
-    Diya "Je n'ai pas vraiment envie de dépenser autant pour une blague."
+    Diya "J'ai pas vraiment envie de dépenser autant pour une blague."
 
 # game/1_diya.rpy:4587
 translate french hackedAlarms_0b544d02:
 
     # Diya "Especially if it's annual. It'd be $48 in all."
-    Diya "Surtout si c'est annuel. Ce serait 48 $ en tout"
+    Diya "Surtout si c'était annuel. Ça ferait 48 dollars en tout."
 
 # game/1_diya.rpy:4590
 translate french hackedAlarms_fbdbc7bc:
 
     # Noelle "We could split the cost between more people, so it's more reasonable."
-    Noelle "Nous pourrions répartir le coût entre plusieurs personnes, ce qui serait plus raisonnable."
+    Noelle "On pourrait partager le coût avec plus de personnes, ça serait plus raisonnable."
 
 # game/1_diya.rpy:4593
 translate french hackedAlarms_535761e0:
 
     # Diya "But we don't have any other friends who would appreciate it."
-    Diya "Mais nous n'avons pas d'autres amis qui pourraient l'apprécier."
+    Diya "Mais on a pas d'autres amis qui apprécieraient la blague."
 
 # game/1_diya.rpy:4596
 translate french hackedAlarms_320efa19:
 
     # Noelle "........"
-    Noelle "......."
+    Noelle "........"
 
 # game/1_diya.rpy:4597
 translate french hackedAlarms_f8c04680:
 
     # Noelle "You're right."
-    Noelle "Tu as raison."
+    Noelle "T'as raison."
 
 # game/1_diya.rpy:4598
 translate french hackedAlarms_dc9d5754:
 
     # Noelle "Nevermind. Just forget it, then."
-    Noelle "Oublie ça. Oublie ça, alors."
+    Noelle "Tant pis. Oublie ça, alors."
 
 # game/1_diya.rpy:4600
 translate french hackedAlarms_2ae001f0:
@@ -7492,19 +7498,19 @@ translate french hackedAlarms_6ff8f1fb:
 translate french hackedAlarms_3a65f31f:
 
     # "Someone hacked the fire alarms to play the Super Mario Bros. theme!" with sshake
-    "Quelqu'un a piraté les alarmes incendie pour jouer le thème de Super Mario Bros. !" with sshake
+    "Quelqu'un a piraté les alarmes incendie pour jouer le thème de Super Mario Bros !" with sshake
 
 # game/1_diya.rpy:4622
 translate french hackedAlarms_8d6d1afe:
 
     # DiyaT "Almost gave me a heart attack..."
-    DiyaT "J'ai failli avoir une crise cardiaque..."
+    DiyaT "J'ai failli faire une crise cardiaque..."
 
 # game/1_diya.rpy:4625
 translate french hackedAlarms_9899a6c1:
 
     # Noelle ".........."
-    Noelle "........."
+    Noelle ".........."
 
 # game/1_diya.rpy:4627
 translate french hackedAlarms_5b85d623:
@@ -7528,43 +7534,43 @@ translate french hackedAlarms_6d9a5c6d:
 translate french hackedAlarms_4b3814b5:
 
     # Diya "Can you walk?"
-    Diya "Pouvez-vous marcher ?"
+    Diya "Tu peux marcher ?"
 
 # game/1_diya.rpy:4634
 translate french hackedAlarms_62487c34:
 
     # Noelle "Ye—"
-    Noelle "Oui..."
+    Noelle "Ou—"
 
 # game/1_diya.rpy:4636
 translate french hackedAlarms_915354cc:
 
     # "Diya catches Noelle as she pitches forward again."
-    "Diya attrape Noelle alors qu'elle se lance à nouveau en avant."
+    "Diya attrape Noelle alors qu'elle trébuche à nouveau en avant."
 
 # game/1_diya.rpy:4638
 translate french hackedAlarms_aabfbe34:
 
     # DiyaT "Nope."
-    DiyaT "Non"
+    DiyaT "On dirait plutôt que non."
 
 # game/1_diya.rpy:4655
 translate french ch3_454c17bf:
 
     # "Diya gives Noelle a piggyback ride to the field."
-    "Diya donne à Noelle un tour sur son dos jusqu'au terrain."
+    "Diya porte Noelle sur son dos jusqu'au terrain."
 
 # game/1_diya.rpy:4657
 translate french ch3_62afa106:
 
     # DiyaT "The entire school is out here now."
-    DiyaT "L'école entière est ici maintenant."
+    DiyaT "L'école entière est là maintenant."
 
 # game/1_diya.rpy:4663
 translate french ch3_6013ca4b:
 
     # Akarsha "Sup, homies."
-    Akarsha "Comment ça vas "
+    Akarsha "Yo, les potos."
 
 # game/1_diya.rpy:4667
 translate french ch3_68aa6aa2:
@@ -7576,79 +7582,79 @@ translate french ch3_68aa6aa2:
 translate french ch3_4cd7df76:
 
     # Noelle "I can't believe you've done this!"
-    Noelle "Je n'arrive pas à croire que tu aies fait ça !"
+    Noelle "J'arrive pas à croire que t'aies fait ça !"
 
 # game/1_diya.rpy:4670
 translate french ch3_5208348b:
 
     # Noelle "I ought to report you to the authorities."
-    Noelle "Je devrais vous dénoncer aux autorités."
+    Noelle "Je devrais te dénoncer aux autorités."
 
 # game/1_diya.rpy:4672
 translate french ch3_8dd73787:
 
     # Akarsha "But you won't."
-    Akarsha "Mais vous ne le ferez pas."
+    Akarsha "Mais tu le feras pas."
 
 # game/1_diya.rpy:4679
 translate french ch3_bade8864:
 
     # Noelle "What, you think I won't just because we're fr...f...fellow acquaintances?"
-    Noelle "Quoi, vous pensez que je ne le ferai pas juste parce qu'on est des français camarades de connaissance ?"
+    Noelle "Quoi, tu penses que je le ferais pas juste parce qu'on est am... a... acolytes ?"
 
 # game/1_diya.rpy:4682
 translate french ch3_dc7ba415:
 
     # Akarsha "FELLOW ACQUAINTANCES??"
-    Akarsha "DES COLLÈGUES DE TRAVAIL ??"
+    Akarsha "ACOLYTES ??"
 
 # game/1_diya.rpy:4684
 translate french ch3_63003399:
 
     # Diya "She was totally about to say \"friends\"."
-    Diya "Elle était sur le point de dire \"amis\"."
+    Diya "Elle était définitivement sur le point de dire \"amies\"."
 
 # game/1_diya.rpy:4687
 translate french ch3_71cb4458:
 
     # Noelle "I was not!"
-    Noelle "Je ne l'étais pas !"
+    Noelle "C'est faux !"
 
 # game/1_diya.rpy:4690
 translate french ch3_2bfedc9c:
 
     # Akarsha "Admit it! Friends! Friends! Friends!"
-    Akarsha "Avouez-le ! Les amis ! Les amis ! Les amis !"
+    Akarsha "Allez avoue ! Amies ! Amies ! Amies !"
 
 # game/1_diya.rpy:4709
 translate french ch3_2bc17f91:
 
     # Noelle "I hate you more than is physically possible right now!"
-    Noelle "Je te déteste plus que ce qui est physiquement possible en ce moment !"
+    Noelle "Je te déteste plus que ça ne m'est physiquement possible en ce moment !"
 
 # game/1_diya.rpy:4717
 translate french ch3_7c0b103d:
 
     # Akarsha "Oh, come on. What did you want me to do?"
-    Akarsha "Oh, allez. Que voulais-tu que je fasse ?"
+    Akarsha "Oh, arrête ton char. Tu voulais que j'fasse quoi ?"
 
 # game/1_diya.rpy:4718
 translate french ch3_957b1d20:
 
     # Akarsha "Travel back in time and change Chinese culture to not see academic achievement as a moral virtue?"
-    Akarsha "Remonter dans le temps et changer la culture chinoise pour qu'elle ne considère pas la réussite scolaire comme une vertu morale ?"
+    Akarsha "Remonter le temps et changer la culture chinoise pour qu'elle ne considère pas la réussite scolaire comme une vertu morale ?"
 
 # game/1_diya.rpy:4722
 translate french ch3_027b3d1d:
 
     # Akarsha "The one who's getting saved doesn't get to complain."
-    Akarsha "Celui qui est sauvé n'a pas à se plaindre."
+    Akarsha "Celle qui est sauvée n'a pas à se plaindre."
 
 # game/1_diya.rpy:4724
 translate french ch3_a9ba1176:
 
     # Noelle "You broke the law! How can I not complain?!" with sshake
-    Noelle "Vous avez enfreint la loi ! Comment je ne peux pas me plaindre ? !" with sshake
+    Noelle "Tu as enfreint la loi ! Comment je peux ne pas me plaindre ?!" with sshake
 
 # game/1_diya.rpy:4727
 translate french ch3_5c545724:
@@ -7660,13 +7666,13 @@ translate french ch3_5c545724:
 translate french ch3_660c2983:
 
     # Noelle "YOU CAN'T DISTRACT ME WITH FAKE DEEP STATEMENTS!" with sshake
-    Noelle "TU NE M'AURAS PAS AVEC DES FAUSSES PHRASES PROFONDES !" with sshake
+    Noelle "TU NE M'AURAS PAS AVEC TA PSEUDO PHILOSOPHIE !" with sshake
 
 # game/1_diya.rpy:4732
 translate french ch3_63357124:
 
     # Akarsha "You don't appreciate anything I do!"
-    Akarsha "Tu n'apprécies rien de ce que je fais !"
+    Akarsha "T'apprécies rien de ce que j'fais !"
 
 # game/1_diya.rpy:4733
 translate french ch3_cc3281e7:
@@ -7678,73 +7684,73 @@ translate french ch3_cc3281e7:
 translate french ch3_675aca1c:
 
     # Noelle "I'm not thanking you for this illicit \"help\" that I NEVER asked for."
-    Noelle "Je ne vous remercie pas pour cette aide illicite que je n'ai JAMAIS demandée."
+    Noelle "Je ne te remercie pas pour cette aide illicite que je n'ai JAMAIS demandée."
 
 # game/1_diya.rpy:4738
 translate french ch3_84971510:
 
     # Noelle "Were you seriously expecting to be praised? Never have I ever been more embarrased for my fellow man."
-    Noelle "Vous vous attendiez sérieusement à être félicité ? Je n'ai jamais été aussi embarrassé par mon prochain."
+    Noelle "Tu t'attendais sérieusement à des louanges ? Je n'ai jamais été aussi embarrassée par mon prochain."
 
 # game/1_diya.rpy:4741
 translate french ch3_0de4435e:
 
     # Akarsha "I'm a hero!"
-    Akarsha "Je suis un héros !"
+    Akarsha "Je suis une héroïne !"
 
 # game/1_diya.rpy:4743
 translate french ch3_e55840f5:
 
     # Noelle "YOU'RE NOT A HERO!!!"
-    Noelle "TU N'ES PAS UN HÉRO !!!"
+    Noelle "TU N'ES PAS UNE HÉROÏNE !!!"
 
 # game/1_diya.rpy:4744
 translate french ch3_4081558a:
 
     # Noelle "YOU SCUMBAG!!!!! DISGUSTING!!!!!!"
-    Noelle " SALE ENFOIRE !!!!! DEGUEULASSE !!!!!"
+    Noelle " SAC A FOUTRE !!!!! T'ES DÉGOUTANTE !!!!!"
 
 # game/1_diya.rpy:4747
 translate french ch3_96ae7aec:
 
     # Akarsha "Fine! Be that way!"
-    Akarsha "Bien ! Soyez comme ça !"
+    Akarsha "Très bien ! Sois comme ça !"
 
 # game/1_diya.rpy:4749
 translate french ch3_eaf459be:
 
-    # Akarsha "I'm sorry. Forgive me?"
-    Akarsha "Je suis désolé. Pardonner ?"
+    # Akarsha I'm" sorry. Forgive me?"
+    Akarsha "Je suis désolée. Tu me pardonnes ?"
 
 # game/1_diya.rpy:4751
 translate french ch3_35f95480:
 
     # Noelle "You don't look even remotely sorry."
-    Noelle "Tu n'as pas l'air du tout désolé."
+    Noelle "T'as pas l'air désolée du tout."
 
 # game/1_diya.rpy:4753
 translate french ch3_926c4bd1:
 
     # Akarsha "I can't help it if I think you're funny when you're mad."
-    Akarsha "Je n'y peux rien si je te trouve drôle quand tu es en colère."
+    Akarsha "J'y peux rien si j'te trouve drôle quand t'es en colère."
 
 # game/1_diya.rpy:4755
 translate french ch3_2c1fc11e:
 
     # Akarsha "Just don't tell on me and we'll call it even. Deal?"
-    Akarsha "Me dénonce pas et on dira qu'on est quite. Marché conclu ?"
+    Akarsha "Si tu me dénonces pas, on est quittes. D'accord ?"
 
 # game/1_diya.rpy:4757
 translate french ch3_750cb8f5:
 
     # "Akarsha offers her a handshake. Noelle regards it with obvious suspicion."
-    "Akarsha lui offre une poignée de main. Noëlle le considère avec une suspicion évidente."
+    "Akarsha lui offre une poignée de main. Noelle la considère avec une suspicion évidente."
 
 # game/1_diya.rpy:4758
 translate french ch3_9388c5b2:
 
     # "She cautiously releases her grip on Diya's shoulder and reaches out to shake it."
-    "Elle relâche prudemment sa prise sur l'épaule de Diya et tend la main pour la secouer."
+    "Elle relâche prudemment sa prise sur l'épaule de Diya et tend la main pour secouer celle d'Akarsha."
 
 # game/1_diya.rpy:4766
 translate french ch3_69b1f848:
@@ -7762,43 +7768,43 @@ translate french ch3_2f25e229:
 translate french ch3_986fa433:
 
     # Noelle "I HATE YOU!!!!!!!" with sshake
-    Noelle "JE VOUS DÉTESTE !!!!!!!" with sshake
+    Noelle "JE TE DÉTESTE !!!!!!!" with sshake
 
 # game/1_diya.rpy:4771
 translate french ch3_09afd5e4:
 
     # Noelle "YOU...STUPID!!!!" with sshake
-    Noelle "VOUS...STUPID !!!!" with sshake
+    Noelle "ESPECE DE...STUPIDE !!!!" with sshake
 
 # game/1_diya.rpy:4774
 translate french ch3_1db5ea9d:
 
     # Akarsha "You should've killed me when you had the chance."
-    Akarsha "Tu aurais dû me tuer quand tu en avais l'occasion."
+    Akarsha "Tu aurais dû me tuer quand t'en avais l'occasion."
 
 # game/1_diya.rpy:4776
 translate french ch3_7819a248:
 
     # Noelle "Next time, I won't let you off so easy. This is your last warning."
-    Noelle "La prochaine fois, je ne vous laisserai pas partir si facilement. C'est votre dernier avertissement"
+    Noelle "La prochaine fois, je te laisserai pas t'en sortir aussi facilement. C'est ton dernier avertissement."
 
 # game/1_diya.rpy:4779
 translate french ch3_8aa6cf5d:
 
     # DiyaT "She said that last time. And the time before that."
-    DiyaT "Elle a dit ça la dernière fois. Et la fois d'avant"
+    DiyaT "Elle a dit ça la dernière fois. Et la fois d'avant."
 
 # game/1_diya.rpy:4782
 translate french ch3_dbae161f:
 
     # Akarsha "Power of friendship!"
-    Akarsha "Le pouvoir de l'amitié"
+    Akarsha "Le pouvoir de l'amitié !"
 
 # game/1_diya.rpy:4783
 translate french ch3_1037f26f:
 
     # "A stranger brushes past Akarsha in the crowd. Akarsha gawks after her, placing her hand on her heart."
-    "Une inconnue frôle Akarsha dans la foule. Akarsha la suit, bouche bée, en mettant la main sur son cœur."
+    "Une inconnue frôle Akarsha dans la foule. Akarsha la fixe, bouche bée, en mettant la main sur son cœur."
 
 # game/1_diya.rpy:4785
 translate french ch3_fd540c50:
@@ -7816,7 +7822,7 @@ translate french ch3_5dfe7035:
 translate french ch3_692a1620:
 
     # Diya "??!!!!!!!!!!!!!!!!!" with sshake
-    Diya "?!!!!!!!!!!!!!!!!!" with sshake
+    Diya "??!!!!!!!!!!!!!!!!!" with sshake
 
 # game/1_diya.rpy:4818
 translate french ch3_33f6b55e:
@@ -7828,13 +7834,13 @@ translate french ch3_33f6b55e:
 translate french ch3_ab787e2d:
 
     # Noelle "Diya?!" with sshake
-    Noelle "Diya?" with sshake
+    Noelle "Diya ?!" with sshake
 
 # game/1_diya.rpy:4821
 translate french ch3_08bff6d9:
 
     # Noelle "Where are we going?"
-    Noelle "Où allons-nous ?"
+    Noelle "Où est-ce qu'on va ?"
 
 # game/1_diya.rpy:4824
 translate french ch3_e46d1b9d:
@@ -7852,7 +7858,7 @@ translate french ch3_6fe0cf59:
 translate french ch3_becd532a:
 
     # Diya "????????? ???"
-    Diya "? ???????? ? ??"
+    Diya "????????????"
 
 # game/1_diya.rpy:4830
 translate french ch3_478fd028:
@@ -7882,7 +7888,7 @@ translate french ch4_1623c778:
 translate french battingStart_52fcbda1:
 
     # DiyaT "Whoa!! I'm up to bat!!"
-    DiyaT "Whoa !! Je suis à la hauteur !"
+    DiyaT "Whoa !! Je suis à la batte !!"
 
 # game/1_diya.rpy:4901
 translate french battingStart_61397965:
@@ -7894,13 +7900,13 @@ translate french battingStart_61397965:
 translate french battingStart_c41b0284:
 
     # DiyaT "I get to hit the ball!! This is so fun!!!"
-    DiyaT "Je vais frapper la balle ! C'est tellement amusant ! !!"
+    DiyaT "Je vais pouvoir frapper la balle !! C'est tellement amusant !!!"
 
 # game/1_diya.rpy:4906
 translate french battingStart_ce41ef83:
 
     # NPC "Hey, look! It's a girl batting!"
-    NPC "Hé, regardez ! C'est une fille qui bat !"
+    NPC "Hé, regardez ! C'est une fille à la batte !"
 
 # game/1_diya.rpy:4907
 translate french battingStart_e9b69ef9:
@@ -7912,13 +7918,13 @@ translate french battingStart_e9b69ef9:
 translate french battingStart_6e8840cd:
 
     # Diya "............"
-    Diya "..........."
+    Diya "............"
 
 # game/1_diya.rpy:4944
 translate french battingStart_2e43f9c6:
 
     # Min "SHUT UP YOU DUMB...DUMB POO-POO HEAD!!!" with sshake
-    Min "FERMEZ-LA, ESPÈCE DE TRONCHE DE CAKE... STUPIDE !!!" with sshake
+    Min "FERME-LA, ESPÈCE DE TRONCHE DE CAKE... STUPIDE !!!" with sshake
 
 # game/1_diya.rpy:4945
 translate french battingStart_46990ce9:
@@ -7930,25 +7936,25 @@ translate french battingStart_46990ce9:
 translate french battingStart_25e3c19d:
 
     # NPC "What?!" with sshake
-    NPC "Quoi ?" with sshake
+    NPC "Quoi ?!" with sshake
 
 # game/1_diya.rpy:4948
 translate french battingStart_4c1fc8a2:
 
     # "\"What?!\" is a word!"
-    "\"Quoi ?\" est un mot !"
+    "\"Quoi ?!\" est un mot !"
 
 # game/1_diya.rpy:4950
 translate french battingStart_f91255ae:
 
     # Min "DIEEEEEEEEE!!!!!" with sshake
-    Min "DIEEEEEEEEE!!!!!" with sshake
+    Min "CREEEEVE !!!!!" with sshake
 
 # game/1_diya.rpy:4952
 translate french battingStart_40169ec6:
 
     # "A fight broke out in the stands!"
-    "Une bagarre a éclaté dans les tribunes"
+    "Une bagarre a éclaté dans les tribunes !"
 
 # game/1_diya.rpy:4955
 translate french battingStart_2be0ad68:
@@ -7960,55 +7966,55 @@ translate french battingStart_2be0ad68:
 translate french battingStart_38fcd6d7:
 
     # "Min is beating the crap out of an old grandpa!"
-    "Min est en train de battre la merde d'un vieux grand-père !"
+    "Min est en train de tabasser un vieux grand-père !"
 
 # game/1_diya.rpy:4965
 translate french battingStart_79830cea:
 
     # Min "YOU BETTER WATCH OUT! I'M A GREEN BELT!"
-    Min "TU FERAIS MIEUX DE FAIRE ATTENTION ! JE SUIS CEINTURE VERTE !"
+    Min "TU F'RAIS MIEUX DE FAIRE GAFFE ! J'SUIS CEINTURE VERTE !"
 
 # game/1_diya.rpy:4968
 translate french battingStart_3ae205e0:
 
     # DiyaT "Green belt..."
-    DiyaT "ceinture verte..."
+    DiyaT "Ceinture verte..."
 
 # game/1_diya.rpy:4970
 translate french battingStart_e6835967:
 
     # "The other adults are rushing to pull her off him."
-    "Les autres adultes se précipitent pour la retirer de lui."
+    "Les autres adultes se précipitent pour la maîtriser."
 
 # game/1_diya.rpy:4972
 translate french battingStart_db030cf8:
 
     # Diya "Min!"
-    Diya "Min!"
+    Diya "Min !"
 
 # game/1_diya.rpy:4978
 translate french battingStart_da888f9d:
 
     # "Min scrambles down the rafters with everyone chasing after her."
-    "Min se précipite en bas des chevrons avec tout le monde qui la poursuit."
+    "Min se précipite en bas des gradins alors que tout le monde la poursuit."
 
 # game/1_diya.rpy:4979
 translate french battingStart_87a98926:
 
     # Min "I'm taking you with me!!" with sshake
-    Min "Je t'emmène avec moi ! " with sshake
+    Min "Je t'emmène avec moi !!" with sshake
 
 # game/1_diya.rpy:4981
 translate french battingStart_f39757e3:
 
     # "She grabs Diya's wrist and sprints off with her in tow."
-    "Elle attrape le poignet de Diya et s'en va en courant avec elle en remorque."
+    "Elle attrape le poignet de Diya et s'en va en courant avec elle à sa suite."
 
 # game/1_diya.rpy:4983
 translate french battingStart_a768a9ea:
 
     # Diya "...!" with sshake
-    Diya "... !" with sshake
+    Diya "...!" with sshake
 
 # game/1_diya.rpy:4985
 translate french battingStart_bcb81aa8:
@@ -8020,13 +8026,13 @@ translate french battingStart_bcb81aa8:
 translate french battingStart_0ac7d398:
 
     # DiyaT "We got away."
-    DiyaT "On s'est échappé."
+    DiyaT "On s'est échappées."
 
 # game/1_diya.rpy:5004
 translate french battingStart_cbe93100:
 
     # Min "Heheheh!!! I kidnapped you!!"
-    Min "Heheheh !!! Je t'ai kidnappé !!"
+    Min "Heheheh !!! Je t'ai kidnappée !!"
 
 # game/1_diya.rpy:5006
 translate french battingStart_b6399d89:
@@ -8038,13 +8044,13 @@ translate french battingStart_b6399d89:
 translate french battingStart_b310ae7f:
 
     # Min "Now we can do whatever we want."
-    Min "Maintenant, nous pouvons faire ce que nous voulons."
+    Min "Maintenant, on peut faire ce qu'on veut."
 
 # game/1_diya.rpy:5010
 translate french battingStart_835fe1a0:
 
     # Min "Come on! I brought Jun's bike!"
-    Min "Allez ! J'ai apporté le vélo de Jun-seo!"
+    Min "Viens ! J'ai apporté le vélo de Jun-seo!"
 
 # game/1_diya.rpy:5012
 translate french battingStart_aa79c330:
@@ -8062,37 +8068,37 @@ translate french battingStart_cf72bea1:
 translate french battingStart_16869598:
 
     # Min "You sit on the rear rack."
-    Min "Vous vous asseyez sur le porte-bagages arrière."
+    Min "Assieds-toi sur le porte-bagages."
 
 # game/1_diya.rpy:5017
 translate french battingStart_9ba16665:
 
     # Diya "Shouldn't I be the one pedaling? I'm bigger than you. "
-    Diya "Ce n'est pas moi qui devrais pédaler ? Je suis plus grand que toi."
+    Diya "C'est pas moi qui devrais pédaler ? Je suis plus grande que toi."
 
 # game/1_diya.rpy:5020
 translate french battingStart_4dca4472:
 
     # Min "I'm training for when I get taller than you!"
-    Min "Je m'entraîne pour le jour où je serai plus grand que toi !"
+    Min "Je m'entraîne pour le jour où je serai plus grande que toi !"
 
 # game/1_diya.rpy:5022
 translate french battingStart_44919ed3:
 
     # Diya "That's never gonna happen. You'll be short forever."
-    Diya "Ça n'arrivera jamais. Tu seras toujours petit"
+    Diya "Ça arrivera jamais. Tu seras toujours petite."
 
 # game/1_diya.rpy:5025
 translate french battingStart_5cb767de:
 
     # Min "How do you know?! Just you watch!" with sshake
-    Min "Comment le savez-vous ? ! Tu n'as qu'à regarder !" with sshake
+    Min "Comment tu peux savoir ?! Tu verras !" with sshake
 
 # game/1_diya.rpy:5026
 translate french battingStart_0902fb30:
 
     # Min "Are you getting on or not?"
-    Min "Vous montez ou pas ?"
+    Min "Tu montes ou pas ?"
 
 # game/1_diya.rpy:5028
 translate french battingStart_849812d8:
@@ -8104,13 +8110,13 @@ translate french battingStart_849812d8:
 translate french battingStart_3ade87a0:
 
     # Min "So where do you wanna go next?"
-    Min "Alors, où voulez-vous aller ensuite ?"
+    Min "Alors, tu veux aller où maintenant ?"
 
 # game/1_diya.rpy:5046
 translate french whereToGoChoice_6337a4c4:
 
     # Diya "My house."
-    Diya "Ma maison."
+    Diya "Chez moi."
 
 # game/1_diya.rpy:5049
 translate french whereToGoChoice_b7071fce:
@@ -8122,19 +8128,19 @@ translate french whereToGoChoice_b7071fce:
 translate french whereToGoChoice_5a27786b:
 
     # Diya "No, that's not what I meant. You're invited too."
-    Diya "Non, ce n'est pas ce que je voulais dire. Tu es aussi invité."
+    Diya "Non, c'est pas ce que je voulais dire. T'es aussi invitée."
 
 # game/1_diya.rpy:5052
 translate french whereToGoChoice_42421bd3:
 
     # Diya "We can play tag and eat ice cream."
-    Diya "On peut jouer au chat et manger de la glace."
+    Diya "On pourrait jouer au chat et manger de la glace."
 
 # game/1_diya.rpy:5055
 translate french whereToGoChoice_186aca5e:
 
     # Min "But aren't your parents there? You'll get in trouble if they see me with you."
-    Min "Mais tes parents ne sont pas là ? Tu vas avoir des problèmes s'ils me voient avec toi."
+    Min "Mais tes parents sont pas là ? Tu vas avoir des problèmes s'ils me voient avec toi."
 
 # game/1_diya.rpy:5057
 translate french whereToGoChoice_1e24bca7:
@@ -8146,43 +8152,43 @@ translate french whereToGoChoice_1e24bca7:
 translate french whereToGoChoice_5664d455:
 
     # DiyaT "My parents are really unreasonable about Min.)\n(I'm actually not even allowed to talk to her."
-    DiyaT "Mes parents ne sont vraiment pas raisonnables à propos de Min.) Je n'ai même pas le droit de lui parler."
+    DiyaT "Mes parents ne sont vraiment pas raisonnables à propos de Min.\n(Je n'ai même pas le droit de lui parler.)"
 
 # game/1_diya.rpy:5060
 translate french whereToGoChoice_417f5d19:
 
     # DiyaT "It's so stupid. They don't know anything about her, but just because she has short hair and wears boy clothes they hate her."
-    DiyaT "C'est tellement stupide. Ils ne savent rien d'elle, mais juste parce qu'elle a les cheveux courts et porte des vêtements de garçon, ils la détestent."
+    DiyaT "C'est tellement bête. Ils ne savent rien d'elle, mais juste parce qu'elle a les cheveux courts et porte des vêtements de garçon, ils la détestent."
 
 # game/1_diya.rpy:5061
 translate french whereToGoChoice_d2054cc7:
 
     # DiyaT "They always call her a freak."
-    DiyaT "Ils l'appellent toujours un monstre."
+    DiyaT "Ils la traitent toujours de monstre."
 
 # game/1_diya.rpy:5066
 translate french whereToGoChoice_2a4e1f7b:
 
     # Diya "Your house."
-    Diya "Votre maison."
+    Diya "Chez toi."
 
 # game/1_diya.rpy:5069
 translate french whereToGoChoice_501d6097:
 
     # Min "We won't be able to get in. My parents came out with me, and I don't have the keys."
-    Min "Nous ne pourrons pas entrer. Mes parents sont sortis avec moi, et je n'ai pas les clés."
+    Min "On pourra pas entrer. Mes parents sont sortis avec moi, et j'ai pas les clés."
 
 # game/1_diya.rpy:5071
 translate french whereToGoChoice_70480523:
 
     # Diya "Oh, right. You're basically a fugitive right now."
-    Diya "Oh, c'est vrai. Vous êtes essentiellement un fugitif maintenant."
+    Diya "Oh, c'est vrai. T'es genre une fugitive maintenant."
 
 # game/1_diya.rpy:5074
 translate french whereToGoChoice_dda41ece:
 
     # Min "Why do you wanna go to my house, anyway? You've already been there a bunch of times."
-    Min "Pourquoi tu veux aller chez moi, de toute façon ? Tu y es déjà allé un paquet de fois."
+    Min "Pourquoi tu veux aller chez moi, de toute façon ? T'y es déjà allée un paquet de fois."
 
 # game/1_diya.rpy:5076
 translate french whereToGoChoice_f33fcf6d:
@@ -8206,7 +8212,7 @@ translate french whereToGoChoice_55299a8e:
 translate french whereToGoChoice_49282a9c:
 
     # Diya "Like, you have to sleep in a girly pink blanket while Jun gets the Hot Wheels one."
-    Diya "Par exemple, tu dois dormir dans une couverture rose et Jun dans une couverture Hot Wheels."
+    Diya "Par exemple, tu dois dormir dans une couverture rose alors que Jun peut avoir une couverture Hot Wheels."
 
 # game/1_diya.rpy:5083
 translate french whereToGoChoice_56d5fd6f:
@@ -8218,19 +8224,19 @@ translate french whereToGoChoice_56d5fd6f:
 translate french whereToGoChoice_927ab215:
 
     # Diya "Remember the time you tried to run on it at 10 Speed to impress me, fell off, and broke your arm?"
-    Diya "Tu te souviens de la fois où tu as essayé de courir dessus à 10 Speed pour m'impressionner, que tu es tombé et que tu t'es cassé le bras ?"
+    Diya "Tu te souviens de la fois où t'as essayé de courir dessus à la vitesse 10 pour m'impressionner, tu es tombée et tu t'es cassé le bras ?"
 
 # game/1_diya.rpy:5087
 translate french whereToGoChoice_f673b33c:
 
     # Min "I, I don't remember that! You must've remembered wrong."
-    Min "Je, je ne me souviens pas de ça ! Tu as dû mal te souvenir."
+    Min "Je, j'me souviens pas de ça ! Tu dois pas t'souvenir bien."
 
 # game/1_diya.rpy:5090
 translate french whereToGoChoice_176dd91b:
 
     # Diya "And you brush your teeth too hard, so your toothbrush bristles look hilarious."
-    Diya "Et tu te brosses les dents trop fort, alors les poils de ta brosse à dents sont hilarants."
+    Diya "Et tu te brosses les dents trop fort, alors les poils de ta brosse à dents sont hilarants à voir."
 
 # game/1_diya.rpy:5091
 translate french whereToGoChoice_d96cc88a:
@@ -8242,19 +8248,19 @@ translate french whereToGoChoice_d96cc88a:
 translate french whereToGoChoice_8d529998:
 
     # Min "What's so funny about that?"
-    Min "Qu'est-ce qu'il y a de si drôle ?"
+    Min "Qu'est-ce qu'il y a d'si drôle ?"
 
 # game/1_diya.rpy:5095
 translate french whereToGoChoice_0835ecad:
 
     # Min "I have to make sure I kill the germs!"
-    Min "Je dois m'assurer que je tue les germes"
+    Min "Je dois être sûre de buter les germes !"
 
 # game/1_diya.rpy:5097
 translate french whereToGoChoice_992a4f25:
 
     # DiyaT "Of course you do."
-    DiyaT "Bien sûr que oui."
+    DiyaT "Evidemment."
 
 # game/1_diya.rpy:5103
 translate french whereToGoChoice_c59d57f5:
@@ -8266,7 +8272,7 @@ translate french whereToGoChoice_c59d57f5:
 translate french whereToGoChoice_9187ad54:
 
     # Min "What?! Why?!" with sshake
-    Min "Quoi ? Pourquoi ?" with sshake
+    Min "Quoi ?! Pourquoi ?!" with sshake
 
 # game/1_diya.rpy:5110
 translate french whereToGoChoice_eea08832:
@@ -8302,7 +8308,7 @@ translate french whereToGoChoice_a625d248:
 translate french whereToGoChoice_73a76dbd:
 
     # Diya "She's so funny. She looks at every individual grape before she eats it."
-    Diya "Elle est si drôle. Elle regarde chaque grain de raisin avant de le manger."
+    Diya "Elle est si rigolote. Elle regarde chaque grain de raisin avant de le manger."
 
 # game/1_diya.rpy:5122
 translate french whereToGoChoice_b2fa1897:
@@ -8314,19 +8320,19 @@ translate french whereToGoChoice_b2fa1897:
 translate french whereToGoChoice_92741c32:
 
     # Min "What's \"aloof\" mean?"
-    Min "Qu'est-ce que ça veut dire \"aloof\" ?"
+    Min "Ca veut dire quoi \"distante\" ?"
 
 # game/1_diya.rpy:5127
 translate french whereToGoChoice_39c9edf9:
 
     # Diya "It's like...cold. She always tries to hide how much she likes you. Like a cat."
-    Diya "Elle est comme... froide. Elle essaie toujours de cacher à quel point elle t'aime. Comme un chat."
+    Diya "Elle est genre... froide. Elle essaie toujours de cacher à quel point elle t'apprécie. Comme un chat."
 
 # game/1_diya.rpy:5128
 translate french whereToGoChoice_0f8f0b60:
 
     # Diya "Once you get used to it, it's sorta cute."
-    Diya "Une fois que tu t'y es habitué, c'est plutôt mignon."
+    Diya "Une fois que t'es habituée, c'est plutôt mignon."
 
 # game/1_diya.rpy:5131
 translate french whereToGoChoice_33c349ce:
@@ -8344,37 +8350,37 @@ translate french whereToGoChoice_6e8840cd:
 translate french whereToGoChoice_2d760f78:
 
     # Diya "If you hate it that much, we can go somewhere else."
-    Diya "Si tu détestes tant que ça, on peut aller ailleurs."
+    Diya "Si tu détestes ça tant que ça, on peut aller ailleurs."
 
 # game/1_diya.rpy:5141
 translate french whereToGoChoice_7eadfd4c:
 
     # Diya "Home Depot lights section."
-    Diya "Section lumières de Home Depot."
+    Diya "La section lumières de Home Depot."
 
 # game/1_diya.rpy:5144
 translate french whereToGoChoice_8ddd78d6:
 
     # Min "What's so great about that?"
-    Min "Qu'est-ce qu'il y a de si génial là-dedans ?"
+    Min "Y'a quoi d'si génial là-bas ?"
 
 # game/1_diya.rpy:5146
 translate french whereToGoChoice_b7cad766:
 
     # Diya "There's so many different lamps in one place. The designs are cool, and it's really bright."
-    Diya "Il y a tellement de lampes différentes en un seul endroit. Les designs sont cool, et c'est vraiment lumineux."
+    Diya "Y'a tellement de lampes différentes à un seul endroit. Les designs sont cool, et c'est vraiment lumineux."
 
 # game/1_diya.rpy:5147
 translate french whereToGoChoice_95c652fc:
 
     # Diya "The rest of the store is ordinary, but that one aisle feels like a special place in another world."
-    Diya "Le reste du magasin est ordinaire, mais cette allée est comme un endroit spécial dans un autre monde."
+    Diya "Le reste du magasin est ordinaire, mais cette allée c'est comme un endroit spécial d'un autre monde."
 
 # game/1_diya.rpy:5148
 translate french whereToGoChoice_41a2c346:
 
     # Diya "I like to pretend I'm furnishing a house and pick my favorites."
-    Diya "J'aime faire comme si je meublais une maison et choisir mes préférés."
+    Diya "J'aime faire comme si je meublais une maison, je choisis mes lampes préférées."
 
 # game/1_diya.rpy:5150
 translate french whereToGoChoice_52cf0f16:
@@ -8386,43 +8392,43 @@ translate french whereToGoChoice_52cf0f16:
 translate french whereToGoChoice_290eebc5:
 
     # Diya "I know it sounds bland. You don't have to."
-    Diya "Je sais que ça semble fade. Vous n'êtes pas obligé."
+    Diya "Je sais que ça a pas l'air terrible dit comme ça. T'es pas obligée."
 
 # game/1_diya.rpy:5155
 translate french whereToGoChoice_e55d6704:
 
     # Min "No, let's go. It sounds like a place that'd be boring if I went with my parents, but fun if I go with you."
-    Min "Non, allons-y. Ça a l'air d'un endroit qui serait ennuyeux si j'y allais avec mes parents, mais amusant si j'y allais avec toi."
+    Min "Non, on y va. Ça a l'air d'un endroit qui s'rait barbant si j'y allais avec mes parents, mais rigolo si j'y allais avec toi."
 
 # game/1_diya.rpy:5157
 translate french whereToGoChoice_32f652e7:
 
     # Diya "I know what you mean. If you're with someone you like, everywhere is interesting."
-    Diya "Je sais ce que tu veux dire. Si tu es avec quelqu'un que tu aimes, tout est intéressant."
+    Diya "Je comprends. Si t'es avec quelqu'un que t'aimes, tout est intéressant."
 
 # game/1_diya.rpy:5160
 translate french whereToGoChoice_4626db25:
 
     # Min "Which way to Home Depot?"
-    Min "Quel chemin pour aller à Home Depot ?"
+    Min "C'est quoi le chemin pour aller à Home Depot ?"
 
 # game/1_diya.rpy:5162
 translate french whereToGoChoice_b1e85932:
 
     # Diya "...Not sure. I haven't been there in years."
-    Diya "Pas sûr. Je n'y suis pas allé depuis des années."
+    Diya "...Chuis pas sûre. J'y suis pas allée depuis des années."
 
 # game/1_diya.rpy:5164
 translate french whereToGoChoice_5f5f318a:
 
     # Min "Too bad..."
-    Min "Dommage..."
+    Min "Mince..."
 
 # game/1_diya.rpy:5170
 translate french whereToGoChoice_39c849e0:
 
     # DiyaT "Where should we go instead, then?"
-    DiyaT "Où devrions-nous aller à la place, alors ?"
+    DiyaT "On va où à la place, alors ?"
 
 # game/1_diya.rpy:5176
 translate french dangerous_649d1989:
@@ -8434,19 +8440,19 @@ translate french dangerous_649d1989:
 translate french dangerous_9ba672e9:
 
     # Min "Are you sure? The place I want to take you is pretty far."
-    Min "Tu es sûr ? L'endroit où je veux t'emmener est assez loin."
+    Min "T'es sûre ? L'endroit où je veux t'emmener est assez loin."
 
 # game/1_diya.rpy:5182
 translate french dangerous_158ff6a8:
 
     # Min "So if there's anywhere else you wanna go, we should probably knock that outta the way first."
-    Min "Donc si tu veux aller ailleurs, on devrait probablement s'en débarrasser en premier."
+    Min "Donc si t'veux aller ailleurs, on devrait probablement y aller en premier."
 
 # game/1_diya.rpy:5183
 translate french dangerous_8b7272b6:
 
     # Min "{cps=0}So if there's anywhere else you wanna go, we should probably knock that outta the way first.{/cps}" nointeract
-    Min "{cps=0}Donc si tu veux aller ailleurs, on devrait probablement s'en débarrasser en premier{/cps}." nointeract
+    Min "{cps=0}Donc si t'veux aller ailleurs, on devrait probablement y aller en premier.{/cps}" nointeract
 
 # game/1_diya.rpy:5187
 translate french dangerous_cfaaaebc:
@@ -8458,7 +8464,7 @@ translate french dangerous_cfaaaebc:
 translate french dangerous_10a9ce1a:
 
     # Min "Okay! Where?"
-    Min "Oui ! Où ?"
+    Min "Ok ! Où ça ?"
 
 # game/1_diya.rpy:5193
 translate french dangerous_57e599f4:
@@ -8470,19 +8476,19 @@ translate french dangerous_57e599f4:
 translate french dangerous_9abc2e50:
 
     # Min "Okay!"
-    Min "Oui"
+    Min "D'accord !"
 
 # game/1_diya.rpy:5197
 translate french dangerous_e93001b5:
 
     # Min "Then hold on tight."
-    Min "Alors, accrochez-vous bien."
+    Min "Alors, accroche-toi bien."
 
 # game/1_diya.rpy:5199
 translate french dangerous_2b0fa0b4:
 
     # Diya "You're not telling me where we're going?"
-    Diya "Tu ne me dis pas où on va ?"
+    Diya "Tu me dis pas où on va ?"
 
 # game/1_diya.rpy:5202
 translate french dangerous_79ace732:
@@ -8494,37 +8500,37 @@ translate french dangerous_79ace732:
 translate french dangerous_fed4c3e2:
 
     # "After an extreme amount of effort on Min's part, they arrive at a ravine."
-    "Après un effort extrême de la part de Min, ils arrivent à un ravin."
+    "Après un effort extrême de la part de Min, elles arrivent à un ravin."
 
 # game/1_diya.rpy:5224
 translate french dangerous_ecb3c90f:
 
     # Min "We....we...here!!!!" with sshake
-    Min "Nous....nous...ici!!!!" with sshake
+    Min "On....on...là !!!!" with sshake
 
 # game/1_diya.rpy:5228
 translate french dangerous_4e34c727:
 
     # DiyaT "That wasn't even a coherent sentence..."
-    DiyaT "Ce n'était même pas une phrase cohérente..."
+    DiyaT "C'était même pas une phrase..."
 
 # game/1_diya.rpy:5229
 translate french dangerous_230ab8af:
 
     # Diya "Are you okay."
-    Diya "Vous allez bien ?"
+    Diya "Tu vas bien ?"
 
 # game/1_diya.rpy:5232
 translate french dangerous_dd71b5b6:
 
     # Min "Y-yeah! What kinda weakling do you think I am?!" with sshake
-    Min "Y-yeah ! Quel genre de mauviette penses-tu que je suis ?" with sshake
+    Min "O-ouais ! T'crois que j'suis une mauviette ou quoi ?!" with sshake
 
 # game/1_diya.rpy:5235
 translate french dangerous_7fa42d68:
 
     # DiyaT "Her legs must feel like jelly right now, but there's no way she'd ever admit it."
-    DiyaT "Ses jambes doivent être comme de la gelée en ce moment, mais elle ne l'admettra jamais."
+    DiyaT "Ses jambes doivent être comme de la gelée maintenant, mais elle l'admettrait jamais."
 
 # game/1_diya.rpy:5237
 translate french dangerous_3412a031:
@@ -8536,43 +8542,43 @@ translate french dangerous_3412a031:
 translate french dangerous_039796d6:
 
     # Min "You're welcome! Anytime!!"
-    Min "Vous êtes les bienvenus ! N'importe quand !"
+    Min "T'inquiète ! Quand tu veux !!"
 
 # game/1_diya.rpy:5242
 translate french dangerous_fe6ca9a7:
 
     # Min "The place is down this hill and through the tunnel."
-    Min "L'endroit est en bas de cette colline et dans le tunnel."
+    Min "L'endroit est plus loin, faut qu'on descende la colline puis qu'on traverse letunnel."
 
 # game/1_diya.rpy:5245
 translate french dangerous_97575474:
 
     # Diya "Should I get off? It's too steep to bike down."
-    Diya "Je dois descendre ? C'est trop raide pour descendre en vélo."
+    Diya "Il faudrait pas que je descende du vélo ? C'est trop raide pour continuer avec."
 
 # game/1_diya.rpy:5248
 translate french dangerous_c787ec33:
 
     # Min "Yeah!! Let's run down!" with sshake
-    Min "Ouais ! Allons-y !" with sshake
+    Min "Ouais !! Y'a qu'à y aller en courant !" with sshake
 
 # game/1_diya.rpy:5253
 translate french dangerous_21442946:
 
     # "Min enthusiastically leaps off the bike and sprints down the hill!"
-    "Min saute avec enthousiasme du vélo et saute en bas de la colline !"
+    "Min saute avec enthousiasme du vélo et court jusqu'en bas de la colline !"
 
 # game/1_diya.rpy:5255
 translate french dangerous_130b5e1b:
 
     # "The bike is just lying there in the grass..."
-    "Le vélo est juste étendue là dans l'herbe..."
+    "Le vélo reste juste étendu là dans l'herbe..."
 
 # game/1_diya.rpy:5258
 translate french dangerous_7d0af24d:
 
     # Diya "Wait. We can't leave this."
-    Diya "Attendez. On ne peut pas laisser ça."
+    Diya "Attend. On ne peut pas laisser le vélo comme ça."
 
 # game/1_diya.rpy:5259
 translate french dangerous_6e8840cd:
@@ -8596,7 +8602,7 @@ translate french dangerous_e611ec41:
 translate french dangerous_e9a73955:
 
     # Min "I wanna show you something on the other side. Let's walk through."
-    Min "Je veux vous montrer quelque chose de l'autre côté. Allons-y."
+    Min "J'veux te montrer quelque chose de l'autre côté. Faut qu'on traverse."
 
 # game/1_diya.rpy:5267
 translate french dangerous_3aef2277:
@@ -8608,25 +8614,25 @@ translate french dangerous_3aef2277:
 translate french dangerous_1dec2a32:
 
     # Diya "What're you looking for?"
-    Diya "Que cherchez-vous ?"
+    Diya "Tu cherches quoi ?"
 
 # game/1_diya.rpy:5273
 translate french dangerous_5c6d5fad:
 
     # Min "Skeletons."
-    Min "Squelettes"
+    Min "Des squelettes"
 
 # game/1_diya.rpy:5274
 translate french dangerous_6a3194ad:
 
     # Min "Are you scared?"
-    Min "Tu as peur ?"
+    Min "T'as peur ?"
 
 # game/1_diya.rpy:5276
 translate french dangerous_0d3b62fc:
 
     # Min "Don't worry. I'll protect you."
-    Min "Ne t'inquiète pas. Je te protégerai."
+    Min "T'inquiète pas. J'te protégerai."
 
 # game/1_diya.rpy:5278
 translate french dangerous_d52b05c9:
@@ -8638,49 +8644,49 @@ translate french dangerous_d52b05c9:
 translate french dangerous_fd841d5d:
 
     # Diya "Okay."
-    Diya "Oui"
+    Diya "D'accord."
 
 # game/1_diya.rpy:5280
 translate french dangerous_276146dd:
 
     # Diya "I'm counting on you, then."
-    Diya "Je compte sur vous, alors."
+    Diya "Je compte sur toi, alors."
 
 # game/1_diya.rpy:5283
 translate french dangerous_cbdfc056:
 
     # Min "Yeah!!" with sshake
-    Min "Ouais !" with sshake
+    Min "Ouais !!" with sshake
 
 # game/1_diya.rpy:5284
 translate french dangerous_2eaf4fd0:
 
     # Min "I'll protect you with my life!!!" with sshake
-    Min "Je te protégerai avec ma vie ! !!" with sshake
+    Min "Je te protégerai avec ma vie !!!" with sshake
 
 # game/1_diya.rpy:5285
 translate french dangerous_71ed2303:
 
     # "Min grabs Diya's hand."
-    "Min saisit la main de Diya"
+    "Min saisit la main de Diya."
 
 # game/1_diya.rpy:5287
 translate french dangerous_888cdb38:
 
     # Min "There's water on the ground. Hold on to me so you don't slip."
-    Min "Il y a de l'eau sur le sol. Accroche-toi à moi pour ne pas glisser."
+    Min "Y'a de l'eau sur le sol. Accroche-toi à moi pour pas glisser."
 
 # game/1_diya.rpy:5289
 translate french dangerous_9b0bb340:
 
     # Diya "...If I slip like this, you'll just get dragged down with me."
-    Diya "Si je glisse comme ça, tu seras entraîné dans ma chute."
+    Diya "...Si je glisse comme ça, tu tomberas juste avec moi."
 
 # game/1_diya.rpy:5292
 translate french dangerous_85529ff9:
 
     # Min "No, I won't! Trust me!"
-    Min "Non, je ne le ferai pas ! Fais-moi confiance !"
+    Min "Non, t'inquiète ! Fais-moi confiance !"
 
 # game/1_diya.rpy:5332
 translate french lookSquirrel_bee164f5:
@@ -8710,13 +8716,13 @@ translate french lookSquirrel_369a2582:
 translate french lookSquirrel_06f3e16d:
 
     # Diya "That squirrel just waved at us." with sshake
-    Diya "Cet écureuil nous a juste fait signe." with sshake
+    Diya "Cet écureuil vient juste de nous faire signe." with sshake
 
 # game/1_diya.rpy:5341
 translate french lookSquirrel_3f388e6e:
 
     # Min "You're way too excited about this."
-    Min "Tu es bien trop excité par tout ça."
+    Min "T'es bien trop enthousiaste juste pour ça."
 
 # game/1_diya.rpy:5344
 translate french lookSquirrel_ee5a1c9e:
@@ -8734,13 +8740,13 @@ translate french lookSquirrel_70f0ad1b:
 translate french lookSquirrel_9fa2cfca:
 
     # Diya "...?"
-    Diya "... ?"
+    Diya "...?"
 
 # game/1_diya.rpy:5350
 translate french lookSquirrel_0bf7d659:
 
     # Diya "Really. I didn't know you liked squirrels."
-    Diya "Vraiment. Je ne savais pas que tu aimais les écureuils."
+    Diya "Vraiment. Je savais pas que tu aimais les écureuils."
 
 # game/1_diya.rpy:5353
 translate french lookSquirrel_ac89bc82:
@@ -8770,13 +8776,13 @@ translate french enterTunnel_df796550:
 translate french enterTunnel_7d7aaff9:
 
     # "If it weren't for Min, Diya actually would be a bit scared now."
-    "Si ce n'était pas pour Min, Diya serait en fait un peu effrayée maintenant."
+    "S'il n'y avait pas Min, Diya aurait un peu la frousse."
 
 # game/1_diya.rpy:5374
 translate french enterTunnel_f5ac07fb:
 
     # Min "Don't worry, Diya. I got this."
-    Min "Ne t'inquiète pas, Diya.  J'ai eu ça."
+    Min "T'inquiète pas, Diya. J'maîtrise."
 
 # game/1_diya.rpy:5375
 translate french enterTunnel_67f303d9:
@@ -8788,7 +8794,7 @@ translate french enterTunnel_67f303d9:
 translate french enterTunnel_1856bd91:
 
     # DiyaT "Whoa!!!" with sshake
-    DiyaT "Whoa !!" with sshake
+    DiyaT "Whoa !!!" with sshake
 
 # game/1_diya.rpy:5378
 translate french enterTunnel_b71d92a0:
@@ -8806,25 +8812,25 @@ translate french enterTunnel_a50e8e21:
 translate french enterTunnel_2ecfba9d:
 
     # Diya "Okay. {font=tamil.ttf}ஒன்று.{/font}"
-    Diya "Oui {font=tamil.ttf}ஒன்று.{/font}"
+    Diya "Oui {font=tamil.ttf}ஒன்று.{/font} (Oṉṟu.)"
 
 # game/1_diya.rpy:5385
 translate french enterTunnel_e4315310:
 
     # Min "{font=tamil.ttf}ஒன்று!{/font}" with sshake
-    Min "{font=tamil.ttf}ஒன்று!{/font}" with sshake
+    Min "{font=tamil.ttf}ஒன்று!{/font} (Oṉṟu !)" with sshake
 
 # game/1_diya.rpy:5387
 translate french enterTunnel_6d8ed123:
 
     # Diya "{font=tamil.ttf}இரண்டு.{/font}"
-    Diya "{font=tamil.ttf}இரண்டு.{/font}"
+    Diya "{font=tamil.ttf}இரண்டு.{/font} (Iraṇṭu.)"
 
 # game/1_diya.rpy:5390
 translate french enterTunnel_b2fde249:
 
     # Min "{font=tamil.ttf}இரண்டு!!!{/font}" with sshake
-    Min "{font=tamil.ttf}இரண்டு!!!{/font}" with sshake
+    Min "{font=tamil.ttf}இரண்டு!!!{/font} (Iraṇṭu !!!)" with sshake
 
 # game/1_diya.rpy:5392
 translate french enterTunnel_68d77832:
@@ -8836,31 +8842,31 @@ translate french enterTunnel_68d77832:
 translate french enterTunnel_26497e2d:
 
     # Min "{font=tamil.ttf}ஒன்று இரண்டு மூன்று நான்கு ஐந்து ஆறு ஏழு எட்டு ஒன்பது பத்து!!!{/font}"
-    Min "{font=tamil.ttf}ஒன்று இரண்டு மூன்று நான்கு ஐந்து ஆறு ஏழு எட்டு ஒன்பது பத்து!!!{/font}"
+    Min "{font=tamil.ttf}ஒன்று இரண்டு மூன்று நான்கு ஐந்து ஆறு ஏழு எட்டு ஒன்பது பத்து!!!{/font} (Oṉṟu iraṇṭu mūṉṟu nāṉku aintu āṟu ēḻu eṭṭu oṉpatu pattu!!!)"
 
 # game/1_diya.rpy:5396
 translate french enterTunnel_14928544:
 
     # Min "I'm probably gonna forget it all over again in a few days."
-    Min "Je vais probablement tout oublier à nouveau dans quelques jours."
+    Min "J'vais sûrement encore tout oublier dans quelques jours."
 
 # game/1_diya.rpy:5397
 translate french enterTunnel_ad3710be:
 
     # Diya "Then I'll teach it to you again, when it happens."
-    Diya "Puis je te l'enseignerai à nouveau, quand ça arrivera."
+    Diya "Alors je te l'enseignerai à nouveau, quand ça arrivera."
 
 # game/1_diya.rpy:5398
 translate french enterTunnel_07ccc8e5:
 
     # Diya "I'll do it over and over forever if you want. I don't mind."
-    Diya "Je le ferai encore et encore pour toujours si tu veux. Ça ne me dérange pas."
+    Diya "Je le ferai encore et encore pour toujours si tu veux. Ça me dérange pas."
 
 # game/1_diya.rpy:5400
 translate french enterTunnel_6d11ab51:
 
     # Min "Okay. My turn to teach you."
-    Min "Oui. A mon tour de t'apprendre."
+    Min "Ok. A mon tour de t'apprendre."
 
 # game/1_diya.rpy:5401
 translate french enterTunnel_2a6f68bb:
@@ -8872,7 +8878,7 @@ translate french enterTunnel_2a6f68bb:
 translate french enterTunnel_8f055744:
 
     # Diya "{font=korean.ttf}하나 둘 셋 넷............ {/font}"
-    Diya "{font=korean.ttf}하나 둘 셋 넷............ {/font}"
+    Diya "{font=korean.ttf}하나 둘 셋 넷............ {/font} (hana dul ses nes...)"
 
 # game/1_diya.rpy:5405
 translate french enterTunnel_17cf63b0:
@@ -8884,31 +8890,31 @@ translate french enterTunnel_17cf63b0:
 translate french enterTunnel_5485c3ae:
 
     # Min "{font=korean.ttf}다섯!{/font}" with sshake
-    Min "{font=korean.ttf}다섯!{/font}" with sshake
+    Min "{font=korean.ttf}다섯!{/font} (daseos !)" with sshake
 
 # game/1_diya.rpy:5408
 translate french enterTunnel_7b2eebf2:
 
     # Diya "{font=korean.ttf}다섯?{/font}"
-    Diya "{font=korean.ttf}다섯?{/font}"
+    Diya "{font=korean.ttf}다섯?{/font} (daseos ?)"
 
 # game/1_diya.rpy:5410
 translate french enterTunnel_5485c3ae_1:
 
     # Min "{font=korean.ttf}다섯!{/font}" with sshake
-    Min "{font=korean.ttf}다섯!{/font}" with sshake
+    Min "{font=korean.ttf}다섯!{/font} (daseos !)" with sshake
 
 # game/1_diya.rpy:5411
 translate french enterTunnel_98d8f3c5:
 
     # Diya "{font=korean.ttf}다섯. 다섯. 다섯.{/font}"
-    Diya "{font=korean.ttf}다섯. 다섯. 다섯.{/font}"
+    Diya "{font=korean.ttf}다섯. 다섯. 다섯.{/font}  (daseos. daseos. daseos !)"
 
 # game/1_diya.rpy:5413
 translate french enterTunnel_8f055744_1:
 
     # Diya "{font=korean.ttf}하나 둘 셋 넷............ {/font}"
-    Diya "{font=korean.ttf}하나 둘 셋 넷............ {/font}"
+    Diya "{font=korean.ttf}하나 둘 셋 넷............ {/font} (hana dul ses nes...)"
 
 # game/1_diya.rpy:5415
 translate french enterTunnel_17cf63b0_1:
@@ -8926,7 +8932,7 @@ translate french enterTunnel_20c6c501:
 translate french enterTunnel_1601a9b5:
 
     # Min "{font=korean.ttf}다섯!{/font} How come you can never remember five?"
-    Min "Vas y, comment tu fais pour jamais réussir à te souvenir du chiffre 5 ?"
+    Min "{font=korean.ttf}다섯!{/font} (daseos !) Vas-y, comment tu fais pour jamais réussir à te souvenir du chiffre 5 ?"
 
 # game/1_diya.rpy:5421
 translate french enterTunnel_dfe6b004:
@@ -8950,25 +8956,25 @@ translate french enterTunnel_a8278703:
 translate french enterTunnel_832167b5:
 
     # Min "{font=korean.ttf}다섯!{/font}"
-    Min "{font=korean.ttf}다섯!{/font}"
+    Min "{font=korean.ttf}다섯!{/font} (daseos !)"
 
 # game/1_diya.rpy:5429
 translate french enterTunnel_f25d5168:
 
     # Diya "{font=korean.ttf}다섯.{/font}"
-    Diya "{font=korean.ttf}다섯.{/font}"
+    Diya "{font=korean.ttf}다섯.{/font} (daseos.)"
 
 # game/1_diya.rpy:5443
 translate french enterTunnel_c1021503:
 
     # Diya "....????????????"
-    Diya "...????????????"
+    Diya "....????????????"
 
 # game/1_diya.rpy:5444
 translate french enterTunnel_5c81dbb3:
 
     # DiyaT "Dogs?"
-    DiyaT "Chiens ?"
+    DiyaT "Des chiens ?"
 
 # game/1_diya.rpy:5454
 translate french enterTunnel_2bf3bf1c:
@@ -8980,7 +8986,7 @@ translate french enterTunnel_2bf3bf1c:
 translate french enterTunnel_d6566624:
 
     # Min "Do you like it?"
-    Min "T'aimes ça ?"
+    Min "Tu trouves ça comment ?"
 
 # game/1_diya.rpy:5463
 translate french enterTunnel_8e11af5f:
@@ -8998,7 +9004,7 @@ translate french enterTunnel_14398e10:
 translate french enterTunnel_9069a39e:
 
     # Diya "Can we go in even though we don't have a dog?"
-    Diya "Tu penses qu'on peut y entrer même si on a pas de chien ?"
+    Diya "Tu penses qu'on peut entrer même si on a pas de chien ?"
 
 # game/1_diya.rpy:5468
 translate french enterTunnel_b29651b9:
@@ -9010,7 +9016,7 @@ translate french enterTunnel_b29651b9:
 translate french enterTunnel_6b227baa:
 
     # Min "I found this place by accident back when I ran away from home."
-    Min "J'ai trouvé cet endroit par hasard, quand je me suis enfuie de chez moi."
+    Min "J'ai trouvé c't'endroit par hasard, quand j'me suis enfuie de chez moi."
 
 # game/1_diya.rpy:5471
 translate french enterTunnel_f5ffc9d8:
@@ -9040,19 +9046,19 @@ translate french enterTunnel_8edc1dbe:
 translate french enterTunnel_63f6f348:
 
     # DiyaT "Oh my god!! They have it separated by weight!" with sshake
-    DiyaT "Purée !! Ils les ont séparé par poids !" with sshake
+    DiyaT "Purée !! Ils sont séparés par poids !" with sshake
 
 # game/1_diya.rpy:5479
 translate french enterTunnel_76e1911e:
 
     # DiyaT "Under 30 pounds! That's so cute!" with sshake
-    DiyaT "Moins de 13 Kg ! C'est trop choux !" with sshake
+    DiyaT "Moins de 13 Kg ! C'est trop chou !" with sshake
 
 # game/1_diya.rpy:5482
 translate french enterTunnel_796346db:
 
     # Min "Which side do you wanna see?"
-    Min "Tu veux commencer par quel côté ?"
+    Min "T'veux commencer par quel côté ?"
 
 # game/1_diya.rpy:5492
 translate french enclosure_553c0f46:
@@ -9076,25 +9082,25 @@ translate french enclosure_6276c5a5:
 translate french enclosure_02569039:
 
     # DiyaT "There's so many dogs!!"
-    DiyaT "Des chiens partout !"
+    DiyaT "Il y a des chiens partout !"
 
 # game/1_diya.rpy:5510
 translate french enclosure_71ca4a59:
 
     # DiyaT "They're all friends with each other!!! Dog friends!!!" with sshake
-    DiyaT "Regarde les ils sont tous potos ! Des toutous'potos !!!" with sshake
+    DiyaT "Regarde-les, ils sont tous potos ! Des toutous'potos !!!" with sshake
 
 # game/1_diya.rpy:5511
 translate french enclosure_6e44bd20:
 
     # DiyaT "I've died and gone to heaven!!!"
-    DiyaT "Me voilà au paradis !!!"
+    DiyaT "Je suis au paradis !!!"
 
 # game/1_diya.rpy:5515
 translate french enclosure_731b0414:
 
     # "A husky trots up to Diya with a frisbee in his mouth."
-    "Un husky avance vers Diya avec un frisbee dans la gueule."
+    "Un husky trottine vers Diya avec un frisbee dans la gueule."
 
 # game/1_diya.rpy:5519
 translate french enclosure_436ef389:
@@ -9118,19 +9124,19 @@ translate french enclosure_5f7012be:
 translate french enclosure_44e4976a:
 
     # "Diya sets down the bike and hurls the frisbee as hard as she can."
-    "Diya pose son vélo et jette le frisbee aussi fort que possible."
+    "Diya pose le vélo et jette le frisbee aussi fort que possible."
 
 # game/1_diya.rpy:5526
 translate french enclosure_82fb6561:
 
     # "The dog gallops after it!"
-    "Le chien lui court après !"
+    "Le chien court après !"
 
 # game/1_diya.rpy:5527
 translate french enclosure_e2714d14:
 
     # "He catches it with a running leap, zooms straight back to her, and drops it at Diya's feet again."
-    "Il l'attrape d'un bond, retourne aussi vite qu'il était parti auprès de Diya et lui redépose le jouet à ses pieds."
+    "Il l'attrape d'un bond, retourne aussi vite qu'il était parti auprès de Diya et redépose le jouet à ses pieds."
 
 # game/1_diya.rpy:5528
 translate french enclosure_0e660f0f:
@@ -9154,13 +9160,13 @@ translate french enclosure_dce8104e:
 translate french enclosure_c59b29fa:
 
     # "Diya is almost crying..."
-    "Diya est au bord des larmes...."
+    "Diya est au bord des larmes..."
 
 # game/1_diya.rpy:5536
 translate french enclosure_ab00de1e:
 
     # Min "Are you happy?"
-    Min "Ca te plait ?"
+    Min "T'es heureuse ?"
 
 # game/1_diya.rpy:5539
 translate french enclosure_0da742d5:
@@ -9190,7 +9196,7 @@ translate french enclosure_9a5d1f82:
 translate french enclosure_861422e9:
 
     # Min "No, it's fine. I like watching you do it."
-    Min "Ca va aller. J'aime bien te regarder le lancer."
+    Min "Non, pas besoin. J'aime bien te regarder le lancer."
 
 # game/1_diya.rpy:5552
 translate french enclosure_fd841d5d:
@@ -9208,7 +9214,7 @@ translate french enclosure_2aefd934:
 translate french enclosure_8683854e:
 
     # Min "..........."
-    Min ".........."
+    Min "..........."
 
 # game/1_diya.rpy:5558
 translate french enclosure_e66a3853:
@@ -9226,7 +9232,7 @@ translate french enclosure_9fa2cfca:
 translate french enclosure_53ef06d7:
 
     # Min "If you want, you can live in my house when we grow up. I'll buy you all the dogs you want."
-    Min "Si tu veux, tu pourras vivre chez moi quand on sera grandes. Je t'achèterai tous les chiens que tu veux."
+    Min "Si tu veux, tu pourrais vivre chez moi quand on sera grandes. Je t'achèterais tous les chiens que tu veux."
 
 # game/1_diya.rpy:5567
 translate french enclosure_c799220c:
@@ -9238,13 +9244,13 @@ translate french enclosure_c799220c:
 translate french enclosure_ea723cc9:
 
     # Min "And I'll get to see you every day. I'll drive you around in my Corvette and make everyone jealous."
-    Min "Et je viendrai te voir tous les jours. Je t'emmènerai faire un tour dans ma Corvette et tout le monde sera jaloux."
+    Min "Et j'te verrais te voir tous les jours. J't'emmènerais faire un tour dans ma Corvette et tout le monde serait jaloux."
 
 # game/1_diya.rpy:5573
 translate french enclosure_c24b615c:
 
     # Diya "Drive the dogs around too. They can wear goggles so the wind doesn't sting their eyes." with sshake
-    Diya "Emmène les chiens aussi. " with sshake
+    Diya "Emmène les chiens aussi. Ils pourraient porter des lunettes de ski pour se protéger du vent." with sshake
 
 # game/1_diya.rpy:5576
 translate french enclosure_88503a23:
@@ -9256,13 +9262,13 @@ translate french enclosure_88503a23:
 translate french enclosure_046005a5:
 
     # Min "We'll be so far from our parents that we never have to see them again."
-    Min "On sera si loin de nos parents, qu'on aura plus à les revoir."
+    Min "On s'rait si loin d'nos parents, qu'on aurait plus à les revoir."
 
 # game/1_diya.rpy:5579
 translate french enclosure_943bb65b:
 
     # Min "And if we go somewhere with snow, you can throw snowballs towards me and I'll punch them all out of the air. It'll look pretty cool."
-    Min "Et si on part dans un endroit enneigé, tu pourras me jeter des boules de neige et je les éclaterai en l'air. Ca sera putain de bien."
+    Min "Et si on partait dans un endroit enneigé, tu pourrais me jeter des boules de neige et j'les éclaterais en l'air. Ca s'rait putain de bien."
 
 # game/1_diya.rpy:5582
 translate french enclosure_c5cfc5e1:
@@ -9274,13 +9280,13 @@ translate french enclosure_c5cfc5e1:
 translate french enclosure_2583bc9c:
 
     # Diya "Okay. Let's do it."
-    Diya "Ok on fait ça."
+    Diya "Ok, on fait ça."
 
 # game/1_diya.rpy:5586
 translate french enclosure_db2eace5:
 
     # Min "Really?! Are you sure?" with sshake
-    Min "Vraiment ? T'es sure ?" with sshake
+    Min "Vraiment ? T'es sûre ?" with sshake
 
 # game/1_diya.rpy:5589
 translate french enclosure_24c6ff92:
@@ -9298,7 +9304,7 @@ translate french enclosure_c47212fc:
 translate french enclosure_30dabc24:
 
     # DiyaT "What's happening?? This is great!! Wow!!!!!!" with sshake
-    DiyaT "Qu'est-ce qui se passe ?? C'est géant !! Waouh !!!!" with sshake
+    DiyaT "Qu'est-ce qui se passe ?? C'est trop bien !! Waouh !!!!" with sshake
 
 # game/1_diya.rpy:5600
 translate french enclosure_06530a49:
@@ -9316,7 +9322,7 @@ translate french ch5_b15a9f05:
 translate french ch5_aaf68681:
 
     # "Diya hits her alarms and flops face-first into bed."
-    "Diya règle son réveil et tombe tête la première sur son lit."
+    "Diya frappe son réveil et retombe tête la première dans son lit."
 
 # game/1_diya.rpy:5617
 translate french ch5_5b07bfc9:
@@ -9334,7 +9340,7 @@ translate french ch5_b15a9f05_1:
 translate french ch5_4040e457:
 
     # DiyaT "I didn't realize it back then, but now that I think about it, that was really..."
-    DiyaT "Je l'avais pas réalisé à l'époque, mais maintenant que j'y pense, c'était vraiment..."
+    DiyaT "J'avais pas réalisé à l'époque, mais maintenant que j'y pense, c'était vraiment..."
 
 # game/1_diya.rpy:5624
 translate french ch5_b15a9f05_2:
@@ -9382,13 +9388,13 @@ translate french ch5_c50f2165:
 translate french ch5_cddb7eff:
 
     # DiyaT "No, that's impossible. I don't feel that way about other girls at all."
-    DiyaT "Non, c'est impossible. Je ne ressens rien de ça à propos des autres filles."
+    DiyaT "Non, c'est impossible. Je ressens rien de tout ça à propos d'autres filles."
 
 # game/1_diya.rpy:5634
 translate french ch5_61903098:
 
     # DiyaT "Because Min looked and acted like that, my heart must've confused her with a guy."
-    DiyaT "Juste parce que Min m'a regardé et a agi comme ça, mon coeur a dû la confondre avec un mec."
+    DiyaT "A cause du look de Min et de sa façon d'agir, mon coeur a dû la confondre avec un mec."
 
 # game/1_diya.rpy:5635
 translate french ch5_1c989cb7:
@@ -9406,7 +9412,7 @@ translate french ch5_11a44193:
 translate french ch5_800d3074:
 
     # DiyaT "Plus, nothing ever came out of it. It's in the past now."
-    DiyaT "En plus, rien n'a jamais abouti de ça. C'est tout du passé maintenant."
+    DiyaT "En plus, rien n'a jamais abouti. C'est du passé maintenant."
 
 # game/1_diya.rpy:5638
 translate french ch5_5bfd596e:
@@ -9430,7 +9436,7 @@ translate french ch5_b15a9f05_3:
 translate french ch5_d5a82cfe:
 
     # DiyaT "If Min hadn't moved away, what would've happened?"
-    DiyaT "Si Min n'avait pas déménagé, qu'est-ce qui se serait passé ?"
+    DiyaT "Si Min avait pas déménagé, qu'est-ce qui se serait passé ?"
 
 # game/1_diya.rpy:5644
 translate french ch5_dbf6e65c:
@@ -9454,19 +9460,19 @@ translate french ay2_8e0ddc15:
 translate french ay2_6ffc76d4:
 
     # cAkarsha "ay diya"
-    cAkarsha "hey diya"
+    cAkarsha "slt diya"
 
 # game/1_diya.rpy:5666
 translate french ay2_076b730f:
 
     # cSame "ay"
-    cSame "hey"
+    cSame "slt"
 
 # game/1_diya.rpy:5667
 translate french ay2_b771df90:
 
     # cSame "ayy"
-    cSame "heyy"
+    cSame "sltt"
 
 # game/1_diya.rpy:5668
 translate french ay2_1acbd9bd:
@@ -9478,7 +9484,7 @@ translate french ay2_1acbd9bd:
 translate french ay2_6bf2c9ac:
 
     # cAkarsha "what do u call a lesbian w long nails??"
-    cAkarsha "cmt t'appelle une lesbienne ak de grands ongles ?"
+    cAkarsha "cmt t'appelle une lesbienne av de grands ongles ?"
 
 # game/1_diya.rpy:5670
 translate french ay2_4087384d:
@@ -9508,7 +9514,7 @@ translate french ay2_a9db357b:
 translate french ay2_fdd5289a:
 
     # "Diya goes outside."
-    "Diya sort à l'extérieur."
+    "Diya sort dehors"
 
 # game/1_diya.rpy:5689
 translate french ay2_5b1d8989:
@@ -9520,7 +9526,7 @@ translate french ay2_5b1d8989:
 translate french ay2_ec9aeb0d:
 
     # Akarsha "If I were an enzyme, I'd be DNA helicase so I could unzip your genes."
-    Akarsha "Si j’étais une enzyme, je serai une hélicase, pour te désaper sans gêne."
+    Akarsha "Eh, tu sais, si j’étais une enzyme, je serai une hélicase, pour te désaper sans gêne."
 
 # game/1_diya.rpy:5694
 translate french ay2_73c5644b:
@@ -9532,7 +9538,7 @@ translate french ay2_73c5644b:
 translate french ay2_a75a805c:
 
     # "Diya briskly begins walking away without her."
-    "Diya se met à s'éloigner vivement sans elle."
+    "Diya s'éloigne brusquement d'elle."
 
 # game/1_diya.rpy:5699
 translate french ay2_81a3083d:
@@ -9556,19 +9562,19 @@ translate french ay2_ff128adc:
 translate french ay2_b07b46d5:
 
     # Akarsha "Hey, you know I'm just kidding, right?"
-    Akarsha "Hey, tu sais que je rigole, hein ?"
+    Akarsha "Hey, tu sais que j'rigole, hein ?"
 
 # game/1_diya.rpy:5714
 translate french ay2_53b136fe:
 
     # Akarsha "When there's no one around to flirt with, I flirt with you just to practice."
-    Akarsha "Quand il y a personne avec qui flirter autour de moi, je m'entraîne en te draguant."
+    Akarsha "Quand y'a personne avec qui flirter autour de moi, je m'entraîne en te draguant."
 
 # game/1_diya.rpy:5718
 translate french ay2_ee70c94f:
 
     # Diya "It's not funny."
-    Diya "C'est pas drôle."
+    Diya "C'est pas marrant."
 
 # game/1_diya.rpy:5722
 translate french ay2_64452111:
@@ -9604,7 +9610,7 @@ translate french ay2_c4ff40b2:
 translate french ay2_f7e4c37f:
 
     # NPC "Protect the children! Gay sex is sin!"
-    NPC "Protégez les enfants ! Le sexe gay est un péché !"
+    NPC "Protégez les enfants ! La sodomie est un péché !"
 
 # game/1_diya.rpy:5757
 translate french ay2_df3f6405:
@@ -9640,19 +9646,19 @@ translate french ay2_b91c643e:
 translate french ay2_0ada1528:
 
     # Akarsha "Right??"
-    Akarsha "Allez ??"
+    Akarsha "Pareil !!"
 
 # game/1_diya.rpy:5774
 translate french ay2_27ffda17:
 
     # Diya "Yuck."
-    Diya "Berk."
+    Diya "Beurk."
 
 # game/1_diya.rpy:5777
 translate french ay2_b5d91975:
 
     # Akarsha "Yuck?!"
-    Akarsha "Berk ?!"
+    Akarsha "Beurk ?!"
 
 # game/1_diya.rpy:5780
 translate french ay2_f2b2ffc4:
@@ -9664,7 +9670,7 @@ translate french ay2_f2b2ffc4:
 translate french ay2_3e16dd84:
 
     # DiyaT "We're here."
-    DiyaT "On est ici."
+    DiyaT "On est arrivées."
 
 # game/1_diya.rpy:5811
 translate french p12_32d61905:
@@ -9688,7 +9694,7 @@ translate french p12_f06ff5a1:
 translate french p12_57fca404:
 
     # Akarsha "OW!! How mean!!!" with sshake
-    Akarsha "Aïe ! Quelle méchanceté !" with sshake
+    Akarsha "Aïe ! Vilaine !" with sshake
 
 # game/1_diya.rpy:5824
 translate french p12_e16b1573:
@@ -9712,19 +9718,19 @@ translate french p12_c728b2c9:
 translate french p12_58ececcb:
 
     # Noelle "Are you alright? You seem off."
-    Noelle "Tu vas bien ? Tu m'as l'air bizarre."
+    Noelle "Tu vas bien ? T'as l'air bizarre."
 
 # game/1_diya.rpy:5832
 translate french p12_de9e4f32:
 
     # Akarsha "Think about that before you hit me??"
-    Akarsha "Penses-y avant de m'avoir frappé ??"
+    Akarsha "Penses-y avant de me frapper ??"
 
 # game/1_diya.rpy:5834
 translate french p12_1e473c1f:
 
     # Noelle "Not everything is about you. I was talking to Diya."
-    Noelle "Tout ne te concerne pas nécessiarement. Je m'adressais à Diya."
+    Noelle "Tout ne te concerne pas nécessairement. Je m'adressais à Diya."
 
 # game/1_diya.rpy:5836
 translate french p12_d6b9f21f:
@@ -9736,7 +9742,7 @@ translate french p12_d6b9f21f:
 translate french p12_7e42c97f:
 
     # Akarsha "What? But there's nothing wrong with her."
-    Akarsha "Quoi ? Mais y a rien qui cloche avec elle."
+    Akarsha "Quoi ? Mais y'a rien qui cloche avec elle."
 
 # game/1_diya.rpy:5841
 translate french p12_c6006890:
@@ -9754,7 +9760,7 @@ translate french p12_bc0bbf0f:
 translate french p12_c8983991:
 
     # Akarsha "Are you devastated about tiger sharks again?"
-    Akarsha "Es-tu encore dévastée par les requins-tigres ?"
+    Akarsha "T'es encore dévastée par les requins-tigres ?"
 
 # game/1_diya.rpy:5849
 translate french p12_9d73f57c:
@@ -9766,7 +9772,7 @@ translate french p12_9d73f57c:
 translate french p12_182fd7a4:
 
     # Akarsha "Diya found a picture of what tiger sharks look like the other day and was so disappointed that she had to go lie down."
-    Akarsha "Diya a trouvé une photo montrant à quoi ressemblent les requins-tigres, et elle était tellement déçue qu'elle a dû aller s'allonger."
+    Akarsha "Diya a trouvé une photo qui montrait à quoi ressemblent les requins-tigres, et elle était tellement déçue qu'elle a dû aller s'allonger."
 
 # game/1_diya.rpy:5852
 translate french p12_7516a31e:
@@ -9778,7 +9784,7 @@ translate french p12_7516a31e:
 translate french p12_9035bd6e:
 
     # Noelle "Okay, I seriously doubt that's the issue right now."
-    Noelle "D'ac, mais je pense sérieusement que c'est pas le sujet maintenant."
+    Noelle "D'accord, mais je pense sérieusement que c'est pas le sujet maintenant."
 
 # game/1_diya.rpy:5856
 translate french p12_a865308a:
@@ -9790,7 +9796,7 @@ translate french p12_a865308a:
 translate french p12_abcbba69:
 
     # Noelle "You are secretly worried about something and you can tell me what it is."
-    Noelle "Quelque chose te tracasse secrètement, et tu peux me dire ce que c'est."
+    Noelle "Quelque chose te tracasse secrètement, tu peux me dire ce que c'est."
 
 # game/1_diya.rpy:5859
 translate french p12_aba95152:
@@ -9838,7 +9844,7 @@ translate french p12_ace3d796:
 translate french p12_2fe04326:
 
     # Noelle "Let me know if you change your mind."
-    Noelle "Tiens moi au jus, si tu changes d'avis."
+    Noelle "Tu peux me le dire quand tu veux, si tu changes d'avis."
 
 # game/1_diya.rpy:5873
 translate french p12_7d7b582b:
@@ -9850,7 +9856,7 @@ translate french p12_7d7b582b:
 translate french baseballPoster_fc8f1b53:
 
     # "The flier says:\nJoin the new Baseball CLub!!\nBeginners welcome!"
-    "Le tract dit:\nRejoignez le nouveau CLub de baseball !!\nNouveaux bienvenus !"
+    "Le tract dit:\nRejoignez le nouveau club de baseball !!\nDébutants bienvenus !"
 
 # game/1_diya.rpy:5902
 translate french baseballPoster_ee717027:
@@ -9880,13 +9886,13 @@ translate french baseballPoster_aaa74c73:
 translate french baseballPoster_947626aa:
 
     # Noelle "What? Don't girls play baseball, too?"
-    Noelle "Quoi ? Les filles jouent également au baseball non ?"
+    Noelle "Quoi ? Les filles jouent aussi au baseball, non ?"
 
 # game/1_diya.rpy:5910
 translate french baseballPoster_87ffad62:
 
     # Noelle "I saw on TV before."
-    Noelle "Je l'ai déjà vu à la TV."
+    Noelle "J'ai déjà vu ça à la télévision."
 
 # game/1_diya.rpy:5912
 translate french baseballPoster_1817137a:
@@ -9904,7 +9910,7 @@ translate french baseballPoster_0a3fc702:
 translate french baseballPoster_3d74bdec:
 
     # Diya "Softball is like baseball put through Google Translate and back."
-    Diya "Le softball c'est du baseball genre copier-coller dans Google Traduction."
+    Diya "Le softball c'est du baseball genre copié-collé dans Google Traduction."
 
 # game/1_diya.rpy:5918
 translate french baseballPoster_21288965:
@@ -9916,19 +9922,19 @@ translate french baseballPoster_21288965:
 translate french baseballPoster_be1213b3:
 
     # "Diya takes a closer look at the flyer. The first meeting is this Friday."
-    "Diya, jette un oeil sur le tract. La première réunion est ce vendredi."
+    "Diya jette un oeil sur le tract. La première réunion est ce vendredi."
 
 # game/1_diya.rpy:5935
 translate french baseballPoster_037e9c62:
 
     # DiyaT "It'll be scary going all by myself. But I made a promise, back then."
-    DiyaT "Ça va être effrayant d'y aller seule. Mais j'ai une promesse à l'époque."
+    DiyaT "Ça va être effrayant d'y aller seule. Mais j'ai fait une promesse à l'époque."
 
 # game/1_diya.rpy:5936
 translate french baseballPoster_068c10c1:
 
     # DiyaT "She would've been disappointed if I didn't go."
-    DiyaT "Elle serait déçue si je n'y allais pas."
+    DiyaT "Elle serait déçue si j'y allais pas."
 
 # game/1_diya.rpy:5972
 translate french meeting_a3332323:
@@ -10012,7 +10018,7 @@ translate french meeting_a901441c:
 translate french meeting_b132449c:
 
     # Noelle "We don't need an \"idea man\"!" with sshake
-    Noelle "On a pas besoin d'une \"boîte à idée\"!" with sshake
+    Noelle "On a pas besoin d'une \"boîte à idée\" !" with sshake
 
 # game/1_diya.rpy:5999
 translate french meeting_7454f36f:
@@ -10102,7 +10108,7 @@ translate french meeting_2baabaed:
 translate french meeting_fd1b1dae:
 
     # "Diya plays dead!"
-    "Diya, fais la morte !"
+    "Diya fais la morte !"
 
 # game/1_diya.rpy:6036
 translate french meeting_33540582:
@@ -10114,7 +10120,7 @@ translate french meeting_33540582:
 translate french meeting_cd2bfa48:
 
     # Chryssa "Hey! You guys are here to join the baseball club, right?"
-    Chryssa "Hé ! Les meufs, vous êtes là pour rejoindre le club de baseball non ?"
+    Chryssa "Hé ! Les filles, vous êtes là pour rejoindre le club de baseball non ?"
 
 # game/1_diya.rpy:6039
 translate french meeting_ee09d922:
@@ -10132,7 +10138,7 @@ translate french meeting_f85388e2:
 translate french meeting_a52dc39d:
 
     # Noelle "NO, THEY DON'T."
-    Noelle "NON, ON NE FAIT PAS CA."
+    Noelle "NON, PERSONNE NE T'APPELLE COMME CA."
 
 # game/1_diya.rpy:6042
 translate french meeting_60efabb4:
@@ -10144,7 +10150,7 @@ translate french meeting_60efabb4:
 translate french meeting_67b71820:
 
     # Noelle "IT'S NOT Welsh."
-    Noelle "C'EST PAS gallois."
+    Noelle "C'EST PAS Gallois."
 
 # game/1_diya.rpy:6044
 translate french meeting_2e0cad5e:
@@ -10162,13 +10168,13 @@ translate french meeting_c4044482:
 translate french meeting_8a9e6ff2:
 
     # Noelle "And this is Diya. Get up!"
-    Noelle "Et elle, c'est Diya. Lève toi !"
+    Noelle "Et elle, c'est Diya. Lève-toi !"
 
 # game/1_diya.rpy:6047
 translate french meeting_6d2926c0:
 
     # "Noelle is trying to pull an unresponsive Diya back into upright position."
-    "Noelle essaye de relever Diya toujours inerte."
+    "Noelle essaye de relever Diya, toujours inerte."
 
 # game/1_diya.rpy:6048
 translate french meeting_4c2c4af2:
@@ -10210,7 +10216,7 @@ translate french meeting_5f298bba:
 translate french meeting_6f37946c:
 
     # Chryssa "Quiet kid, huh?"
-    Chryssa "Une gosse timide, hein ?"
+    Chryssa "Du genre timide, hein ?"
 
 # game/1_diya.rpy:6059
 translate french meeting_12f874f0:
@@ -10240,7 +10246,7 @@ translate french meeting_8fd938a5:
 translate french meeting_3c351929:
 
     # "Calmly, Diya catches Akarsha's wrist and twists it behind her back."
-    "Doucement, Diya attrape le poignet d'Akarsha et le retourne vers son dos."
+    "Calmement, Diya attrape le poignet d'Akarsha et lui tord dans le dos."
 
 # game/1_diya.rpy:6068
 translate french meeting_af16c262:
@@ -10258,7 +10264,7 @@ translate french meeting_500180ab:
 translate french meeting_d4fc85ef:
 
     # Chryssa "That's great! What position did she play?"
-    Chryssa "C'est super ! Quel rôle avait-elle ?"
+    Chryssa "C'est super ! Quel rôle elle avait ?"
 
 # game/1_diya.rpy:6074
 translate french meeting_7dab632f:
@@ -10276,7 +10282,7 @@ translate french meeting_ed44ed3f:
 translate french meeting_1d982fe4:
 
     # Diya "You mean the batter's box. I'm a catcher."
-    Diya "Tu veux dire la boîte du frappeur. Je suis un receveur."
+    Diya "Tu veux dire la boîte du frappeur. Je suis receveur."
 
 # game/1_diya.rpy:6081
 translate french meeting_bef4982a:
@@ -10288,19 +10294,19 @@ translate french meeting_bef4982a:
 translate french meeting_c88d9fa0:
 
     # Noelle "Shut up! How was I supposed to know?!" with sshake
-    Noelle "Ferme là ! Comment je pouvais le savoir ?" with sshake
+    Noelle "Ferme-la ! Comment je pouvais savoir ?" with sshake
 
 # game/1_diya.rpy:6085
 translate french meeting_bd99459b:
 
     # Akarsha "What do you call the bat, then? \"The baseball stick\"?"
-    Akarsha "Comment t'appelles la batte alors ?\"Le bâton de baseball\"?"
+    Akarsha "Comment t'appelles la batte alors ? \"Le bâton de baseball\"?"
 
 # game/1_diya.rpy:6087
 translate french meeting_5d9bf9d8:
 
     # Noelle "I said shut up!!!" with sshake
-    Noelle "J'ai dit la ferme !!!" with sshake
+    Noelle "J'ai dit ferme la !!!" with sshake
 
 # game/1_diya.rpy:6089
 translate french meeting_c25e28b5:
@@ -10318,13 +10324,13 @@ translate french meeting_6cf13394:
 translate french meeting_57e9594f:
 
     # Noelle "...That's barely 2 pounds."
-    Noelle "C'est à peine 900 grammes."
+    Noelle "...C'est à peine 600 grammes."
 
 # game/1_diya.rpy:6095
 translate french meeting_fe5c20ea:
 
     # Akarsha "It sounded better the way I said it."
-    Akarsha "Ça passait mieux quand je le disais."
+    Akarsha "Ça sonnait mieux quand j'le disais."
 
 # game/1_diya.rpy:6097
 translate french meeting_e3d63215:
@@ -10342,7 +10348,7 @@ translate french meeting_f7e880e2:
 translate french meeting_c42cd09d:
 
     # Noelle "Oh, I'm not here to join. We probably won't meet again."
-    Noelle "Oh, je ne suis pas là pour m'inscrire. On se reverra probablement pas."
+    Noelle "Oh, je suis pas là pour m'inscrire. On se reverra probablement pas."
 
 # game/1_diya.rpy:6103
 translate french meeting_3e4959d8:
@@ -10372,13 +10378,13 @@ translate french meeting_0a1d4a2d:
 translate french meeting_9ad60cfa:
 
     # Chryssa "In the meantime, you guys can get your paperwork from Liz first."
-    Chryssa "Pendant ce temps, les filles vous pouvez d'abord récupérer les papiers à remplir chez Liz."
+    Chryssa "Pendant ce temps, les filles vous pouvez d'abord récupérer les papiers à remplir auprès de Liz."
 
 # game/1_diya.rpy:6113
 translate french meeting_c5c651c6:
 
     # Akarsha "Gotcha."
-    Akarsha "J'ai."
+    Akarsha "Compris."
 
 # game/1_diya.rpy:6117
 translate french meeting_3de89f7d:
@@ -10396,7 +10402,7 @@ translate french meeting_b4359f21:
 translate french meeting_9fb3dded:
 
     # DiyaT "She seems like the kind of person who'd walk into a pizza restaurant she ate at one time 6 years ago and yell, \"Remember us??\""
-    DiyaT "Elle a l'air d'être le genre de personne à rentrer dans une pizzeria dans laquelle elle a été mangé il y a 6 ans et te sortir, \"Tu te souviens de nous ??\""
+    DiyaT "Elle a l'air d'être le genre de personne à rentrer dans une pizzeria dans laquelle elle a été manger il y a 6 ans et te sortir, \"Tu te souviens de nous ??\""
 
 # game/1_diya.rpy:6126
 translate french lookLiz_3277a389:
@@ -10450,7 +10456,7 @@ translate french lookLiz_e141e155:
 translate french lookLiz_b5f080ec:
 
     # Noelle "No, you really don't. I'm not the athletic type."
-    Noelle "Non, tu ne veux pas. Je suis pas sportive."
+    Noelle "Non, crois-moi. Je suis pas sportive."
 
 # game/1_diya.rpy:6144
 translate french lookLiz_597922ae:
@@ -10468,7 +10474,7 @@ translate french lookLiz_d7a0db2a:
 translate french lookLiz_131acd02:
 
     # Liz "We'll accept you no matter what. Whether you're good, bad, dumb, weird, unathletic..."
-    Liz "On t'accepte quoiqu'il arrive. Que tu sois bonne, mauvaise, stupide, bizarre, pas sportive..."
+    Liz "On t'accepte quoi qu'il arrive. Que tu sois bonne, mauvaise, stupide, bizarre, pas sportive..."
 
 # game/1_diya.rpy:6148
 translate french lookLiz_d05fadc2:
@@ -10516,7 +10522,7 @@ translate french lookLiz_db5b50ee:
 translate french lookLiz_fa731b85:
 
     # Noelle "I'm not getting embarrassed!" with sshake
-    Noelle "Je ne le suis pas !" with sshake
+    Noelle "Je ne suis pas du tout gênée !" with sshake
 
 # game/1_diya.rpy:6161
 translate french lookLiz_778e4b15:
@@ -10546,25 +10552,25 @@ translate french lookLiz_416546cd:
 translate french lookLiz_e29de08b:
 
     # Liz "I knew you'd come around."
-    Liz "Je savais que tu viendrais."
+    Liz "Je le savais."
 
 # game/1_diya.rpy:6170
 translate french lookLiz_31a4bcfb:
 
     # Liz "I was at one of your games when you were little."
-    Liz "J'étais à un de tes match quand tu étais petite."
+    Liz "J'étais à un de tes match quand t'étais petite."
 
 # game/1_diya.rpy:6171
 translate french lookLiz_5528cc22:
 
     # Liz "You were so scary! Everyone would back up whenever you came up to bat."
-    Liz "Tu étais si effrayante ! Tout le monde reculait à chaque fois que tu venais pour frapper à la batte."
+    Liz "T'étais si effrayante ! Tout le monde reculait à chaque fois que tu venais pour frapper à la batte."
 
 # game/1_diya.rpy:6173
 translate french lookLiz_b45b8908:
 
     # Akarsha "By the way, why is everyone in this club a girl?"
-    Akarsha "Au fait, pourquoi il n'y a que des filles dans le club ?"
+    Akarsha "Au fait, pourquoi y'a que des filles dans le club ?"
 
 # game/1_diya.rpy:6176
 translate french lookLiz_9d73f57c:
@@ -10576,7 +10582,7 @@ translate french lookLiz_9d73f57c:
 translate french lookLiz_697efb60:
 
     # DiyaT "They are?!" with sshake
-    DiyaT "Des filles ?!" with sshake
+    DiyaT "Que des filles ?!" with sshake
 
 # game/1_diya.rpy:6181
 translate french lookLiz_852b2ac0:
@@ -10612,13 +10618,13 @@ translate french lookLiz_1a6796bf:
 translate french lookLiz_4a38aa22:
 
     # Akarsha "Are you SURE you guys didn't, like, subconsciously do it?"
-    Akarsha "Vous êtes SÛRES que vous avez pas, genre, subconsciemment causé ça ?"
+    Akarsha "Vous êtes SÛRES que vous avez pas, genre, inconsciemment causé ça ?"
 
 # game/1_diya.rpy:6196
 translate french lookLiz_5046a01a:
 
     # Liz "Why would we subconsciously want a group of girls?"
-    Liz "Pourquoi on voudrait subconsciemment un groupe de filles ?"
+    Liz "Pourquoi on voudrait inconsciemment un groupe de filles ?"
 
 # game/1_diya.rpy:6198
 translate french lookLiz_fbe8b953:
@@ -10654,7 +10660,7 @@ translate french lookLiz_f5a5db3d:
 translate french lookLiz_58b10135:
 
     # Akarsha "It's not racist if it's true!"
-    Akarsha "C'est pas raciste si c'est vrai !"
+    Akarsha "C'est pas sexiste si c'est vrai !"
 
 # game/1_diya.rpy:6208
 translate french lookLiz_140b53bc:
@@ -10690,7 +10696,7 @@ translate french lookLiz_c037a764:
 translate french lookLiz_8d89b126:
 
     # Akarsha "*whispering* Dude, I just can't get over how weird her name is."
-    Akarsha "*chuchote* Meuf, j'arrive vraiment pas à me à son nom."
+    Akarsha "*chuchote* Meuf, j'en reviens vraiment pas de son nom."
 
 # game/1_diya.rpy:6221
 translate french lookLiz_59bceb03:
@@ -10738,13 +10744,13 @@ translate french lookLiz_c6f57831:
 translate french lookLiz_cf1349ac:
 
     # Akarsha "Her parents met at a Petco when the lizards went on sale, \nbut there was only one left."
-    Akarsha "Ses parents se sont rencontrés à l'animalerie quand y'avait des soldes sur les lézarts, \n mais il n'y en avait plus qu'un."
+    Akarsha "Ses parents se sont rencontrés à l'animalerie quand y'avait des soldes sur les lézarts,\nmais il n'y en avait plus qu'un."
 
 # game/1_diya.rpy:6236
 translate french lookLiz_b0f976cc:
 
     # Akarsha "So then they were like, \"Darn. We gotta get married and share it.\""
-    Akarsha "Donc ils étaient genre, \"Oh. Il faut qu'on se marrie et qu'on se le partage.\""
+    Akarsha "Donc ils étaient genre, \"Oh. Il faut qu'on se marie et qu'on se le partage.\""
 
 # game/1_diya.rpy:6238
 translate french lookLiz_f7a97d5a:
@@ -10774,7 +10780,7 @@ translate french lookLiz_f0a4cd97:
 translate french lookLiz_1efc58cf:
 
     # Akarsha "They gave their kid a name that paid homage to her lizard origins, but in a low-key way."
-    Akarsha "Ils ont donné un nom à leur enfant en hommage à ses origines de lézardesques, mais discrètement."
+    Akarsha "Ils ont donné un nom à leur enfant en hommage à ses origines reptiliennes, mais discrètement."
 
 # game/1_diya.rpy:6247
 translate french lookLiz_10bf6d36:
@@ -10792,7 +10798,7 @@ translate french lookLiz_e04b0b6e:
 translate french lookLiz_043196a0:
 
     # Noelle "Myth NOT confirmed. Her name could just be \"Liz\" by itself!" with sshake
-    Noelle "Mythe PAS confirmé. Son nom pourrait juste être \"Liz\" tout seul !" with sshake
+    Noelle "Mythe PAS confirmé. Son nom pourrait juste être \"Liz\" tout court !" with sshake
 
 # game/1_diya.rpy:6252
 translate french lookLiz_4f884c10:
@@ -10816,7 +10822,7 @@ translate french lookLiz_d92fc6e9:
 translate french lookLiz_d8e81483:
 
     # Akarsha "What kind of Frenchman are you?"
-    Akarsha "Mais quelle genre de Française es-tu ?"
+    Akarsha "Mais quelle française tu fais ?"
 
 # game/1_diya.rpy:6258
 translate french lookLiz_b61ce850:
@@ -10864,7 +10870,7 @@ translate french lookLiz_e8ae5617:
 translate french lookLiz_4404dae4:
 
     # Noelle "It's like how there's a guy in our class named Skye because his parents didn't know it's a girl name."
-    Noelle "C'est le gars dans notre classe qui s'appelle Skye parce que ses parents ne savaient pas que c'était un nom de fille."
+    Noelle "C'est comme le gars dans notre classe qui s'appelle Skye parce que ses parents ne savaient pas que c'était un nom de fille."
 
 # game/1_diya.rpy:6270
 translate french lookLiz_74d3d5bc:
@@ -10888,13 +10894,13 @@ translate french lookLiz_dcff364e:
 translate french lookLiz_a4ba363d:
 
     # Noelle "They probably didn't know a lot of Western names and just thought it sounded good."
-    Noelle "Ils ne connaissaient probablement pas beaucoup de noms occidentaux, et ils ont juste du penser que ça sonnait pas mal."
+    Noelle "Ils ne connaissaient probablement pas beaucoup de noms occidentaux, et ils ont juste dû penser que ça sonnait pas mal."
 
 # game/1_diya.rpy:6278
 translate french lookLiz_06ea44a9:
 
     # Akarsha "But still, what kind of Chinese parents would name their kid Noelle?"
-    Akarsha "Mais quand même, quelle genre de parents chinois appelleraient leur gamin Noelle ?"
+    Akarsha "Mais quand même, quel genre de parents chinois appelleraient leur gamin Noelle ?"
 
 # game/1_diya.rpy:6279
 translate french lookLiz_426876c1:
@@ -10930,19 +10936,19 @@ translate french lookLiz_a61e1ac3:
 translate french lookLiz_8c51bf78:
 
     # Diya "Also, do you ever think about how crazy it is that we're friends."
-    Diya "Aussi, tu as déjà pensé à quelle point c'était dingue qu'on soit potes ?"
+    Diya "Aussi, tu as déjà pensé à quel point c'était dingue qu'on soit potes ?"
 
 # game/1_diya.rpy:6288
 translate french lookLiz_2f55ad7b:
 
     # Diya "In any part of history up until now, we never would've met."
-    Diya "Dans toute l'histoire du monde jusqu'à aujourd'hui, on ne se serait jamais rencontrées."
+    Diya "A n'importe quel autre moment de l'histoire jusqu'à aujourd'hui, on se serait jamais rencontrées."
 
 # game/1_diya.rpy:6289
 translate french lookLiz_efccb19e:
 
     # Diya "And even if we did by some miracle, we wouldn't speak the same language."
-    Diya "Et même si par miracle c'était le cas, on ne parlerait pas la même langue."
+    Diya "Et même si par miracle c'était le cas, on parlerait pas la même langue."
 
 # game/1_diya.rpy:6290
 translate french lookLiz_9364384a:
@@ -10966,13 +10972,13 @@ translate french lookLiz_b49cb54f:
 translate french lookLiz_ead35395:
 
     # Akarsha "They don't speak Hindi in Tamil Nadu. Right, Madrasi?"
-    Akarsha "Ils ne parlent pas Hindi au Tamil Nadu. N'est-ce pas, Madrasi ?"
+    Akarsha "Ils parlent pas Hindi au Tamil Nadu. N'est-ce pas, Madrasi ?"
 
 # game/1_diya.rpy:6299
 translate french lookLiz_4ed38bca:
 
     # Diya "Don't call me that."
-    Diya "Ne m'appelle pas comme ça."
+    Diya "M'appelle pas comme ça."
 
 # game/1_diya.rpy:6302
 translate french lookLiz_81bc77f4:
@@ -10984,7 +10990,7 @@ translate french lookLiz_81bc77f4:
 translate french lookLiz_22900282:
 
     # Diya "What's wrong with calling you an idiot when you are one?"
-    Diya "Et c'est quoi le problème de t'appeler une idiote quand tu en es une ?"
+    Diya "Et c'est quoi le problème de t'appeler une idiote quand t'en es une ?"
 
 # game/1_diya.rpy:6307
 translate french lookLiz_d4240447:
@@ -11092,7 +11098,7 @@ translate french lookLiz_d9b2ab0d:
 translate french lookLiz_72686ba7:
 
     # Liz "Lite edition sounds less scrappy. Like Coke Zero."
-    Liz "Version Lite ça sonne moins fait à l'arrache. Un peu comme le Coca Zero."
+    Liz "Version Lite ça sonne moins fait à l'arrache. Un peu comme le Coca Light."
 
 # game/1_diya.rpy:6347
 translate french lookLiz_2bdbafda:
@@ -11182,7 +11188,7 @@ translate french lookLiz_460fe7af:
 translate french lookLiz_b719b257:
 
     # Chryssa "Then let's all introduce ourselves with a cheesy icebreaker activity!"
-    Chryssa "Bon, nous allons tous nous présenter avec une activité brise-glace !"
+    Chryssa "Bon, on va faire le tour des présentations avec une activité pour casser la glace !"
 
 # game/1_diya.rpy:6369
 translate french lookLiz_4b96dffa:
@@ -11194,19 +11200,19 @@ translate french lookLiz_4b96dffa:
 translate french lookLiz_be7e8e8d:
 
     # "Diya immediately wants to go home!" with sshake
-    "Diya veut immédiatement rentrer à la maison !" with sshake
+    "Diya a immédiatement envie de rentrer chez elle !" with sshake
 
 # game/1_diya.rpy:6372
 translate french lookLiz_028b819a:
 
     # DiyaT "No!!!! I hate these!!!!!"
-    DiyaT " Oh non ! Je déteste ça !!!"
+    DiyaT "Oh non !!!! Je déteste ça !!!!!"
 
 # game/1_diya.rpy:6373
 translate french lookLiz_46fa2e3a:
 
     # DiyaT "I can never think of any fun facts! I'm boring!!"
-    DiyaT "Je n'ai pas de fait amusant ! Je suis ennuyeuse !"
+    DiyaT "J'ai pas de fait amusant ! Je suis ennuyeuse !"
 
 # game/1_diya.rpy:6375
 translate french lookLiz_b52a08e8:
@@ -11224,25 +11230,25 @@ translate french lookLiz_b589fc71:
 translate french lookLiz_f6cce7c7:
 
     # Liz "I have one."
-    Liz "J'en ai un"
+    Liz "J'en ai un."
 
 # game/1_diya.rpy:6379
 translate french lookLiz_5799c897:
 
     # Liz "She reads cryptid articles at night and scares herself, and then is afraid to get up and use the bathroom."
-    Liz "Elle lit des articles sur le paranormal la nuit et se fait peur elle même, puis elle a peur de se lever et d'aller aux toilettes."
+    Liz "Elle lit des articles sur le paranormal la nuit et se fait peur toute seule, puis elle flippe de se lever et d'aller aux toilettes."
 
 # game/1_diya.rpy:6381
 translate french lookLiz_f8dcd46e:
 
     # Chryssa "If you're going to choose a fact for me, at least choose a flattering one!" with sshake
-    Chryssa "Si tu dois choisir un fait pour moi, choisis-en au moins un flatteur !" with sshake
+    Chryssa "Si tu dois choisir un fait pour moi, au moins choisis-en un flatteur !" with sshake
 
 # game/1_diya.rpy:6383
 translate french lookLiz_353d756f:
 
     # Liz "My turn now! I'm Liz, and I'm a senior too."
-    Liz "À mon tour maintenant ! Je m'appelle Liz et je suis en terminale aussi."
+    Liz "À mon tour maintenant ! Je m'appelle Liz et j'suis en terminale aussi."
 
 # game/1_diya.rpy:6385
 translate french lookLiz_86cd3902:
@@ -11266,7 +11272,7 @@ translate french lookLiz_1c3038ba:
 translate french lookLiz_b0b79658:
 
     # "Liz does it."
-    "Liz fais-le."
+    "Liz le fait."
 
 # game/1_diya.rpy:6394
 translate french lookLiz_362882ab:
@@ -11278,13 +11284,13 @@ translate french lookLiz_362882ab:
 translate french lookLiz_ee691819:
 
     # DiyaT "What is she, a clown??"
-    DiyaT "Elle est quoi, un clown ??"
+    DiyaT "C'est quoi, un clown ??"
 
 # game/1_diya.rpy:6398
 translate french lookLiz_b94c50dc:
 
     # "Diya has gone back to being afraid of Liz again!"
-    "Diya a recommencé à avoir peur de Liz !"
+    "Diya recommence à avoir peur de Liz !"
 
 # game/1_diya.rpy:6399
 translate french lookLiz_2bc53ff4:
@@ -11308,37 +11314,37 @@ translate french lookLiz_a19c6ed2:
 translate french lookLiz_fee6d6cb:
 
     # Chryssa "THERE'S NO WAY THOSE ARE YOUR REAL NAMES." with sshake
-    Chryssa "IL N'Y A AUCUNE CHANCE QUE CE SOIT VOS VRAIS NOMS." with sshake
+    Chryssa "Y'A AUCUNE CHANCE QUE CE SOIT VOS VRAIS NOMS." with sshake
 
 # game/1_diya.rpy:6411
 translate french lookLiz_7d7ce7c8:
 
     # Liz "Hey, it doesn't hurt to humor them! Support their interests!"
-    Liz "Hé, L'humour ne fait pas de mal ! Soutenez leurs intérêts !"
+    Liz "Hé, ça ne va pas te tuer d'entrer dans leur jeu ! Soutiens leurs centres d'intérêts !"
 
 # game/1_diya.rpy:6413
 translate french lookLiz_fc8ffda8:
 
     # Sumi "Watashi wa am in 10th grade."
-    Sumi "Watashi wa suis en seconde"
+    Sumi "Watashi wa suis en seconde."
 
 # game/1_diya.rpy:6415
 translate french lookLiz_c36506d3:
 
     # Grace "Watashi wa am in 10th grade too."
-    Grace "Watashi wa suis en seconde aussi"
+    Grace "Watashi wa suis en seconde aussi."
 
 # game/1_diya.rpy:6417
 translate french lookLiz_d3b281ca:
 
     # Chryssa "STOP TALKING LIKE THAT."
-    Chryssa "ARRÊTEZ DE PARLER COMME ÇA"
+    Chryssa "ARRÊTEZ DE PARLER COMME ÇA."
 
 # game/1_diya.rpy:6419
 translate french lookLiz_396ed76f:
 
     # Akarsha "I'VE FOUND MY PEOPLE..."
-    Akarsha "J'AI TROUVÉ MON PEUPLE"
+    Akarsha "J'AI TROUVÉ MON PEUPLE..."
 
 # game/1_diya.rpy:6421
 translate french lookLiz_12139063:
@@ -11356,19 +11362,19 @@ translate french lookLiz_fd6de762:
 translate french lookLiz_79ba8fcb:
 
     # Chryssa "Wait. Why are you here??"
-    Chryssa "Attends. Pourquoi es-tu là ?"
+    Chryssa "Attends. Pourquoi t'es là ??"
 
 # game/1_diya.rpy:6428
 translate french lookLiz_24ce074d:
 
     # Chryssa "I tried to recruit you before. You said you weren't interested in baseball."
-    Chryssa "J'ai essayé de te recruter avant. Tu as dit que tu n'étais pas intéressé par le baseball."
+    Chryssa "J'ai essayé de te recruter avant. Tas dit que t'étais pas intéressée par le baseball."
 
 # game/1_diya.rpy:6430
 translate french lookLiz_9e2765c4:
 
     # Ester "I'll give it a chance."
-    Ester "Je vais lui donner une chance"
+    Ester "J'ai envie d'y donner une chance."
 
 # game/1_diya.rpy:6432
 translate french lookLiz_c0f465be:
@@ -11380,7 +11386,7 @@ translate french lookLiz_c0f465be:
 translate french lookLiz_9393edc6:
 
     # Ester "What? I never said it was because of —"
-    Ester "Quoi ? Je n'ai jamais dit que c'était à cause de —"
+    Ester "Quoi ? J'ai jamais dit que c'était à cause de —"
 
 # game/1_diya.rpy:6436
 translate french lookLiz_e9bb5b0b:
@@ -11392,7 +11398,7 @@ translate french lookLiz_e9bb5b0b:
 translate french lookLiz_3ca1f730:
 
     # Sumi "It's Oofuri."
-    Sumi "C'est Oofuri"
+    Sumi "C'est Oofuri."
 
 # game/1_diya.rpy:6440
 translate french lookLiz_39d2f6e3:
@@ -11410,7 +11416,7 @@ translate french lookLiz_d78a7abe:
 translate french lookLiz_06ad80a3:
 
     # Grace "Heck no."
-    Grace "Ça non"
+    Grace "Ça non."
 
 # game/1_diya.rpy:6446
 translate french lookLiz_05017b48:
@@ -11434,37 +11440,37 @@ translate french lookLiz_af831f3f:
 translate french lookLiz_33486cc4:
 
     # Sumi "What, is it a crime to like anime?"
-    Sumi "Bah quoi, c'est un crime d'aimer un anime ?"
+    Sumi "Bah quoi, c'est un crime d'aimer les anime ?"
 
 # game/1_diya.rpy:6454
 translate french lookLiz_97a7b20d:
 
     # Chryssa "Yes."
-    Chryssa "Oui"
+    Chryssa "Oui."
 
 # game/1_diya.rpy:6456
 translate french lookLiz_fc687516:
 
     # Liz "Okay, let's move on."
-    Liz "Ok, passons à autre chose."
+    Liz "Ok, passons à la suite."
 
 # game/1_diya.rpy:6458
 translate french lookLiz_43032dd4:
 
     # "Diya watches the icebreaker's progress with mounting terror."
-    "Diya regarde la progression de l'activité avec une terreur croissante."
+    "Diya regarde la progression du tour de parole avec une terreur croissante."
 
 # game/1_diya.rpy:6459
 translate french lookLiz_a4986493:
 
     # "Her palms have grown clammy, like when she's getting ready to say \"Here\" during roll call."
-    "Ses paumes sont devenues moites, comme lorsqu'elle se prépare à dire \"ici\" pendant l'appel."
+    "Ses paumes sont devenues moites, comme lorsqu'elle se prépare à dire \"présente\" pendant l'appel."
 
 # game/1_diya.rpy:6463
 translate french lookLiz_bedcb684:
 
     # DiyaT "Crap. It's almost my turn and I still can't think of any cool facts."
-    DiyaT "Merde. C'est presque mon tour et je n'arrive toujours pas à penser à des choses cool."
+    DiyaT "Merde. C'est presque mon tour et j'arrive toujours pas à penser à des trucs cool."
 
 # game/1_diya.rpy:6464
 translate french lookLiz_742516e5:
@@ -11476,37 +11482,38 @@ translate french lookLiz_742516e5:
 translate french lookLiz_4c94b3ea:
 
     # DiyaT "\"When I go to people's houses, {w=0.35}I'm too scared to ask where the cups are, {w=0.35}so I go to the bathroom and drink from the faucet instead?\""
-    DiyaT "\"Quand je vais chez des gens, {w=0.35}J'ai trop peur de demander où sont les tasses, {w=0.35}alors je vais aux toilettes et je bois au robinet à la place ?\""
+    DiyaT "\"Quand je vais chez des gens, {w=0.35}J'ai trop peur de demander où sont les verres, {w=0.35}alors je vais aux toilettes et je bois au robinet à la place ?\""
 
 # game/1_diya.rpy:6466
 translate french lookLiz_c8357003:
 
     # DiyaT "\"Whenever an assembly is over and we're supposed to help carry the folding chairs back,{w=0.35} I secretly hope people notice how many I'm holding?\""
-    DiyaT "\"Quand une assemblée est terminée et qu'on doit aider à porter les chaises pliantes,{w=0.35} J'espère secrètement que les gens remarqueront combien j'en ai en main ?\""
+    DiyaT "\"Quand une assemblée est terminée et qu'on doit aider à porter les chaises pliantes,{w=0.35} j'espère secrètement que les gens remarqueront combien j'en ai en main ?\""
 
 # game/1_diya.rpy:6469
 translate french lookLiz_3453ae47:
 
     # DiyaT "These are all so bad!{w=0.35} What the???" with sshake
-    DiyaT "Ils sont tous si mauvais !{w=0.35} Qu'est-ce que c'est ???" with sshake
+    DiyaT "C'est nul tout ça !{w=0.35} Qu'est-ce que ???" with sshake
 
 # game/1_diya.rpy:6471
 translate french lookLiz_b1d65c31:
 
     # "By now, three other people have gone.{w=0.35} It's Akarsha's turn..."
-    "A présent, trois autres personnes sont parties.{w=0.35} C'est le tour d'Akarsha"
+    "A présent, trois autres personnes sont déjà passées.{w=0.35} C'est le tour d'Akarsha..."
 
 # game/1_diya.rpy:6473
 translate french lookLiz_8700c805:
 
     # Akarsha "What up ding dongs!{w=0.35} I'm a freshman."
-    Akarsha "Quoi de neuf les idiots !{w=0.35} Je suis en seconde."
+    Akarsha "Quoi de neuf les dindes !{w=0.35} Je suis en seconde."
+
 
 # game/1_diya.rpy:6475
 translate french lookLiz_c2e44dce:
 
     # DiyaT "Ding dongs..."
-    DiyaT "Les idiots..."
+    DiyaT "Les dindes..."
 
 # game/1_diya.rpy:6478
 translate french lookLiz_f436b8fd:
@@ -11524,19 +11531,19 @@ translate french lookLiz_6a61dc07:
 translate french lookLiz_60329ec7:
 
     # Akarsha "Fun fact:{w=0.35} I once found 2 mutant tater tots that were fused together and sold them on eBay for $40."
-    Akarsha "Fait amusant:{w=0.35} Une fois, j'ai trouvé deux croquettes de patates frites mutantes qui avaient fusionné ensemble et je les ai vendus sur eBay pour 40 $."
+    Akarsha "Fait amusant :{w=0.35} Une fois, j'ai trouvé deux croquettes de patates frites mutantes qui avaient fusionnées ensemble et je les ai vendues sur eBay pour 40 dollars."
 
 # game/1_diya.rpy:6485
 translate french lookLiz_fa11c619:
 
     # DiyaT "Selling things sounds stressful. "
-    DiyaT "Vendre des choses semble stressant."
+    DiyaT "Vendre des trucs ça doit stressant."
 
 # game/1_diya.rpy:6486
 translate french lookLiz_455e6115:
 
     # DiyaT "I would've just eaten them."
-    DiyaT "Je les aurais juste mangés."
+    DiyaT "Je les aurais juste mangées."
 
 # game/1_diya.rpy:6490
 translate french lookLiz_dc306524:
@@ -11548,43 +11555,43 @@ translate french lookLiz_dc306524:
 translate french lookLiz_fee9d0bc:
 
     # Noelle "Skip me.{w=0.35} I'm not here to join."
-    Noelle "Sautez-moi.{w=0.35} Je ne suis pas ici pour rejoindre."
+    Noelle "Je passe mon tour.{w=0.35} Je suis pas ici pour rejoindre le club."
 
 # game/1_diya.rpy:6493
 translate french lookLiz_124d0d1a:
 
     # Liz "Let's move on to Diya, shall we?"
-    Liz "Passons à Diya, d'accord ?"
+    Liz "Passons à Diya, alors ?"
 
 # game/1_diya.rpy:6497
 translate french lookLiz_3100eac7:
 
     # "All eyes are on Diya now..."
-    "Tous les regards sont sur Diya maintenant"
+    "Tous les regards sont sur Diya maintenant."
 
 # game/1_diya.rpy:6500
 translate french lookLiz_678341dd:
 
     # DiyaT "Okay!!!{w=0.35} Calm down, me!!"
-    DiyaT "Ok !!!{w=0.35} Calme toi !!"
+    DiyaT "Ok !!!{w=0.35} Il faut que je me calme !!"
 
 # game/1_diya.rpy:6501
 translate french lookLiz_8d8078bf:
 
     # DiyaT "All I have to do is say \"I'm Diya.\""
-    DiyaT "Tout ce que j'ai à dire c'est \"Je m'appelle Diya.\""
+    DiyaT "Tout ce que je dois dire c'est \"Je m'appelle Diya.\""
 
 # game/1_diya.rpy:6502
 translate french lookLiz_84efe97e:
 
     # DiyaT "But wait...{w=0.35} Didn't she just say my name?"
-    DiyaT "Mais attends...{w=0.35} Ne vient-elle pas de dire mon nom ?"
+    DiyaT "Mais attends...{w=0.35} Elle vient pas de dire mon nom ?"
 
 # game/1_diya.rpy:6503
 translate french lookLiz_2b0d6083:
 
     # DiyaT "Does it seem redundant if I repeat it?"
-    DiyaT "Est-ce que c'est redondant si je le répète ?"
+    DiyaT "Ca va pas être redondant si je le répète ?"
 
 # game/1_diya.rpy:6504
 translate french lookLiz_13fc9ac2:
@@ -11596,7 +11603,7 @@ translate french lookLiz_13fc9ac2:
 translate french lookLiz_cafd7987:
 
     # Diya "I'm Diya."
-    Diya "Je m'appelle Diya"
+    Diya "Je m'appelle Diya."
 
 # game/1_diya.rpy:6507
 translate french lookLiz_1e71e128:
@@ -11614,7 +11621,7 @@ translate french lookLiz_136db9e2:
 translate french lookLiz_1a46163f:
 
     # DiyaT "What else was I supposed to say?"
-    DiyaT "Qu'est-ce que j'étais censé dire d'autre ?"
+    DiyaT "Qu'est-ce que j'étais censée dire d'autre ?"
 
 # game/1_diya.rpy:6513
 translate french lookLiz_a6dd75ae:
@@ -11644,7 +11651,7 @@ translate french lookLiz_0cffc41f:
 translate french lookLiz_613f52a5:
 
     # DiyaT "I shouldn't have come here!"
-    DiyaT "Je n'aurais pas dû venir ici !"
+    DiyaT "J'aurais pas dû venir ici !"
 
 # game/1_diya.rpy:6526
 translate french lookLiz_065b40ff:
@@ -11668,7 +11675,7 @@ translate french lookLiz_940cd670:
 translate french lookLiz_7458a4c9:
 
     # DiyaT "I can't go back now!"
-    DiyaT "Je ne peux pas revenir en arrière maintenant !"
+    DiyaT "Je peux pas revenir en arrière maintenant !"
 
 # game/1_diya.rpy:6540
 translate french lookLiz_a25570f5:
@@ -11710,7 +11717,7 @@ translate french ch6_3db231f0:
 translate french ch6_12d37f75:
 
     # "Someone is lying on top of her. They roughly grab the front of Diya's shirt." with sshake
-    "Quelqu'un est tombée sur elle. La personne attrape le col du T-Shirt de Diya." with sshake
+    "Quelqu'un est tombé sur elle. La personne attrape le col du T-Shirt de Diya." with sshake
 
 # game/1_diya.rpy:6610
 translate french ch6_d7c2b5e2:
@@ -11728,7 +11735,7 @@ translate french ch6_29350c31:
 translate french ch6_1b571753:
 
     # Min "DIYA!!!!!!!!!!!!!" with sshake
-    Min "DIYA!!!!!!!!!!!!!" with sshake
+    Min "DIYA !!!!!!!!!!!!!" with sshake
 
 # game/1_diya.rpy:6619
 translate french ch6_49d86705:
@@ -11758,13 +11765,13 @@ translate french ch6_4efdccae:
 translate french ch6_e30d3ca6:
 
     # Min "I promised I'd come back, didn't I?"
-    Min "J'avais promis que j'reviendrais, non ?"
+    Min "J'avais promis que j'reviendrai, non ?"
 
 # game/1_diya.rpy:6634
 translate french ch6_a8d26bbd:
 
     # Min "I'm never letting go of you again!!"
-    Min "Je te laisserais plus jamais !!"
+    Min "Je te laisserai plus jamais !!"
 
 # game/1_diya.rpy:6637
 translate french ch6_fd841d5d:
@@ -11788,7 +11795,7 @@ translate french ch6_73c5644b:
 translate french ch6_f9c52a81:
 
     # DiyaT "I'M GAY. I'M GAY. I'M GAY!" with sshake
-    DiyaT "CHUIS GAY. CHUIS GAY. CHUIS GAY!" with sshake
+    DiyaT "CHUIS GAY. CHUIS GAY. CHUIS GAY !" with sshake
 
 # game/1_diya.rpy:6647
 translate french ch6_3d47b55c:
@@ -11812,7 +11819,7 @@ translate french ch6_15f7d262:
 translate french ch6_6bfa0dee:
 
     # Diya "I can see other people's hair on it."
-    Diya "Je peux voir des cheveux d'autres gens par terre."
+    Diya "J'peux voir des cheveux d'autres gens par terre."
 
 # game/1_diya.rpy:6655
 translate french ch6_d1f71aec:
@@ -11824,7 +11831,7 @@ translate french ch6_d1f71aec:
 translate french ch6_b619d44f:
 
     # "Min gets off and looks Diya up and down as she staggers to her feet."
-    "Min se dégage et dévisage Diya de haut en bas, tandis qu'elle se relève."
+    "Min se dégage et observe Diya de haut en bas, tandis qu'elle se relève."
 
 # game/1_diya.rpy:6664
 translate french ch6_6b8a87ba:
@@ -11878,7 +11885,7 @@ translate french ch6_a7559a31:
 translate french ch6_04042a24:
 
     # Diya "You really never give up, do you."
-    Diya "Tu n'abandonnes vraiment jamais, hein."
+    Diya "T'abandonnes vraiment jamais, hein."
 
 # game/1_diya.rpy:6684
 translate french ch6_c17bbc8d:
@@ -11932,7 +11939,7 @@ translate french ch6_8ac430a0:
 translate french ch6_22785308:
 
     # "Min pulls a knife out!!" with sshake
-    "Min sort le couteau !!" with sshake
+    "Min sort un couteau !!" with sshake
 
 # game/1_diya.rpy:6700
 translate french ch6_bcb332bb:
@@ -11950,25 +11957,25 @@ translate french ch6_9dd77b60:
 translate french ch6_07880bf4:
 
     # DiyaT "Whoa!! Min is so brave!!" with sshake
-    DiyaT "Whoa !! Min est tellement courageuse !!" with sshake
+    DiyaT "Whoa !! Min est tellement une rebelle !!" with sshake
 
 # game/1_diya.rpy:6705
 translate french ch6_08d1b0de:
 
     # Diya "I missed you."
-    Diya "Tu m'as manquée."
+    Diya "Tu m'as manqué."
 
 # game/1_diya.rpy:6708
 translate french ch6_8587efd8:
 
     # Min "I missed you too!"
-    Min "Tu m'as aussi manquée !"
+    Min "Toi aussi tu m'as manqué !"
 
 # game/1_diya.rpy:6710
 translate french ch6_3a2190bc:
 
     # Diya "{font=korean.ttf}사랑해.{/font}"
-    Diya "{font=korean.ttf}사랑해.{/font}"
+    Diya "{font=korean.ttf}사랑해.{/font} (salanghae.)"
 
 # game/1_diya.rpy:6713
 translate french ch6_f8a1f174:
@@ -11980,13 +11987,13 @@ translate french ch6_f8a1f174:
 translate french ch6_1410df94:
 
     # Min "{font=tamil.ttf}வணக்க0!{/font}"
-    Min "{font=tamil.ttf}வணக்க0!{/font}"
+    Min "{font=tamil.ttf}வணக்க!{/font} (Vaṇakka !)"
 
 # game/1_diya.rpy:6723
 translate french ch6_0f158bd8:
 
     # Min "{font=tamil.ttf}நான் குசு விரும்புகிறேன்!{/font}" with sshake
-    Min "{font=tamil.ttf}நான் குசு விரும்புகிறேன்!{/font}" with sshake
+    Min "{font=tamil.ttf}நான் குசு விரும்புகிறேன்!{/font} (Nāṉ kucu virumpukiṟēṉ !)" with sshake
 
 # game/1_diya.rpy:6727
 translate french ch6_1d74dd58:
@@ -11998,13 +12005,13 @@ translate french ch6_1d74dd58:
 translate french ch6_0d0ba9bc:
 
     # "Someone runs into the locker room! She's wheezing so hard for breath that Diya knows who it is before looking."
-    "Quelqu'un déboule dans les vestiaires ! Elle est tellement essouflée que Diya devinne qui c'ést avant même de regarder."
+    "Quelqu'un déboule dans les vestiaires ! Elle est tellement essouflée que Diya devine qui c'est avant même de regarder."
 
 # game/1_diya.rpy:6735
 translate french ch6_dd19a1d7:
 
     # Noelle "Diya, there you are!"
-    Noelle "Diya, enfin te voilà !"
+    Noelle "Diya, te voilà enfin !"
 
 # game/1_diya.rpy:6736
 translate french ch6_e10dbf75:
@@ -12034,7 +12041,7 @@ translate french ch6_c47e75c1:
 translate french ch6_1bf0db02:
 
     # Noelle "How...you...Why are you here?"
-    Noelle "Comment... toi... Pourquoi es-tu là ?"
+    Noelle "Comment... toi... Pourquoi t'es là ?"
 
 # game/1_diya.rpy:6756
 translate french ch6_a8f727c5:
@@ -12046,7 +12053,7 @@ translate french ch6_a8f727c5:
 translate french ch6_62cc2d27:
 
     # Min "I can't believe Diya still lets a weakling like you hang out with her."
-    Min "Je n'arrive pas à croire que Diya continue de laisser une faiblarde comme toi être pote avec elle."
+    Min "J'arrive pas à croire que Diya continue de laisser une faiblarde comme toi être pote avec elle."
 
 # game/1_diya.rpy:6759
 translate french ch6_f8cb2958:
@@ -12064,7 +12071,7 @@ translate french ch6_44520b2a:
 translate french ch6_35842676:
 
     # Noelle "Why do you have a knife?!" with sshake
-    Noelle "Pourquoi as-tu un couteau ?!" with sshake
+    Noelle "Pourquoi t'as un couteau ?!" with sshake
 
 # game/1_diya.rpy:6763
 translate french ch6_4739d9f6:
@@ -12136,7 +12143,7 @@ translate french ch6_7fecfdaf:
 translate french ch6_96d9be67:
 
     # Min "Fuck you."
-    Min "Va te faire foutre."
+    Min "Va t'faire foutre."
 
 # game/1_diya.rpy:6789
 translate french ch6_3accfbda:
@@ -12148,7 +12155,7 @@ translate french ch6_3accfbda:
 translate french ch6_bc0c28f8:
 
     # "The dramatic effect is slightly ruined by the fact that Min has to step on top of a storage bin to be taller."
-    "L'effet dramatique est légèrement ruiné par le fait que Min doit s'appuyer sur le haut du bac de stockage pour être assez grande."
+    "L'effet dramatique est légèrement ruiné par le fait que Min doit monter sur une caisse pour être assez grande."
 
 # game/1_diya.rpy:6792
 translate french ch6_7938ba3e:
@@ -12160,7 +12167,7 @@ translate french ch6_7938ba3e:
 translate french ch6_41388c42:
 
     # Noelle "Why?! I didn't even do anything!" with sshake
-    Noelle "Mais pourquoi ?! Je rien fait !" with sshake
+    Noelle "Mais pourquoi ?! J'ai rien fait !" with sshake
 
 # game/1_diya.rpy:6797
 translate french ch6_07d32b7c:
@@ -12172,7 +12179,7 @@ translate french ch6_07d32b7c:
 translate french ch6_0c882154:
 
     # Min "I won't lose to you!!!"
-    Min "Je ne perdrai pas face à toi !!!"
+    Min "Je perdrai pas face à toi !!!"
 
 # game/1_diya.rpy:6800
 translate french ch6_aaf5e5d8:
@@ -12184,13 +12191,13 @@ translate french ch6_aaf5e5d8:
 translate french ch6_c3e0678f:
 
     # Min "Someday, Diya is gonna realize she's out of your league."
-    Min "Un jour, Diya se rendra compte qu'elle ne joue plus dans la même cour que toi."
+    Min "Un jour, Diya se rendra compte qu'elle joue plus dans la même cour que toi."
 
 # game/1_diya.rpy:6806
 translate french ch6_2f64e7d9:
 
     # Min "You're not even taller than her anymore, so all your advantages are gone."
-    Min "Tu n'est même plus plus grande qu'elle, donc tous tes atouts ont disparu."
+    Min "T'es même plus plus grande qu'elle, donc tous tes atouts ont disparu."
 
 # game/1_diya.rpy:6808
 translate french ch6_9e522920:
@@ -12202,13 +12209,13 @@ translate french ch6_9e522920:
 translate french ch6_2ff10b86:
 
     # Min "When she doesn't like you anymore, I'll gut you and feed you to her dog."
-    Min "Et quand elle ne t'aimera plus, je t'éventrerai et te donnerai à son chien."
+    Min "Et quand elle t'aimera plus, je t'éventrerai et te donnerai à son chien."
 
 # game/1_diya.rpy:6813
 translate french ch6_f339f08f:
 
     # Noelle "She doesn't even have a dog."
-    Noelle "Elle n'a même pas de chien."
+    Noelle "Elle a même pas de chien."
 
 # game/1_diya.rpy:6816
 translate french ch6_2c0b51a4:
@@ -12274,7 +12281,7 @@ translate french ch6_f84e07c2:
 translate french ch6_24e137cf:
 
     # Akarsha "Who the fuck are {i}you{/i}?"
-    Akarsha "T'es {i}qui{/i} bordel ?"
+    Akarsha "{i}Toi{/i} t'es qui bordel ?"
 
 # game/1_diya.rpy:6840
 translate french ch6_3da59d15:
@@ -12286,7 +12293,7 @@ translate french ch6_3da59d15:
 translate french ch6_40ece0dc:
 
     # Akarsha "Wao!! Almost cut myself on this EDGE!!!"
-    Akarsha "Waouh !! Failli me couper sur ce ton tranchant !!!"
+    Akarsha "Waouh !! J'ai failli me couper sur ce ton TRANCHANT !!!"
 
 # game/1_diya.rpy:6856
 translate french ch6_2f511966:
@@ -12298,7 +12305,7 @@ translate french ch6_2f511966:
 translate french ch6_c188c3ae:
 
     # Min "You want a piece of me?" with sshake
-    Min "Tu me cherches ?" with sshake
+    Min "Tu m'cherches ?" with sshake
 
 # game/1_diya.rpy:6860
 translate french ch6_a5403d9f:
@@ -12310,7 +12317,7 @@ translate french ch6_a5403d9f:
 translate french ch6_4bb899d9:
 
     # Akarsha "Not gonna lie, if you were taller this would be pretty hot."
-    Akarsha "Vais pas te mentir, si tu étais plus grande, ça serait plutôt sexy."
+    Akarsha "J'vais pas te mentir, si t'étais plus grande, ça serait plutôt sexy."
 
 # game/1_diya.rpy:6868
 translate french ch6_b22389f1:
@@ -12376,7 +12383,7 @@ translate french ch6_182dbcaa:
 translate french ch6_06112f02:
 
     # Noelle "But you are short..."
-    Noelle "Mais tu es petite..."
+    Noelle "Mais tu ES petite..."
 
 # game/1_diya.rpy:6894
 translate french ch6_6ace77fa:
@@ -12400,13 +12407,13 @@ translate french ch6_00a76ea5:
 translate french ch6_b75c9fbb:
 
     # "It hits Min's face with a loud slap!"
-    "Ça frappe le visage de Min comme une lourde gifle !"
+    "Elle frappe le visage de Min comme une lourde gifle !"
 
 # game/1_diya.rpy:6906
 translate french ch6_22f78938:
 
     # Min "Mmph?!" with sshake
-    Min "Mmph ?" with sshake
+    Min "Mmph ?!" with sshake
 
 # game/1_diya.rpy:6907
 translate french ch6_0da3c579:
@@ -12418,13 +12425,13 @@ translate french ch6_0da3c579:
 translate french ch6_3e6c5331:
 
     # Min "You think you're so smart, huh?!" with sshake
-    Min "Tu te crois intelligente, hein ?" with sshake
+    Min "Tu t'crois intelligente, hein ?!" with sshake
 
 # game/1_diya.rpy:6910
 translate french ch6_d56beaf6:
 
     # Min "WELL, GUESS WHAT!!! I HATE SMART PEOPLE!!!" with sshake
-    Min "ET TU SAIS QUOI !!! JE DETESTE LES GENS INTELLIGENTS !!!" with sshake
+    Min "ET BAH DEVINE QUOI !!! J'DÉTESTE LES GENS INTELLIGENTS !!!" with sshake
 
 # game/1_diya.rpy:6912
 translate french ch6_0649c02a:
@@ -12436,13 +12443,13 @@ translate french ch6_0649c02a:
 translate french ch6_236fe2ee:
 
     # Noelle "USE YOUR HEAD, YOU STUPID CLOWN!!!!!!" with sshake
-    Noelle "UTILISE TA TETE, ESPECE DE GUIGNOL !!!!!!" with sshake
+    Noelle "UTILISE TA TÊTE, ESPECE DE GUIGNOL !!!!!!" with sshake
 
 # game/1_diya.rpy:6916
 translate french ch6_9c4d345c:
 
     # Noelle "IF YOU DIE I'LL KILL YOU!!!!!" with sshake
-    Noelle "SI TU MEURS, JE TE TUE!!!!!!" with sshake
+    Noelle "SI TU MEURS, JE TE TUE !!!!!!" with sshake
 
 # game/1_diya.rpy:6918
 translate french ch6_eb6295fa:
@@ -12460,7 +12467,7 @@ translate french ch6_3ab1083c:
 translate french ch6_2a417610:
 
     # Min "This better not be your kink or somethi—"
-    Min "Ça a intérêt à pas être ton trip ou un truc du genre—"
+    Min "Ca a intérêt à pas être ton trip ou un truc du genre—"
 
 # game/1_diya.rpy:6923
 translate french ch6_79ca2b02:
@@ -12472,7 +12479,7 @@ translate french ch6_79ca2b02:
 translate french ch6_5a19a428:
 
     # Min "URRGHKK!!?????!"
-    Min "ARG!!?????!"
+    Min "ARG !!?????!"
 
 # game/1_diya.rpy:6928
 translate french ch6_d3d911f2:
@@ -12484,13 +12491,13 @@ translate french ch6_d3d911f2:
 translate french ch6_815ba0cf:
 
     # Min "PFF!! PPFBT!!" with sshake
-    Min "PFF!! PPFBT!!" with sshake
+    Min "PFF !! PPFBT !!" with sshake
 
 # game/1_diya.rpy:6931
 translate french ch6_7272ee43:
 
     # Min "EW!!! YUCK!!!"
-    Min "EW!!! BEURK!!!"
+    Min "EW !!! BEURK !!!"
 
 # game/1_diya.rpy:6933
 translate french ch6_edf403c1:
@@ -12532,13 +12539,13 @@ translate french ch6_2c59446b:
 translate french ch6_a8dcf867:
 
     # "Min backs away, desperately avoiding being touched by the period blood hand."
-    "Min recule, évitant désespérément d'être touchée par la main pleine de règles."
+    "Min recule, évitant désespérément d'être touchée par la main pleine de sang de ses règles."
 
 # game/1_diya.rpy:6945
 translate french ch6_1bd3fca2:
 
     # Akarsha "Stay away! Can't touch this!!" with sshake
-    Akarsha "T'approche pas ! Je peux pas toucher ça !!" with sshake
+    Akarsha "T'approche pas si tu veux pas toucher ça !!" with sshake
 
 # game/1_diya.rpy:6947
 translate french ch6_488eebdc:
@@ -12550,7 +12557,7 @@ translate french ch6_488eebdc:
 translate french ch6_95203f2b:
 
     # Akarsha "That's me! If I can't win by being a kung-fu master..."
-    Akarsha "C'est tout moi ! Si je peux pas gagner comme un maître de kung-fu..."
+    Akarsha "C'est tout moi ! Si j'peux pas gagner comme un maître de kung-fu..."
 
 # game/1_diya.rpy:6951
 translate french ch6_1dc32ff1:
@@ -12574,7 +12581,7 @@ translate french ch6_71803346:
 translate french ch6_f5769d7c:
 
     # Min "Who ARE you?"
-    Min "T'es QUI?"
+    Min "T'es QUI ?"
 
 # game/1_diya.rpy:6960
 translate french ch6_d1c4a94f:
@@ -12634,7 +12641,7 @@ translate french ch6_b61fd423:
 translate french ch6_69ef26ba:
 
     # Min "More importantly, that was really gross just now, so I never want to fight you again."
-    Min "Plus important, c'était vraiment dégueulasse là donc je ne veux plus jamais me battre à nouveau avec toi."
+    Min "En fait, c'était vraiment dégueulasse là donc je veux plus jamais me battre avec toi."
 
 # game/1_diya.rpy:6982
 translate french ch6_48e10cf0:
@@ -12646,7 +12653,7 @@ translate french ch6_48e10cf0:
 translate french ch6_d1b777d1:
 
     # Min "I'm Min."
-    Min "Je suis Min."
+    Min "J'suis Min."
 
 # game/1_diya.rpy:6986
 translate french ch6_8c258ef7:
@@ -12670,7 +12677,7 @@ translate french ch6_43bf2b39:
 translate french ch6_9dfcacc7:
 
     # Akarsha "Are you kidding me? I've been looking for you."
-    Akarsha "Tu plaisantes ? Je te cherchais."
+    Akarsha "Tu plaisantes ? J'te cherchais."
 
 # game/1_diya.rpy:6992
 translate french ch6_fb9def90:
@@ -12688,7 +12695,7 @@ translate french ch6_6b89d94a:
 translate french ch6_efd535b0:
 
     # Noelle "What's happening???? I don't like this!" with sshake
-    Noelle "Qu'est-ce qu'il se passe ???? Je n'aime pas ça !" with sshake
+    Noelle "Qu'est-ce qu'il se passe ???? J'aime pas ça !" with sshake
 
 # game/1_diya.rpy:6997
 translate french ch6_2501b12d:
@@ -12712,7 +12719,7 @@ translate french ch6_e459dd58:
 translate french ch6_96bfbe3c:
 
     # "They fist bump."
-    "Elles tapent leur poing."
+    "Elles tapent leurs poings."
 
 # game/1_diya.rpy:7004
 translate french ch6_fbe9999b:
@@ -12724,13 +12731,13 @@ translate french ch6_fbe9999b:
 translate french ch6_b77f01ab:
 
     # Akarsha "The knuckles to my enchilada...."
-    Akarsha "Le Knuckels de mon enchilada..."
+    Akarsha "Le Knuckles de mon enchilada..."
 
 # game/1_diya.rpy:7006
 translate french ch6_86279bad:
 
     # Akarsha "The human to my centipede..."
-    Akarsha "L'humain de mon centipède..."
+    Akarsha "Le \"human\" de mon \"centipede\"..."
 
 # game/1_diya.rpy:7008
 translate french ch6_356f166f:
@@ -12760,7 +12767,7 @@ translate french ch6_fb440c48:
 translate french ch6_f58886b1:
 
     # Akarsha "Ew, no! Stop!"
-    Akarsha "Euh, non ! Stop !"
+    Akarsha "Beurk, non ! Stop !"
 
 # game/1_diya.rpy:7020
 translate french ch6_52600a96:
@@ -12772,13 +12779,13 @@ translate french ch6_52600a96:
 translate french ch6_31b4fef4:
 
     # Akarsha "I don't want it either, man!"
-    Akarsha "J'ai pas envie non plus, meuf !"
+    Akarsha "J'en veux pas non plus, meuf !"
 
 # game/1_diya.rpy:7024
 translate french ch6_4bfa2772:
 
     # "Noelle tries to wipe her contaminated arm on Akarsha, too. Akarsha dodges to avoid it."
-    "Noelle essaye d'essuyer son bras sale sur Akarsha également. Akarsha esquive pour l'éviter."
+    "Noelle essaye aussi d'essuyer son bras sale sur Akarsha. Akarsha esquive."
 
 # game/1_diya.rpy:7026
 translate french ch6_40a9ab30:
@@ -12790,7 +12797,7 @@ translate french ch6_40a9ab30:
 translate french ch6_46c989ec:
 
     # Noelle "Diya! Hold her down!"
-    Noelle "Diya ! Tiens-là en bas !"
+    Noelle "Diya ! Tiens-là !"
 
 # game/1_diya.rpy:7031
 translate french ch6_fd841d5d_1:
@@ -12802,7 +12809,7 @@ translate french ch6_fd841d5d_1:
 translate french ch6_a2b5bc45:
 
     # Akarsha "No! No, please, Diya, homie, listen,"
-    Akarsha "Non Non, s'il te plait, Diya, Ma pote, écoute,"
+    Akarsha "Non ! Non, s'il te plait, Diya, ma pote, écoute,"
 
 # game/1_diya.rpy:7036
 translate french ch6_8b10d5f6:
@@ -12814,7 +12821,7 @@ translate french ch6_8b10d5f6:
 translate french ch6_b863d891:
 
     # "Then, she pins Akarsha to the ground, thrashing and screaming."
-    "Puis, elle plaque Akarsha au sol, en se débattant et en criant."
+    "Puis, elle plaque Akarsha au sol, qui se débat et crie."
 
 # game/1_diya.rpy:7044
 translate french ch6_63a9761a:
@@ -12832,13 +12839,13 @@ translate french ch6_acfbbdd2:
 translate french ch6_0a19001a:
 
     # Liz "Good, you're all he—"
-    Liz "Bien, tu es tout ce qu'il —"
+    Liz "Bien, vous êtes toutes l—"
 
 # game/1_diya.rpy:7051
 translate french ch6_25feaa50:
 
     # Liz "What the?!" with sshake
-    Liz "Qu'est-ce que" with sshake
+    Liz "Qu'est-ce que ?!" with sshake
 
 # game/1_diya.rpy:7057
 translate french ch6_ff5f7f88:
@@ -12856,13 +12863,13 @@ translate french ch6_360eb065:
 translate french ch6_c49b40b6:
 
     # Min "What?! It's your fault for being annoying!"
-    Min "Quoi ? ! C'est ta faute si tu es ennuyeuse !"
+    Min "Quoi ?! C'est ta faute si t'es une chieuse !"
 
 # game/1_diya.rpy:7063
 translate french ch6_d4c60a42:
 
     # Noelle "You started it! You called me names first!"
-    Noelle "C'est toi qui as commencé ! Tu m'as traité de tous les noms en premier !"
+    Noelle "C'est toi qu'a commencé ! Tu m'as traitée de tous les noms en premier !"
 
 # game/1_diya.rpy:7065
 translate french ch6_f9547506:
@@ -12874,13 +12881,13 @@ translate french ch6_f9547506:
 translate french ch6_296ea072:
 
     # "Liz stumbles over Akarsha's fallen flip-flop on the ground."
-    "Liz trébuche sur la tong d'Akarsha tombée sur le sol."
+    "Liz trébuche sur la claquette d'Akarsha tombée sur le sol."
 
 # game/1_diya.rpy:7070
 translate french ch6_70f56912:
 
     # Liz "Whose shoe is this?"
-    Liz "A qui est cette chaussure ?"
+    Liz "À qui est cette chaussure ?"
 
 # game/1_diya.rpy:7072
 translate french ch6_40af6463:
@@ -12916,13 +12923,13 @@ translate french ch6_c3ea7921:
 translate french ch6_4c79e604:
 
     # "Akarsha points at Min."
-    "Akarsha montre du doigt Min"
+    "Akarsha montre Min du doigt."
 
 # game/1_diya.rpy:7083
 translate french ch6_57de7479:
 
     # Chryssa "How old are you guys?! Five?!"
-    Chryssa "Quel âge avez-vous les meufs ?! Cinq ans ?"
+    Chryssa "Vous avez quel âge les meufs ?! Cinq ans ?"
 
 # game/1_diya.rpy:7084
 translate french ch6_16436a03:
@@ -12934,73 +12941,73 @@ translate french ch6_16436a03:
 translate french ch6_4dd8bf07:
 
     # Chryssa "And you're Min? You here to play baseball, too?"
-    Chryssa "Et toi, tu es Min ? Tu es ici pour jouer au baseball, aussi ?"
+    Chryssa "Et toi, tu es Min ? Tu es ici pour jouer au baseball aussi ?"
 
 # game/1_diya.rpy:7088
 translate french ch6_78ddaa7d:
 
     # Min "Yeah. I got here late."
-    Min "Oui. Je suis arrivée tard."
+    Min "Ouais. J'suis arrivée  en retard."
 
 # game/1_diya.rpy:7090
 translate french ch6_f64fb81d:
 
     # Chryssa "Well Min, I'm Chryssa."
-    Chryssa "Bien Min, Je suis Chryssa"
+    Chryssa "Bien Min, je suis Chryssa."
 
 # game/1_diya.rpy:7092
 translate french ch6_9564a28f:
 
     # Noelle "She has a knife!"
-    Noelle "Elle a un couteau"
+    Noelle "Elle a un couteau !"
 
 # game/1_diya.rpy:7095
 translate french ch6_5257d24c:
 
     # Min "You damn snitch!"
-    Min "Sale mouchard !"
+    Min "Sale balance !"
 
 # game/1_diya.rpy:7097
 translate french ch6_c8a9e82a:
 
     # Chryssa "Hand the knife over."
-    Chryssa "Donne le couteau"
+    Chryssa "Donne le couteau."
 
 # game/1_diya.rpy:7099
 translate french ch6_aadd3c79:
 
     # Min "Why should I?"
-    Min "Pourquoi je le ferais ?"
+    Min "Pourquoi j'le ferais ?"
 
 # game/1_diya.rpy:7101
 translate french ch6_6e9676ca:
 
     # Chryssa "Because if you don't, I won't let you play baseball."
-    Chryssa "Parce que si tu ne le fais pas, je ne te laisserai pas jouer au baseball."
+    Chryssa "Parce que si tu le fais pas, je te laisserai pas jouer au baseball."
 
 # game/1_diya.rpy:7103
 translate french ch6_a4926fea:
 
     # Min "You...You can do that?"
-    Min "Tu...Tu ferais ça ?"
+    Min "Tu... Tu ferais ça ?"
 
 # game/1_diya.rpy:7105
 translate french ch6_e7db5d40:
 
     # Chryssa "I can do that."
-    Chryssa "Je peux faire ça"
+    Chryssa "Je peux faire ça."
 
 # game/1_diya.rpy:7106
 translate french ch6_2a000eca:
 
     # "Min looks very shocked..."
-    "Min a l'air très choqué..."
+    "Min a l'air très choquée..."
 
 # game/1_diya.rpy:7107
 translate french ch6_2c00d156:
 
     # Chryssa "You can have it back when we're done."
-    Chryssa "Tu pouras le récupérer quand nous aurons fini."
+    Chryssa "Tu pourras le récupérer quand nous aurons fini."
 
 # game/1_diya.rpy:7108
 translate french ch6_a5d672e6:
@@ -13018,7 +13025,7 @@ translate french ch6_e26ed9b8:
 translate french ch6_84819499:
 
     # Chryssa "All of them."
-    Chryssa "Tous"
+    Chryssa "Tous."
 
 # game/1_diya.rpy:7113
 translate french ch6_f1592af7:
@@ -13072,7 +13079,7 @@ translate french ch6_68550935:
 translate french ch6_43443e22:
 
     # Noelle "I refuse."
-    Noelle "Je refuse"
+    Noelle "Je refuse."
 
 # game/1_diya.rpy:7129
 translate french ch6_29482f10:
@@ -13084,7 +13091,7 @@ translate french ch6_29482f10:
 translate french ch6_6e1957d1:
 
     # Noelle "Then I have no obligation to stay here and argue with you. Diya's fine now; I'm going home."
-    Noelle "Alors je n'ai plus aucune obligatoire de rester ici et de débattre avec toi. Diya va bien maintenant ; je rentre à la maison."
+    Noelle "Alors, j'ai aucune obligation de rester ici et de débattre avec toi. Diya va bien maintenant ; je rentre à la maison."
 
 # game/1_diya.rpy:7133
 translate french ch6_e16c04ca:
@@ -13114,7 +13121,7 @@ translate french ch6_3c219e3d:
 translate french ch6_2cc10f7d:
 
     # "It's gone."
-    "Il est plus là."
+    "Il n'est plus là."
 
 # game/1_diya.rpy:7141
 translate french ch6_cba96ea8:
@@ -13144,7 +13151,7 @@ translate french ch6_c0165d23:
 translate french ch6_14a591a0:
 
     # DiyaT "I guess we're all playing baseball now?"
-    DiyaT "Du coup, j'suppose qu'on joue tous au baseball maintenant ?"
+    DiyaT "Du coup, j'suppose qu'on joue toutes au baseball maintenant ?"
 
 translate french strings:
 
@@ -13182,7 +13189,7 @@ translate french strings:
 
     # 1_diya.rpy:1432
     old "Are you sure nothing's wrong?"
-    new "T'es sure que rien ne va pas ?"
+    new "T'es sûre que tout va bien ?"
 
     # 1_diya.rpy:1432
     old "Give her the baseball"
@@ -13194,7 +13201,7 @@ translate french strings:
 
     # 1_diya.rpy:1953
     old "Ask the owner if you can pet it"
-    new "Demander au propriétaire si vous pouvez le caresser"
+    new "Demander au propriétaire si vous pouvez caresser le chien"
 
     # 1_diya.rpy:1953
     old "Let Min ask"
@@ -13270,11 +13277,11 @@ translate french strings:
 
     # 1_diya.rpy:3814
     old "Maybe like 15"
-    new "Peut-être comme 15"
+    new "Peut-être genre 15"
 
     # 1_diya.rpy:3814
     old "At least a few dozen"
-    new "Au moins quelques dizaines"
+    new "Au moins quelques douzaines"
 
     # 1_diya.rpy:4037
     old "Sign the paper"
@@ -13294,7 +13301,7 @@ translate french strings:
 
     # 1_diya.rpy:4395
     old "Feel Noelle's forehead"
-    new "Ressentir le front de Noelle"
+    new "Toucher le front de Noelle"
 
     # 1_diya.rpy:4395
     old "Talk to Noelle"
@@ -13302,7 +13309,7 @@ translate french strings:
 
     # 1_diya.rpy:4419
     old "Tell Noelle to get into shape"
-    new "Dire à Noelle de se remettre en forme"
+    new "Dire à Noelle de faire plus de sport"
 
     # 1_diya.rpy:4419
     old "Talk about ancient Chinese rock pillows"
@@ -13314,7 +13321,7 @@ translate french strings:
 
     # 1_diya.rpy:4419
     old "How long do we have until class starts?"
-    new "Combien de temps avons-nous avant le début des cours ?"
+    new "Combien de temps avons-nous avant le début du cours ?"
 
     # 1_diya.rpy:5042
     old "My house"
@@ -13330,7 +13337,7 @@ translate french strings:
 
     # 1_diya.rpy:5042
     old "Home Depot lights section"
-    new "Section des lumières de Mr Bricolage"
+    new "La section lumières de Home Depot"
 
     # 1_diya.rpy:5042
     old "Ask Min to decide"
@@ -13342,7 +13349,7 @@ translate french strings:
 
     # 1_diya.rpy:5183
     old "Nah, I'm good"
-    new "Nan, ca va"
+    new "Nan, ça va"
 
     # 1_diya.rpy:5483
     old "Big dogs"
@@ -13358,7 +13365,7 @@ translate french strings:
 
     # 1_diya.rpy:5762
     old "Cool"
-    new "Cool"
+    new "Sympa"
 
     # 1_diya.rpy:5762
     old "Yuck"
@@ -13382,7 +13389,7 @@ translate french dogNameChoice_5fa7bee2:
 translate french dogNameChoice_0d7a3016:
 
     # Diya "What's wrong with [dogName!t]?"
-    Diya "Quel est le problème avec [dogName!t] ?"
+    Diya "C'est quoi le problème avec [dogName!t] ?"
 
 # game/1_diya.rpy:2136
 translate french dogHere_43e131fa:
@@ -13394,25 +13401,25 @@ translate french dogHere_43e131fa:
 translate french enterClass_ac882d4f:
 
     # Diya "If they don't want to get hit, they shouldn't attack me."
-    Diya "S'ils ne veulent pas être touchés, ils devraient pas m'attaquer."
+    Diya "S'ils veulent pas être touchés, ils devraient pas m'attaquer."
 
 # game/1_diya.rpy:4070
 translate french noelleSick_444a8e1a:
 
     # Akarsha "If school is cancelled...If school is cancelled {i}right now{/i}..."
-    Akarsha "Si l'école est annulée... Si l'école est annulée {i}maintenant{/i}..."
+    Akarsha "Si l'école est annulée... Si l'école est annulée {i}là tout de suite{/i}..."
 
 # game/1_diya.rpy:5644
 translate french baseballPoster_5dd021c2:
 
     # "The flier says:\nJoin the new Baseball Club!!\nBeginners welcome!"
-    "Le dépliant dit :\n Rejoignez le nouveau Club de Baseball !!\nDébutants bienvenus !"
+    "Le dépliant dit :\nRejoignez le nouveau club de baseball !!\nDébutants bienvenus !"
 
 # game/1_diya.rpy:6429
 translate french ch6_677f9015:
 
     # Min "{font=tamil.ttf}வணக்கம்!{/font}"
-    Min "{font=tamil.ttf}வணக்கம்!{/font}"
+    Min "{font=tamil.ttf}வணக்கம்!{/font} (Vaṇakkam !)"
 
 # game/1_diya.rpy:6471
 translate french ch6_458de9cf:
@@ -13440,11 +13447,11 @@ translate french strings:
 
     # 1_diya.rpy:18
     old "npc"
-    new "pnj"
+    new "PNJ"
 
     # 1_diya.rpy:19
     old "npc2"
-    new "pnj2"
+    new "PNJ2"
 
     # 1_diya.rpy:119
     old "The summer between\n3rd and 4th grade"
@@ -13456,15 +13463,15 @@ translate french strings:
 
     # 1_diya.rpy:300
     old "Gun(?)"
-    new "Pistolet(?)"
+    new "Flingue(?)"
 
     # 1_diya.rpy:310
     old "Gun"
-    new "Pistolet"
+    new "Flingue"
 
     # 1_diya.rpy:352
     old "Gun Horse"
-    new "Pistolet Cheval"
+    new "Flingue Cheval"
 
     # 1_diya.rpy:732
     old "Look at woman"
@@ -13476,7 +13483,7 @@ translate french strings:
 
     # 1_diya.rpy:750
     old "Look at the diamond"
-    new "Regarder le diamant"
+    new "Regarder le terrain"
 
     # 1_diya.rpy:783
     old "Look at empty seat"
@@ -13564,7 +13571,7 @@ translate french strings:
 
     # 1_diya.rpy:2555
     old "5 Years Later"
-    new "5 années plus tard"
+    new "5 ans plus tard"
 
     # 1_diya.rpy:2559
     old "9th grade"
@@ -13572,7 +13579,7 @@ translate french strings:
 
     # 1_diya.rpy:2828
     old "Sign-toting man"
-    new "Homme de signe"
+    new "Homme à la pancarte"
 
     # 1_diya.rpy:2931
     old "Homie G Biscuit Skillet Dawg"
@@ -13592,7 +13599,7 @@ translate french strings:
 
     # 1_diya.rpy:3145
     old "Look in Noelle's lunchbox"
-    new "Regarder dans le panier-repas de Noëlle"
+    new "Regarder dans le panier-repas de Noelle"
 
     # 1_diya.rpy:3154
     old "Look at rosin"
@@ -13604,15 +13611,15 @@ translate french strings:
 
     # 1_diya.rpy:3360
     old "Male student"
-    new "Etudiant"
+    new "Étudiant"
 
     # 1_diya.rpy:3361
     old "Female student"
-    new "Etudiante"
+    new "Étudiante"
 
     # 1_diya.rpy:3396
     old "Look at scores"
-    new "Regarder les scores"
+    new "Regarder les notes"
 
     # 1_diya.rpy:3405
     old "Talk to classmates"
@@ -13624,7 +13631,7 @@ translate french strings:
 
     # 1_diya.rpy:3852
     old "Stranger"
-    new "Etranger"
+    new "Étranger"
 
     # 1_diya.rpy:3929
     old "Teacher"
@@ -13644,7 +13651,7 @@ translate french strings:
 
     # 1_diya.rpy:4686
     old "Enemy catcher"
-    new "Attrape ennemi"
+    new "Attrapeur adverse"
 
     # 1_diya.rpy:4687
     old "Umpire"
@@ -13717,4 +13724,3 @@ translate french strings:
     # 1_diya.rpy:6157
     old "Ester"
     new "Ester"
-

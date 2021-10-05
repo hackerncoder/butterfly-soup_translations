@@ -1,5 +1,4 @@
 # TODO: Translation updated at 2018-01-02 13:12
-
 # game/2_noelle.rpy:36
 translate french noelle1_5a91619f:
 
@@ -10,13 +9,13 @@ translate french noelle1_5a91619f:
 translate french noelle1_19c42ab2:
 
     # NoelleT "What is this?"
-    NoelleT "Qu'est ce que c'est que ça ?"
+    NoelleT "C'est quoi ça ?"
 
 # game/2_noelle.rpy:39
 translate french noelle1_06fa0525:
 
     # NoelleT "I can't read the test paper."
-    NoelleT "Je ne peux pas lire l'examen."
+    NoelleT "J'arrive pas à lire le sujet."
 
 # game/2_noelle.rpy:53
 translate french wakeUp_60e9dfd8:
@@ -28,13 +27,13 @@ translate french wakeUp_60e9dfd8:
 translate french wakeUp_3fb4999a:
 
     # NoelleT "I don't know anything! I don't understand any of this!"
-    NoelleT "Je sais rien ! Je comprends rien de tout ça !"
+    NoelleT "Je sais plus rien ! Je comprends rien à tout ça !"
 
 # game/2_noelle.rpy:57
 translate french wakeUp_36d60b42:
 
     # NoelleT "I'm going to fail. All my hard work up until now was for nothing!"
-    NoelleT "Je vais rater. Tout ce boulot jusqu'ici pour rien !"
+    NoelleT "Je vais tout rater. Tout ce boulot pour rien !"
 
 # game/2_noelle.rpy:60
 translate french wakeUp_1c9e82b1:
@@ -52,7 +51,7 @@ translate french wakeUp_9d73f57c:
 translate french wakeUp_1c9e82b1_1:
 
     # Diya "Wake up."
-    Diya "Réveille-toi"
+    Diya "Réveille-toi."
 
 # game/2_noelle.rpy:80
 translate french wakeUp_6276c5a5:
@@ -64,13 +63,13 @@ translate french wakeUp_6276c5a5:
 translate french wakeUp_0a6667a5:
 
     # "Diya looks very concerned..."
-    "Diya semble très inquiète"
+    "Diya semble très inquiète."
 
 # game/2_noelle.rpy:83
 translate french wakeUp_2543f53d:
 
     # Noelle "I had a nightmare."
-    Noelle "J'ai fait un cauchemar"
+    Noelle "J'ai fait un cauchemar."
 
 # game/2_noelle.rpy:84
 translate french wakeUp_f84ab4ed:
@@ -82,25 +81,25 @@ translate french wakeUp_f84ab4ed:
 translate french wakeUp_7cd81ebe:
 
     # Diya "Sorry. Feel better."
-    Diya "Désolée. Reprends-toi"
+    Diya "Désolée. C'est passé maintenant."
 
 # game/2_noelle.rpy:89
 translate french wakeUp_7033cf1c:
 
     # "She presents Noelle with a poorly wrapped, lumpy gift almost as big as she is."
-    "Elle offre à Noelle un cadeau bossu, piteusement emballé presque aussi grand qu'elle"
+    "Elle offre à Noelle un cadeau bossu, piteusement emballé presque aussi grand qu'elle."
 
 # game/2_noelle.rpy:118
 translate french wakeUp_6ff531d4:
 
     # Diya "Happy birthday."
-    Diya "Bon anniveraire."
+    Diya "Joyeux anniversaire."
 
 # game/2_noelle.rpy:119
 translate french wakeUp_e6785589:
 
     # "Despite Diya's best efforts, several spots of the gift aren't properly covered with the wrapping paper and Noelle can see clearly what's inside."
-    "Malgré les meilleurs efforts de Diya, plusieurs endroits du cadeaux ne sont pas correctement recouverts avec le papier-cadeau et Noelle peut clairement voir ce qu'il y a à l'intérieur."
+    "Malgré les meilleurs efforts de Diya, plusieurs endroits du cadeau ne sont pas correctement recouverts avec le papier-cadeau et Noelle peut clairement voir ce qu'il y a à l'intérieur."
 
 # game/2_noelle.rpy:121
 translate french wakeUp_90835999:
@@ -112,25 +111,25 @@ translate french wakeUp_90835999:
 translate french wakeUp_a1b42d35:
 
     # Noelle "May I open it here?"
-    Noelle "Je dois l'ouvrir ici ?"
+    Noelle "Je peux l'ouvrir maintenant ?"
 
 # game/2_noelle.rpy:125
 translate french wakeUp_9ee5e3fd:
 
     # "Diya nods eagerly."
-    "Diya acquiesce vivement"
+    "Diya acquiesce vivement."
 
 # game/2_noelle.rpy:126
 translate french wakeUp_646568bb:
 
     # "Noelle unwraps the present and pretends to be shocked by its contents."
-    "Noelle déballe le cadeau et fait semblant d'être choqué du contenu."
+    "Noelle déballe le cadeau et fait semblant d'être surprise du contenu."
 
 # game/2_noelle.rpy:127
 translate french wakeUp_a438856d:
 
     # "It's a giant bright green snake plush."
-    "C'est une peluche de de serpent géante !"
+    "C'est une peluche géante de serpent vert !"
 
 # game/2_noelle.rpy:129
 translate french wakeUp_30d4ab6e:
@@ -154,7 +153,7 @@ translate french wakeUp_7f678c67:
 translate french wakeUp_01aff842:
 
     # Diya "He's the youngest. He has two older brothers and a sister."
-    Diya "C'est le plus jeune. Il est deux grand frères et une grande soeur"
+    Diya "C'est le plus jeune. Il a deux grand frères et une grande soeur."
 
 # game/2_noelle.rpy:136
 translate french wakeUp_faa93838:
@@ -166,31 +165,31 @@ translate french wakeUp_faa93838:
 translate french wakeUp_b3269a65:
 
     # Diya "I won him from the hammer game at the fair."
-    Diya "Je l'ai gagné au jeu du marteau à la foire"
+    Diya "Je l'ai gagné au jeu du marteau à la foire."
 
 # game/2_noelle.rpy:140
 translate french wakeUp_e17a002c:
 
     # Diya "Hit the hammer really hard."
-    Diya "Frappe le marteau très fort" #(Euuh contexte dans le jeu ? :'D)
+    Diya "J'ai frappé le marteau vraiment fort."
 
 # game/2_noelle.rpy:141
 translate french wakeUp_716e1dfa:
 
     # Diya "I chose him because he reminds me of you."
-    Diya "Je l'ai choisi car il me fait penser à toi"
+    Diya "Je l'ai choisi car il me faisait penser à toi."
 
 # game/2_noelle.rpy:143
 translate french wakeUp_ab6784a2:
 
     # NoelleT "He reminds her of me, how??"
-    NoelleT "Il lui fait penser à moi ? Comment ça ?"
+    NoelleT "Il lui faisait penser à moi ? Comment ça ??"
 
 # game/2_noelle.rpy:144
 translate french wakeUp_6a99b930:
 
     # NoelleT "I don't even like snakes. And stuffed animals are a useless waste of space."
-    NoelleT "Je n'aime même pas les serpents. Et les peluches sont un gachis inutile d'espace"
+    NoelleT "Je n'aime même pas les serpents. Et les peluches sont un gâchis inutile d'espace."
 
 # game/2_noelle.rpy:147
 translate french wakeUp_9675d8d8:
@@ -220,7 +219,7 @@ translate french wakeUp_c647a3fc:
 translate french wakeUp_37c87246:
 
     # Noelle "I will place him in my bedroom and preserve him in mint condition for as long as possble."
-    Noelle "Je vais le mettre dans ma chambre et le garder en comme neuf le plus longtemps possible."
+    Noelle "Je vais le mettre dans ma chambre et le préserver le plus longtemps possible."
 
 # game/2_noelle.rpy:161
 translate french wakeUp_6276c5a5_1:
@@ -244,19 +243,19 @@ translate french wakeUp_7d61516d:
 translate french wakeUp_f4ca8bd9:
 
     # Diya "You're my favorite person."
-    Diya "Tu es la personne que je préfère."
+    Diya "Tu es ma personne préférée."
 
 # game/2_noelle.rpy:166
 translate french wakeUp_795d5a74:
 
     # Noelle "I think I may have developed some kind of attachment to you, too."
-    Noelle "Je pense que j'ai dévelloppé une sorte d'attachement envers toi, moi aussi"
+    Noelle "Je pense qu'il est possible que j'aie développé une sorte d'attachement envers toi, moi aussi."
 
 # game/2_noelle.rpy:169
 translate french wakeUp_8f531651:
 
     # Diya "We should go on vacation together someday. When we grow up."
-    Diya "On devrait partir en vacances toutes les deux un jour. quand on sera plus grandes"
+    Diya "On devrait partir en vacances toutes les deux un jour. Quand on sera plus grandes."
 
 # game/2_noelle.rpy:170
 translate french wakeUp_82ea71e2:
@@ -274,7 +273,7 @@ translate french wakeUp_220e1bb9:
 translate french wakeUp_e5951e0c:
 
     # Noelle "I would accompany you with only mild complaining."
-    Noelle "Je t'accompagnerais en me plaignant un peu"
+    Noelle "Je t'accompagnerais en me plaignant juste un peu."
 
 # game/2_noelle.rpy:174
 translate french wakeUp_19c11467:
@@ -286,13 +285,13 @@ translate french wakeUp_19c11467:
 translate french wakeUp_d9fbedc7:
 
     # Diya "Maybe England."
-    Diya "Peut-être l'Angleterre"
+    Diya "Peut-être en Angleterre."
 
 # game/2_noelle.rpy:177
 translate french wakeUp_82d19ec7:
 
     # Diya "Can go to Diagon Al—"
-    Diya "On pourrait aller au Chemin de Trav..."
+    Diya "On pourrait aller au Chemin de Traver..."
 
 # game/2_noelle.rpy:179
 translate french wakeUp_6276c5a5_2:
@@ -304,25 +303,25 @@ translate french wakeUp_6276c5a5_2:
 translate french wakeUp_ee32210e:
 
     # "Noelle watches Diya's face drop as she silently goes through the 5 stages of grief remembering most of the locations in Harry Potter aren't real."
-    "Noelle regarde Diya se décomposer alors qu'elle traverse les 5 étapes du deuil en se rappelant que la plupart des lieux dans Harry Potter n'existent pas"
+    "Noelle regarde Diya se décomposer alors qu'elle traverse les 5 étapes du deuil en se rappelant que la plupart des lieux dans Harry Potter n'existent pas."
 
 # game/2_noelle.rpy:182
 translate french wakeUp_12f654b0:
 
     # Noelle "We can at least see Platform 9 3/4. They put a plaque of it at King's Cross."
-    Noelle "On peut au moins aller voir le quais 9 3/4. Il ont affiché une plaque pour ce quais à la station King''s Cross"
+    Noelle "On pourrait au moins aller voir le quai 9 3/4. Ils ont mis une plaque pour ce quai à la station King's Cross."
 
 # game/2_noelle.rpy:185
 translate french wakeUp_fd841d5d:
 
     # Diya "Okay."
-    Diya "D'accord"
+    Diya "D'accord."
 
 # game/2_noelle.rpy:187
 translate french wakeUp_3e683230:
 
     # Noelle "What else do you want to see in England?"
-    Noelle "Qu'est-ce que tu veux voir d'autre en Angleterre ?"
+    Noelle "Qu'est-ce que tu voudrais voir d'autre en Angleterre ?"
 
 # game/2_noelle.rpy:189
 translate french wakeUp_6276c5a5_3:
@@ -334,13 +333,13 @@ translate french wakeUp_6276c5a5_3:
 translate french wakeUp_8bfd2508:
 
     # Diya "All-you-can-eat buffet."
-    Diya "des Buffets à volonté"
+    Diya "Des buffets à volonté"
 
 # game/2_noelle.rpy:193
 translate french wakeUp_888448b4:
 
     # Noelle "They have those here, too."
-    Noelle "Ils ont ça aussi, ici"
+    Noelle "Y'a ça ici, aussi."
 
 # game/2_noelle.rpy:195
 translate french wakeUp_e507e114:
@@ -376,31 +375,31 @@ translate french wakeUp_36b692f8:
 translate french wakeUp_80a20b08:
 
     # Diya "No. You complain too much when things aren't scientifically correct."
-    Diya "Non. Tu te plains tout le temps quand les choses ne sont pas scientifiquement correctes."
+    Diya "Non. Tu te plains tout le temps quand les choses sont pas scientifiquement correctes."
 
 # game/2_noelle.rpy:209
 translate french wakeUp_3ff927ec:
 
     # Diya "Like, when radioactive things cause super powers."
-    Diya "Comme quand la les trucs radioactifs causent des super-pouvoirs."
+    Diya "Comme quand les trucs radioactifs causent des super-pouvoirs."
 
 # game/2_noelle.rpy:210
 translate french wakeUp_84a97cfc:
 
     # Diya "You get so hung up on it. It's distracting."
-    Diya "Tu te fixes trop dessus. C'est distrayant."
+    Diya "Tu fais une fixette dessus. C'est perturbant."
 
 # game/2_noelle.rpy:212
 translate french wakeUp_9fde93d2:
 
     # Noelle "Distracting how?"
-    Noelle "Comment ça distrayant ?"
+    Noelle "Comment ça perturbant ?"
 
 # game/2_noelle.rpy:215
 translate french wakeUp_11ca19f3:
 
     # Diya "Distracting like..."
-    Diya "Distrayant comme..."
+    Diya "Perturbant genre..."
 
 # game/2_noelle.rpy:232
 translate french wakeUp_d6dc3c9a:
@@ -436,7 +435,7 @@ translate french wakeUp_0c31b15b:
 translate french wakeUp_daa90456:
 
     # Diya "I don't like the part where the baby elephant follows its mom's tracks the wrong way."
-    Diya "Je n'aime pas la partie où le bébé éléphant suit les traces de sa maman dans le mauvais sens."
+    Diya "J'aime pas la partie où le bébé éléphant suit les traces de sa maman dans le mauvais sens."
 
 # game/2_noelle.rpy:252
 translate french wakeUp_1af25a61:
@@ -448,13 +447,13 @@ translate french wakeUp_1af25a61:
 translate french wakeUp_2ce19516:
 
     # "Suddenly, Diya starts climbing off the playground structure."
-    "Soudainement, Diya commence à grimper la structure du terrain de jeu."
+    "Soudainement, Diya commence à descendre de la structure du terrain de jeu."
 
 # game/2_noelle.rpy:256
 translate french wakeUp_681751dc:
 
     # Diya "Just remembered."
-    Diya "Je viens juste e me souvenir."
+    Diya "Je viens juste de me souvenir."
 
 # game/2_noelle.rpy:257
 translate french wakeUp_7635852f:
@@ -466,13 +465,13 @@ translate french wakeUp_7635852f:
 translate french wakeUp_54ac22b7:
 
     # Diya "Want you to meet someone."
-    Diya "Je veux que tu rencontres quelqu'un."
+    Diya "Je veux te présenter quelqu'un."
 
 # game/2_noelle.rpy:263
 translate french wakeUp_82c8c237:
 
     # Diya "I made a new friend yesterday."
-    Diya "Je me suis fait un nouvel ami hier"
+    Diya "Je me suis fait un nouvel ami hier."
 
 # game/2_noelle.rpy:265
 translate french wakeUp_2e69091b:
@@ -502,7 +501,7 @@ translate french wakeUp_74edb3c7:
 translate french wakeUp_2facd289:
 
     # Diya "...Not sure."
-    Diya "...Pas sûr."
+    Diya "...J'suis pas sûre."
 
 # game/2_noelle.rpy:276
 translate french wakeUp_25f5c12b:
@@ -520,7 +519,7 @@ translate french wakeUp_6f2a2917:
 translate french wakeUp_f62f517c:
 
     # Diya "You'll see what I mean."
-    Diya "Tu verras ce que je veux dire."
+    Diya "Tu verras ce que j'veux dire."
 
 # game/2_noelle.rpy:281
 translate french wakeUp_31e920fd:
@@ -538,13 +537,13 @@ translate french wakeUp_318887ab:
 translate french wakeUp_8040e061:
 
     # Diya "Min is really nice."
-    Diya "Min est vraiment gentil."
+    Diya "Min est vraiment sympa."
 
 # game/2_noelle.rpy:287
 translate french wakeUp_44a97cce:
 
     # Diya "Gave me a seaweed sheet."
-    Diya "M'a donné des feuilles d'algues."
+    Diya "Il m'a donné des feuilles d'algues."
 
 # game/2_noelle.rpy:289
 translate french wakeUp_f65e1ec0:
@@ -556,7 +555,7 @@ translate french wakeUp_f65e1ec0:
 translate french wakeUp_ce6c6486:
 
     # Noelle "They must really be something."
-    Noelle "Min doit vraiment être spécial."
+    Noelle "Min doit vraiment être quelqu'un de spécial."
 
 # game/2_noelle.rpy:292
 translate french wakeUp_51cab405:
@@ -592,7 +591,7 @@ translate french wakeUp_a5a151e8:
 translate french wakeUp_633145b4:
 
     # "The other girl(?) circles around Noelle, sizing her up."
-    "L'autre fille(?) tourne autour de Noëlle, comme pour la jauger."
+    "L'autre fille(?) tourne autour de Noelle, comme pour la jauger."
 
 # game/2_noelle.rpy:315
 translate french wakeUp_f238118c:
@@ -610,7 +609,7 @@ translate french wakeUp_88c51795:
 translate french wakeUp_daada41b:
 
     # Min "So you're Diya's best friend."
-    Min "Tu es donc la meilleure amie de Diya."
+    Min "T'es donc la meilleure pote de Diya."
 
 # game/2_noelle.rpy:319
 translate french wakeUp_46035283:
@@ -676,25 +675,25 @@ translate french wakeUp_85e59424:
 translate french wakeUp_d76e5a67:
 
     # NoelleT "What was that all about? What an idiot..."
-    NoelleT "Qu'est-ce que c'est que ça ? Quelle idiote..."
+    NoelleT "Mais c'est quoi ça ? Quelle idiote..."
 
 # game/2_noelle.rpy:352
 translate french wakeUp_0b6b9a87:
 
     # NoelleT "What does Diya see in someone that dumb?"
-    NoelleT "Qu'est-ce que Diya trouve à quelqu'un si stupide ?"
+    NoelleT "Qu'est-ce que Diya trouve à quelqu'un de si stupide ?"
 
 # game/2_noelle.rpy:353
 translate french wakeUp_8a4a7f57:
 
     # NoelleT "I don't understand."
-    NoelleT "Je comprends pas"
+    NoelleT "Je comprends pas."
 
 # game/2_noelle.rpy:359
 translate french wakeUp_9d48d641:
 
     # Noelle "I'm home."
-    Noelle "Je suis rentré."
+    Noelle "Je suis rentrée."
 
 # game/2_noelle.rpy:362
 translate french wakeUp_6a3d80f6:
@@ -706,7 +705,7 @@ translate french wakeUp_6a3d80f6:
 translate french wakeUp_0590859f:
 
     # Noelle "An A-."
-    Noelle "Un 16"
+    Noelle "Un 16."
 
 # game/2_noelle.rpy:366
 translate french wakeUp_5c4243d2:
@@ -718,7 +717,7 @@ translate french wakeUp_5c4243d2:
 translate french wakeUp_4b7f6a27:
 
     # "Noelle's mom is cutting a column out of the Chinese newspaper."
-    "La mère de Noëlle coupe une colonne d'un journal chinois."
+    "La mère de Noelle est en train de découper un article dans un journal chinois."
 
 # game/2_noelle.rpy:368
 translate french wakeUp_7b0a96e5:
@@ -730,7 +729,7 @@ translate french wakeUp_7b0a96e5:
 translate french wakeUp_60559349:
 
     # Mom "This boy was accepted into every single Ivy League college. He lives in Pleasanton."
-    Mom "Ce garçon a été accepté dans toutes les université de l'Ivy League. Il vit à Pleasanton"
+    Mom "Ce garçon a été accepté dans toutes les universités de l'Ivy League. Il vit à Pleasanton."
 
 # game/2_noelle.rpy:370
 translate french wakeUp_2ee13495:
@@ -742,13 +741,13 @@ translate french wakeUp_2ee13495:
 translate french wakeUp_2341c4b7:
 
     # Mom "I'm putting this on your wall. To inspire you."
-    Mom "Je vais accrocher ça à ton mur. Pour t'inspirer"
+    Mom "Je vais accrocher ça à ton mur, pour te motiver."
 
 # game/2_noelle.rpy:372
 translate french wakeUp_f0dc1bb3:
 
     # "She gets up and tapes it up in Noelle's bedroom next to a poem her dad printed out, \"There is no Success without Hardship\"."
-    "Elle se lève et le colle dans la chambre de Noëlle à côté d'un poème imprimé par son père \"Il n'y a pas de succès sans travail \"."
+    "Elle se lève et le colle dans la chambre de Noelle à côté d'un poème imprimé par son père, \"Il n'y a pas de succès sans travail \"."
 
 # game/2_noelle.rpy:374
 translate french wakeUp_d9c076d7:
@@ -760,7 +759,7 @@ translate french wakeUp_d9c076d7:
 translate french wakeUp_b31f7479:
 
     # Mom "What for?"
-    Mom "Pour faire quoi ?"
+    Mom "Pour quoi faire ?"
 
 # game/2_noelle.rpy:378
 translate french wakeUp_f2dd3498:
@@ -772,7 +771,7 @@ translate french wakeUp_f2dd3498:
 translate french wakeUp_815e78fd:
 
     # Noelle "There's also a Petco nearby. She wants to look at the fish and hamsters."
-    Noelle "Il y a aussi un Petco pas loin. Elle veut aller voir les poissons et hamsters."
+    Noelle "Il y a aussi une animalerie pas loin. Elle veut aller voir les poissons et hamsters."
 
 # game/2_noelle.rpy:381
 translate french wakeUp_4bef0aa0:
@@ -790,19 +789,19 @@ translate french wakeUp_a8f2b6f6:
 translate french wakeUp_a3479395:
 
     # Mom "Then there's no point."
-    Mom "Donc il n'y a aucun intérêt"
+    Mom "Alors ça n'a aucun intérêt."
 
 # game/2_noelle.rpy:386
 translate french wakeUp_ae7c597f:
 
     # Mom "Now that you've already established your friendship, you should be expending the minimum amount of energy to maintain it."
-    Mom "à présent que tu as établi une amitié, tu devrais utiliser le minimum d'énergie nécessaire afin de la maintenir."
+    Mom "À présent que tu as établi une amitié, tu devrais utiliser le minimum d'énergie nécessaire afin de la maintenir."
 
 # game/2_noelle.rpy:387
 translate french wakeUp_fd3d62ab:
 
     # Mom "Otherwise you're just wasting your limited time. Fun is an illusion."
-    Mom "Sinon tu perds juste ton temps limité. La plaisanterie est une illusion."
+    Mom "Sinon tu perds juste ton temps qui est limité. Le divertissement est une illusion."
 
 # game/2_noelle.rpy:388
 translate french wakeUp_04ee9e1c:
@@ -820,13 +819,13 @@ translate french wakeUp_623517e6:
 translate french wakeUp_c12aae38:
 
     # Mom "You can use it to study for your tests at school."
-    Mom "Tu peux utiliser ton temps pour étudier pour tes examens de cours."
+    Mom "Tu peux utiliser ce temps pour préparer tes examens à l'école."
 
 # game/2_noelle.rpy:394
 translate french wakeUp_b9ae386c:
 
     # Noelle "I already studied for them."
-    Noelle "J'ai déjà étudié."
+    Noelle "J'ai déjà étudié pour mes examens."
 
 # game/2_noelle.rpy:396
 translate french wakeUp_c40b2b16:
@@ -856,7 +855,7 @@ translate french wakeUp_2d2ed3af:
 translate french wakeUp_78bd1b0d:
 
     # NoelleT "Haha! Take that!"
-    NoelleT "Haha ! Prends-ça !"
+    NoelleT "Haha ! Prends ça !"
 
 # game/2_noelle.rpy:406
 translate french wakeUp_255afb1c:
@@ -880,7 +879,7 @@ translate french wakeUp_7146bd51:
 translate french wakeUp_653359cb:
 
     # "Upset, Noelle curls up in bed angrily hugging her giant snake plushie."
-    "Contrariée, Noëlle se recroqueville dans son lit en serrant férocement sa peluche de serpent"
+    "Contrariée, Noelle se recroqueville dans son lit en serrant férocement sa peluche de serpent."
 
 # game/2_noelle.rpy:421
 translate french wakeUp_47b34489:
@@ -934,7 +933,7 @@ translate french wakeUp_cb5b166e:
 translate french question2_07281e97:
 
     # "Through the window, Noelle can hear someone whiffing a badminton racket outside."
-    "À travers la fenêtre, Noëlle peut entendre le sifflement d'une raquette de badminton à l'éxtérieur."
+    "À travers la fenêtre, Noelle peut entendre le sifflement d'une raquette de badminton dehors."
 
 # game/2_noelle.rpy:444
 translate french question2_a3813ac6:
@@ -952,19 +951,19 @@ translate french question2_3d37c73e:
 translate french question2_1b636a0a:
 
     # "It sounds like they're playing badminton in the driveway without a net."
-    "Il semblerait qu'ils sont en train de jouer au badminton dans l'allée sans filet."
+    "Il semblerait qu'ils jouent au badminton dans l'allée sans filet."
 
 # game/2_noelle.rpy:450
 translate french question2_8bcd80be:
 
     # NoelleT "They're probably in the dumb kids class."
-    NoelleT "Ils sont sûrement dans la classe de l'enfant stupide."
+    NoelleT "Ils sont sûrement de la classe des nuls."
 
 # game/2_noelle.rpy:452
 translate french question2_30387d8e:
 
     # "2) What does \"It was all in vain\" mean?"
-    "2) Qu'est-ce que \"Mais ne pouvant y parvenir\" veut dire"
+    "2) Qu'est-ce que \"Mais ne pouvant y parvenir\" signifie ?"
 
 # game/2_noelle.rpy:464
 translate french question3_b9bd7a4c:
@@ -994,7 +993,7 @@ translate french question3_8ab3362f:
 translate french question3_762c915e:
 
     # NoelleT "Having fun?? HA! I'm above such petty unnecessities."
-    NoelleT "Vous vous amusez?? HA! Ces petites mesquineries me dépassent."
+    NoelleT "Vous vous amusez ?? HA ! Ces idioties me dépassent."
 
 # game/2_noelle.rpy:472
 translate french question3_4f7ec576:
@@ -1006,37 +1005,37 @@ translate french question3_4f7ec576:
 translate french question3_b6231a73:
 
     # NoelleT "I hate sports anyway. I'm the real winner here!"
-    NoelleT "Je déteste le sport de toute manière. Le vrai vainqueur ici c'est moi!"
+    NoelleT "Je déteste le sport de toute façon. La vraie gagnante ici c'est moi !"
 
 # game/2_noelle.rpy:475
 translate french question3_c8137ba2:
 
     # "3) What's the message of the story?"
-    "3) Quel est le message de l'histoire?"
+    "3) Quel est le message de l'histoire ?"
 
 # game/2_noelle.rpy:946
 translate french atMeeting_e7bfb3b0:
 
     # Liz "Noelle, you're up to bat!"
-    Liz "Noelle, prochaine à la batte!"
+    Liz "Noelle, prochaine à la batte !"
 
 # game/2_noelle.rpy:951
 translate french atMeeting_1b7b7767:
 
     # "Noelle grudgingly steps up to the plate."
-    "Noelle assume ses responsabilités à contrecoeur."
+    "Noelle s'avance à contrecoeur."
 
 # game/2_noelle.rpy:953
 translate french atMeeting_5ccbdca4:
 
     # NoelleT "I hate sports!! Why am I here?!" with sshake
-    NoelleT "Je déteste le sport!! Pourquoi je suis là?!" with sshake
+    NoelleT "Je déteste le sport !! Mais pourquoi je suis là ?!" with sshake
 
 # game/2_noelle.rpy:957
 translate french atMeeting_9c47fd5c:
 
     # "Akarsha is pitching. She raises her eyebrows at Noelle as she winds up."
-    "Akarsha est en train de tanguer. Elle lève ses sourcils en regardant Noelle alors qu'elle s'échauffe. "
+    "Akarsha est au lancer. Elle hausse ses sourcils en regardant Noelle alors qu'elle s'échauffe. "
 
 # game/2_noelle.rpy:958
 translate french atMeeting_bdb2098a:
@@ -1054,55 +1053,55 @@ translate french atMeeting_f0dcbbb0:
 translate french atMeeting_a9bdd001:
 
     # Akarsha "Wake up, Frenchman. You're in a coma."
-    Akarsha "Réveille-toi, la française. Tu es dans le coma."
+    Akarsha "Réveille-toi, la française. T'es dans le coma."
 
 # game/2_noelle.rpy:965
 translate french atMeeting_e16acdba:
 
     # Noelle "I AM NOT. YOU ARE TRYING TO CONFUSE ME, AND FAILING."
-    Noelle "C'EST FAUX. TU ESSAYES DE M'EMBROUILLER LES IDEES ET SANS SUCCES!"
+    Noelle "C'EST FAUX. TU ESSAYES DE M'EMBROUILLER LES IDÉES ET C'EST UN ÉCHEC !"
 
 # game/2_noelle.rpy:987
 translate french atMeeting_371062bf:
 
     # "Akarsha pitches the ball!"
-    "Akarsha lance la balle!"
+    "Akarsha lance la balle !"
 
 # game/2_noelle.rpy:993
 translate french atMeeting_3589efb7:
 
     # "Through sheer luck, Noelle manages to hit the ball!"
-    "Par pure chance, Noelle parvient à frapper la balle!"
+    "Par pure chance, Noelle parvient à frapper la balle !"
 
 # game/2_noelle.rpy:997
 translate french atMeeting_83835a71:
 
     # "It pops straight up! Noelle runs for first base with the agility of an old man with two broken legs."
-    "Elle monte en flèche! Noelle court à la première base avec l'agilité d'un vieil homme avec deux jambes cassées."
+    "Elle monte en flèche ! Noelle court à la première base avec l'agilité d'un vieil homme aux deux jambes cassées."
 
 # game/2_noelle.rpy:1000
 translate french atMeeting_fafbead7:
 
     # Chryssa "I got it!"
-    Chryssa "Je l'ai!"
+    Chryssa "Je l'ai !"
 
 # game/2_noelle.rpy:1001
 translate french atMeeting_3ee81489:
 
     # "Chryssa catches it in her mitt."
-    "Chryssa l'attrape dans son gant"
+    "Chryssa l'attrape dans son gant."
 
 # game/2_noelle.rpy:1003
 translate french atMeeting_e3189f09:
 
     # "The runner already on first base gives Noelle a strange look when she runs up to it."
-    "Le courreur déjà en première base lance un regard étrange à Noelle alors qu'elle y court."
+    "Le coureur déjà en première base lance un regard étrange à Noelle alors qu'elle y court."
 
 # game/2_noelle.rpy:1006
 translate french atMeeting_66fd045d:
 
     # Chryssa "Noelle, you're out!"
-    Chryssa "Noelle, dehors!"
+    Chryssa "Noelle, tu sors !"
 
 # game/2_noelle.rpy:1009
 translate french atMeeting_5ccd3ed5:
@@ -1114,19 +1113,19 @@ translate french atMeeting_5ccd3ed5:
 translate french atMeeting_6e666ec2:
 
     # Noelle "What? Why?"
-    Noelle "Quoi? Pourquoi?"
+    Noelle "Quoi ? Pourquoi ?"
 
 # game/2_noelle.rpy:1015
 translate french atMeeting_63f21dc8:
 
     # Min "She caught it, genius."
-    Min "Elle l'a eue, génie ça!"
+    Min "Elle a attrapé la balle, génie !"
 
 # game/2_noelle.rpy:1021
 translate french atMeeting_093d3d41:
 
     # NoelleT "But...so? Why can't I run? How come the runner on first isn't out??"
-    NoelleT "Et.. alors? Pourquoi je ne peux pas courir? Pourquoi le coureur en première base ne sort pas lui?"
+    NoelleT "Et... alors ? Pourquoi je ne pourrais pas courir ? Pourquoi le coureur en première base ne sort pas, lui ?"
 
 # game/2_noelle.rpy:1023
 translate french atMeeting_1430c5ee:
@@ -1144,7 +1143,7 @@ translate french atMeeting_4621baea:
 translate french atMeeting_29b4778e:
 
     # Noelle "I don't need praise for failing. I'm not stupid."
-    Noelle "J'ai pas besoin qu'on félicite mes échecs. Je ne suis pas stupide."
+    Noelle "J'ai pas besoin qu'on félicite mes échecs. Je suis pas stupide."
 
 # game/2_noelle.rpy:1037
 translate french atMeeting_0197928b:
@@ -1162,25 +1161,25 @@ translate french atMeeting_a23b2201:
 translate french atMeeting_89b6b38e:
 
     # NoelleT "It feels so odd to be doing this. I keep half-expecting someone to holler at me to get off."
-    NoelleT "Ca me semble tellement étrange de faire ça. Je m'attends à moitié que quelqu'un me mette dehors en hurlant."
+    NoelleT "C'est tellement étrange de jouer à ça. Je m'attends presque à ce que quelqu'un me mette dehors en hurlant."
 
 # game/2_noelle.rpy:1042
 translate french atMeeting_ba17fa89:
 
     # "Suddenly, Diya swerves back to avoid a bee flying at her face."
-    "Soudain, Diya se balance en arrière pour éviter qu'une abeille ne lui vole dans le visage."
+    "Soudain, Diya saute en arrière pour éviter qu'une abeille ne lui vole dans le visage."
 
 # game/2_noelle.rpy:1044
 translate french atMeeting_ef32d5b2:
 
     # Min "Did that bee just try to sting you?! COME BACK HERE YOU BITCH BEE COWARD I’M GONNA FUCK YOU UP!!!"
-    Min "Est-ce que cette abeille vient d'essayer de te piquer? REVIENS ICI CONNASSE D'ABEILLE LACHE JE VAIS T'ECLATER!!"
+    Min "Est-ce que cette abeille vient d'essayer de te piquer ? REVIENS ICI CONNASSE D'ABEILLE LACHE JE VAIS T'ECLATER !!"
 
 # game/2_noelle.rpy:1046
 translate french atMeeting_1202d6fb:
 
     # "Min moves indignantly between Diya and the bee."
-    "Min, indigné se met entre Diya et l'abeille."
+    "Min, indignée, se met entre Diya et l'abeille."
 
 # game/2_noelle.rpy:1048
 translate french atMeeting_7146bd51:
@@ -1192,19 +1191,19 @@ translate french atMeeting_7146bd51:
 translate french atMeeting_c707fa3b:
 
     # NoelleT "She's trying to protect Diya from the bee."
-    NoelleT "Elle essaye de protéger DIya de l'abeille."
+    NoelleT "Elle essaye de protéger Diya de l'abeille."
 
 # game/2_noelle.rpy:1051
 translate french atMeeting_956749b5:
 
     # "Min throws a punch at the offending bee."
-    "Min met un coup de poing à l'abeille qui attaque."
+    "Min balance un coup de poing vers ladite l'abeille."
 
 # game/2_noelle.rpy:1053
 translate french atMeeting_f8bbb533:
 
     # "After silently watching a few fruitless swings, Diya takes off her hat and strikes the bee in mid-air with the bill of her cap."
-    "Après avoir observé quelques tentatives d'attaque sans succès, Diya retire son chapeau et atteint l'abeille avec la visière de sa casquette en plein air."
+    "Après avoir observé quelques coups dans le vide, Diya retire sa casquette et descend l'abeille en plein vol avec la visière."
 
 # game/2_noelle.rpy:1055
 translate french atMeeting_3c5f738e:
@@ -1222,7 +1221,7 @@ translate french atMeeting_a8bd056a:
 translate french atMeeting_44892d0f:
 
     # Diya "When did you move back?"
-    Diya "Quand est-ce que tu es revenue?"
+    Diya "Quand est-ce que t'es revenue ?"
 
 # game/2_noelle.rpy:1060
 translate french atMeeting_0dd82da7:
@@ -1234,19 +1233,19 @@ translate french atMeeting_0dd82da7:
 translate french atMeeting_97628414:
 
     # Diya "Wow, if we had any classes together we'd have crossed paths way sooner."
-    Diya "Waouh, si on avait eu des cours en commun nos chemins se seraient croisés bien plus tôt!"
+    Diya "Waouh, si on avait eu des cours en commun, on se serait croisées bien avant !"
 
 # game/2_noelle.rpy:1065
 translate french atMeeting_25e065cb:
 
     # Diya "Does Jun-seo go here now too?"
-    Diya "Est-ce que Jun-seo va aussi là maintenant ?"
+    Diya "Jun-seo est aussi là maintenant ?"
 
 # game/2_noelle.rpy:1067
 translate french atMeeting_519944ce:
 
     # Min "No, he's at a different school. He goes to Niles."
-    Min "Non, il est dans une autre école. Il va à Niles."
+    Min "Nan, il est dans une autre école. Il va à Niles."
 
 # game/2_noelle.rpy:1069
 translate french atMeeting_4569059f:
@@ -1264,7 +1263,7 @@ translate french atMeeting_ea3d3ef6:
 translate french atMeeting_32774c26:
 
     # Min "They didn't. I originally went to there too, but I got expelled."
-    Min "C'était pas leur intention. À la base, j'allais aussi à là-bas, mais je me suis fait virer."
+    Min "C'était pas ce qu'ils voulaient. À la base, j'allais aussi là-bas, mais j'me suis faite virer."
 
 # game/2_noelle.rpy:1076
 translate french atMeeting_4b3d84bd:
@@ -1282,7 +1281,7 @@ translate french atMeeting_d3524c07:
 translate french atMeeting_a36d6544:
 
     # NoelleT "You're not going to ask about the \"expelled\" part???"
-    NoelleT "Tu ne vas rien demander sur le fait qu'elle se soit faite \"virer\" ???"
+    NoelleT "Tu vas rien demander sur le fait qu'elle se soit faite \"virer\" ???"
 
 # game/2_noelle.rpy:1084
 translate french atMeeting_c9d8be60:
@@ -1294,7 +1293,7 @@ translate french atMeeting_c9d8be60:
 translate french atMeeting_9a7fe52a:
 
     # Min "They don't have boba places there! I had to drink milkshakes!!!" with sshake
-    Min "Ils ont pas de boba là-bas ! J'étais obligée de boire des milkshakes !!!" with sshake
+    Min "Z'ont pas de bubble tea là-bas ! J'étais obligée de boire des milkshakes !!!" with sshake
 
 # game/2_noelle.rpy:1088
 translate french atMeeting_9b643f8f:
@@ -1312,7 +1311,7 @@ translate french atMeeting_c0756b65:
 translate french atMeeting_f67478f6:
 
     # Diya "Are white people that bad?"
-    Diya "Est-ce que les blancs sont si méchants ?"
+    Diya "Les blancs sont si méchants ?"
 
 # game/2_noelle.rpy:1095
 translate french atMeeting_37c6c4c9:
@@ -1324,7 +1323,7 @@ translate french atMeeting_37c6c4c9:
 translate french atMeeting_c320efed:
 
     # Min "Or \"Go back to China!\" I'm not even Chinese!!"
-    Min "Ou \"Retourne en Chine !\" Mais chuis même pas chinoise !!"
+    Min "Ou \"Retourne en Chine !\" Mais j'suis même pas chinoise !!"
 
 # game/2_noelle.rpy:1098
 translate french atMeeting_21c69cfb:
@@ -1342,7 +1341,7 @@ translate french atMeeting_12aa7432:
 translate french atMeeting_8aa406b4:
 
     # Diya "I thought racism was over."
-    Diya "Moi qui pensait que le racisme, c'était du passé."
+    Diya "Moi qui pensais que le racisme, c'était du passé."
 
 # game/2_noelle.rpy:1103
 translate french atMeeting_dd98ed9b:
@@ -1354,13 +1353,13 @@ translate french atMeeting_dd98ed9b:
 translate french atMeeting_434e6922:
 
     # Diya "But they showed us that cartoon every year in class. Where they time travel to when there's segregation."
-    Diya "Mais il nous montraient ce cartoon chaque année en cours. Genre ils retournaient dans le passé à l'époque de la ségrégation."
+    Diya "Mais ils nous montraient ce cartoon chaque année en cours. Genre ils retournaient dans le passé à l'époque de la ségrégation."
 
 # game/2_noelle.rpy:1106
 translate french atMeeting_25f1bee1:
 
     # Diya "What happened?"
-    Diya "Qu'est ce qu'il s'est passé ?"
+    Diya "Il s'est passé quoi ?"
 
 # game/2_noelle.rpy:1108
 translate french atMeeting_bac6a63f:
@@ -1432,7 +1431,7 @@ translate french atMeeting_2f264cbf:
 translate french atMeeting_5f95872d:
 
     # Noelle "Whose side are you on?! We're supposed to be on defense!" with sshake
-    Noelle "Mais dans quel camp tu es ?! On joue la défense !" with sshake
+    Noelle "Mais dans quel camp t'es ?! On joue la défense !" with sshake
 
 # game/2_noelle.rpy:1160
 translate french atMeeting_d3cb7cae:
@@ -1456,7 +1455,7 @@ translate french atMeeting_55f97255:
 translate french atMeeting_a6573ef9:
 
     # "It's Min's turn at the plate now."
-    "C'est au tour de Min de passer au marbre maintenant."
+    "C'est au tour de Min de passer maintenant."
 
 # game/2_noelle.rpy:1172
 translate french atMeeting_d42e82e1:
@@ -1468,7 +1467,7 @@ translate french atMeeting_d42e82e1:
 translate french atMeeting_f149075b:
 
     # Liz "Min-seo, are you sure you want to use that?\n We have other bats that are closer to your—"
-    Liz "Min-seo, tu es sûr de vouloir utiliser ça ?\n On a d'autres battes plus adaptées à to—"
+    Liz "Min-seo, t'es sûre de vouloir utiliser ça ?\nOn a d'autres battes plus adaptées à ta—"
 
 # game/2_noelle.rpy:1176
 translate french atMeeting_656203f8:
@@ -1516,7 +1515,7 @@ translate french atMeeting_b52c2474:
 translate french atMeeting_7a6f1c79:
 
     # Min "Oh yeah?! I bet I CAN." with sshake
-    Min "Ah ouais ?! Je paris que J'PEUX." with sshake
+    Min "Ah ouais ?! Je parie que J'PEUX." with sshake
 
 # game/2_noelle.rpy:1202
 translate french atMeeting_2a858f51:
@@ -1570,7 +1569,7 @@ translate french atMeeting_1e5e8644:
 translate french atMeeting_181fd12d:
 
     # Noelle "Don't baseball pitchers pitch to their own team?"
-    Noelle "Mais au baseball, les pitcheurs pitchent pour leur propre équipe, non ?"
+    Noelle "Mais au baseball, les lanceurs jouent pour leur propre équipe, non ?"
 
 # game/2_noelle.rpy:1237
 translate french atMeeting_52689c82:
@@ -1588,13 +1587,13 @@ translate french atMeeting_f1c38659:
 translate french atMeeting_82a4d3e7:
 
     # Chryssa "No, you pitch against the enemy. It's the pitcher's goal not to let the batter get on base."
-    Chryssa "Non, tu pitches contre l'adversaire. C'est le but du pitcheur de ne pas laisser le batteur l'intercepter."
+    Chryssa "Non, tu lances contre l'adversaire. C'est le but du lanceur de ne pas laisser le batteur l'intercepter."
 
 # game/2_noelle.rpy:1245
 translate french atMeeting_d1e635de:
 
     # Noelle "Oh, I see. So that's why they pitch at such high velocity— so it's harder for the batter to hit a touchdown."
-    Noelle "Oh, je vois. C'est donc pour ça qu'ils pitchent à une telle vitesse— pour que ce soit plus difficile pour le batteur de la renvoyer."
+    Noelle "Oh, je vois. C'est donc pour ça qu'ils lancent à une telle vitesse— pour que ce soit plus difficile pour le batteur de la renvoyer."
 
 # game/2_noelle.rpy:1249
 translate french atMeeting_9ea7c0f1:
@@ -1612,7 +1611,7 @@ translate french atMeeting_4a93e23d:
 translate french atMeeting_1be43cd6:
 
     # Noelle "The Sharks."
-    Noelle "Les Requins."
+    Noelle "Les Sharks."
 
 # game/2_noelle.rpy:1259
 translate french atMeeting_7ca094fd:
@@ -1636,19 +1635,19 @@ translate french atMeeting_f4e4c698:
 translate french atMeeting_4b0e7562:
 
     # NoelleT "...Is it?"
-    NoelleT "...Ah vraiment ?"
+    NoelleT "... Ah vraiment ?"
 
 # game/2_noelle.rpy:1268
 translate french atMeeting_0ed7d138:
 
     # NoelleT "Well, how was I supposed to know? They're all pretty much the same."
-    NoelleT "Bah, comment j'étais sensée savoir ? C'est tout pareil."
+    NoelleT "Bah, comment j'étais censée savoir ? C'est tout pareil."
 
 # game/2_noelle.rpy:1272
 translate french atMeeting_1b4987ba:
 
     # Noelle "The 49ers."
-    Noelle "Les 49."
+    Noelle "Les 49ers."
 
 # game/2_noelle.rpy:1276
 translate french atMeeting_7ca094fd_1:
@@ -1672,19 +1671,19 @@ translate french atMeeting_698c7bb2:
 translate french atMeeting_4b0e7562_1:
 
     # NoelleT "...Is it?"
-    NoelleT "...Ah vraiment ?"
+    NoelleT "... Ah vraiment ?"
 
 # game/2_noelle.rpy:1285
 translate french atMeeting_0ed7d138_1:
 
     # NoelleT "Well, how was I supposed to know? They're all pretty much the same."
-    NoelleT "Bah, comment j'étais sensée savoir ? C'est tout pareil."
+    NoelleT "Bah, comment j'étais censée savoir ? C'est tout pareil."
 
 # game/2_noelle.rpy:1289
 translate french atMeeting_59052121:
 
     # Noelle "The A's."
-    Noelle "Les As."
+    Noelle "Les Athletics."
 
 # game/2_noelle.rpy:1291
 translate french atMeeting_b74d08cc:
@@ -1696,7 +1695,7 @@ translate french atMeeting_b74d08cc:
 translate french atMeeting_87ad27d7:
 
     # Chryssa "Bravo. If you'd failed that, I probably would've started crying."
-    Chryssa "Bravo. Si tu avais loupé ça, je me serais probablement mise à pleurer."
+    Chryssa "Bravo. Si t'avais loupé ça, je me serais probablement mise à pleurer."
 
 # game/2_noelle.rpy:1298
 translate french atMeeting_de3a57fc:
@@ -1750,7 +1749,7 @@ translate french atMeeting_9d73f57c:
 translate french atMeeting_4ee43147:
 
     # Liz "You didn't throw it through the strike zone. If you miss, it's a ball. "
-    Liz "Tu n'as pas atteint la zone de frappe. Si tu loupes, c'est une balle."
+    Liz "T'as pas atteint la zone de frappe. Si tu loupes, c'est une balle."
 
 # game/2_noelle.rpy:1324
 translate french atMeeting_b10b1d6a:
@@ -1822,7 +1821,7 @@ translate french atMeeting_ffc634b4:
 translate french atMeeting_9de7715f:
 
     # Grace "Assuming we play this the regular way, don't short people just naturally have smaller batting zones?"
-    Grace "En assumant que l'on joue normalement, les gens un peu courts sur patte ont pas juste naturellement des zones de frappe plus petites ?"
+    Grace "En supposant que l'on joue normalement, les gens un peu courts sur pattes ont pas juste naturellement des zones de frappe plus petites ?"
 
 # game/2_noelle.rpy:1350
 translate french atMeeting_f0eb9642:
@@ -1888,7 +1887,7 @@ translate french atMeeting_c65515df:
 translate french atMeeting_ae88ff4f:
 
     # Chryssa "Sure. I think we...\"covered all the bases.\""
-    Chryssa "Bien sûr. Je pense que nous avons... \"couvert toutes les bases.\""
+    Chryssa "Bien sûr. Je pense qu'on a... \"couvert toutes les bases.\""
 
 # game/2_noelle.rpy:1381
 translate french atMeeting_57e924ad:
@@ -1912,19 +1911,19 @@ translate french atMeeting_cbabd4cc:
 translate french atMeeting_94c25bb8:
 
     # "Chryssa seems delighted that Noelle is laughing at her joke!"
-    "Chryssa semble ravie que Noelle rie de sa blague !"
+    "Chryssa semble ravie que Noelle rit de sa blague !"
 
 # game/2_noelle.rpy:1394
 translate french atMeeting_1f159d05:
 
     # Chryssa "We had to make it....Chryssa-tal clear."
-    Chryssa "Il fallait que ce soit clair.... Chryssa-tal."
+    Chryssa "Il fallait que ce soit clair.... comme du Chryssa-tal."
 
 # game/2_noelle.rpy:1397
 translate french atMeeting_8d90e55d:
 
     # "Noelle doesn't laugh!"
-    "Noelle ne rie pas !"
+    "Noelle ne rit pas !"
 
 # game/2_noelle.rpy:1399
 translate french atMeeting_8548d503:
@@ -1972,7 +1971,7 @@ translate french atMeeting_981e8493:
 translate french atMeeting_9b6c8607:
 
     # Chryssa "Yes? You can just talk, you don't have to do that."
-    Chryssa "Oui ? Tu peux juste parler, tu n'as pas besoin de faire ça."
+    Chryssa "Oui ? Tu peux juste parler, t'as pas besoin de faire ça."
 
 # game/2_noelle.rpy:1423
 translate french atMeeting_feebbcd1:
@@ -2020,7 +2019,7 @@ translate french atMeeting_de850849:
 translate french atMeeting_8282a504:
 
     # Akarsha "If you were a flower, you'd be a DAMNdelion."
-    Akarsha "Si tu étais une fleur, tu serais un Pisse EN LIT."
+    Akarsha "Si t'étais une fleur, tu serais un Pisse EN LIT."
 
 # game/2_noelle.rpy:1446
 translate french atMeeting_875cfc0d:
@@ -2050,7 +2049,7 @@ translate french atMeeting_1173fe5f:
 translate french atMeeting_1a5259c1:
 
     # "Diya tears after it with the look of a dog chasing a squirrel. She scoops it up and throws it to Akarsha, who's manning first base now."
-    "Diya la poursuit avec le regard d'un chien qui poursuit un écureuil. Elle l'attrape et la lance à Akarsha, qui s'occupe de la première base maintenant."
+    "Diya poursuit la balle avec le regard d'un chien qui poursuit un écureuil. Elle l'attrape et la lance à Akarsha, qui s'occupe de la première base maintenant."
 
 # game/2_noelle.rpy:1461
 translate french atMeeting_6cc8ab2a:
@@ -2068,7 +2067,7 @@ translate french atMeeting_989da708:
 translate french atMeeting_893117fc:
 
     # Chryssa "Akarsha, you need to work on your catches."
-    Chryssa "Akarsha, tu dois travailler sur tes rattrapages."
+    Chryssa "Akarsha, tu dois travailler tes rattrapages."
 
 # game/2_noelle.rpy:1466
 translate french atMeeting_2245f376:
@@ -2104,13 +2103,13 @@ translate french atMeeting_ee3e6f6a:
 translate french atMeeting_014c5d3c:
 
     # Akarsha "You briefly glimpsed a parallel universe when Akarsha didn't catch the ball."
-    Akarsha "Vous avez brièvement entrevu un univers parallèle quand Akarsha n'a pas attrapé la balle."
+    Akarsha "Vous avez brièvement entrevu un univers parallèle où Akarsha n'a pas attrapé la balle."
 
 # game/2_noelle.rpy:1478
 translate french atMeeting_5d805a39:
 
     # Akarsha "But now you've crossed back over to the reality where I did catch it."
-    Akarsha "Mais maintenant tu es revenue à la réalité où je l'ai attrapée."
+    Akarsha "Mais maintenant vous êtes revenues à la réalité où je l'ai attrapée."
 
 # game/2_noelle.rpy:1480
 translate french atMeeting_18396bbf:
@@ -2128,13 +2127,13 @@ translate french atMeeting_07615665:
 translate french atMeeting_19c37859:
 
     # Noelle "OR, YOU MESSED UP AND JUST WON'T ADMIT IT."
-    Noelle "OU, TU AS FAIT UNE ERREUR ET TU NE VEUX PAS L'ADMETTRE."
+    Noelle "OU, TU AS FAIT UNE ERREUR ET TU VEUX PAS L'ADMETTRE."
 
 # game/2_noelle.rpy:1487
 translate french atMeeting_5866e1fb:
 
     # "Min manages to round the bases and score thanks to Akarsha's mistake."
-    "Min parvient à contourner les bases et à marquer grâce à l'erreur d'Akarsha."
+    "Min parvient à faire le tour des bases et à marquer grâce à l'erreur d'Akarsha."
 
 # game/2_noelle.rpy:1491
 translate french atMeeting_88898924:
@@ -2170,7 +2169,7 @@ translate french atMeeting_d717d40e:
 translate french atMeeting_42ba62ec:
 
     # Akarsha "My signature."
-    Akarsha "Ma marque."
+    Akarsha "C'est ma marque."
 
 # game/2_noelle.rpy:1508
 translate french atMeeting_b77abc83:
@@ -2194,7 +2193,7 @@ translate french atMeeting_9eb7f0d7:
 translate french atMeeting_9ff386a3:
 
     # "Akarsha batted a ball straight at Noelle!" with sshake
-    "Akarsha a frappé une balle directement sur Noelle !" with sshake
+    "Akarsha a frappé une balle directement vers Noelle !" with sshake
 
 # game/2_noelle.rpy:1536
 translate french atMeeting_18cd37bf:
@@ -2206,7 +2205,7 @@ translate french atMeeting_18cd37bf:
 translate french atMeeting_79eaf477:
 
     # "She misses it!" with sshake
-    "Elle l'a raté !" with sshake
+    "Elle la rate !" with sshake
 
 # game/2_noelle.rpy:1542
 translate french atMeeting_9f95d8dc:
@@ -2254,7 +2253,7 @@ translate french atMeeting_e2a8d672:
 translate french atMeeting_9f13f71f:
 
     # Akarsha "........ghost."
-    Akarsha "......... fantôme."
+    Akarsha "......... un fantôme."
 
 # game/2_noelle.rpy:1587
 translate french atMeeting_a78e56e7:
@@ -2272,19 +2271,19 @@ translate french minPitching_888b0b85:
 translate french minPitching_730aad9a:
 
     # "Chryssa hands the ball over to her and heads over to the plate to bat."
-    "Chryssa lui remet la balle et se dirige vers le marbre pour frapper."
+    "Chryssa lui remet la balle et se dirige vers la zone de frappe."
 
 # game/2_noelle.rpy:1599
 translate french minPitching_150ee916:
 
     # Chryssa "Whenever you're ready!"
-    Chryssa "Dès que t'es prête !"
+    Chryssa "Quand t'es prête !"
 
 # game/2_noelle.rpy:1601
 translate french minPitching_23ac3077:
 
     # "The fielders are all backing up. Chryssa's even taller than Diya, so she looks like she could hit it pretty far."
-    "Les défenseures reculent toutes. Chryssa est encore plus grande que Diya, donc on dirait qu'elle pourrait la renvoyer assez loin."
+    "La défense recule. Chryssa est encore plus grande que Diya, donc on dirait qu'elle pourrait renvoyer assez loin."
 
 # game/2_noelle.rpy:1606
 translate french minPitching_7585ee93:
@@ -2302,19 +2301,19 @@ translate french minPitching_5f03042f:
 translate french minPitching_aa0dc344:
 
     # "As the ball approaches the plate it does a little hop, like a hiccup. "
-    "Quand la balle s'approche de la plaque, elle fait un petit saut, comme un hoquet."
+    "Quand la balle s'approche de la zone de frappe, elle a un petit sursaut comme si elle avait le hoquet."
 
 # game/2_noelle.rpy:1611
 translate french minPitching_a314d40b:
 
     # "Chryssa looks weirded out. She doesn't swing."
-    "Quand la balle s'approche du marbre, elle a un petit sursaut comme si elle avait le hoquet."
+    "Chryssa a l'air étonnée. Elle ne frappe pas."
 
 # game/2_noelle.rpy:1612
 translate french minPitching_431c4a1a:
 
     # "The flutter is just enough to throw Liz off— the ball glances off the side of her glove and bounces off her kneecap."
-    "Le flottement est juste suffisant pour déstabiliser Liz - la balle glisse sur le côté de son gant et rebondit sur sa rotule."
+    "Le flottement est juste suffisant pour déstabiliser Liz — la balle glisse sur le côté de son gant et rebondit sur sa rotule."
 
 # game/2_noelle.rpy:1618
 translate french minPitching_99297e8a:
@@ -2326,7 +2325,7 @@ translate french minPitching_99297e8a:
 translate french minPitching_9819073a:
 
     # Liz "It's kind of creepy, isn't it? Seeing the ball coming at you without spinning."
-    Liz "C'est un peu effrayant, n'est-ce pas ? Voir la balle venir vers vous sans tourner."
+    Liz "C'est un peu effrayant, n'est-ce pas ? Voir la balle venir vers toi sans tourner."
 
 # game/2_noelle.rpy:1622
 translate french minPitching_148e2972:
@@ -2338,7 +2337,7 @@ translate french minPitching_148e2972:
 translate french minPitching_462bcec9:
 
     # NoelleT "Er...I couldn't tell the difference."
-    NoelleT "Euh... je n'ai pas pu faire la différence."
+    NoelleT "Euh... j'ai pas pu faire la différence."
 
 # game/2_noelle.rpy:1625
 translate french minPitching_d60634be:
@@ -2362,7 +2361,7 @@ translate french minPitching_5f693208:
 translate french minPitching_72886675:
 
     # "Chryssa misses it by a foot. It's a pitch you couldn't hit with a tennis racket. "
-    "Chryssa la rate de 30 cm. C'est un lancer que tu ne pourrais pas frapper avec une raquette de tennis."
+    "Chryssa la rate de 30 cm. C'est un lancer impossible à frapper même avec une raquette de tennis."
 
 # game/2_noelle.rpy:1643
 translate french minPitching_9245926d:
@@ -2386,19 +2385,19 @@ translate french minPitching_29290cea:
 translate french minPitching_6d4fba44:
 
     # Chryssa "It's a rare pitch thrown with nearly no spin, so its path is unpredictable."
-    Chryssa "Il s'agit d'un lancer rare, lancé avec une rotation quasi nulle, ce qui rend sa trajectoire imprévisible."
+    Chryssa "C'est un lancer rare, avec une rotation quasi nulle, ce qui rend sa trajectoire imprévisible."
 
 # game/2_noelle.rpy:1652
 translate french minPitching_b9b05f35:
 
     # Grace "Oh. I get it! You're making this up as an excuse for why you missed."
-    Grace "Oh. J'ai compris ! T'inventes une excuse pour justifier que tu l'aies manquée."
+    Grace "Oh. J'ai compris ! T'invente une excuse pour justifier que tu l'aies manquée."
 
 # game/2_noelle.rpy:1655
 translate french minPitching_442b115f:
 
     # Chryssa "I'm not making it up!" with sshake
-    Chryssa "Je l'ai pas inventée !" with sshake
+    Chryssa "J'ai rien inventé !" with sshake
 
 # game/2_noelle.rpy:1657
 translate french minPitching_ca01c546:
@@ -2422,37 +2421,37 @@ translate french minPitching_3a1b9be4:
 translate french minPitching_92c72129:
 
     # Chryssa "Okay, so when you pitch a ball normally, it spins like crazy — somewhere around 10 times on the way to the plate. "
-    Chryssa "Ok, donc quand tu lances une balle normalement, ça tourne de ouf - genre 10 fois vers le marbre."
+    Chryssa "Ok, donc quand tu lances une balle normalement, ça tourne de ouf - genre 10 fois avant d'arriver avant la zone de frappe."
 
 # game/2_noelle.rpy:1664
 translate french minPitching_446a607c:
 
     # Chryssa "Spin is what gives a ball stability as it moves."
-    Chryssa "L'effet de rotation est ce qui donne de la stabilité à la balle quand elle bouge."
+    Chryssa "La rotation c'est ce qui donne de la stabilité à la balle quand elle bouge."
 
 # game/2_noelle.rpy:1665
 translate french minPitching_89b61d3a:
 
     # Chryssa "If you can learn to throw a ball with minimal spin, its instability will give it an unpredictable trajectory."
-    Chryssa "Si vous pouvez apprendre à lancer une balle avec un minimum de rotation, son instabilité rendra sa trajectoire imprévisible."
+    Chryssa "Si t'arrives à lancer une balle avec un minimum de rotation, son instabilité rendra sa trajectoire imprévisible."
 
 # game/2_noelle.rpy:1666
 translate french minPitching_f4d4c5ec:
 
     # Chryssa "It starts behaving like a chaotic system, like the weather."
-    Chryssa "Ça commence à bouger de manière chaotique, comme le temps."
+    Chryssa "Elle commence à se comporter de façon chaotique, comme la météo."
 
 # game/2_noelle.rpy:1667
 translate french minPitching_4c53e40e:
 
     # Chryssa "And that's great, because a lot of sports mastery is just recognizing situations."
-    Chryssa "Et c'est super, car une grande partie de la maîtrise du sport consiste à reconnaître les situations."
+    Chryssa "Et c'est super, car une grande partie de la maîtrise d'un sport consiste à reconnaître les situations."
 
 # game/2_noelle.rpy:1668
 translate french minPitching_eb5b4ae0:
 
     # Chryssa "Everyone says to \"keep your eye on the ball\", but it's actually impossible to do that due to the limitations of human reaction. "
-    Chryssa "Tout le monde dit de \"garder un œil sur la balle\", mais en fait, c'est impossible à faire à cause des limitations humaines."
+    Chryssa "Tout le monde dit de \"garder un œil sur la balle\", mais en fait, c'est impossible à faire à cause des limites du corps humain."
 
 # game/2_noelle.rpy:1669
 translate french minPitching_6eb01de7:
@@ -2476,25 +2475,25 @@ translate french minPitching_67dc6e71:
 translate french minPitching_abe68547:
 
     # Chryssa "That's right. A knuckler's trajectory is drastically different each time it's pitched."
-    Chryssa "C'est vrai. La trajectoire d'une papillon est radicalement différente à chaque fois qu'elle est lancée."
+    Chryssa "C'est ça. La trajectoire d'une balle papillon est radicalement différente à chaque fois qu'elle est lancée."
 
 # game/2_noelle.rpy:1676
 translate french minPitching_c27cd6aa:
 
     # Chryssa "So no matter how good you are, there's no way to reliably hit it."
-    Chryssa "Donc peu importe à quel point tu es bon, y a aucun moyen de la toucher de manière sûre."
+    Chryssa "Donc peu importe à quel point t'es bon, y'a aucun moyen de la toucher à tous les coups."
 
 # game/2_noelle.rpy:1677
 translate french minPitching_4ce7cfe6:
 
     # Chryssa "Thrown correctly, it moves so erratically that it's impossible to hit except through sheer luck."
-    Chryssa "Lancée correctement, ça bouge de manière si instable qu'il est impossible de la toucher sauf par chance."
+    Chryssa "Lancée correctement, elle est si instable qu'il est impossible de la toucher sauf par chance."
 
 # game/2_noelle.rpy:1680
 translate french minPitching_a9a3ab50:
 
     # Sumi "...I still can't tell if you're making this all up as an excuse for why you suck."
-    Sumi "... Je ne sais toujours pas si t'inventes tout ça pour expliquer pourquoi t'es nulle."
+    Sumi "... Je sais toujours pas si t'inventes tout ça pour expliquer pourquoi t'es nulle."
 
 # game/2_noelle.rpy:1683
 translate french minPitching_14d60b55:
@@ -2530,37 +2529,37 @@ translate french minPitching_1329c990:
 translate french minPitching_0617896a:
 
     # Liz "Put a little too much spin on the ball or throw it just a little too fast, and you're basically serving up a meaty practice pitch that'll get hit out of the park."
-    Liz "Donne un peu trop d'effet à la balle ou lance-la un peu trop vite, et tu vas te retrouver avec une balle lourde et facile à toucher qui va sortir du terrain. "
+    Liz "Donne un peu trop d'effet à la balle ou lance-la un peu trop vite, et tu vas te retrouver avec une balle lourde et facile à toucher qui va se faire sortir du terrain. "
 
 # game/2_noelle.rpy:1695
 translate french minPitching_ab639428:
 
     # Liz "And even at its best, a knuckler is a double-edged sword."
-    Liz "Et même au top, une papillon est à double tranchant."
+    Liz "Et même dans le meilleur des cas, une papillon est à double tranchant."
 
 # game/2_noelle.rpy:1697
 translate french minPitching_8662a69a:
 
     # Liz "Batters can't hit it, but that also means pitchers can't control it, and catchers can't catch it."
-    Liz "Les batteurs peuvent pas la frapper, mais ça veut dire aussi que la balle peut pas être contrôlée par les lanceurs, ni être attrapée par les receveurs."
+    Liz "Les batteurs peuvent pas la frapper, mais ça veut aussi dire que la balle peut pas être contrôlée par les lanceurs, ni être attrapée par les receveurs."
 
 # game/2_noelle.rpy:1698
 translate french minPitching_c6512e4b:
 
     # Liz "When thrown right, even Min has no idea where it's going."
-    Liz "Même bien lancée, même Min pourra pas deviner sa direction."
+    Liz "Quand elle est bien lancée, même Min ne peut pas deviner sa direction."
 
 # game/2_noelle.rpy:1700
 translate french minPitching_d02b1f30:
 
     # Chryssa "They say throwing a knuckleball for a strike is like throwing a butterfly into a mailbox across the street."
-    Chryssa "On dit que lancer une balle papillon pour une prise, c'est comme lancer un papillon à travers la rue vers une boite à lettre."
+    Chryssa "On dit que lancer ce genre de balle, c'est comme lancer un papillon à travers la rue vers une boite aux lettres."
 
 # game/2_noelle.rpy:1702
 translate french minPitching_94def33a:
 
     # Liz "Even in the big leagues, catchers hate it."
-    Liz "Même dans grandes ligues, les receveur détestent ça."
+    Liz "Même dans les grandes ligues, les receveurs détestent ça."
 
 # game/2_noelle.rpy:1704
 translate french minPitching_571ff5b7:
@@ -2578,7 +2577,7 @@ translate french minPitching_835ff807:
 translate french minPitching_e58f4197:
 
     # Liz "It's a big pain."
-    Liz "Et ça fait très mal."
+    Liz "C'est vraiment relou."
 
 # game/2_noelle.rpy:1708
 translate french minPitching_2b573849:
@@ -2596,13 +2595,13 @@ translate french minPitching_7fad91e3:
 translate french minPitching_e6593587:
 
     # Liz "Knuckleball is the pitch of someone with nothing left to lose."
-    Liz "La balle papillon est le lancer d'une personne qu'a rien à perdre."
+    Liz "La balle papillon c'est le lancer d'une personne qu'a rien à perdre."
 
 # game/2_noelle.rpy:1717
 translate french minPitching_2e407b90:
 
     # Chryssa "And that's us."
-    Chryssa "Et c'est nous."
+    Chryssa "Et ça, c'est nous."
 
 # game/2_noelle.rpy:1724
 translate french minPitching_f85c215c:
@@ -2614,13 +2613,13 @@ translate french minPitching_f85c215c:
 translate french minPitching_46fdfd1e:
 
     # Chryssa "So we might as well take advantage of that, right?"
-    Chryssa "Donc on pourrait aussi en profiter, non ?"
+    Chryssa "Donc autant en profiter, non ?"
 
 # game/2_noelle.rpy:1727
 translate french minPitching_3ae591f9:
 
     # Chryssa "Even if we don't win a single game, at least we'll have fun."
-    Chryssa "Même si on gagne pas un seul match, au moins on s'amusera."
+    Chryssa "Même si on gagne pas un seul match, au moins on s'amusera bien."
 
 # game/2_noelle.rpy:1729
 translate french minPitching_c729e32a:
@@ -2638,13 +2637,13 @@ translate french minPitching_f5600ac2:
 translate french minPitching_a229f441:
 
     # "The ball ricochets off Liz's mitt and catches her bare hand, striking her thumb at a painful looking angle."
-    "La balle ricoche sur le gant de Liz et touche sa main, en frappant son pouce de manière douloureuse."
+    "La balle ricoche sur le gant de Liz et touche sa main, et cogne son pouce à un angle qui a l'air bien douloureux."
 
 # game/2_noelle.rpy:1743
 translate french minPitching_a773278f:
 
     # Liz "Ow!!" with sshake
-    Liz "Oh !!" with sshake
+    Liz "Aïe !!" with sshake
 
 # game/2_noelle.rpy:1744
 translate french minPitching_380ca98e:
@@ -2656,7 +2655,7 @@ translate french minPitching_380ca98e:
 translate french minPitching_3853eca8:
 
     # NoelleT "That looked pretty painful..."
-    NoelleT "Ca a l'air assez douloureux..."
+    NoelleT "Ca a l'air très douloureux..."
 
 # game/2_noelle.rpy:1749
 translate french minPitching_08accec9:
@@ -2668,43 +2667,43 @@ translate french minPitching_08accec9:
 translate french minPitching_4151c2b5:
 
     # Chryssa "Are you okay?"
-    Chryssa "Tu vas bien ?"
+    Chryssa "Ca va ?"
 
 # game/2_noelle.rpy:1753
 translate french minPitching_895d502a:
 
     # Liz "I'll live..."
-    Liz "Je suis en vie..."
+    Liz "Je vais survivre..."
 
 # game/2_noelle.rpy:1759
 translate french minPitching_1cd890e2:
 
     # Liz "Min, is this all you know how to throw?"
-    Liz "Min, c'est tout ce que tu peux faire ?"
+    Liz "Min, c'est tout ce que tu sais faire comme lancer ?"
 
 # game/2_noelle.rpy:1762
 translate french minPitching_aa82572e:
 
     # Min "I can throw fastballs too, but they're not that fast."
-    Min "Je peux lancer des balles rapides aussi, mais c'est pas aussi rapide."
+    Min "J'peux lancer des balles rapides aussi, mais elles sont pas aussi rapides."
 
 # game/2_noelle.rpy:1763
 translate french minPitching_40a65940:
 
     # Min "So knuckleball is kind of my specialty."
-    Min "Donc la balle papillon est un peu ma spécialité."
+    Min "Donc la balle papillon c'est un peu ma spécialité."
 
 # game/2_noelle.rpy:1765
 translate french minPitching_7a53bc03:
 
     # Min "I used to watch video tapes of Tim Wakefield pitching on TV over and over again, and copied that."
-    Min "J'avais l'habitude de mater en continue des vidéos de Tim Wakfield en train de lancer à la TV, et je l'ai copié. "
+    Min "J'avais l'habitude de mater masse de vidéos de Tim Wakefield en train de lancer à la TV, et j'l'ai copié. "
 
 # game/2_noelle.rpy:1766
 translate french minPitching_329c5a0e:
 
     # Min "It's the only pitch I really practiced."
-    Min "C'est le seul lancer que j'ai vraiment répété."
+    Min "C'est le seul lancer que j'aie vraiment travaillé."
 
 # game/2_noelle.rpy:1768
 translate french minPitching_840cc70d:
@@ -2716,7 +2715,7 @@ translate french minPitching_840cc70d:
 translate french minPitching_271188c2:
 
     # Liz "Did your coach suggest it?"
-    Liz "Est-ce que le coach te l'avait suggéré ?"
+    Liz "C'est ton coach qui te l'avait suggéré ?"
 
 # game/2_noelle.rpy:1772
 translate french minPitching_bdc7608c:
@@ -2728,13 +2727,13 @@ translate french minPitching_bdc7608c:
 translate french minPitching_1f013d68:
 
     # Min "No one taught me anything. I taught myself."
-    Min "Non, personne ne m'a rien appris. J'ai appris seule."
+    Min "Personne m'a rien appris. J'ai appris seule."
 
 # game/2_noelle.rpy:1775
 translate french minPitching_96bb2203:
 
     # Liz "Huh? Then what made you decide to specialize as a knuckler?"
-    Liz "Hein ? Du coup qu'est-ce qu'a fait que t'as voulu te spécialiser dans le lancer papillon ?"
+    Liz "Hein ? Du coup qu'est-ce qui a fait que t'as voulu te spécialiser dans le lancer papillon ?"
 
 # game/2_noelle.rpy:1778
 translate french minPitching_cfb59cf9:
@@ -2752,19 +2751,19 @@ translate french minPitching_93d6501d:
 translate french minPitching_0fa4e4d1:
 
     # Noelle "What kind of reason is that?!"
-    Noelle "Pour quelle raison ?!"
+    Noelle "Mais c'est quoi ce raisonnement ?!"
 
 # game/2_noelle.rpy:1785
 translate french minPitching_96d6d16a:
 
     # Akarsha "She's so stupid, she unknowingly ended up doing something smart!"
-    Akarsha "Elle est tellement bête qu'elle a fini par sortir un truc intelligent sans le savoir !"
+    Akarsha "Elle est tellement bête, qu'elle a fini par sortir un truc intelligent sans le savoir !"
 
 # game/2_noelle.rpy:1787
 translate french minPitching_bd0aab5a:
 
     # Liz "Min, what do you mean by Diya having to catch it?"
-    Liz "Min, pourquoi Diya devrait l'attraper ?"
+    Liz "Min, pourquoi tu dis que c'est Diya qui devrait l'attraper ?"
 
 # game/2_noelle.rpy:1789
 translate french minPitching_6949f621:
@@ -2800,7 +2799,7 @@ translate french minPitching_017df041:
 translate french minPitching_0e5637dd:
 
     # "Diya nods furiously."
-    "Diya acquièsce brusquement."
+    "Diya acquièsce vivement."
 
 # game/2_noelle.rpy:1801
 translate french minPitching_01a1b4c0:
@@ -2812,13 +2811,13 @@ translate french minPitching_01a1b4c0:
 translate french minPitching_6907b5fb:
 
     # "Once Diya has strapped on all the gear, Min throws it again."
-    "Une fois Diya équipée, Min la lance à nouveau."
+    "Une fois Diya équipée, Min lance à nouveau."
 
 # game/2_noelle.rpy:1825
 translate french minPitching_1bebb5e1:
 
     # "Diya caught it!" with sshake
-    "Diya l'a attrapée !" with sshake
+    "Diya attrape la balle !" with sshake
 
 # game/2_noelle.rpy:1827
 translate french minPitching_ee2b60a8:
@@ -2830,7 +2829,7 @@ translate french minPitching_ee2b60a8:
 translate french minPitching_f0475313:
 
     # "She sounds like Fox falling off the stage in Super Smash Bros. Melee."
-    "Elle ressemble à Fox qui tombe d'un stage dans Super smash Bros. Melee."
+    "Elle ressemble à Fox qui tombe dans Super Smash Bros. Melee."
 
 # game/2_noelle.rpy:1831
 translate french minPitching_548b241f:
@@ -2878,13 +2877,13 @@ translate french minPitching_65ca5565:
 translate french minPitching_45e342a9:
 
     # "They've managed to relieve another hitter together. Akarsha is up next."
-    "Elles ont réussi à soulager un autre frappeur. Akarsha est la prochaine."
+    "Elles ont réussi à sortir un autre batteur. Akarsha est la prochaine."
 
 # game/2_noelle.rpy:1873
 translate french minPitching_2b42ffd6:
 
     # "On her way to the plate, she tries to do the splits, fails, and sheepishly crawls back to her feet." with sshake
-    "En direction vers le marbre, elle tente un grand écart, le loupe et rampe maladroitement vers sa place." with sshake
+    "En allant vers le marbre, elle tente un grand écart, le loupe et se redresse difficilement sur ses pieds." with sshake
 
 # game/2_noelle.rpy:1875
 translate french minPitching_24611568:
@@ -2914,13 +2913,13 @@ translate french minPitching_c49b8060:
 translate french minPitching_219310ee:
 
     # "Min winds up and throws another knuckler."
-    "Min tournoie et lance un autre papillon."
+    "Min tournoie et lance une autre balle papillon."
 
 # game/2_noelle.rpy:1909
 translate french minPitching_88c5882b:
 
     # "It veers wildly up to the sky. Without hesitation, Diya rises out of her crouch and gloves it."
-    "Il s'élance sauvagement vers le ciel. Sans hésiter, Diya se relève et l'attrape."
+    "Elle s'élance sauvagement vers le ciel. Sans hésiter, Diya se relève et l'attrape."
 
 # game/2_noelle.rpy:1914
 translate french minPitching_52a79472:
@@ -2938,7 +2937,7 @@ translate french minPitching_799760c3:
 translate french minPitching_fda1e124:
 
     # Noelle "Is it really that surprising? Diya's always been good at sports."
-    Noelle "Est-ce si surprenant ? Diya a toujours bonne en sport."
+    Noelle "C'est si surprenant ? Diya a toujours été bonne en sport."
 
 # game/2_noelle.rpy:1919
 translate french minPitching_73c17cc6:
@@ -2950,7 +2949,7 @@ translate french minPitching_73c17cc6:
 translate french minPitching_ab07e2a1:
 
     # Chryssa "No, but you don't understand! This goes beyond being \"good at sports\"!"
-    Chryssa "Non, mais vous comprenez pas ! Ca va au delà d'être \"bonne en sport\" !"
+    Chryssa "Non, mais vous comprenez pas ! Ca va au delà d'être \"bonne en sport\"!"
 
 # game/2_noelle.rpy:1923
 translate french minPitching_fdb0776f:
@@ -2986,13 +2985,13 @@ translate french minPitching_988ddb30:
 translate french minPitching_0d444744:
 
     # "Once Diya and Min have relieved the entire roster, Liz claps her hands together to get their attention."
-    "Une fois que Diya et Min ont relevé toute la liste, Liz tape dans ses mains pour attirer leur attention."
+    "Une fois que Diya et Min ont éliminé toute l'équipe, Liz tape dans ses mains pour attirer leur attention."
 
 # game/2_noelle.rpy:2000
 translate french minPitching_0a5b173a:
 
     # Liz "Alright, everyone! Let's end the meeting for today."
-    Liz "Très bien, tout le monde ! Mettons fin à la réunion d'aujourd'hui."
+    Liz "Très bien, tout le monde ! Mettons fin à la séance d'aujourd'hui."
 
 # game/2_noelle.rpy:2002
 translate french minPitching_81ebe3f4:
@@ -3022,7 +3021,7 @@ translate french minPitching_27283a45:
 translate french minPitching_d7a78dcf:
 
     # NoelleT "But I wasn't having fun!"
-    NoelleT "Mais je ne m'amusais pas !"
+    NoelleT "Mais je m'amusais pas !"
 
 # game/2_noelle.rpy:2012
 translate french minPitching_b32d9c03:
@@ -3058,13 +3057,13 @@ translate french minPitching_a4dace0c:
 translate french minPitching_aa629fba:
 
     # "After a beat, the others begin heading uphill as well, at a deliberately more reasonable pace."
-    "Après un moment, les autres commencent à monter aussi, à un rythme délibérément plus raisonnable."
+    "Après un moment, les autres commencent aussi à remonter vers l'école, à un rythme délibérément plus raisonnable."
 
 # game/2_noelle.rpy:2030
 translate french noelle2_b8f721f5:
 
     # NoelleT "I haven't seen Diya this happy since the time the vending machine malfunctioned and gave her two Kit Kat bars instead of one."
-    NoelleT "Je n'ai pas vu Diya aussi heureuse depuis la fois où le distributeur automatique a mal fonctionné et lui a donné deux barres Kit Kat au lieu d'une."
+    NoelleT "Je n'ai pas vu Diya aussi heureuse depuis la fois où le distributeur automatique a mal fonctionné et lui a donné deux Kit Kat au lieu d'un."
 
 # game/2_noelle.rpy:2032
 translate french noelle2_5b2da6c2:
@@ -3082,7 +3081,7 @@ translate french noelle2_88b46ee0:
 translate french noelle2_19d2f052:
 
     # Chryssa "Uh...thanks for putting up with us today."
-    Chryssa "Euh... merci de nous avoir supportés aujourd'hui."
+    Chryssa "Euh... merci de nous avoir supportées aujourd'hui."
 
 # game/2_noelle.rpy:2038
 translate french noelle2_ca3d799c:
@@ -3094,7 +3093,7 @@ translate french noelle2_ca3d799c:
 translate french noelle2_cf6f2b08:
 
     # Noelle ".....It wasn't the worst. I may find it in me to forgive you someday."
-    Noelle "..... Ce n'était pas le pire. Je trouverai peut-être en moi la force de te pardonner un jour."
+    Noelle "..... C'était pas le pire du pire. Je trouverai peut-être en moi la force de te pardonner un jour."
 
 # game/2_noelle.rpy:2048
 translate french noelle2_a0d6c5c3:
@@ -3112,31 +3111,31 @@ translate french noelle2_4aad617d:
 translate french noelle2_adcb722f:
 
     # Chryssa "Okay, you did terrible. "
-    Chryssa "Ok, tu étais nulle."
+    Chryssa "Ok, t'étais nulle."
 
 # game/2_noelle.rpy:2053
 translate french noelle2_c5af2db8:
 
     # Chryssa "But you tried your best and that's what matters."
-    Chryssa "Mais tu as fait de ton mieux et c'est ce qui compte."
+    Chryssa "Mais t'as fait de ton mieux et c'est ce qui compte."
 
 # game/2_noelle.rpy:2055
 translate french noelle2_8646a673:
 
     # Chryssa "It's not like everyone can be Diya."
-    Chryssa "Ce n'est pas comme si tout le monde pouvait être Diya."
+    Chryssa "C'est pas comme si tout le monde pouvait être Diya."
 
 # game/2_noelle.rpy:2056
 translate french noelle2_3dcc8086:
 
     # Chryssa "Don't worry so much and just have fun."
-    Chryssa "Ne t’inquiète pas trop et amuse-toi."
+    Chryssa "T’inquiète pas trop et amuse-toi."
 
 # game/2_noelle.rpy:2057
 translate french noelle2_766a2235:
 
     # Chryssa "It's not a competition."
-    Chryssa "Ce n'est pas une compétition."
+    Chryssa "C'est pas une compétition."
 
 # game/2_noelle.rpy:2059
 translate french noelle2_8a45cb76:
@@ -3190,13 +3189,13 @@ translate french noelle2_3a434404:
 translate french noelle2_bc72a440:
 
     # Chryssa "What're you doing, Noelle?"
-    Chryssa "Qu'est-ce que tu fais, Noëlle ?"
+    Chryssa "Mais tu fais quoi, Noelle ?"
 
 # game/2_noelle.rpy:2081
 translate french noelle2_65dd8194:
 
     # Chryssa "Trying to win America's Funniest Home Video?"
-    Chryssa "Tu essayes de gagner l'émission Vidéo Gag ?"
+    Chryssa "T'essayes de gagner à Vidéo Gag ?"
 
 # game/2_noelle.rpy:2083
 translate french noelle2_02009e53:
@@ -3214,13 +3213,13 @@ translate french noelle2_1ae08d5a:
 translate french noelle2_34784c8e:
 
     # Noelle "No!!" with sshake
-    Noelle "Non !" with sshake
+    Noelle "Non !!" with sshake
 
 # game/2_noelle.rpy:2094
 translate french noelle2_3cb6826c:
 
     # "Noelle scrambles to her feet and follows the others up the bank as quickly as she can. (Not very quick)"
-    "Noëlle se relève et suit les autres sur la berge aussi vite qu'elle le peut. (Pas très vite)"
+    "Noelle se relève et suit les autres aussi vite qu'elle le peut. (Pas très vite)"
 
 # game/2_noelle.rpy:2097
 translate french noelle2_b7c27ca0:
@@ -3244,7 +3243,7 @@ translate french noelle2_10f09caa:
 translate french noelle2_e81c4bc3:
 
     # NoelleT "I won't fall for it. Unlike some people, I have control over my emotions!"
-    NoelleT "Je ne tomberai pas dans le panneau. Contrairement à certaines personnes, j'ai le contrôle de mes émotions !"
+    NoelleT "Je tomberai pas dans le panneau. Contrairement à certaines personnes, j'ai le contrôle de mes émotions !"
 
 # game/2_noelle.rpy:2104
 translate french noelle2_c47c0941:
@@ -3262,13 +3261,13 @@ translate french noelle2_f41e3afe:
 translate french noelle2_25e06252:
 
     # NoelleT "What was that..."
-    NoelleT "Qu'est-ce que c'était..."
+    NoelleT "Mais c'était quoi ça..."
 
 # game/2_noelle.rpy:2119
 translate french noelle2_b48586a4:
 
     # "Min is picking herself off the ground. There a Min-shaped dust imprint on the door now."
-    "Min se ramasse sur le sol. Il y a une empreinte de poussière en forme de Min sur la porte maintenant."
+    "Min se ramasse sur le sol. Il y a maintenant une empreinte de poussière en forme de Min sur la porte."
 
 # game/2_noelle.rpy:2121
 translate french noelle2_3d6b8413:
@@ -3280,7 +3279,7 @@ translate french noelle2_3d6b8413:
 translate french noelle2_9f764e78:
 
     # Min "THE DOOR WAS LOCKED!!!" with sshake
-    Min "LA PORTE ÉTAIT VERROUILLÉE !!!" with sshake
+    Min "LA PORTE ÉTAIT FERMEE !!!" with sshake
 
 # game/2_noelle.rpy:2125
 translate french noelle2_3d384556:
@@ -3292,13 +3291,13 @@ translate french noelle2_3d384556:
 translate french noelle2_640a8873:
 
     # Min "Don't tell me what to do."
-    Min "Ne me dis pas quoi faire."
+    Min "Me dis pas ce que j'dois faire."
 
 # game/2_noelle.rpy:2130
 translate french noelle2_5ccbc12f:
 
     # Akarsha "Looks like we'll have to wait for Chryssa and Liz to unlock it."
-    Akarsha "On dirait qu'on va devoir attendre que Chryssa et Liz la débloquent."
+    Akarsha "On dirait qu'on va devoir attendre que Chryssa et Liz l'ouvrent."
 
 # game/2_noelle.rpy:2144
 translate french noelle2_147dc875:
@@ -3310,7 +3309,7 @@ translate french noelle2_147dc875:
 translate french noelle2_7ed156ec:
 
     # Noelle "Are you serious??!" with sshake
-    Noelle "Tu es sérieuse ??!" with sshake
+    Noelle "T'es sérieuse ??!" with sshake
 
 # game/2_noelle.rpy:2147
 translate french noelle2_a5134da0:
@@ -3322,13 +3321,13 @@ translate french noelle2_a5134da0:
 translate french noelle2_7fc2e3f7:
 
     # Min "What the god damn hell is your damage?!" with sshake
-    Min "C'est quoi ton problème, bon sang ?!" with sshake
+    Min "C'est quoi ton problème, putain ?!" with sshake
 
 # game/2_noelle.rpy:2152
 translate french noelle2_7573bf23:
 
     # Min "I can't do ANYTHING without you calling it illegal!"
-    Min "Je ne peux RIEN faire sans que tu dises que c'est illégal !"
+    Min "Je peux RIEN faire sans que tu dises que c'est illégal !"
 
 # game/2_noelle.rpy:2154
 translate french noelle2_3bf4e733:
@@ -3340,25 +3339,25 @@ translate french noelle2_3bf4e733:
 translate french noelle2_ecc8ee17:
 
     # Noelle "Even if it wasn't, what kind of idiot are you?"
-    Noelle "Même si ça ne l'était pas, quel genre d'idiote es-tu ?"
+    Noelle "Même si ça l'était pas, ça t'amuse de faire l'idiote ?"
 
 # game/2_noelle.rpy:2157
 translate french noelle2_674e8007:
 
     # Noelle "Didn't you learn about the health effects of tobacco in school?"
-    Noelle "N'as-tu pas appris les effets du tabac sur la santé à l'école ?"
+    Noelle "T'as pas appris les effets du tabac sur la santé à l'école ?"
 
 # game/2_noelle.rpy:2160
 translate french noelle2_10377649:
 
     # Min "It's just a bunch of statistics. Plenty of people smoke and don't die."
-    Min "C'est juste un tas de statistiques. Beaucoup de gens fument et ne meurent pas."
+    Min "C'est juste un tas de statistiques. Beaucoup de gens fument et meurent pas."
 
 # game/2_noelle.rpy:2162
 translate french noelle2_956b4d6a:
 
     # Noelle "What, you think you're better than the laws of probability?"
-    Noelle "Quoi, tu penses que tu es meilleure que les lois de la probabilité ?"
+    Noelle "Hein, tu penses que t'es meilleure que les lois de la probabilité ?"
 
 # game/2_noelle.rpy:2165
 translate french noelle2_4a14679c:
@@ -3370,7 +3369,7 @@ translate french noelle2_4a14679c:
 translate french noelle2_4dcea0fd:
 
     # Noelle "Go ahead and remove yourself from the gene pool then. I don't care."
-    Noelle "Vas-y et retire-toi du pool génétique alors. Je m'en fiche."
+    Noelle "Vas-y alors, retire-toi du pool génétique. Je m'en fiche."
 
 # game/2_noelle.rpy:2171
 translate french noelle2_ed7eb1a6:
@@ -3388,19 +3387,19 @@ translate french noelle2_665af99d:
 translate french noelle2_914bb821:
 
     # Noelle "Have you lost your mind?!"
-    Noelle "Tu as perdu la tête ?!"
+    Noelle "T'as perdu la tête ?!"
 
 # game/2_noelle.rpy:2178
 translate french noelle2_d4926ef3:
 
     # Akarsha "Come on, aren't you curious?"
-    Akarsha "Aller quoi, t'es pas curieuse ?"
+    Akarsha "Allez quoi, t'es pas curieuse ?"
 
 # game/2_noelle.rpy:2179
 translate french noelle2_c17d0835:
 
     # Akarsha "It's not like I'll get addicted just from one smoke."
-    Akarsha "Ce n'est pas comme si j'allais devenir dépendante d'une seule cigarette."
+    Akarsha "Ce n'est pas comme si j'allais devenir dépendante avec une seule cigarette."
 
 # game/2_noelle.rpy:2181
 translate french noelle2_5ae16734:
@@ -3418,7 +3417,7 @@ translate french noelle2_a6dddcd5:
 translate french noelle2_cf66afd4:
 
     # Akarsha "Don't mind if I do!"
-    Akarsha "Je vais pas gêner."
+    Akarsha "Je vais pas me gêner."
 
 # game/2_noelle.rpy:2187
 translate french noelle2_e3d1fd10:
@@ -3436,7 +3435,7 @@ translate french noelle2_2ce6f82c:
 translate french noelle2_ab168a1c:
 
     # "It lands in some dry pine needles and bursts into flames!"
-    "Elle atterrit dans des aiguilles de pin sèches et s'enflamme !"
+    "Elle atterrit dans des aiguilles de pin sèches qui s'enflamment !"
 
 # game/2_noelle.rpy:2202
 translate french noelle2_03d219ca:
@@ -3448,7 +3447,7 @@ translate french noelle2_03d219ca:
 translate french noelle2_5c44508b:
 
     # NPC "AAAAAAAAAAA!!!!!!!" with sshake
-    NPC "AAAAAAAAAAAh !!!!!!!" with sshake
+    NPC "AAAAAAAAAAAHH !!!!!!!" with sshake
 
 # game/2_noelle.rpy:2214
 translate french noelle2_f44bcc48:
@@ -3460,7 +3459,7 @@ translate french noelle2_f44bcc48:
 translate french noelle2_8f946e77:
 
     # Noelle "SHUT UP!!! "
-    Noelle "LA FERME !!! "
+    Noelle "FERME-LA !!! "
 
 # game/2_noelle.rpy:2218
 translate french noelle2_087b65f6:
@@ -3478,7 +3477,7 @@ translate french noelle2_afe7b222:
 translate french noelle2_e2f2a72f:
 
     # Min "Well shit."
-    Min "Eh bien, merde."
+    Min "Eh bah merde."
 
 # game/2_noelle.rpy:2232
 translate french noelle2_97231f73:
@@ -3496,7 +3495,7 @@ translate french noelle2_eb8e9d58:
 translate french noelle2_7fc5dde6:
 
     # Noelle "ARE YOU STUPID??????"
-    Noelle "VOUS ÊTES IDIOTES ?"
+    Noelle "T'ES STUPIDE ?"
 
 # game/2_noelle.rpy:2239
 translate french noelle2_165b63d3:
@@ -3508,7 +3507,7 @@ translate french noelle2_165b63d3:
 translate french noelle2_036dc380:
 
     # Noelle "YOU DON'T DO THAT UNLESS YOU'RE ALREADY ON FIRE."
-    Noelle "TU NE FAIS PAS ÇA À MOINS QUE TU NE SOIS DÉJÀ EN FEU."
+    Noelle "TU FAIS PAS ÇA À MOINS QUE TU SOIS DÉJÀ EN FEU."
 
 # game/2_noelle.rpy:2244
 translate french noelle2_dbcc295d:
@@ -3520,7 +3519,7 @@ translate french noelle2_dbcc295d:
 translate french noelle2_f6c9270a:
 
     # Noelle "THIS ISN'T HELPING."
-    Noelle "ÇA N'AIDE PAS."
+    Noelle "ÇA AIDE PAS."
 
 # game/2_noelle.rpy:2251
 translate french noelle2_5d7a5f58:
@@ -3544,7 +3543,7 @@ translate french noelle2_c7056857:
 translate french noelle2_ce195e6c:
 
     # Min "Nothing's wrong, so DON'T COME IN HERE!"
-    Min "Tout va bien, alors N'ENTREZ PAS ICI !"
+    Min "Tout va bien, alors VENEZ PAS PAR ICI !"
 
 # game/2_noelle.rpy:2259
 translate french noelle2_1bf058bf:
@@ -3568,7 +3567,7 @@ translate french noelle2_2086d6da:
 translate french noelle2_319271cc:
 
     # Min "CRAP. We need to fix this."
-    Min "MERDE. Faut arranger ça."
+    Min "MERDE. Faut qu'on arrange ça."
 
 # game/2_noelle.rpy:2270
 translate french noelle2_52f13b10:
@@ -3586,7 +3585,7 @@ translate french noelle2_12acd0dc:
 translate french noelle2_bd768eed:
 
     # Akarsha "This is my favorite jacket, man!"
-    Akarsha "C'est ma veste préférée mec !"
+    Akarsha "C'est ma veste préférée meuf !"
 
 # game/2_noelle.rpy:2276
 translate french noelle2_96a58370:
@@ -3598,7 +3597,7 @@ translate french noelle2_96a58370:
 translate french noelle2_a18d17f2:
 
     # Akarsha "Okay, who likes her jacket the least?"
-    Akarsha "Bon, qui kiff sa veste le moins?"
+    Akarsha "Bon, qui kiff sa veste le moins ?"
 
 # game/2_noelle.rpy:2280
 translate french noelle2_9aa90a7b:
@@ -3610,7 +3609,7 @@ translate french noelle2_9aa90a7b:
 translate french noelle2_da2eabc8:
 
     # "Diya strips off her hoodie. Min watches with extreme interest, but looks incredibly disappointed when she sees Diya is wearing a shirt underneath."
-    "Diya enlève son sweat à capuche. Min regarde la scène pleine d'espoir mais est fort déçue en découvrant que Diya porte un t-shirt en dessous."
+    "Diya enlève son sweat à capuche. Min regarde la scène pleine d'espoir mais est extrêmement déçue en découvrant que Diya porte un t-shirt en dessous."
 
 # game/2_noelle.rpy:2285
 translate french noelle2_1684a6e6:
@@ -3640,7 +3639,7 @@ translate french noelle2_a5b79b67:
 translate french noelle2_cb9cd84a:
 
     # "Other than mud prints from Akarsha flip-flops, it looks no worse for wear. "
-    "Mis à part les traces de godasse d'Akarsha, elle est pas pire qu'avant."
+    "Mis à part les traces boueuses des tongues d'Akarsha, elle est pas pire qu'avant."
 
 # game/2_noelle.rpy:2293
 translate french noelle2_8b88d73c:
@@ -3712,13 +3711,13 @@ translate french noelle2_032f9863:
 translate french noelle2_6a267e24:
 
     # NoelleT "We're inventing a person now??"
-    NoelleT "On invente des gens maintenant?"
+    NoelleT "On invente des gens maintenant ??"
 
 # game/2_noelle.rpy:2324
 translate french noelle2_59b9baf9:
 
     # Chryssa "Who the hell is Jerry?"
-    Chryssa "C'est qui ce Jerry?"
+    Chryssa "C'est qui ce Jerry ?"
 
 # game/2_noelle.rpy:2326
 translate french noelle2_8cf28ce3:
@@ -3730,13 +3729,13 @@ translate french noelle2_8cf28ce3:
 translate french noelle2_87113145:
 
     # Noelle "Right, we all saw him. He did it."
-    Noelle "On l'a tous vu. C'est lui qu'a fait ça."
+    Noelle "On l'a toutes vu. C'est lui qu'a fait ça."
 
 # game/2_noelle.rpy:2331
 translate french noelle2_aebb26b9:
 
     # "Diya nods helpfully."
-    "Diya hoche la tête pleine d'espoir."
+    "Diya acquiesce."
 
 # game/2_noelle.rpy:2333
 translate french noelle2_d09a6beb:
@@ -3760,13 +3759,13 @@ translate french home_86d80a4d:
 translate french home_0da96181:
 
     # NoelleT "I somehow ended up playing baseball, got patted by some random upperclassman, and was interrogated over arson..."
-    NoelleT "On m'a trainée dans un match de baseball, une seconde année m'a tapotée l'épaule pour m'encourager et on a fini par m'interroger au sujet d'un incendie...."
+    NoelleT "On m'a trainée dans un match de baseball, une terminale m'a tapotée l'épaule pour m'encourager et on a fini par m'interroger au sujet d'un incendie criminel...."
 
 # game/2_noelle.rpy:2360
 translate french home_49b7a625:
 
     # NoelleT "They questioned us all separately and our accounts of Jerry fell apart."
-    NoelleT "Ils nous ont interrogées séparément et notre histoire de Jerry n'a pas tenue bien longtemps. "
+    NoelleT "Elles nous ont interrogées séparément et notre histoire de Jerry a pas tenu bien longtemps. "
 
 # game/2_noelle.rpy:2361
 translate french home_ebd0da17:
@@ -3790,7 +3789,7 @@ translate french home_9d48d641:
 translate french home_6a3d80f6:
 
     # Mom "What did you get on the math test?"
-    Mom "Quelle note as tu eu en maths?"
+    Mom "Quelle note as-tu eu en maths?"
 
 # game/2_noelle.rpy:2370
 translate french home_e1a38e3b:
@@ -3802,7 +3801,7 @@ translate french home_e1a38e3b:
 translate french home_eb30fe56:
 
     # Mom "A? Why not A+?"
-    Mom "18? Pourquoi pas 20?"
+    Mom "18 ? Pourquoi pas 20 ?"
 
 # game/2_noelle.rpy:2377
 translate french home_4b7f6a27:
@@ -3826,19 +3825,19 @@ translate french home_046f6018:
 translate french home_c5dffbe5:
 
     # Mom "There's a building at Berkeley named after him now."
-    Mom "Une des facultés de Berkley porte son nom maintenant."
+    Mom "Une des facultés de Berkeley porte son nom maintenant."
 
 # game/2_noelle.rpy:2381
 translate french home_fbcbb546:
 
     # Mom "He's American born Chinese, just like you!"
-    Mom "Il est américain d'origine chinoise, tout comme toi!"
+    Mom "Il est américain d'origine chinoise, tout comme toi !"
 
 # game/2_noelle.rpy:2382
 translate french home_2ee13495:
 
     # Mom "If he can do it, why can't you?"
-    Mom "S'il a pu accomplir ça, pourquoi pas toi?"
+    Mom "S'il a pu accomplir ça, pourquoi pas toi ?"
 
 # game/2_noelle.rpy:2383
 translate french home_2341c4b7:
@@ -3856,7 +3855,7 @@ translate french home_7146bd51:
 translate french home_06dcbfe3:
 
     # "She gets up and tapes it up in Noelle's bedroom next to the shelf gleaming with Noelle's math competition trophies."
-    "Elle quitte la pièce et va accrocher la coupure à côté d'une étagère où luisent les trophées qu'elle a obtenus lors de concours de mathématiques. "
+    "Elle quitte la pièce et va accrocher la coupure dans la chambre de Noelle, à côté d'une étagère où luisent les trophées qu'elle a obtenus lors de concours de mathématiques."
 
 # game/2_noelle.rpy:2399
 translate french nemesis_8e0ddc15:
@@ -3868,7 +3867,7 @@ translate french nemesis_8e0ddc15:
 translate french nemesis_94966cd9:
 
     # cAkarsha "dude wtf did i miss in elementary school??"
-    cAkarsha "putain mais j'ai raté quoi au primaire??"
+    cAkarsha "putain mais j'ai raté quoi en primaire??"
 
 # game/2_noelle.rpy:2401
 translate french nemesis_e186991e:
@@ -3892,7 +3891,7 @@ translate french nemesis_c5a7142f:
 translate french nemesis_0ef0de5e:
 
     # cNoelle "The archnemesis part is accurate, but she's not Diya's ex. That's ridiculous."
-    cNoelle "D'accord sur le fait que c'est mon ennemie jurée, mais c'est certainement pas l'ex de Diya."
+    cNoelle "D'accord sur le fait que c'est mon ennemie jurée, mais c'est certainement pas l'ex de Diya. C'est n'importe quoi."
 
 # game/2_noelle.rpy:2405
 translate french nemesis_defc7a09:
@@ -3904,7 +3903,7 @@ translate french nemesis_defc7a09:
 translate french nemesis_9f2001e9:
 
     # cNoelle "That's impossible. They're both girls."
-    cNoelle "Impossible. C'est toutes les deux des filles.."
+    cNoelle "Impossible. C'est toutes les deux des filles."
 
 # game/2_noelle.rpy:2407
 translate french nemesis_b019a9a9:
@@ -3916,13 +3915,13 @@ translate french nemesis_b019a9a9:
 translate french nemesis_95a3f1f5:
 
     # cNoelle "What do you mean, \"so??\"?"
-    cNoelle "Quoi, \"quoi??\"?"
+    cNoelle "Quoi, \"et??\"?"
 
 # game/2_noelle.rpy:2409
 translate french nemesis_f8838d72:
 
     # cAkarsha "i cant believe u have an archnemesis?? i didnt even know ppl had those in real life"
-    cAkarsha "j'en reviens pas que t'ais une ennemie jurée!? je pensais même pas que ça existait dans la vraie vie"
+    cAkarsha "j'en reviens pas que t'aies une ennemie jurée!? je pensais même pas que ça existait dans la vraie vie"
 
 # game/2_noelle.rpy:2425
 translate french nemesis_51b85a78:
@@ -3940,7 +3939,7 @@ translate french nemesis_ad60e1c6:
 translate french nemesis_31cfb0b8:
 
     # cAkarsha "what ru going to do about min?"
-    cAkarsha "qu'est-ce que tu vas faire de min ?"
+    cAkarsha "tu vas faire quoi de min ?"
 
 # game/2_noelle.rpy:2428
 translate french nemesis_f935bb91:
@@ -3958,7 +3957,7 @@ translate french nemesis_78dc84fa:
 translate french nemesis_f24b1d06:
 
     # cSame "All bark and no bite, so to speak."
-    cSame "Elle aboie mais ne mordra pas en somme."
+    cSame "Elle aboie mais ne mordra pas, en somme."
 
 # game/2_noelle.rpy:2432
 translate french nemesis_b100f98e:
@@ -3988,7 +3987,7 @@ translate french nemesis_7fd30230:
 translate french nemesis_a9fd8bdd:
 
     # cSame "u gotta figure out how to deal with her sooner or later"
-    cSame "va falloir que t'apprenne à faire avec elle d'une façon ou d'une autre"
+    cSame "va falloir que t'apprennes à faire avec elle d'une façon ou d'une autre"
 
 # game/2_noelle.rpy:2437
 translate french nemesis_75601e63:
@@ -4030,7 +4029,7 @@ translate french nemesis_ed9c35ff:
 translate french nemesis_db084503:
 
     # cSame "She's dumb for {i}real.{/i}"
-    cSame "Elle est {i} vraiment{/i} attardée."
+    cSame "Elle est {i}vraiment{/i} stupide."
 
 # game/2_noelle.rpy:2444
 translate french nemesis_10164dd2:
@@ -4048,7 +4047,7 @@ translate french nemesis_9886fec1:
 translate french nemesis_4ec9efbb:
 
     # cSame "WAI T HOLD UP"
-    cSame "OH LA VACHE"
+    cSame "O H LA VACHE"
 
 # game/2_noelle.rpy:2447
 translate french nemesis_9d633e7f:
@@ -4066,13 +4065,13 @@ translate french nemesis_77dbb1a3:
 translate french nemesis_7aa852cb:
 
     # cNoelle "Why??"
-    cNoelle "Pourquoi??"
+    cNoelle "Pourquoi ??"
 
 # game/2_noelle.rpy:2450
 translate french nemesis_8ee2d900:
 
     # cSame "How does that solve anything?!"
-    cSame "Comment est-ce que ça va régler mes soucis?"
+    cSame "Comment est-ce que ça va régler quoi que ce soit ?!"
 
 # game/2_noelle.rpy:2451
 translate french nemesis_aa8a1f40:
@@ -4084,13 +4083,13 @@ translate french nemesis_aa8a1f40:
 translate french nemesis_fef449bd:
 
     # cSame "BUT TRUST ME IT ALWAYS WORKS IN THE MOVIES"
-    cSame "MAIS CA MARCHE TOUJOURS DANS LES FILMS"
+    cSame "MAIS FAIS MOI CONFIANCE CA MARCHE TOUJOURS DANS LES FILMS"
 
 # game/2_noelle.rpy:2453
 translate french nemesis_e3b1af08:
 
     # cSame "WHenever 2 characters hate each other"
-    cSame "Quand 2 personnages se détestent"
+    cSame "QUand 2 personnages se détestent"
 
 # game/2_noelle.rpy:2454
 translate french nemesis_e19162a4:
@@ -4102,7 +4101,7 @@ translate french nemesis_e19162a4:
 translate french nemesis_82c54f4b:
 
     # cSame "they come out of it as bffs"
-    cSame "ils finissent meilleurs potes"
+    cSame "ils finissent meilleurs potos"
 
 # game/2_noelle.rpy:2456
 translate french nemesis_634bdb85:
@@ -4114,13 +4113,13 @@ translate french nemesis_634bdb85:
 translate french nemesis_6d67a94c:
 
     # cAkarsha "no im calling it right now"
-    cAkarsha "je te mets ma main à couper que non"
+    cAkarsha "je mets ma main à couper que non"
 
 # game/2_noelle.rpy:2458
 translate french nemesis_891b72a7:
 
     # cSame "we're going to miraculously set our differences aside and work as a team"
-    cSame "on va tous mettre nos différends de côté et travailler en équipe"
+    cSame "on va toutes mettre nos différends de côté et travailler en équipe"
 
 # game/2_noelle.rpy:2459
 translate french nemesis_2450caef:
@@ -4150,7 +4149,7 @@ translate french nemesis_7cae96ff_1:
 translate french nemesis_5d94cf3a:
 
     # cNoelle "No!"
-    cNoelle "Non!"
+    cNoelle "Non !"
 
 # game/2_noelle.rpy:2464
 translate french nemesis_1e19e259:
@@ -4168,7 +4167,7 @@ translate french nemesis_1f5635f8:
 translate french nemesis_f08bd05d:
 
     # cNoelle "STOP TELLING EVERYONE I LIVE INSIDE THE EIFFEL TOWER."
-    cNoelle "ARRETE DE RACONTER QUE JE VIS DANS LA TOUR EIFFEL"
+    cNoelle "ARRETE DE RACONTER QUE JE VIS DANS LA TOUR EIFFEL."
 
 # game/2_noelle.rpy:2467
 translate french nemesis_bb0f7531:
@@ -4180,7 +4179,7 @@ translate french nemesis_bb0f7531:
 translate french nemesis_4c4562ef:
 
     # cNoelle "THIS ISN'T MY DREAM!"
-    cNoelle "C'EST PAS MON REVE!"
+    cNoelle "C'EST PAS MON REVE !"
 
 # game/2_noelle.rpy:2469
 translate french nemesis_9420101e:
@@ -4210,7 +4209,7 @@ translate french nemesis_eeb2fd6a:
 translate french nemesis_3441427a:
 
     # cSame "dont u feel like ur missing out sitting at home alone all the time??"
-    cSame "t'as pas l'impression de rater quelquechose à passer ta vie cloitrée dans ta chambre, seule??"
+    cSame "t'as pas l'impression de rater quelquechose à passer ta vie cloitrée seule dans ta chambre??"
 
 # game/2_noelle.rpy:2474
 translate french nemesis_f9bc91cc:
@@ -4222,7 +4221,7 @@ translate french nemesis_f9bc91cc:
 translate french nemesis_e9bf9860:
 
     # cAkarsha "but ur youth is irreplaceable"
-    cAkarsha "mais tu ne seras jeune qu'une fois."
+    cAkarsha "mais tu seras jeune qu'une fois"
 
 # game/2_noelle.rpy:2479
 translate french nemesis_76b2fe88:
@@ -4234,7 +4233,7 @@ translate french nemesis_76b2fe88:
 translate french nemesis_319a27dc:
 
     # "Noelle was invited to the baseball club group chat."
-    "Noelle fût invitée dans le chat du club de baseball."
+    "Noelle a été invitée dans le groupe de discussion du club de baseball."
 
 # game/2_noelle.rpy:2483
 translate french nemesis_9ec3f8f5:
@@ -4258,7 +4257,7 @@ translate french loophole_8e0ddc15:
 translate french loophole_180f31e7:
 
     # cNarrator "Noelle has entered the chatroom."
-    cNarrator "Noelle a rejoint le groupe de discussion."
+    cNarrator "Noelle est entrée dans le groupe de discussion."
 
 # game/2_noelle.rpy:2498
 translate french loophole_7bfeba3e:
@@ -4294,13 +4293,13 @@ translate french loophole_f304ecaa:
 translate french loophole_e87af20f:
 
     # cSame "whatre you gonna do, use a peraberla to calculate how to throw the ball?"
-    cSame "tu vas nous sortir une patlabore pour calculer la trajectoire des balles?"
+    cSame "tu vas nous sortir une parobarle pour calculer la trajectoire des balles?"
 
 # game/2_noelle.rpy:2507
 translate french loophole_12dd3787:
 
     # cNoelle "*parabola"
-    cNoelle "parabole"
+    cNoelle "*parabole"
 
 # game/2_noelle.rpy:2541
 translate french loophole_54970495:
@@ -4318,7 +4317,7 @@ translate french loophole_08cbd858:
 translate french loophole_bd015ce4:
 
     # cNoelle "Green bean?!"
-    cNoelle "haricot vert?!"
+    cNoelle "Haricot vert ?!"
 
 # game/2_noelle.rpy:2544
 translate french loophole_db02af5d:
@@ -4420,7 +4419,7 @@ translate french loophole_67706702:
 translate french loophole_be6a146f:
 
     # cNarrator "Min has changed the group chat name to \"fuck you noelle\"."
-    cNarrator "Min a changé le nom du groupe de discussion en \"j't'emmerde noelle\"."
+    cNarrator "Min a changé le nom du groupe en \"j't'emmerde noelle\"."
 
 # game/2_noelle.rpy:2574
 translate french loophole_5c153513:
@@ -4444,7 +4443,7 @@ translate french loophole_d8a4fb2c:
 translate french loophole_be6a146f_1:
 
     # cNarrator "Min has changed the group chat name to \"fuck you noelle\"."
-    cNarrator "Min a changé le nom du groupe en \"j't'emmerde noelle\"."
+    cNarrator "Min a changé le nom du groupe en \"j't'emmerde noelle\""
 
 # game/2_noelle.rpy:2580
 translate french loophole_b6293da9:
@@ -4474,7 +4473,7 @@ translate french loophole_92c81186:
 translate french loophole_06901b35:
 
     # cSame "guyssss this is so immature :(((((((((((("
-    cSame "les fiiiiiiilles arrêtez de faire les gamines :((((((((((("
+    cSame "les fiiiiiiilles arrêtez de faire les gamines :((((((((((( "
 
 # game/2_noelle.rpy:2587
 translate french loophole_d0efb12c:
@@ -4516,13 +4515,13 @@ translate french loophole_f57a085c_1:
 translate french loophole_8c8f9b7d:
 
     # cSame "hows this a compromis i didnt get anything"
-    cSame "il est où le compromis? j'y gagne rien là"
+    cSame "il est ou le compromis? j'y gagne rien la"
 
 # game/2_noelle.rpy:2595
 translate french loophole_c06f0176:
 
     # cNarrator "YAOI SEME has changed her name to NOELLEFUCKER69."
-    cNarrator "SEME YAOI a changé le nom du groupe en NOELLEFUCKER69."
+    cNarrator "SEME YAOI a changé son nom en NOELLEFUCKER69."
 
 # game/2_noelle.rpy:2597
 translate french loophole_2f990271:
@@ -4546,13 +4545,13 @@ translate french loophole_65e39f36:
 translate french loophole_018bc48e:
 
     # cNoelle "I TAKE IT BACK. THIS IS UNACCEPTABLE."
-    cNoelle "CA NE VA PAS DU TOUT. JE M'INSURGE"
+    cNoelle "CA NE VA PAS DU TOUT. C'EST INACCEPTABLE."
 
 # game/2_noelle.rpy:2601
 translate french loophole_dafeaa3d:
 
     # cSame "CHANGE IT BACK."
-    cSame "CHANGEZ MOI CA."
+    cSame "CHANGEZ-MOI CA."
 
 # game/2_noelle.rpy:2602
 translate french loophole_b4779073:
@@ -4582,7 +4581,7 @@ translate french loophole_997bb6ea:
 translate french loophole_eb56d1ae:
 
     # cNoelle "IF YOU DON'T CHANGE IT, I'M NOT GOING TO BE YOUR PARTNER FOR SCHOOL PROJECTS ANYMORE."
-    cNoelle "SI TU NE CHANGES PAS LE NOM DE SUITE JE NE FERAI PLUS LES PROJETS DE GROUPE AVEC TOI"
+    cNoelle "SI TU NE CHANGES PAS LE NOM DE SUITE, JE NE FERAI PLUS LES PROJETS DE GROUPE AVEC TOI."
 
 # game/2_noelle.rpy:2607
 translate french loophole_e2bb4ef2:
@@ -4618,7 +4617,7 @@ translate french loophole_0c4341e8:
 translate french loophole_ecb5a668:
 
     # cSame "that no one else has yet"
-    cSame "que personne d'autre n'a encore"
+    cSame "que personne d'autre a encore trouvé"
 
 # game/2_noelle.rpy:2614
 translate french loophole_db2a48c6:
@@ -4630,13 +4629,13 @@ translate french loophole_db2a48c6:
 translate french loophole_78c34140:
 
     # cAkarsha "or weird other loopholes"
-    cAkarsha "ou d'autres étranges échappatoires"
+    cAkarsha "ou d'autres failles étranges dans les règles"
 
 # game/2_noelle.rpy:2616
 translate french loophole_30a72b94:
 
     # cSame "can we release multiple balls into the air to confuse our opponents"
-    cSame "peut-on lancer plusieurs balles en l'air pour perturber nos adversaires"
+    cSame "est-ce qu'on peut lancer plusieurs balles en l'air pour perturber nos adversaires"
 
 # game/2_noelle.rpy:2617
 translate french loophole_ad8c7497:
@@ -4648,19 +4647,19 @@ translate french loophole_ad8c7497:
 translate french loophole_aa5e7851:
 
     # cAkarsha "what about advantages for batting?"
-    cAkarsha "quels sont les avantages pour le batteur ?"
+    cAkarsha "et si on donnait des avantages au batteur ?"
 
 # game/2_noelle.rpy:2619
 translate french loophole_e060729e:
 
     # cSame "what if instead of bats we brought those yaoi paddles"
-    cSame "Et si à la place des battes, on apportait ces yaoi paddles"
+    cSame "genre si à la place des battes, on apportait ces yaoi paddles"
 
 # game/2_noelle.rpy:2620
 translate french loophole_0cb5abef:
 
     # cMin "wtfs a yaoi paddle"
-    cMin "wtfs un yaoi paddle"
+    cMin "c quoi un yaoi paddle"
 
 # game/2_noelle.rpy:2621
 translate french loophole_8251003f:
@@ -4672,19 +4671,19 @@ translate french loophole_8251003f:
 translate french loophole_f28892da:
 
     # cDiya "In any case, they have rules about what kinds of bats you can use"
-    cDiya "Dans tous les cas, ils ont des règles à propos de la manière d'utiliser ces battes"
+    cDiya "Dans tous les cas, les battes de baseball sont réglementées"
 
 # game/2_noelle.rpy:2623
 translate french loophole_218d473d:
 
     # cAkarsha "dude"
-    cAkarsha "les gars"
+    cAkarsha "meuf"
 
 # game/2_noelle.rpy:2624
 translate french loophole_0a00f8b0:
 
     # cSame "this just gave me a great idea"
-    cSame "ça me donne juste une super idée"
+    cSame "ça vient de me donner une super idée"
 
 # game/2_noelle.rpy:2625
 translate french loophole_2685d462:
@@ -4696,7 +4695,7 @@ translate french loophole_2685d462:
 translate french loophole_6c263a61:
 
     # cNarrator "YAOI SEME changed her name to albret einstong."
-    cNarrator "SEME YAOI a changé de nom en Albret Einstong."
+    cNarrator "SEME YAOI a changé son nom en Albret Einstong."
 
 # game/2_noelle.rpy:2630
 translate french loophole_2bf64fa7_1:
@@ -4708,13 +4707,13 @@ translate french loophole_2bf64fa7_1:
 translate french loophole_13375440:
 
     # cSame "Was"
-    cSame "Etait"
+    cSame "euh"
 
 # game/2_noelle.rpy:2632
 translate french loophole_0cdd2cee:
 
     # cSame "Was that your idea"
-    cSame "c'était ton idée ?"
+    cSame "C'était ça ton idée"
 
 # game/2_noelle.rpy:2633
 translate french loophole_912257ab:
@@ -4738,13 +4737,13 @@ translate french loophole_2e49712a:
 translate french loophole_555a9c03:
 
     # cNoelle "I don't think there would be any advantage doing this."
-    cNoelle "je ne pense pas qu'il y aurait un avantage à faire ça."
+    cNoelle "Je ne pense pas qu'il y aurait un quelconque avantage à faire ça."
 
 # game/2_noelle.rpy:2638
 translate french loophole_6e5716fe:
 
     # cAkarsha3 "we gotta try it to know for sure"
-    cAkarsha3 "on doit l'essayer pour le savoir"
+    cAkarsha3 "on devrait essayer pour savoir"
 
 # game/2_noelle.rpy:2639
 translate french loophole_11e424d0:
@@ -4756,7 +4755,7 @@ translate french loophole_11e424d0:
 translate french loophole_8631ed24:
 
     # cDiya "There's rules about damaged bats"
-    cDiya "Il y a des règles à propos d'abimer les battes"
+    cDiya "Il y a des règles sur les battes abîmées"
 
 # game/2_noelle.rpy:2641
 translate french loophole_0e0c594b:
@@ -4774,7 +4773,7 @@ translate french loophole_96111d70:
 translate french loophole_d20165f8:
 
     # cSame "M,,m,,,Y PLAN IS CRUMBLING TO PIECES"
-    cSame "Hum... TON PLAN EST EN TRAIN TOMBER EN MIETTE"
+    cSame "M,,m,,,ON PLAN EST EN TRAIN TOMBER EN MIETTE"
 
 # game/2_noelle.rpy:2644
 translate french loophole_923b3b62:
@@ -4798,19 +4797,19 @@ translate french loophole_373a202f:
 translate french loophole_37df09c8:
 
     # cSame "we could secretly replace diyas bones w/ synthetic ones"
-    cSame "on peut secrètement remplacer les os de Diya par / des os synthétiques"
+    cSame "on peut secrètement remplacer les os de Diya av des os synthétiques"
 
 # game/2_noelle.rpy:2648
 translate french loophole_ed759bfd:
 
     # cDiya "I don't like this plan"
-    cDiya "j'aime pas ce plan"
+    cDiya "J'aime pas ce plan"
 
 # game/2_noelle.rpy:2649
 translate french loophole_fc49f7d5:
 
     # cAkarsha3 "what about NANOMACHINES"
-    cAkarsha3 "et les NANOMACHINES ?"
+    cAkarsha3 "et des NANOMACHINES ?"
 
 # game/2_noelle.rpy:2650
 translate french loophole_20b4a62b:
@@ -4822,7 +4821,7 @@ translate french loophole_20b4a62b:
 translate french loophole_df7ddfac:
 
     # cNoelle "Nanomachines are not even at a level where we can use them yet."
-    cNoelle "Les nanomachines sont même pas encore à un niveau exploitable"
+    cNoelle "Les nanomachines ne sont même pas encore à un niveau exploitable."
 
 # game/2_noelle.rpy:2652
 translate french loophole_f3b3bd56:
@@ -4834,7 +4833,7 @@ translate french loophole_f3b3bd56:
 translate french loophole_005ba89a:
 
     # cAkarsha3 "what??"
-    cAkarsha3 "Quoi ??"
+    cAkarsha3 "quoi ??"
 
 # game/2_noelle.rpy:2654
 translate french loophole_5f17bc9d:
@@ -4858,7 +4857,7 @@ translate french loophole_433b2b12:
 translate french loophole_cac9279e:
 
     # cDiya "I don't want nanocars"
-    cDiya "Je veux pas de nanoauto"
+    cDiya "Je veux pas de nanoautos"
 
 # game/2_noelle.rpy:2658
 translate french loophole_c06812eb:
@@ -4870,13 +4869,13 @@ translate french loophole_c06812eb:
 translate french loophole_1c841d46:
 
     # cSame "They just have four wheels attached to an empty frame."
-    cSame "Ils ont juste quatre roues fixées à un cadre vide."
+    cSame "Elles ont juste quatre roues fixées à un cadre vide."
 
 # game/2_noelle.rpy:2660
 translate french loophole_1647ec79:
 
     # cSame "They don't do anything."
-    cSame "Ca ne fait rien."
+    cSame "Elles ne font rien."
 
 # game/2_noelle.rpy:2661
 translate french loophole_bffa1d28:
@@ -4888,25 +4887,25 @@ translate french loophole_bffa1d28:
 translate french loophole_4fb951b5:
 
     # cMin "then why the hell did they even create them "
-    cMin "alors pourquoi bon sang ils les ont créés"
+    cMin "alors pourquoi ils se sont fait chier à les faire"
 
 # game/2_noelle.rpy:2663
 translate french loophole_59fe4608:
 
     # cNoelle "I don't know."
-    cNoelle "je sais pas"
+    cNoelle "Aucune idée."
 
 # game/2_noelle.rpy:2664
 translate french loophole_948e6a73:
 
     # cSame "They would just be floating around pointlessly inside Diya."
-    cSame "Ca flotterait juste sans but dans le corps de Diya."
+    cSame "Ça flotterait juste sans but dans le corps de Diya."
 
 # game/2_noelle.rpy:2674
 translate french loophole_a4f68071:
 
     # cSame "For our purposes, gene therapy would be more practical."
-    cSame "Pour nos besoins, la thérapie génique serait plus pratique."
+    cSame "Pour nos besoins, la thérapie génique serait plus efficace."
 
 # game/2_noelle.rpy:2675
 translate french loophole_7b8e04a4:
@@ -4918,13 +4917,13 @@ translate french loophole_7b8e04a4:
 translate french loophole_0b456847:
 
     # cSame "We could use it to change Diya's gene expression, and increase production of proteins to make her stronger."
-    cSame "Nous pourrions l'utiliser pour modifier l'expression génétique de Diya, et augmenter la production de protéines pour la rendre plus forte."
+    cSame "On pourrait l'utiliser pour modifier l'expression génétique de Diya, et augmenter la production de protéines pour la rendre plus forte."
 
 # game/2_noelle.rpy:2677
 translate french loophole_58da3980:
 
     # cSame "It would be totally undetectable by drug tests."
-    cSame "Il serait totalement indétectable par les tests de dépistage des drogues."
+    cSame "Ça serait totalement indétectable par les tests de dépistage des drogues."
 
 # game/2_noelle.rpy:2678
 translate french loophole_c7d64119:
@@ -4936,13 +4935,13 @@ translate french loophole_c7d64119:
 translate french loophole_86bb9179:
 
     # cDiya "I don't want gene therapy"
-    cDiya "Je ne veux pas de thérapie génique"
+    cDiya "Je veux pas de thérapie génique"
 
 # game/2_noelle.rpy:2680
 translate french loophole_1956c1e4:
 
     # cAkarsha3 "itd be like doping but w ur genes"
-    cAkarsha3 "C'est comme le dopage mais avec tes gènes."
+    cAkarsha3 "c comme le dopage mais av tes gènes"
 
 # game/2_noelle.rpy:2681
 translate french loophole_eb089a50:
@@ -4954,61 +4953,61 @@ translate french loophole_eb089a50:
 translate french loophole_bf9adfe0:
 
     # cSame "has anyone done this yet?"
-    cSame "Quelqu'un l'a-t-il déjà fait ?"
+    cSame "qqn l'a déjà fait avant ?"
 
 # game/2_noelle.rpy:2683
 translate french loophole_77c95f46:
 
     # cNoelle "I wouldn't know."
-    cNoelle "Je ne saurais pas dire."
+    cNoelle "J'en sais rien."
 
 # game/2_noelle.rpy:2684
 translate french loophole_0fdf434d:
 
     # cAkarsha3 "im looking it up and dude"
-    cAkarsha3 "je suis en train de regarder et punaise"
+    cAkarsha3 "je suis en train de regarder et meuf"
 
 # game/2_noelle.rpy:2685
 translate french loophole_3216e358:
 
     # cSame "no ones ever done it"
-    cSame "personne ne l'a jamais fait"
+    cSame "personne l'a jamais fait"
 
 # game/2_noelle.rpy:2686
 translate french loophole_c50bcffb:
 
     # cSame "there arent any regulations on it yet"
-    cSame "il n'y a pas encore de réglementation en la matière"
+    cSame "y'a pas encore de réglementations là-dessus"
 
 # game/2_noelle.rpy:2687
 translate french loophole_42398300:
 
     # cSame "i bet all the baseball ppl dont even know what it is"
-    cSame "Je parie que tous les joueurs de baseball ne savent même pas ce que c'est."
+    cSame "je parie que tous les joueurs de baseball ne savent même pas ce que c'est."
 
 # game/2_noelle.rpy:2688
 translate french loophole_35b7c4b7:
 
     # cSame "u could be a gene doping pioneer"
-    cSame "tu pourrais être un pionnier du dopage génétique"
+    cSame "tu pourrais être une pionnière du dopage génétique"
 
 # game/2_noelle.rpy:2689
 translate french loophole_9239a501:
 
     # cSame "u havent even been here 10 minutes yet and ur already destroying baseball"
-    cSame "Tu n'es même pas là depuis 10 minutes et tu détruis déjà le baseball."
+    cSame "t'es même pas là depuis 10 minutes et tu détruis déjà le baseball."
 
 # game/2_noelle.rpy:2690
 translate french loophole_1ce9e89a:
 
     # cDiya "I don't think this is the way we're supposed to do it"
-    cDiya "Je ne pense pas que ce soit la façon dont nous sommes censés le faire."
+    cDiya "Je pense pas que ce soit la façon dont on est censées y jouer."
 
 # game/2_noelle.rpy:2692
 translate french loophole_40ba1545:
 
     # cAkarsha3 "GUYS"
-    cAkarsha3 "Les meufs"
+    cAkarsha3 "LES MEUFS"
 
 # game/2_noelle.rpy:2693
 translate french loophole_95cdb250:
@@ -5020,13 +5019,13 @@ translate french loophole_95cdb250:
 translate french loophole_5a943ac3:
 
     # cSame "I LOOKED UP \"CYBORG\" ON WIKIPEDIA AND I F O U ND"
-    cSame "J'AI CHERCHÉ \"CYBORG\" SUR WIKIPEDIA ET J'AI TROUVÉ"
+    cSame "J'AI CHERCHÉ \"CYBORG\" SUR WIKIPEDIA ET J'A I T R O U V É"
 
 # game/2_noelle.rpy:2695
 translate french loophole_d9c6cc05:
 
     # cSame "THERES A MA N"
-    cSame "IL Y A UN HOMME"
+    cSame "Y'A UN HOM ME"
 
 # game/2_noelle.rpy:2696
 translate french loophole_4b8cc85e:
@@ -5068,7 +5067,7 @@ translate french loophole_754eade2:
 translate french loophole_f0ff5c6f:
 
     # cAkarsha3 "\"His antenna was included within his 2004 passport photograph which has been claimed to confirm his cyborg status.\""
-    cAkarsha3 "\"Son antenne a été incluse dans la photo de son passeport de 2004, ce qui a été revendiqué pour confirmer son statut de cyborg.\""
+    cAkarsha3 "\Son antenne a été incluse dans la photo de son passeport de 2004, ce qui a été revendiqué pour confirmer son statut de cyborg.\""
 
 # game/2_noelle.rpy:2703
 translate french loophole_bd2663f8:
@@ -5080,7 +5079,7 @@ translate french loophole_bd2663f8:
 translate french loophole_c01ac789:
 
     # cSame "The \"claimed to confirm his cyborg status\" bit makes him sound so desperate."
-    cSame "Le \"fait de vouloir confirmer son statut de cyborg\" le rend si désespéré."
+    cSame "Le fait de vouloir \"confirmer son statut de cyborg\" lui donne l'air si désespéré."
 
 # game/2_noelle.rpy:2705
 translate french loophole_69c4105c:
@@ -5098,13 +5097,13 @@ translate french loophole_f554e472:
 translate french loophole_c8dfc925:
 
     # cSame "You normally expect cyborgs to look cool and futuristic..."
-    cSame "Tu t'attends normalement à ce que les cyborgs aent un look cool et futuriste..."
+    cSame "Tu t'attends normalement à ce que les cyborgs aient un look cool et futuriste..."
 
 # game/2_noelle.rpy:2708
 translate french loophole_7a016065:
 
     # cAkarsha3 "BUT INSTEAD"
-    cAkarsha3 "MAIS ENCORE"
+    cAkarsha3 "MAIS A LA PLACE"
 
 # game/2_noelle.rpy:2709
 translate french loophole_b6375598_1:
@@ -5134,25 +5133,25 @@ translate french loophole_7d436f5e:
 translate french loophole_dc7df9c7:
 
     # cSame "the black and white makes you think"
-    cSame "le noir et blanc vous fait réfléchir"
+    cSame "le noir et blanc fait penser"
 
 # game/2_noelle.rpy:2714
 translate french loophole_7f217296:
 
     # cSame "this is from the great depresion or smth"
-    cSame "Cela vient de la grande dépression ou quelque chose comme ça."
+    cSame "que ca vient de la grande dépression ou qqchose comme ça."
 
 # game/2_noelle.rpy:2715
 translate french loophole_4fa00e4a:
 
     # cSame "but its actually just some weirdo with a rly lame haircut"
-    cSame "mais en fait, c'est juste une personne bizarre avec une coupe de cheveux qui craint."
+    cSame "mais en ft c'est juste une personne bizarre avec une coupe de cheveux naze"
 
 # game/2_noelle.rpy:2716
 translate french loophole_62ade603:
 
     # cDiya "He looks like he's planning to dangle a carrot on a string from the front"
-    cDiya "On dirait qu'il a l'intention de faire pendre une carotte sur une ficelle par devant."
+    cDiya "On dirait qu'il a l'intention de faire pendre une carotte sur une ficelle par devant"
 
 # game/2_noelle.rpy:2717
 translate french loophole_440340cb:
@@ -5188,7 +5187,7 @@ translate french loophole_d6baa84d:
 translate french loophole_795632d8:
 
     # cSame "Whenever you're feeling down about your looks"
-    cSame "Quand vous vous sentez mal dans votre peau."
+    cSame "Quand tu te sens mal dans ta peau."
 
 # game/2_noelle.rpy:2723
 translate french loophole_bdb6d5dc:
@@ -5260,7 +5259,7 @@ translate french loophole_fa85f73d:
 translate french loophole_e29771d1:
 
     # Mom "What are you hiding?"
-    Mom "Que caches-tu ? "
+    Mom "Qu'est-ce que tu caches ? "
 
 # game/2_noelle.rpy:2742
 translate french loophole_c85e0554:
@@ -5302,7 +5301,7 @@ translate french loophole_346a5996:
 translate french loophole_be8d0937:
 
     # Noelle "Yes."
-    Noelle "Oui"
+    Noelle "Oui."
 
 # game/2_noelle.rpy:2755
 translate french loophole_5b35c530:
@@ -5320,13 +5319,13 @@ translate french loophole_1404f3fc:
 translate french loophole_81dd3b77:
 
     # Noelle "She's not tricking me. We're friends."
-    Noelle "Elle ne me piège pas. Nous sommes amies."
+    Noelle "Elle ne me piège pas. On est amies."
 
 # game/2_noelle.rpy:2760
 translate french loophole_9d9dad49:
 
     # Mom "\"Friends\"? Don't be naive."
-    Mom "\"Amies\"? Ne sois pas naive."
+    Mom "\"Amies\"? Ne sois pas naïve."
 
 # game/2_noelle.rpy:2761
 translate french loophole_e49abd35:
@@ -5338,25 +5337,25 @@ translate french loophole_e49abd35:
 translate french loophole_9e06b70e:
 
     # Mom "If you were really in trouble, would she do anything to help you? Of course not."
-    Mom "Si vous étiez vraiment en difficulté, ferait-elle quelque chose pour vous aider ? Bien sûr que non."
+    Mom "Si tu étais vraiment en difficulté, ferait-elle quelque chose pour t'aider ? Bien sûr que non."
 
 # game/2_noelle.rpy:2763
 translate french loophole_c8356833:
 
     # Mom "When it comes down to it, nobody will look out for you."
-    Mom "Quand on en arrive là, personne ne s'occupera de vous."
+    Mom "Au final, personne ne s'inquiète vraiment de toi."
 
 # game/2_noelle.rpy:2764
 translate french loophole_7cc5e142:
 
     # Mom "The only people you can really trust are your family."
-    Mom "Les seules personnes en qui tu peux avoir confiance est ta famille."
+    Mom "Les seules personnes en qui tu peux avoir confiance sont ta famille."
 
 # game/2_noelle.rpy:2768
 translate french loophole_e7bb860b:
 
     # Noelle "You don't know anything!" with sshake
-    Noelle "Tu ne sais rien du tout !" with sshake
+    Noelle "Tu sais rien du tout !" with sshake
 
 # game/2_noelle.rpy:2770
 translate french loophole_98e5ff4c:
@@ -5368,7 +5367,7 @@ translate french loophole_98e5ff4c:
 translate french loophole_393246c7:
 
     # Noelle "Do you know {i}anything{/i} about me? What's my worst fear? What's my favorite documentary series?"
-    Noelle "Sais-tu {i}quelque chose{/i} sur moi ? Quelle est ma pire peur ? Quelle est ma série documentaire préférée ?"
+    Noelle "Est-ce que tu sais {i}la moindre chose{/i} sur moi ? Quelle est ma pire peur ? Quelle est ma série documentaire préférée ?"
 
 # game/2_noelle.rpy:2775
 translate french loophole_dba0d886:
@@ -5386,19 +5385,19 @@ translate french loophole_0b47d2c6:
 translate french loophole_f21959ff:
 
     # Mom "The whole reason we came to America is so you could live a better life. We made so many sacrifices for you!"
-    Mom "La raison pour laquelle nous sommes venus en Amérique est que vous puissiez vivre une meilleure vie. Nous avons fait tellement de sacrifices pour toi !"
+    Mom "On est venus en Amérique pour que tu puisses vivre une meilleure vie. On a fait tellement de sacrifices pour toi !"
 
 # game/2_noelle.rpy:2781
 translate french loophole_79651729:
 
     # Mom "How dare you say we don't care about you?!"
-    Mom "Comment oses-tu dire que nous ne nous soucions pas de toi ?!"
+    Mom "Comment oses-tu dire qu'on ne se soucie pas de toi ?!"
 
 # game/2_noelle.rpy:2782
 translate french loophole_ff4cc272:
 
     # Mom "You've been spoiled rotten! You have an attitude problem!"
-    Mom "Tu as été gâté pourri ! Tu as un problème d'attitude !"
+    Mom "Tu es pourrie gâtée ! Tu as un problème de comportement !"
 
 # game/2_noelle.rpy:2783
 translate french loophole_79ec5e10:
@@ -5410,13 +5409,13 @@ translate french loophole_79ec5e10:
 translate french loophole_aba2481b:
 
     # Mom "When your dad comes home, we're going to have a long talk about this."
-    Mom "Quand ton père rentrera à la maison, nous aurons une longue discussion à ce sujet."
+    Mom "Quand ton père rentrera à la maison, on aura une longue discussion à ce sujet."
 
 # game/2_noelle.rpy:2795
 translate french loophole_17f59c38:
 
     # "Noelle's mom closes the tab."
-    "La mère de Noelle ferme l'onglet"
+    "La mère de Noelle ferme l'onglet."
 
 # game/2_noelle.rpy:2796
 translate french loophole_43a227d4:
@@ -5428,25 +5427,25 @@ translate french loophole_43a227d4:
 translate french loophole_3f063c2e:
 
     # NoelleT "Don't you have anything better to do??"
-    NoelleT "Tu n'as rien de mieux à faire ??"
+    NoelleT "T'as rien de mieux à faire ??"
 
 # game/2_noelle.rpy:2799
 translate french loophole_e0933eb2:
 
     # NoelleT "Oh, that's right, you don't."
-    NoelleT "Oh, c'est vrai, tu n'as pas..."
+    NoelleT "Oh, bien sûr que non."
 
 # game/2_noelle.rpy:2800
 translate french loophole_4fc94199:
 
     # NoelleT "Because you have no friends or hobbies and live vicariously through me."
-    NoelleT "Parce que tu n'as pas d'amis ou de hobbies et que tu vis par procuration à travers moi."
+    NoelleT "Parce que t'as pas d'amis ou de hobbies et que tu vis par procuration à travers moi."
 
 # game/2_noelle.rpy:2804
 translate french loophole_8b0940cf:
 
     # "Still looking sour, her mom finally leaves."
-    "Toujours l'air aigri, sa mère part finalement"
+    "Toujours l'air aigrie, sa mère finit par partir."
 
 # game/2_noelle.rpy:2808
 translate french loophole_b1a1420d:
@@ -5458,7 +5457,7 @@ translate french loophole_b1a1420d:
 translate french loophole_653359cb:
 
     # "Upset, Noelle curls up in bed angrily hugging her giant snake plushie."
-    "Bouleversée, Noëlle se recroqueville dans son lit en serrant rageusement sa peluche serpent géante."
+    "Bouleversée, Noelle se recroqueville dans son lit en serrant rageusement sa peluche serpent géante."
 
 # game/2_noelle.rpy:2821
 translate french baseballClubChatroom_8e0ddc15:
@@ -5470,7 +5469,7 @@ translate french baseballClubChatroom_8e0ddc15:
 translate french baseballClubChatroom_180f31e7:
 
     # cNarrator "Noelle has entered the chatroom."
-    cNarrator "Noelle est entrée dans le salon de discussion"
+    cNarrator "Noelle est entrée dans le groupe de discussion."
 
 # game/2_noelle.rpy:2824
 translate french baseballClubChatroom_a7e448eb:
@@ -5488,19 +5487,19 @@ translate french baseballClubChatroom_e3abf59c:
 translate french baseballClubChatroom_9568181c:
 
     # cMin "yuck whyd yuo come back"
-    cMin "Beurk, pourquoi es-tu revenu ?"
+    cMin "beurk pourquoi t revenue ?"
 
 # game/2_noelle.rpy:2827
 translate french baseballClubChatroom_c60e9827:
 
     # cSame "are you still deciding whether to join or something"
-    cSame "Tu es toujours en train de réflechir si tu nous rejoint ou pas."
+    cSame "t toujours en train de réfléchir si tu nous rejoins ou pas"
 
 # game/2_noelle.rpy:2828
 translate french baseballClubChatroom_4b7b75e1:
 
     # cNoelle "No, I have decided."
-    cNoelle "Non, j'ai décidé."
+    cNoelle "Non, j'ai fait mon choix."
 
 # game/2_noelle.rpy:2829
 translate french baseballClubChatroom_6c093e80:
@@ -5546,7 +5545,7 @@ translate french strings:
 
     # 2_noelle.rpy:429
     old "They were sour"
-    new "Ils étaient aigris"
+    new "C’est du verjus"
 
     # 2_noelle.rpy:429
     old "He couldn't reach them"
@@ -5558,11 +5557,11 @@ translate french strings:
 
     # 2_noelle.rpy:453
     old "{cps=0}2) What does \"It was all in vain\" mean?{/cps}"
-    new "{cps=0}2) Que signifie \"C'était en vain\" ?{/cps}"
+    new "{cps=0}2) Qu'est-ce que \"Mais ne pouvant y parvenir\" veut dire ?{/cps}"
 
     # 2_noelle.rpy:453
     old "It was useless"
-    new "C'était inutile."
+    new "C'était inutile"
 
     # 2_noelle.rpy:453
     old "It was very close"
@@ -5586,11 +5585,11 @@ translate french strings:
 
     # 2_noelle.rpy:476
     old "It's easy to despise what you cannot have"
-    new "C'est facile de mépriser ce que vous ne pouvez pas avoir."
+    new "C'est facile de mépriser ce que vous ne pouvez pas avoir"
 
     # 2_noelle.rpy:991
     old "Swing at the ball"
-    new "Balancer la balle"
+    new "Frapper la balle"
 
     # 2_noelle.rpy:1252
     old "The San Jose Sharks"
@@ -5614,15 +5613,15 @@ translate french strings:
 
     # 2_noelle.rpy:1386
     old "Don't laugh"
-    new "Ne pas rire."
+    new "Ne pas rire"
 
     # 2_noelle.rpy:2488
     old "Join the chat"
-    new "Rejoindre le chat"
+    new "Rejoindre le groupe de discussion"
 
     # 2_noelle.rpy:2815
     old "Open the chatroom again"
-    new "Ouvrir à nouveau le salon de discussion"
+    new "Ouvrir à nouveau le groupe de discussion"
 
 # TODO: Translation updated at 2019-04-20 16:10
 
@@ -5630,19 +5629,19 @@ translate french strings:
 translate french wakeUp_c1c76e95:
 
     # Noelle "I will place him in my bedroom and preserve him in mint condition for as long as possible."
-    Noelle "Je vais le placer dans ma chambre et le conserver en parfait état le plus longtemps possible."
+    Noelle "Je vais le mettre dans ma chambre et le préserver le plus longtemps possible."
 
 # game/2_noelle.rpy:1076
 translate french minPitching_298c7650:
 
     # "She brings her arm back and then forward, hard, over the top, and lets go."
-    "Elle ramène son bras vers l'arrière puis vers l'avant, fort, par-dessus le sommet, et elle le lâche."
+    "Elle arme son bras en arrière, le lance en avant, par dessus sa tête et balance la sauce."
 
 # game/2_noelle.rpy:2020
 translate french loophole_f453365c:
 
     # "Her mother scans the names on the screen and jabs a finger at \"[akarshaChatName3!t].\""
-    "Her mother scans the names on the screen and jabs a finger at \"[akarshaChatName3!t].\""
+    "Sa mère scrute les noms sur l'écran et pointe un doigt sur \"[akarshaChatName3].\""
 
 translate french strings:
 
@@ -5657,4 +5656,3 @@ translate french strings:
     # 2_noelle.rpy:1571
     old "Min, Akarsha, & Noelle"
     new "Min, Akarsha, et Noelle"
-
