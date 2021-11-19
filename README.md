@@ -3,6 +3,14 @@ Unofficial Butterfly Soup translations made by fans.
 
 ---
 
+Weblate status:
+
+<a href="https://littleroot.net/weblate/engage/butterfly-soup/">
+<img src="https://littleroot.net/weblate/widgets/butterfly-soup/-/translations/multi-auto.svg" alt="Translation status" />
+</a>
+
+---
+
 ### I want to help! What do i do?
 Thanks!  
 The easiest way to get started is by using [weblate](https://littleroot.net/weblate/projects/butterfly-soup/translations/), you need an account to create new languages and to save a translation, otherwise you can only make suggestions (that then need to be accepted by someone with an account)
